@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-17T04:28:02.573Z
+date: 2020-09-17T13:15:36.849Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -51,7 +51,7 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - 
 - Poka
 - 
-- [Roppyakken (Six Hundred)](/en/hanafuda/games/six-hundred)
+- [Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)
 - 
 - Sakura (Higo-Bana)
 - 
