@@ -1,8 +1,8 @@
 ---
-title: Six-Hundred
-description: Also known as Roppyakken - a quick hanafuda game for 2 or 3 players
+title: Roppyakken
+description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-09-17T04:57:06.131Z
+date: 2020-09-17T05:15:42.992Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
