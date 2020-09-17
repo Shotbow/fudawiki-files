@@ -1,0 +1,22 @@
+---
+title: Hanafuda in Popular Culture
+description: 
+published: true
+date: 2020-09-17T13:06:51.858Z
+tags: 
+editor: markdown
+dateCreated: 2020-09-17T13:06:51.858Z
+---
+
+<p>A list of popular media that contains Hanafuda. Intentionally excluded from this list are video games where playing a Hanafuda game is the primary purpose (i.e. Koi-Koi Japan) and video games that are presented as a collection of games where one of the games is a Hanafuda game (i.e. 51 Worldwide Games). For more information on such video games, please view the <a href="https://fudawiki.shotbow.net/en/hanafuda/video-games">Hanafuda Video Game list.</a></p>
+<h1>Significant Role</h1>
+<p>Media in which Hanafuda players a significant role.</p>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Summer_Wars">Summer Wars</a> (サマーウォーズ, <i>Samā Wōzu</i>)<br>A 2009 Japanese animated sci-fi film.<br><br><a href="/en/hanafuda/games/koi-koi">Koi-Koi</a> is played to settle an important plot point.</li>
+</ul>
+<h1>References</h1>
+<p>Media in which Hanafuda is made reference to</p>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba">Demon Slayer: Kimetsu no Yaiba</a> (鬼滅の刃, きめつ の やいば, <i>Kimetsu no Yaiba)</i><br>A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.<br><br>The protagonists earrings are references to Hanafuda cards</li>
+  <li><a href="https://yugioh.fandom.com/wiki/Flower_Cardian">Yu-Gi-Oh! Flower Cardians</a> (花札衛)<br>A Trading Card game and animated television series (Yu-Gi-Oh! ARC-V, 遊☆戯☆王ＡＲＣ－Ⅴ)<br><br>The Yu-Gi-Oh Flower Cardians are parodies of Hanafuda cards.</li>
+</ul>
