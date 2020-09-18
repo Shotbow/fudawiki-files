@@ -2,13 +2,12 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-18T01:57:13.149Z
+date: 2020-09-18T01:58:00.827Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-# Overview
 Koi-Koi [こいこい] is among the best-known hanafuda games outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “koi-koi,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “shōbu” [勝負 - しょうぶ]) and keep the points they currently have.
 
 This game seems to have developed as a simplification of the Korean game of Go-Stop, which features similar scoring and the same risk-taking gameplay mechanic.
