@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-09-18T19:34:23.792Z
+date: 2020-09-18T20:32:13.882Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -28,9 +28,9 @@ There are typically only 4 yaku used in Mushi. Players earn points for each of t
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
 |30|Five Brights - 五光 [ごうこ, *gōko*]|All five Bright cards.|
-|25|Three Brights - 三光 [さんこ, *sanko*]|The Crane (Pine Bright), Bush Warbler (Plum Blossom Animal), and Curtain (Cherry Blossom Bright).|
-|10|Wisteria Month - 藤シマ [ふじしま, *fujishima*]|All 4 Wisteria cards.|
-|10|Paulownia Month - 桐シマ [きりしま, *kirishima*]|All 4 Paulownia cards.|
+|25|Three Brights - 三光 [さんこ, *sanko*]|The Crane (Pine Bright), Bush Warbler (Plum Blossom Animal), and Curtain (Cherry Blossom Bright). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
+|10|Wisteria Stripe - 藤シマ [ふじしま, *fujishima*]|All 4 Wisteria cards.|
+|10|Paulownia Stripe - 桐シマ [きりしま, *kirishima*]|All 4 Paulownia cards.|
 # Bibliography
 Duarcain. “Mushi 虫.” *Hanafuda Hub!*, 21 June 2013, duarcain.blogspot.com/2013/06/mushi.html.
 Johnson, Jason, and Antonietta Fazio-Johnson. “Mushi.” *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 38–40. 
