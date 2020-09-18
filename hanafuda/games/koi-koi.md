@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-18T01:36:12.667Z
+date: 2020-09-18T01:57:13.149Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -28,11 +28,18 @@ After playing a card from your hand and making a match as is appropriate, flip o
 At this point, evaluate your scoring area to see if you have formed any yaku. If not, the game proceeds to your opponent's turn, who will repeat the same steps described above. If you *have* formed a yaku or improved a yaku that you have already captured, you are given the choice whether to continue the round or not.
 ## Calling "Koi-Koi"
 To call "koi-koi" is to choose to continue the round - a calculated risk that will either lead to increasing your score, or to you forfeiting the points you would have earned that round. If declaring "koi-koi," the game simply continues to the opponent's turn. In most rule sets, "koi-koi" may be called as many times as desired by either player.
-## Calling "Shōbu”
-To declare “shōbu” is to choose to end the round and earn points according to the yaku you have captured. 
+## Calling “Shōbu”
+To declare “shōbu” is to choose to end the round and earn points according to the yaku you have captured, applying any applicable multipliers. The player who calls “shōbu” is the only one who earns any points that round, and becomes the dealer for the next round.
 ## Draw Hand
-If both players
+If both players run out of cards in hand without calling “shōbu”, the round ends in a draw and neither player earns any points. Note that if you captured yaku and called "koi-koi" but did not subsequently improve your yaku and call “shōbu”, before your cards ran out, **your points are forfeit.** In the case of a draw hand, the dealer will either change or stay the same depending on the rule set used, though changing dealers at a draw may decrease the effect of dealer privelege.
 ## Score Multipliers
+Depending on the preferred rule set, there are two commonly applied score multipliers that may take effect. Some people play with no multipliers, while others may even utilize more than are described here.
+### Over 7 Points
+If the combined value of your captured yaku is greater than 7, the score you earn upon calling “shōbu” will be doubled. This multiplier should be applied before the following one, in the case that both apply.
+### Opponent Koi-Koi
+If your opponent calls "koi-koi" but you manage to declare “shōbu” before them, the score you earn for your captured yaku will be doubled. In some rule sets, if "koi-koi" was declared twice, the score is tripled, while in other sets, it remains only doubled.
+## End of Game
+Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
 # Common Yaku
 There are many variations of yaku [役, やく] in Koi-Koi.  Some may be house-rules while others are popular throughout.  In many cases, the point values of these yaku will change depending on the provided rules.
 
