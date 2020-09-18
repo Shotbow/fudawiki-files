@@ -2,13 +2,35 @@
 title: Hachi-Jū-Hana
 description: "Eighty Flowers," a relatively simple 2- or 3-player hanafuda game
 published: true
-date: 2020-09-18T23:26:17.459Z
+date: 2020-09-18T23:55:30.026Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T21:13:46.242Z
 ---
 
 Hachi-Jū-Hana [八十花 - はちじゅうはな, lit. "Eighty Flowers"] is a hanafuda game for two to three players. Its name seems to come from the 3-player variant, in which each player's score is compared to a cutoff score of 80 points. Its main characteristics are its treatment of Chaff cards as valueless, and that all of its yaku are based on capturing complete suits of cards.
+# Setup
+Setup for this game is quite similar to other fishing games such as [Koi-Koi](/en/hanafuda/games/koi-koi). First, choose who is to deal first and how long the game will last; common choices are 6 or 12 rounds.
+
+Once the initial dealer has been selected, they are to shuffle the deck and distribute cards to each player and the field. In a 2-player match, each player will receive 8 cards to form their hand, and 8 cards will be dealt to the field. For 3 players, each participant's hand consists of 7 cards, while the field will have 6 cards.
+
+Unlike in many hanafuda games, if all 4 cards of the same suit are dealt to the field, no misdeal is declared; instead, the dealer automatically captures these cards.
+# Gameplay
+Gameplay is again very similar to other fishing games. Each round, the dealer is the first to play.
+## Turns
+On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
+
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card from both your hand and the deck, collect any cards captured into your scoring area. It is a good idea to keep your scoring area categorized by card type to aid in calculating scores.
+
+Note that in a 2-player game, players will run out of cards in hand before the deck and field are exhausted. In this case, players continue taking turns as usual, but only playing cards from the top of the deck.
+## End of Round
+Once all players have exhausted their hands, as well as the deck and field, the round is over. At this point, players calculate their score for the round according to the card and yaku values described in the sections below.
+
+The total number of card points in the deck is 240, which is divided by the number of players to calculate a cutoff score. For a 2-player game, each player subtracts 120 from their captured card points at the end of a round to calculate their base score. For a 3-player game, 80 points are subtracted. This means that before yaku are taken into consideration, the total number of points awarded in a round equals zero.
+
+Then, for each yaku claimed, a player adds 20 points to their base score as calculated above. This will give their final score for the round.
+## End of Game
+The game has ended when the number of rounds decided upon during setup have elapsed. At this point, the player with the highest total score is declared the winner.
 # Card Values
 The values of each card are identical to those used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), with the exception of Chaff cards, which earn no points.
 |Card Type|Value|Number in Deck|
@@ -17,9 +39,9 @@ The values of each card are identical to those used in [Hachi-Hachi](/en/hanafud
 |Animal|10|9|
 |Ribbon|5|10|
 |Chaff|0|24|
-The total number of card points in the deck is 240, which is then divided by the number of players to calculate a cutoff score. For a 2-player game, each player subtracts 120 from their captured card points at the end of a round to calculate their base score. For a 3-player game, 80 points are subtracted. This means that before yaku are taken into consideration, the total number of points awarded in a round equals zero.
+
 # Yaku
-There are 12 yaku in this game, each of which consists of capturing all 4 cards of a given suit. For each yaku claimed, a player adds 20 points to their base score as calculated above. This will give their final score for the round.
+There are 12 yaku in this game, each of which consists of capturing all 4 cards of a given suit. 
 
 The Willow suit has a special role in scoring yaku: its cards may be used to complete **either** its own **or** another suit's yaku (but not both). For example, if a player captured 2 Willow cards and 2 Peony cards, the player can opt to score the Peony yaku. Likewise, if a player has captured all 4 Willows, 2 Pine, and 2 Iris, the player may choose to **either** score the Willow yaku **or** both the Pine and Iris yaku. Note that each card may only contribute to one yaku.
 # Strategy
