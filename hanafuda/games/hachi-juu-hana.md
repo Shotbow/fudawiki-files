@@ -1,8 +1,8 @@
 ---
 title: Hachi-Jū-Hana
-description: Lit. "Eighty Flowers," a relatively simple 2- or 3-player hanafuda game
+description: "Eighty Flowers," a relatively simple 2- or 3-player hanafuda game
 published: true
-date: 2020-09-18T22:41:49.634Z
+date: 2020-09-18T23:26:17.459Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T21:13:46.242Z
