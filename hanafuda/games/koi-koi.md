@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-18T01:05:28.884Z
+date: 2020-09-18T01:06:35.472Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -22,10 +22,9 @@ Eight cards are distributed to each player, and eight to the table. While there 
 There are many variations of yaku [役, やく] in Koi-Koi.  Some may be house-rules while others are popular throughout.  In many cases, the point values of these yaku will change depending on the provided rules.
 
 Yaku listed below are sorted into groups.  For each of these groups (except “Ungrouped”), only one point value is valid for a set.  For example, if you have all five Bright cards, you get the points for “Five Brights”.  You do not get the points for “Five Brights and Four Brights and Rainy Four Brights." This goes for each grouping. You receive the highest points you're allowed based on the cards captured.
-
-|<h2 align="left">Bright Yaku</h2>|||
 |Points|Yaku Name|Description|
 |:---:|:---:|:---:|
+|<h2 align="left">Bright Yaku</h2>|||
 |15|Five Brights - 五光 [ごこう, *gokō*]|All five Bright cards.|
 |8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the Rain Man (Willow Bright.)|
 |7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the Rain Man (Willow Bright).|
