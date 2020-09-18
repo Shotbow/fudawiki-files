@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-09-18T19:17:39.785Z
+date: 2020-09-18T19:34:03.927Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -10,6 +10,10 @@ dateCreated: 2020-09-17T04:41:42.281Z
 
 Mushi (Insect) is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the Peony and Bush Clover suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the Lightning card as a wild card, relatively few yaku, and zero-sum scoring.
 
+# Wild Card
+In Mushi, the Lightning card can be used to capture any other individual card except another Willow. If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
+
+Due to the usage of a wild card, most rounds will end with two unpaired cards - one Willow, and one that matches suit with the card captured by the Lightning. In this case, the last Willow will be added to the score of the player who captured the other two non-wild Willows, and the remaining card is added to the score of the player who used the Lightning.
 # Card Values
 The values of each card in Mushi are the same as in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), though the reduction in suits leads to different distributions of those card types.
 |Card Type|Value|Number in Deck|
