@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-18T01:08:31.659Z
+date: 2020-09-18T01:09:31.520Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -24,22 +24,22 @@ There are many variations of yaku [役, やく] in Koi-Koi.  Some may be house-r
 Yaku listed below are sorted into groups.  For each of these groups (except “Ungrouped”), only one point value is valid for a set.  For example, if you have all five Bright cards, you get the points for “Five Brights”.  You do not get the points for “Five Brights and Four Brights and Rainy Four Brights." This goes for each grouping. You receive the highest points you're allowed based on the cards captured.
 |Points|Yaku Name|Description|
 |:---:|:---:|:---:|
-|<h2 align="left">Bright Yaku</h2>|||
+|<h2 align="center">Bright Yaku</h2>|||
 |15|Five Brights - 五光 [ごこう, *gokō*]|All five Bright cards.|
 |8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the Rain Man (Willow Bright.)|
 |7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the Rain Man (Willow Bright).|
 |6|Three Brights - 三光 [さんこう, *sankō*]| 	Three Bright cards, but cannot include the Rain Man (Willow Bright).|
-|<h2 align="left">Animal Yaku</h2>|||
+|<h2 align="center">Animal Yaku</h2>|||
 |Points|Yaku Name|Description|
 |5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the boar (Bush Clover), deer (Maple), and butterfly (Peony). Players are awarded an additional point for each other Animal card.|
 |1|Animals - タネ [たね, *tane*]|Any five Animal cards. One additional point is awarded for every additional Animal card.|
-|<h2 align="left">Ribbon Yaku</h2>|||
+|<h2 align="center">Ribbon Yaku</h2>|||
 |Points|Yaku Name|Description|
 |10|Poetry+Blue Ribbons - 赤短・青短の重複 [あかたん・あおたんのちょうふく, akatan - *aotan no chōfuku*]|All three poetry ribbons and all three blue ribbons. Players are awarded an additional point for each other Ribbon card.|
 |5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|All three poetry ribbons. (Pine, Plum Blossom, and Cherry Blossom). Players are awarded an additional point for each other Ribbon card.|
 |5|Blue Ribbons - 青短 [あおたん, *aotan*]|All three blue ribbons. (Peony, Chrysanthemum and Maple). Players are awarded an additional point for each other Ribbon card.|
 |1|Ribbons - 短冊 [たんざく, *tanzaku*]|Any five Ribbon cards. One additional point is awarded for every additional Ribbon card.|
-|<h2 align="left">Ungrouped Yaku</h2>|||
+|<h2 align="center">Ungrouped Yaku</h2>|||
 |Points|Yaku Name|Description|
 |5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|The Curtain (Cherry Blossom Bright) and Sake Cup (Chrysanthemum Animal).|
 |5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|The Moon (Susuki Grass Bright) and Sake Cup (Chrysanthemum Animal).|
