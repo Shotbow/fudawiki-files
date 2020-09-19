@@ -2,17 +2,17 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-19T00:18:48.203Z
+date: 2020-09-19T00:22:30.286Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-Koi-Koi [こいこい] is among the best-known hanafuda games outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “koi-koi,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “shōbu” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
+Koi-Koi [こいこい] is among the best-known hanafuda games outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
 
-This game seems to have developed as a simplification of the Korean game of Go-Stop, which features similar scoring and the same risk-taking gameplay mechanic.
+This game seems to have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic.
 # Setup
-Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
 ## Distributing the Initial Cards
