@@ -2,13 +2,13 @@
 title: Hachi-Jū-Hana
 description: "Eighty Flowers," a relatively simple 2- or 3-player hanafuda game
 published: true
-date: 2020-09-18T23:55:30.026Z
+date: 2020-09-19T00:02:33.146Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T21:13:46.242Z
 ---
 
-Hachi-Jū-Hana [八十花 - はちじゅうはな, lit. "Eighty Flowers"] is a hanafuda game for two to three players. Its name seems to come from the 3-player variant, in which each player's score is compared to a cutoff score of 80 points. Its main characteristics are its treatment of Chaff cards as valueless, and that all of its yaku are based on capturing complete suits of cards.
+Hachi-Jū-Hana [八十花 - はちじゅうはな, lit. "Eighty Flowers"] is a hanafuda game for two to three players. Its name seems to come from the 3-player variant, in which each player's score is compared to a cutoff score of 80 points. Some of its defining characteristics are its treatment of Chaff cards as valueless, and that all of its yaku are based on capturing complete suits of cards.
 # Setup
 Setup for this game is quite similar to other fishing games such as [Koi-Koi](/en/hanafuda/games/koi-koi). First, choose who is to deal first and how long the game will last; common choices are 6 or 12 rounds.
 
