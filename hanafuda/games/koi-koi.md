@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-18T18:36:29.107Z
+date: 2020-09-19T00:18:48.203Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -12,11 +12,15 @@ Koi-Koi [こいこい] is among the best-known hanafuda games outside of Japan. 
 
 This game seems to have developed as a simplification of the Korean game of Go-Stop, which features similar scoring and the same risk-taking gameplay mechanic.
 # Setup
-Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or as many rounds as it takes for one player to reach 50 points total.
+Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
 ## Distributing the Initial Cards
-Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself - and then repeat.
+Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
+
+Depending on the preferred rule set, if 4 cards of the same suit are dealt to the field at the beginning of a round, either a misdeal is declared and the same dealer shuffles and distributes cards once more, **or** the dealer automatically wins that round, usually receiving 6 points, and staying the dealer for the next round. The same may be true in the case that that 4 pairs of different suits are dealt to the field.
+
+Some rules also have a provision for "lucky hands," in which either of the above situations are dealt to a player's hand rather than the field. In this case, the player who received the lucky hand earns the 6 points and becomes the dealer for the next round. Other rule sets may allow the recipient of such a hand to declare a misdeal, or may simply continue the game as usual.
 # Gameplay
 Each round, the dealer is the first to play.
 ## Turns
