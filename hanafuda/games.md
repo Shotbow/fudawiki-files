@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-20T21:36:54.902Z
+date: 2020-09-20T22:32:11.896Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -11,7 +11,7 @@ dateCreated: 2020-09-17T04:23:39.577Z
 # Traditional Games
 This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
-- Bakappana (Stupid Flowers)
+- [Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)
 - [Godori (Go-Stop)](/en/hanafuda/games/go-stop)
 - Gomai-Kabu
 - Hachi (Eight)
