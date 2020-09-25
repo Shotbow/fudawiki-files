@@ -2,13 +2,13 @@
 title: Hachi-Jū-Hana
 description: "Eighty Flowers," a relatively simple 2- or 3-player hanafuda game
 published: true
-date: 2020-09-19T00:02:33.146Z
+date: 2020-09-25T01:35:44.679Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T21:13:46.242Z
 ---
 
-Hachi-Jū-Hana [八十花 - はちじゅうはな, lit. "Eighty Flowers"] is a hanafuda game for two to three players. Its name seems to come from the 3-player variant, in which each player's score is compared to a cutoff score of 80 points. Some of its defining characteristics are its treatment of Chaff cards as valueless, and that all of its yaku are based on capturing complete suits of cards.
+Hachi-Jū-Hana [八十花 - はちじゅうはな, lit. "Eighty Flowers"] is a hanafuda game for two to three players. Its name seems to come from the 3-player variant, in which each player's score is compared to a cutoff score of 80 points. Its main distinguishing characteristic is that Chaff cards are worth 0 points rather than 1. Some sources treat it as a modification of [Bakappana](/en/hanafuda/games/bakappana), while the IndianWolf Studios Hanafuda Games book describes a slightly more complicated version with a yaku for completing each suit.
 # Setup
 Setup for this game is quite similar to other fishing games such as [Koi-Koi](/en/hanafuda/games/koi-koi). First, choose who is to deal first and how long the game will last; common choices are 6 or 12 rounds.
 
@@ -41,10 +41,11 @@ The values of each card are identical to those used in [Hachi-Hachi](/en/hanafud
 |Chaff|0|24|
 
 # Yaku
-There are 12 yaku in this game, each of which consists of capturing all 4 cards of a given suit. 
+There are 12 yaku in this game in the IndianWolf Studios version of this game, each of which consists of capturing all 4 cards of a given suit. Other versions may use different scores for yaku, or even feature no yaku at all.
 
 The Willow suit has a special role in scoring yaku: its cards may be used to complete **either** its own **or** another suit's yaku (but not both). For example, if a player captured 2 Willow cards and 2 Peony cards, the player can opt to score the Peony yaku. Likewise, if a player has captured all 4 Willows, 2 Pine, and 2 Iris, the player may choose to **either** score the Willow yaku **or** both the Pine and Iris yaku. Note that each card may only contribute to one yaku.
 # Strategy
 Due to the versatility of the Willow suit for making yaku, combined with the fact that it contains the most card points, priority should be given to capturing those cards. Aside from that, players should aim to capture the highest valued cards before their opponents, as well as capture complete suits or block their opponents from doing so if possible. After Willow (35 points), the most valuable suits are Susuki Grass (30 points), Pine (25 points), Cherry Blossom (25 points), and Paulownia (20 points). All other suits contain a total of 15 points each.
 # Bibliography
+Kim Ch'an-gŭn. *Chōsen Tobaku yōran*. Kin Sankon, 1926, pp. 56-57. 
 Johnson, Jason, and Antonietta Fazio-Johnson. “Hachi-Juu Hana.” *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017, pp. 46–48. 
