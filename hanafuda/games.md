@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-20T22:40:32.039Z
+date: 2020-09-25T04:35:47.998Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -16,10 +16,11 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Gomai-Kabu
 - Hachi (Eight)
 - [Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)
-- [Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)
+- [Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)
 - [Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)
 - Hiki-Kabu
 - Hiyoko
+- Ichi-Ni-San (One-Two-Three)
 - Isuri
 - Kachi-Kachi
 - Kaga
@@ -28,11 +29,15 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Kyo-Kabu
 - Min-Hwatu
 - [Mushi (Insect)](/en/hanafuda/games/mushi)
+- Ni-Shi-Roku (Two-Four-Six)
 - Oicho-Kabu (Eight-Nine)
 - Oni Koi-Koi
 - Poka
+- Roku-Tan (Six Scrolls)
 - [Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)
+- Saburokku (Three-Six-Nine)
 - Sakura (Higo-Bana)
+- Sen-Roku-Jū (One Thousand Sixty)
 - Seotda
 - Sudaoshi
 - Suhara-Bana
