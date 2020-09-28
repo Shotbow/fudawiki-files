@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2020-09-28T16:46:33.668Z
+date: 2020-09-28T16:55:46.891Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-17T13:06:51.858Z
@@ -23,6 +23,9 @@ Media in which Hanafuda is made reference to
 * [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) (鬼滅の刃, きめつ の やいば, *Kimetsu no Yaiba*)  
   A 2016-2020 Manga, 2019 animated television series, and 2020 animated film.  
   The protagonist's earrings are references to Hanafuda cards
+
+* [Naruto - Formation Ino-Shika-Cho](https://naruto.fandom.com/wiki/Formation_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D)
+	The original series introduces a trio of secondary characters named Ino, Shikamaru, and Choji, whose families are later revealed to have a long history of working in tandem. The given names within each of their families tend to start with "Ino," "Shika," and "Cho," a reference to the hanafuda yaku consisting of the Boar, Deer, and Butterflies.
 
 * [Neopets Godori](http://www.neopets.com/games/godori/index.phtml)
   A simplified version of the Korean game [Go-Stop](/en/hanafuda/games/go-stop) is available to play. The deck has the same structure as standard hanafuda but features completely redone Neopets-themed artwork.
