@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-25T04:37:11.171Z
+date: 2020-09-28T21:07:44.922Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -62,6 +62,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Tensho (Simplified)
 ## Long Beak
 - Comets and Constellations
+## Louie Mantia, Jr.
+- Hanaya (Florist)
 ## Ryan Sartor
 - 600 Hearts
 - Bridge Solitaire
