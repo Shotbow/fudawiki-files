@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-28T21:07:44.922Z
+date: 2020-09-28T21:07:57.258Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -72,6 +72,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Po-Koi
 ## Suryong
 - Goo-Stupe
+- Judge
 - Match-3 Solitaire
 - Untitled 1
 - Untitled 2
