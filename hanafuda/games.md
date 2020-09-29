@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-29T18:45:16.503Z
+date: 2020-09-29T21:41:37.151Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -66,8 +66,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - [Comet and Constellations](/comet__constellations_v4.0.pdf)
 - Triple Threat
 ## Ryan Sartor
-- 600 Hearts
-- Bridge Solitaire
+- [600 Hearts](/newgames/600_hearts_v2.1.pdf)
+- [Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)
 - Hana-Hearts
 - Koi-Fish
 - Po-Koi
