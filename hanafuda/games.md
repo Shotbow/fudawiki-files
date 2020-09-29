@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-29T06:31:52.535Z
+date: 2020-09-29T18:45:16.503Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -61,9 +61,9 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Sutda (Simplified)
 - Tensho (Simplified)
 ## Junior
-- [Hanaya (Florist)](https://www.junior.cards/pdf/How%20To%20Play%20Hanaya.pdf)
+- [Hanaya (Florist)](/how_to_play_hanaya.pdf)
 ## Long Beak
-- Comets and Constellations
+- [Comet and Constellations](/comet__constellations_v4.0.pdf)
 - Triple Threat
 ## Ryan Sartor
 - 600 Hearts
@@ -72,8 +72,9 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Koi-Fish
 - Po-Koi
 ## Suryong
-- Goo-Stupe
-- Judge
-- Match-3 Solitaire
-- Untitled 1
-- Untitled 2
+- [Goo-Stupe](/goo-stupe-1.pdf)
+- [Judge](/judge_v1.1.pdf)
+- [Match-3 Solitaire](/match_3_solitaire.pdf)
+- [Oh No!](/70_no_oh_no_v2.pdf)
+- [Untitled 1](/this_is_some_game_that_i_made_up.pdf)
+- [Untitled 2](/untitled_2.pdf)
