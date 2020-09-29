@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-29T21:41:37.151Z
+date: 2020-09-29T21:50:57.506Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -46,9 +46,9 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
 ## CC
-- Sangohana (Coral Flowers)
+- [Sangohana (Coral Flowers)](http://cartacc.g1.xrea.com/sangohana.html)
 ## Robert Goodwin
-- Gardening
+- [Gardening](/newgames/robert_goodwin_-_gardening.pdf)
 ## IndianWolf Studios
 - Hachi (Simplified)
 - Hana-Gin
