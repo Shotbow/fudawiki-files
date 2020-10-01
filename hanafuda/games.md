@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-09-29T21:51:40.038Z
+date: 2020-10-01T09:10:55.507Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -36,7 +36,7 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Roku-Tan (Six Scrolls)
 - [Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)
 - Saburokku (Three-Six-Nine)
-- Sakura (Higo-Bana)
+- [Sakura (Higo-Bana)](/en/hanafuda/games/sakura)
 - Sen-Roku-Jū (One Thousand Sixty)
 - Seotda
 - Sudaoshi
