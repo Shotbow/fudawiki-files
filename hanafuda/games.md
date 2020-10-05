@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-05T00:31:18.584Z
+date: 2020-10-05T02:45:45.312Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -22,7 +22,7 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Hiyoko
 - Ichi-Ni-San (One-Two-Three)
 - Isuri
-- Ichi-Zoku Iki (One Bunch Goes)
+- Issoku Iki (One Bunch Goes)
 - Jū-Mai (Ten Cards)
 - Kachi-Kachi
 - Kaga
