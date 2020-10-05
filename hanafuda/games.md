@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-05T00:28:59.776Z
+date: 2020-10-05T00:31:18.584Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -77,6 +77,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Koi-Fish
 - Po-Koi
 - [Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)
+## Sumo-No-Z
+- [Pin K](/newgames/new_game_-_sumo-no-z.pdf)
 ## Suryong
 - [Goo-Stupe](/goo-stupe-1.pdf)
 - [Judge](/judge_v1.1.pdf)
