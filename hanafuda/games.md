@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-05T02:45:56.914Z
+date: 2020-10-06T04:12:53.791Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -48,6 +48,7 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Sudaoshi
 - Suhara-Bana
 - Tensho
+- Toppa
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
