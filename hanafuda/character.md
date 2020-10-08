@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T05:21:11.908Z
+date: 2020-10-08T05:24:56.131Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -18,12 +18,13 @@ As they tend to have additional subjects depicted on every card, the designs of 
 Angel's character hanafuda may be considered to be of generally lower quality - they are more for collecting than for playing. They are printed on cardboard, with exposed sides.
 - Disney
 - Hello Kitty
-- Snoopy
+
 
 ## Bandai
 - JoJo's Bizarre Adventure
 - Mobile Suit Gundam
 - Mōretsu Atarō [もーれつア太郎, "Extraordinary Atarō"]
+- Snoopy Comic
 - Yo-kai Watch
 
 ## BanPresto
@@ -31,6 +32,7 @@ Angel's character hanafuda may be considered to be of generally lower quality - 
 
 ## Beverly
 - One Piece
+- Snoopy
 - Star Wars
 
 ## Ensky
@@ -51,7 +53,6 @@ Nintendo's character hanafuda tend to be of intermediate quality; they are prope
 - Mario
 - Mario Pikachu
 - Pokemon
-- Snoopy Comic
 
 ## Yanoman
 These hanafuda are generally considered to be of higher quality than those made by Angel, but are still not backpapered. Their sides are black to match the borders and backs, rather than bare cardboard.
