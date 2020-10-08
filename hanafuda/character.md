@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T05:17:34.870Z
+date: 2020-10-08T05:21:11.908Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -76,3 +76,4 @@ These hanafuda are known to exist but have simply yet to be categorized by publi
 - Saint Seiya
 - Spirited Away
 - Sumo
+- Ultraman
