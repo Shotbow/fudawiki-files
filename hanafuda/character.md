@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T04:35:09.596Z
+date: 2020-10-08T04:38:36.302Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -21,6 +21,7 @@ Angel's character hanafuda are numerous, but of generally lower quality - they a
 - Snoopy
 
 ## Bandai
+- Mobile Suit Gundam
 - Mōretsu Atarō [もーれつア太郎, "Extraordinary Atarō"]
 
 ## Ensky
@@ -54,8 +55,10 @@ These hanafuda are generally considered to be of higher quality than those made 
 - JoJo's Bizarre Adventure
 - Kyoto
 - Macross Frontier
+- Monster Hunter
 - Nichijou
 - Okami
+- One Piece
 - Railway [鉄道 - てつどう, *tetsudō*]
 - Spirited Away
 - Star Wars
