@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T12:16:34.247Z
+date: 2020-10-08T12:20:25.401Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -44,13 +44,16 @@ Angel's character hanafuda may be considered to be of generally lower quality - 
 ## Movic
 - Detective Conan: Case Closed
 - Evangelion
-- Pokémon
 
 ## Nintendo
 Nintendo's character hanafuda tend to be of intermediate quality; they are properly backpapered like traditional karuta and come in reusable plastic cases, but the print quality may not be quite as good as their main lines of hanafuda.
 - Club Nintendo
 - Kirby
 - Mario
+
+## The Pokémon Company
+- Pokémon
+  Distribued by Movic, Manufactured by Nintendo
 - Mario Pikachu
 
 ## Oishi Tengudo
