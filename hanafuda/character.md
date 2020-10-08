@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T04:23:06.116Z
+date: 2020-10-08T04:35:09.596Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -46,11 +46,14 @@ These hanafuda are generally considered to be of higher quality than those made 
 ## Yet uncategorized
 - Aizu
 - Demon Slayer: Kimetsu no Yaiba
+- Detective Conan: Case Closed
+- Doraemon
 - Dragon Quest
 - Granblue Fantasy
 - The Idolmaster Cinderella Girls
 - JoJo's Bizarre Adventure
 - Kyoto
+- Macross Frontier
 - Nichijou
 - Okami
 - Railway [鉄道 - てつどう, *tetsudō*]
