@@ -2,13 +2,15 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T03:49:40.811Z
+date: 2020-10-08T04:23:06.116Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
 ---
 
-Character Hanafuda are a subgenre of [hanafuda patterns](/en/hanafuda/patterns) that feature characters and imagery from popular television, manga, or video game franchises. 
+Character Hanafuda キャラクター花札 [きゃらくたあはなふだ, *kyarakutaa hanafuda*] are a subgenre of [hanafuda patterns](/en/hanafuda/patterns) that feature characters and imagery from popular television, manga, or video game franchises. Alternatively, they may follow some other theme, often specific to a particular region or hobby.
+
+As they tend to have additional subjects depicted on every card, the designs of these decks often make it more difficult to differentiate between certain cards and card types. For that reason, along with the generally lower construction quality of these cards, they tend to be more collectable than they are play-worthy. That said, many of them come with rule leaflets, and almost all of them should be usable to play any hanafuda game, provided enough attention to detail and/or familiarity with the specific deck.
 
 # Character Hanafuda by Publisher
 
@@ -42,9 +44,16 @@ These hanafuda are generally considered to be of higher quality than those made 
 
 
 ## Yet uncategorized
-- Demon Slayer
+- Aizu
+- Demon Slayer: Kimetsu no Yaiba
 - Dragon Quest
 - Granblue Fantasy
+- The Idolmaster Cinderella Girls
 - JoJo's Bizarre Adventure
+- Kyoto
 - Nichijou
+- Okami
+- Railway [鉄道 - てつどう, *tetsudō*]
+- Spirited Away
 - Star Wars
+- Sumo
