@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T05:24:56.131Z
+date: 2020-10-08T05:34:53.158Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -54,6 +54,9 @@ Nintendo's character hanafuda tend to be of intermediate quality; they are prope
 - Mario Pikachu
 - Pokemon
 
+## Oishi Tengudo
+- Kyoto
+
 ## Yanoman
 These hanafuda are generally considered to be of higher quality than those made by Angel, but are still not backpapered. Their sides are black to match the borders and backs, rather than bare cardboard.
 - GeGeGe No Kitaro (Yokai Hana Asobi)
@@ -68,7 +71,6 @@ These hanafuda are known to exist but have simply yet to be categorized by publi
 - Dragon Quest
 - Granblue Fantasy
 - The Idolmaster Cinderella Girls
-- Kyoto
 - Macross Frontier
 - Monster Hunter
 - Nichijou
