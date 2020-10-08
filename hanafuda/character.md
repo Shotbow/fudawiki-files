@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T03:39:45.940Z
+date: 2020-10-08T03:44:22.985Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -14,10 +14,14 @@ Character Hanafuda are a subgenre of [hanafuda patterns](/en/hanafuda/patterns) 
 
 ## Angel
 Angel's character hanafuda are numerous, but of generally lower quality - they are more for collecting than for playing. They are printed on cardboard, with exposed sides.
+- Disney
 - Hello Kitty
 
 ## Bandai
 - Mōretsu Atarō [もーれつア太郎, "Extraordinary Atarō"]
+
+## Ensky
+- Godzilla
 
 ## Nintendo
 Nintendo's character hanafuda tend to be of intermediate quality; they are properly backpapered like traditional karuta and come in reusable plastic cases, but the print quality may not be quite as good as their main lines of hanafuda.
