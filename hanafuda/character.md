@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T05:14:57.940Z
+date: 2020-10-08T05:16:57.883Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -21,6 +21,7 @@ Angel's character hanafuda may be considered to be of generally lower quality - 
 - Snoopy
 
 ## Bandai
+- JoJo's Bizarre Adventure
 - Mobile Suit Gundam
 - Mōretsu Atarō [もーれつア太郎, "Extraordinary Atarō"]
 - Yo-kai Watch
@@ -65,7 +66,6 @@ These hanafuda are generally considered to be of higher quality than those made 
 - Dragon Quest
 - Granblue Fantasy
 - The Idolmaster Cinderella Girls
-- JoJo's Bizarre Adventure
 - Kyoto
 - Macross Frontier
 - Monster Hunter
