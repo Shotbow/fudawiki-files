@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T04:38:36.302Z
+date: 2020-10-08T04:52:42.951Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -15,7 +15,7 @@ As they tend to have additional subjects depicted on every card, the designs of 
 # Character Hanafuda by Publisher
 
 ## Angel
-Angel's character hanafuda are numerous, but of generally lower quality - they are more for collecting than for playing. They are printed on cardboard, with exposed sides.
+Angel's character hanafuda may be considered to be of generally lower quality - they are more for collecting than for playing. They are printed on cardboard, with exposed sides.
 - Disney
 - Hello Kitty
 - Snoopy
@@ -23,9 +23,14 @@ Angel's character hanafuda are numerous, but of generally lower quality - they a
 ## Bandai
 - Mobile Suit Gundam
 - Mōretsu Atarō [もーれつア太郎, "Extraordinary Atarō"]
+- Yo-kai Watch
+
+## BanPresto
+- Inu Yasha
 
 ## Ensky
 - Attack on Titan
+- Doraemon
 - Godzilla
 - Moomin
 
@@ -40,15 +45,15 @@ Nintendo's character hanafuda tend to be of intermediate quality; they are prope
 
 ## Yanoman
 These hanafuda are generally considered to be of higher quality than those made by Angel, but are still not backpapered. Their sides are black to match the borders and backs, rather than bare cardboard.
-- Hello Kitty Hana Asobi
-- Yokai Hana Asobi
+- GeGeGe No Kitaro (Yokai Hana Asobi)
+- Hello Kitty
+- Touken Ranbu ONLINE
 
 
 ## Yet uncategorized
 - Aizu
 - Demon Slayer: Kimetsu no Yaiba
 - Detective Conan: Case Closed
-- Doraemon
 - Dragon Quest
 - Granblue Fantasy
 - The Idolmaster Cinderella Girls
@@ -60,6 +65,7 @@ These hanafuda are generally considered to be of higher quality than those made 
 - Okami
 - One Piece
 - Railway [鉄道 - てつどう, *tetsudō*]
+- Saint Seiya
 - Spirited Away
 - Star Wars
 - Sumo
