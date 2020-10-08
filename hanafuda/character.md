@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T04:55:31.123Z
+date: 2020-10-08T05:14:57.940Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -38,6 +38,11 @@ Angel's character hanafuda may be considered to be of generally lower quality - 
 - Godzilla
 - Moomin
 
+## Movic
+- Detective Conan: Case Closed
+- Evangelion
+
+
 ## Nintendo
 Nintendo's character hanafuda tend to be of intermediate quality; they are properly backpapered like traditional karuta and come in reusable plastic cases, but the print quality may not be quite as good as their main lines of hanafuda.
 - Club Nintendo
@@ -57,7 +62,6 @@ These hanafuda are generally considered to be of higher quality than those made 
 ## Yet uncategorized
 - Aizu
 - Demon Slayer: Kimetsu no Yaiba
-- Detective Conan: Case Closed
 - Dragon Quest
 - Granblue Fantasy
 - The Idolmaster Cinderella Girls
