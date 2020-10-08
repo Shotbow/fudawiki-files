@@ -2,7 +2,7 @@
 title: Character Hanafuda
 description: Themed hanafuda, often with popular licensed properties
 published: true
-date: 2020-10-08T05:16:57.883Z
+date: 2020-10-08T05:17:34.870Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-10-08T03:39:45.940Z
@@ -61,6 +61,7 @@ These hanafuda are generally considered to be of higher quality than those made 
 
 
 ## Yet uncategorized
+These hanafuda are known to exist but have simply yet to be categorized by publisher.
 - Aizu
 - Demon Slayer: Kimetsu no Yaiba
 - Dragon Quest
