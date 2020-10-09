@@ -2,7 +2,7 @@
 title: Hanafuda in Popular Culture
 description: 
 published: true
-date: 2020-10-09T04:07:41.975Z
+date: 2020-10-09T04:10:40.500Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-17T13:06:51.858Z
@@ -30,7 +30,7 @@ Media in which Hanafuda is made reference to
 * [Neopets Godori](http://www.neopets.com/games/godori/index.phtml)
   A simplified version of the Korean game [Go-Stop](/en/hanafuda/games/go-stop) is available to play. The deck has the same structure as standard hanafuda but features completely redone Neopets-themed artwork.
 
-* Tales of Berseria "Character Cards" minigame
+* [Tales of Berseria](https://en.wikipedia.org/wiki/Tales_of_Berseria) "Character Cards" minigame
 	This installment in Namco's "Tales" series features a minigame that is a modified interpretation of [Koi-Koi](/en/hanafuda/games/koi-koi). It uses a modified deck structure of 8 suits of 6 cards each, with 7 different categories of cards. Each suit features character portraits from one installment in the video game series.
 
 * [Yu-Gi-Oh! Flower Cardians](https://yugioh.fandom.com/wiki/Flower_Cardian) (花札衛)  
