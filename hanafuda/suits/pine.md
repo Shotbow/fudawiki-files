@@ -1,9 +1,9 @@
 ---
 title: Pine
-description: The first suit in hanafuda, usually representing January or the numeral 1
+description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2020-10-09T04:46:58.158Z
-tags: hanafuda suits, poetry ribbons, brights
+date: 2020-10-09T05:02:06.789Z
+tags: brights, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:46:58.158Z
 ---
