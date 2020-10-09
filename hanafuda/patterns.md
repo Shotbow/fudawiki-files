@@ -2,13 +2,15 @@
 title: List of Hanafuda Patterns
 description: A list of known traditional card patterns
 published: true
-date: 2020-10-08T03:09:49.449Z
+date: 2020-10-09T04:26:01.780Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2020-09-18T19:57:54.024Z
 ---
 
 The following is a list of known hanafuda patterns, organized alphabetically, with links to individual pages on those for which we have gathered sufficient information.
+
+For patterns featuring a particular cultural theme or intellectual property, see [Character Hanafuda](/en/hanafuda/character). For the Korean version of hanafuda, see [Hwatu](/en/hanafuda/hwatu).
 - Awa-Bana
 - Bizen-Bana
 - Dairen-Bana
