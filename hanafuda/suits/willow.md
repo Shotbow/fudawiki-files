@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2020-10-11T23:03:00.858Z
+date: 2020-10-11T23:04:34.950Z
 tags: animals, brights, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T23:03:00.858Z
@@ -12,6 +12,6 @@ Willow [柳 - やなぎ, *yanagi*] is the name of a suit in traditional hanafuda
 
 The Willow Chaff is known as the Lightning card [鬼札 - おにふだ, *onifuda*, lit. "demon card"], and in the modern [hachihachibana](/en/hanafuda/patterns/hachihachibana) pattern the hanging willow branches on it have been altered to a more abstract grey and red cyclone shape, with various details (such as drums, windmills, a demon's claw, etc.) underlying the coloration, depending on the specific deck.
 
-The other three cards of the suit have maintained the willow tree motif. The Animal card features a long-tailed, red and yellow Swallow [燕 - つばめ, *tsubame*] flying between the drooping branches. The Bright card is generally known in English as the "Rain Man," and features a human figure holding an umbrella under a willow tree beside a stream. In modern Japanese versions of the Rain Man card, the person depicted is prominent Heian era calligrapher Ono No Michikaze [小野道風 - おののみちかぜ], also known as Ono no Tōfū [おののとうふう], observing an orange frog in the lower left corner of the card.
+The other three cards of the suit have maintained the willow tree motif. The Animal card features a long-tailed, red and yellow Swallow [燕 - つばめ, *tsubame*] flying between the drooping branches. The Bright card is generally known in English as the "Rain Man," and features a human figure holding an umbrella under a willow tree beside a stream. In modern Japanese versions of the Rain Man card, the person depicted is prominent Heian era calligrapher Ono no Michikaze [小野道風 - おののみちかぜ], also known as Ono no Tōfū [おののとうふう], observing an orange frog in the lower left corner of the card.
 
 In a few games, including Tensho, an alternate month ordering is used, with the Willow suit representing February or the number 2 instead. On the other hand, in the [Korean](/en/hanafuda/hwatu) suit order, Willow is considered to represent December or the number 12.
