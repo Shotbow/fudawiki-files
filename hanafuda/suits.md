@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2020-10-12T04:07:33.564Z
+date: 2020-10-12T04:09:23.348Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -36,7 +36,7 @@ The order reflected in the final column is used in certain Japanese games, inclu
 # Additional Suits
 A few specialty hanafuda decks feature additional suits, the most famous of these produced by Matsui Tengudo. These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
 |#|"Month"|Plant|
-|---|
+|:---:|:---:|:---:|
 |13|Earth|[Bamboo](/en/hanafuda/suits/bamboo)|
 |14|Heaven|[Lotus](/en/hanafuda/suits/lotus)|
 
