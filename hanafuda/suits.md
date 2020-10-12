@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2020-10-12T03:37:45.511Z
+date: 2020-10-12T03:42:17.958Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -10,6 +10,7 @@ dateCreated: 2020-10-12T00:41:00.951Z
 
 There are 12 suits of 4 cards each in the standard [hanafuda](/en/hanafuda) deck. These are presented below in various orders, each of which may be utilized depending on the game played or the region of origin. Some specialty decks also contain a 13th or both 13th and 14th suit, which are added to the deck to enable altered gameplay or a greater number of participants.
 # Arrangement of Suits
+The following chart shows the ordering of the suits according to different schemes. The column labeled "Standard" is the most common ordering used for Japanese hanafuda games, and should be assumed to be the one intended unless otherwise specified. The Korean order is assumed for games originally played with [hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
 |#|Month|Standard|Korean|Kabu|Mushi|Alternative|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|January|[Pine](/en/hanafuda/suits/pine)|Pine|Pine|Pine|Pine|
@@ -31,38 +32,10 @@ There are 12 suits of 4 cards each in the standard [hanafuda](/en/hanafuda) deck
 |13|Earth|Bamboo|
 |14|Heaven|Lotus|
 
-## Standard Japanese Order
-This is the most common ordering used for hanafuda games, and should be assumed to be the one intended unless otherwise specified.
 ## Alternative Japanese Order
 This suit order is used in certain Japanese games, including Tensho, Hiyoko, and Isuri. It is similar to the standard order, but with Plum Blossom, Peony, Willow, and Paulownia shuffled about.
-1. [Pine](/en/hanafuda/suits/pine)
-2. [Willow](/en/hanafuda/suits/willow)
-3. [Cherry Blossom](/en/hanafuda/suits/cherry-blossom)
-4. [Wisteria](/en/hanafuda/suits/wisteria)
-5. [Iris](/en/hanafuda/suits/iris)
-6. [Paulownia](/en/hanafuda/suits/paulownia)
-7. [Bush Clover](/en/hanafuda/suits/bush-clover)
-8. [Susuki Grass](/en/hanafuda/suits/susuki-grass)
-9. [Chrysanthemum](/en/hanafuda/suits/chrysanthemum)
-10. [Maple](/en/hanafuda/suits/maple)
-11. [Peony](/en/hanafuda/suits/peony)
-12. [Plum Blossom](/en/hanafuda/suits/plum-blossom)
-# Korean Suit Order
-The Korean month order is assumed when playing games originally played with [hwatu](/en/hanafuda/hwatu). It is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
-1. [Pine](/en/hanafuda/suits/pine)
-2. [Plum Blossom](/en/hanafuda/suits/plum-blossom)
-3. [Cherry Blossom](/en/hanafuda/suits/cherry-blossom)
-4. [Wisteria](/en/hanafuda/suits/wisteria)
-5. [Iris](/en/hanafuda/suits/iris)
-6. [Peony](/en/hanafuda/suits/peony)
-7. [Bush Clover](/en/hanafuda/suits/bush-clover)
-8. [Susuki Grass](/en/hanafuda/suits/susuki-grass)
-9. [Chrysanthemum](/en/hanafuda/suits/chrysanthemum)
-10. [Maple](/en/hanafuda/suits/maple)
-11. [Paulownia](/en/hanafuda/suits/paulownia)
-12. [Willow](/en/hanafuda/suits/willow)
-# Stripped Decks
-Some games call for the removal of certain suits from the deck. The remaining suits tend to follow the standard Japanese ordering.
+## Korean Suit Order
+
 ## [Mushibana](/en/hanafuda/patterns/mushibana)
 ## [Kabu](/en/kabufuda)
 
