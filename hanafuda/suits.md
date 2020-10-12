@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2020-10-12T04:06:13.178Z
+date: 2020-10-12T04:07:33.564Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -10,7 +10,7 @@ dateCreated: 2020-10-12T00:41:00.951Z
 
 There are 12 suits of 4 cards each in the standard [hanafuda](/en/hanafuda) deck. These are presented below in various orders, each of which may be utilized depending on the game played or the region of origin. Some specialty decks also contain a 13th or both 13th and 14th suit, which are added to the deck to enable altered gameplay or a greater number of participants.
 # Arrangement of Suits
-The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while the "Month" suit gives the month of the year associated with it. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
+The following chart shows the ordering of the suits according to different schemes. The "#" column gives the numeric value for each suit, while "Month" gives the month of the year associated with it in a given scheme. Note that the month associations are not applicable for "stripped" decks containing fewer than 12 suits.
 
 The column labeled "Standard" is the most common ordering used for Japanese hanafuda games, and should be used unless otherwise specified. The Korean order is assumed for games originally played with [hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
 
