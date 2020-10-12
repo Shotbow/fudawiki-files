@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2020-10-12T03:49:12.636Z
+date: 2020-10-12T03:51:27.120Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -34,6 +34,6 @@ The order reflected in the final column is used in certain Japanese games, inclu
 # Additional Suits
 |#|Month|Plant|
 |---|
-|13|Earth|Bamboo|
-|14|Heaven|Lotus|
+|13|Earth|[Bamboo](/en/hanafuda/suits/bamboo)|
+|14|Heaven|[Lotus](/en/hanafuda/suits/lotus)|
 
