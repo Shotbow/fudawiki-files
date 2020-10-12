@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2020-10-12T04:09:23.348Z
+date: 2020-10-12T04:11:04.103Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -14,7 +14,7 @@ The following chart shows the ordering of the suits according to different schem
 
 The column labeled "Standard" is the most common ordering used for Japanese hanafuda games, and should be used unless otherwise specified. The Korean order is assumed for games originally played with [hwatu](/en/hanafuda/hwatu), and is identical to the standard Japanese suit order, but with Paulownia and Willow swapped.
 
-The "Kabu" column reflects a hanafuda deck with the last two suits stripped out, making it suitable for adapting games originally played with the 40-card [kabufuda](/en/kabufuda) deck. The "Mushi" column is similar, but reflects instead the [mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is used to play [Osaka Mushi](/en/hanafuda/games/mushi).
+The "Kabu" column reflects a hanafuda deck with the Willow and Paulownia suits removed, making it suitable for adapting games originally played with the 40-card [kabufuda](/en/kabufuda) deck. The "Mushi" column is similar, but reflects instead the [mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is used to play [Osaka Mushi](/en/hanafuda/games/mushi).
 
 The order reflected in the final column is used in certain Japanese games, including Tensho, Hiyoko, and Isuri. It is mostly similar to the standard order, but with Plum Blossom, Peony, Willow, and Paulownia shuffled about.
 
