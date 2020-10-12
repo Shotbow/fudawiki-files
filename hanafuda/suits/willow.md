@@ -2,13 +2,13 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2020-10-11T23:04:34.950Z
+date: 2020-10-12T02:54:38.925Z
 tags: animals, brights, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T23:03:00.858Z
 ---
 
-Willow [柳 - やなぎ, *yanagi*] is the name of a suit in traditional hanafuda decks. In the standard Japanese ordering, it is generally taken to be the eleventh suit, representing the month of November [十一月 - じゅういちがつ, *jūichigatsu*] or the numeral 11. Originally, the cards in this suit all featured willow trees with hanging branches. There is one Chaff card, one Plain Ribbon, one Animal, and one Bright.
+Willow [柳 - やなぎ, *yanagi*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. In the standard Japanese ordering, it is generally taken to be the eleventh suit, representing the month of November [十一月 - じゅういちがつ, *jūichigatsu*] or the numeral 11. Originally, the cards in this suit all featured willow trees with hanging branches. There is one Chaff card, one Plain Ribbon, one Animal, and one Bright.
 
 The Willow Chaff is known as the Lightning card [鬼札 - おにふだ, *onifuda*, lit. "demon card"], and in the modern [hachihachibana](/en/hanafuda/patterns/hachihachibana) pattern the hanging willow branches on it have been altered to a more abstract grey and red cyclone shape, with various details (such as drums, windmills, a demon's claw, etc.) underlying the coloration, depending on the specific deck.
 
