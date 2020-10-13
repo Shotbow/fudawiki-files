@@ -2,13 +2,13 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-09-18T20:32:13.882Z
+date: 2020-10-13T05:01:47.017Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
 ---
 
-Mushi (Insect) is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the Peony and Bush Clover suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the Lightning card as a wild card, relatively few yaku, and zero-sum scoring.
+Mushi (Insect) is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [Peony](/en/hanafuda/suits/peony) and [Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [Lightning](/en/hanafuda/suits/willow) card as a wild card, relatively few yaku, and zero-sum scoring.
 
 # Wild Card
 In Mushi, the Lightning card can be used to capture any other individual card except another Willow. If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
@@ -27,7 +27,7 @@ This means that the total number of card points to be split by the players each 
 There are typically only 4 yaku used in Mushi. Players earn points for each of these that they capture, and subtract the same number of points from their opponents' score.
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
-|30|Five Brights - 五光 [ごうこ, *gōko*]|All five Bright cards.|
+|30|Five Brights - 五光 [ごうこ, *gōko*]|All five Bright cards.|
 |25|Three Brights - 三光 [さんこ, *sanko*]|The Crane (Pine Bright), Bush Warbler (Plum Blossom Animal), and Curtain (Cherry Blossom Bright). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
 |10|Wisteria Stripe - 藤シマ [ふじしま, *fujishima*]|All 4 Wisteria cards.|
 |10|Paulownia Stripe - 桐シマ [きりしま, *kirishima*]|All 4 Paulownia cards.|
