@@ -2,7 +2,7 @@
 title: Hachi-Hachi-Bana
 description: Today's standard hanafuda pattern
 published: true
-date: 2020-10-13T13:58:05.723Z
+date: 2020-10-13T13:58:24.040Z
 tags: hanafuda patterns
 editor: markdown
 dateCreated: 2020-09-18T20:10:22.639Z
@@ -12,5 +12,5 @@ The Hachi-hachi-bana [八八花 - はちはちばな] design, lit. “Eighty-Eig
 <br/>
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hanafuda_b1.jpg/1920px-Hanafuda_b1.jpg" alt="Nintendo Hanafuda cards in the standard hachi-hachi-bana pattern splayed out"/>
-  <figcaption>Nintendo&reg; Hanafuda Playing Cards.  Card Design is Copyright &copy; Nintendo. Photograph is Copyright <a href="http://www.japanexperterna.se/" rel="nofollow">Japanexperterna.se</a>, Licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.</figcaption>
+  <figcaption>Nintendo&reg; Hanafuda Playing Cards.  Card Design is Copyright &copy; Nintendo. <br />Photograph is Copyright <a href="http://www.japanexperterna.se/" rel="nofollow">Japanexperterna.se</a>, Licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.</figcaption>
 </figure>
