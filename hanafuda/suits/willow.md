@@ -2,7 +2,7 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2020-10-12T02:54:38.925Z
+date: 2020-10-13T10:11:01.568Z
 tags: animals, brights, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T23:03:00.858Z
@@ -15,3 +15,5 @@ The Willow Chaff is known as the Lightning card [鬼札 - おにふだ, *onifuda
 The other three cards of the suit have maintained the willow tree motif. The Animal card features a long-tailed, red and yellow Swallow [燕 - つばめ, *tsubame*] flying between the drooping branches. The Bright card is generally known in English as the "Rain Man," and features a human figure holding an umbrella under a willow tree beside a stream. In modern Japanese versions of the Rain Man card, the person depicted is prominent Heian era calligrapher Ono no Michikaze [小野道風 - おののみちかぜ], also known as Ono no Tōfū [おののとうふう], observing an orange frog in the lower left corner of the card.
 
 In a few games, including Tensho, an alternate month ordering is used, with the Willow suit representing February or the number 2 instead. On the other hand, in the [Korean](/en/hanafuda/hwatu) suit order, Willow is considered to represent December or the number 12.
+
+![Icon for month 11](/hanafuda/icons/monthicon_11.png)
