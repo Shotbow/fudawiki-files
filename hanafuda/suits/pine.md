@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2020-10-14T05:28:24.612Z
+date: 2020-10-14T05:45:34.786Z
 tags: brights, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:46:58.158Z
@@ -13,8 +13,12 @@ Pine [松 - まつ, *matsu*] is the name of a [suit](/en/hanafuda/suits) in trad
 ![Icon for month 1](/hanafuda/icons/monthicon_1.png)
 
 # Crane with Sun
+The Crane, being one of the only 5 Bright cards in the standard deck, is important for making yaku in many games, as well as being desirable on its own in many games that assign point values to individual cards.
+
+In [Koi-Koi](/en/hanafuda/games/koi-koi) it plays a role in the series of Bright yaku. In [Mushi](/en/hanafuda/games/mushi), the Crane is necessary for making the  yaku: with the other 4 Brights it can form "5 Brights," and when combined with the [Bush Warbler](/en/hanafuda/suits/plum-blossom) and [Curtain](/en/hanafuda/suits/cherry-blossom) it forms "3 Brights." 
 ![10.svg](/sheldonchen-cards/10.svg =150x)
-# Red Ribbon with Kana
+# Poetry Ribbon
+In the [standard hanafuda design](/en/hanafuda/patterns/hachihachibana), the Ribbon on this card features the phrase "Aka-yoroshi" written in hiragana, using a hentaigana character in place of the standard "ka." This refers to one name of the yaku known more commonly today as "Aka-Tan," or "Red Ribbons," which includes this card as well as the Ribbons of the [Plum Blossom](/en/hanafuda/suits/plum-blossom) and [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) suits.
 ![11.svg](/sheldonchen-cards/11.svg =150x)
 # Chaff
 ![12.svg](/sheldonchen-cards/12.svg =150x)
