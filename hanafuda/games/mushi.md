@@ -2,13 +2,13 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-10-14T04:48:56.638Z
+date: 2020-10-14T04:58:15.576Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
 ---
 
-Mushi (Insect) is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [Peony](/en/hanafuda/suits/peony) and [Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [Lightning](/en/hanafuda/suits/willow) card as a wild card, relatively few yaku, and zero-sum scoring.
+Mushi [虫 - むし, lit. "Insect"] is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [Peony](/en/hanafuda/suits/peony) and [Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [Lightning](/en/hanafuda/suits/willow) card as a wild card, relatively few yaku, and zero-sum scoring.
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or until some target score has been met by one player. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
