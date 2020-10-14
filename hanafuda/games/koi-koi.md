@@ -2,13 +2,13 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-09-19T00:22:30.286Z
+date: 2020-10-14T20:26:28.364Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-Koi-Koi [こいこい] is among the best-known hanafuda games outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
+Koi-Koi [こいこい] is among the best-known [hanafuda](/en/hanafuda) games outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
 
 This game seems to have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic.
 # Setup
@@ -51,22 +51,22 @@ Yaku listed below are sorted into groups.  For each of these groups (except “U
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
 |15|Five Brights - 五光 [ごこう, *gokō*]|All five Bright cards.|
-|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the Rain Man (Willow Bright.)|
-|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the Rain Man (Willow Bright).|
-|6|Three Brights - 三光 [さんこう, *sankō*]| 	Three Bright cards, but cannot include the Rain Man (Willow Bright).|
+|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the [Rain Man](/en/hanafuda/suits/willow#rain-man).|
+|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the Rain Man.|
+|6|Three Brights - 三光 [さんこう, *sankō*]| 	Three Bright cards, but cannot include the Rain Man.|
 |<h2 align="center">Animal Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the boar (Bush Clover), deer (Maple), and butterfly (Peony). Players are awarded an additional point for each other Animal card.|
+|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the [Boar](/en/hanafuda/suits/bush-clover#boar), [Deer](/en/hanafuda/suits/maple#deer), and [Butterflies](/en/hanafuda/suits/peony#butterflies). Players are awarded an additional point for each other Animal card.|
 |1|Animals - タネ [たね, *tane*]|Any five Animal cards. One additional point is awarded for every additional Animal card.|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |Points|Yaku Name|Description|
 |10|Poetry+Blue Ribbons - 赤短・青短の重複 [あかたん・あおたんのちょうふく, akatan - *aotan no chōfuku*]|All three poetry ribbons and all three blue ribbons. Players are awarded an additional point for each other Ribbon card.|
-|5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|All three poetry ribbons. (Pine, Plum Blossom, and Cherry Blossom). Players are awarded an additional point for each other Ribbon card.|
-|5|Blue Ribbons - 青短 [あおたん, *aotan*]|All three blue ribbons. (Peony, Chrysanthemum and Maple). Players are awarded an additional point for each other Ribbon card.|
+|5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|All three poetry ribbons ([Pine](/en/hanafuda/suits/pine#poetry-ribbon), [Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)). Players are awarded an additional point for each other Ribbon card.|
+|5|Blue Ribbons - 青短 [あおたん, *aotan*]|All three blue ribbons. ([Peony](/en/hanafuda/suits/peony#blue-ribbon), [Chrysanthemum](/en/hanafuda/suits/chrysanthemum#blue-ribbon) and [Maple](/en/hanafuda/suits/maple#blue-ribbon)). Players are awarded an additional point for each other Ribbon card.|
 |1|Ribbons - 短冊 [たんざく, *tanzaku*]|Any five Ribbon cards. One additional point is awarded for every additional Ribbon card.|
 |<h2 align="center">Ungrouped Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|The Curtain (Cherry Blossom Bright) and Sake Cup (Chrysanthemum Animal).|
-|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|The Moon (Susuki Grass Bright) and Sake Cup (Chrysanthemum Animal).|
+|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|The [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup).|
+|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|The [Moon](/en/hanafuda/suits/susuki-grass#full-moon) and Sake Cup.|
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.|
 |1|Chaff - カス [かす, *kasu*]|Any ten Chaff cards. One additional point is awarded for every additional Chaff card.
