@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-10-14T04:19:25.636Z
+date: 2020-10-14T04:21:31.059Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -17,7 +17,13 @@ There is no required method for selecting who is the first dealer, though a typi
 Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
 
 If 4 cards of the same suit are dealt to the field at the beginning of a round, generally a misdeal is declared and the same dealer shuffles and distributes cards once more. The same may be true in the case that that 4 pairs of different suits are dealt to the field.
-# Wild Card
+# Gameplay
+Each round, the dealer is the first to play.
+## Turns
+On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
+
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your scoring area categorized by card type.
+## Wild Card
 In Mushi, the Lightning card can be used to capture any other individual card except another Willow. If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
 
 Due to the usage of a wild card, most rounds will end with two unpaired cards - one Willow, and one that matches suit with the card captured by the Lightning. In this case, the last Willow will be added to the score of the player who captured the other two non-wild Willows, and the remaining card is added to the score of the player who used the Lightning.
