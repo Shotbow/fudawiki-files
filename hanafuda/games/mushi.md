@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-10-14T04:46:07.464Z
+date: 2020-10-14T04:48:56.638Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -30,9 +30,7 @@ The current round ends when both players have played 8 turns and thus exhausted 
 
 Due to the usage of a wild card, most rounds will end with two unpaired cards - one Willow, and one that matches the suit of whatever card was captured by the Lightning. In this case, the last Willow will be added to the scoring area of the player who captured the other two non-wild Willows, and the remaining card is added to the scoring area of the player who used the Lightning to capture its mate.
 
-At this point, both players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player's score for the round is calculated as the sum of their captured card points minus 115, plus the value of any captured yaku, minus the value of the opponent's yaku. 
-
-For example, if "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
+At this point, both players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player's score for the round is calculated as the sum of their captured card points minus 115, plus the value of any captured yaku, minus the value of the opponent's yaku. If the agreed upon number of rounds have elapsed or the target score has been reached, whichever player has the greater score would be declared the winner.
 # Card Values
 The values of each card in Mushi are the same as in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), though the reduction in suits leads to different distributions of those card types.
 |Card Type|Value|Number in Deck|
@@ -50,6 +48,8 @@ There are typically only 4 yaku used in Mushi. Players earn points for each of t
 |25|Three Brights - 三光 [さんこ, *sanko*]|[The Crane](/en/hanafuda/suits/pine), [Bush Warbler](/en/hanafuda/suits/plum-blossom), and [Curtain](/en/hanafuda/suits/cherry-blossom). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
 |10|Wisteria Stripe - 藤シマ [ふじしま, *fujishima*]|All 4 [Wisteria](/en/hanafuda/suits/wisteria) cards.|
 |10|Paulownia Stripe - 桐シマ [きりしま, *kirishima*]|All 4 [Paulownia](/en/hanafuda/suits/paulownia) cards.|
+# Scoring Example
+If "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
 # Bibliography
 Duarcain. “Mushi 虫.” *Hanafuda Hub!*, 21 June 2013, duarcain.blogspot.com/2013/06/mushi.html.
 Johnson, Jason, and Antonietta Fazio-Johnson. “Mushi.” *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 38–40. 
