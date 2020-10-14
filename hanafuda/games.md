@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-14T03:46:40.507Z
+date: 2020-10-14T04:09:51.647Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -11,7 +11,10 @@ dateCreated: 2020-09-17T04:23:39.577Z
 # Traditional Games
 This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
+- Atosaki
+- Ayame Katsugi
 - [Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)
+- Batta
 - [Godori (Go-Stop)](/en/hanafuda/games/go-stop)
 - Gomai-Kabu
 - Hachi (Eight)
@@ -20,12 +23,17 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - [Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)
 - Hiki-Kabu
 - Hiyoko
+- Hyaku-Otoshi
 - Ichi-Ni-San (One-Two-Three)
+- Ichi-Soku-Yuki
+- Ino-Shika-Cho
 - Isuri
 - Issoku Iki (One Bunch Goes)
 - Jū-Mai (Ten Cards)
+- Junishi-Awase
 - Kachi-Kachi
 - Kaga
+- Kekoro
 - Kingo
 - [Koi-Koi](/en/hanafuda/games/koi-koi)
 - Kyo-Kabu
@@ -44,11 +52,15 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - San-Zoku Go-Jū (Three Bunches and Fifty)
 - San-Zoku Tsuppari (Three Bunches Palm Thrust)
 - Sen-Roku-Jū (One Thousand Sixty)
+- Sashikomi
 - Seotda
 - Sudaoshi
 - Suhara-Bana
+- Takame
 - Tensho
 - Toppa
+- Yokohama-Bana
+- Yonpin
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
