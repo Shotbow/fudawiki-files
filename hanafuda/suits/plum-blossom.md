@@ -2,13 +2,13 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2020-10-14T21:55:51.673Z
+date: 2020-10-14T22:35:21.395Z
 tags: animals, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:59:51.126Z
 ---
 
-![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)Plum Blossom [梅 - うめ, *ume*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the second suit, representing the month of February [二月 - にがつ, *nigatsu*] or the numeral 2. The cards in this suit all feature plum blossom trees with red blooms and buds. There are two Chaff cards, one Poetry Ribbon, and one Animal. The Animal card of the Plum Blossom suit features a Japanese bush warbler [鴬 - うぐいす, *uguisu*] (sometimes also called a nightingale) perched on the branch of a plum blossom tree.
+![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)Plum Blossom [梅 - うめ, *ume*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. It is generally taken to be the second suit, representing the month of February [二月 - にがつ, *nigatsu*] or the numeral 2. The cards in this suit all feature plum blossom trees with red blooms and buds. There are two Chaff cards, one Poetry Ribbon, and one Animal. The Animal card of the Plum Blossom suit features a Japanese bush warbler [鴬 - うぐいす, *uguisu*] perched on the branch of a plum blossom tree.
 
 In a few games, including Tensho, an alternate month ordering is used, with the Plum Blossom suit representing December or the number 12 instead.
 
@@ -19,4 +19,12 @@ In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warble
 # Poetry Ribbon
 ![A tanzaku ribbon in a plum blossom tree; it reads "あ𛀙よろし"](/sheldonchen-cards/21.svg#float-right,hanafuda-card =150x) Like the [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), the Ribbon on this card usually features the text *aka-yoroshi* in hiragana. This phrase is one name of the "Poetry Ribbons" yaku that consists of this card, the aforementioned Pine Ribbon, and the [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon). This yaku shows up in a large number of games, including Koi-Koi, Go-Stop Six Hundred, and [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), and may also go by "Red Ribbons," "Little Three," or other names.
 # Chaff
-![Stylized plum blossom branch with flowers](/sheldonchen-cards/22.svg#float-right,hanafuda-card =150x)![Stylized plum blossom branch with flowers (mirrored version of the previous card)](/sheldonchen-cards/23.svg#float-right,hanafuda-card =150x)
+![Stylized plum blossom branch with flowers](/sheldonchen-cards/22.svg#float-right,hanafuda-card =150x)![Stylized plum blossom branch with flowers (mirrored version of the previous card)](/sheldonchen-cards/23.svg#float-right,hanafuda-card =150x)As with most suits, there are two Chaff cards in the Plum Blossom suit, often with one card featuring a branch coming from the lower left and the other card featuring a branch coming from the lower right. In some patterns, including [Echigo-Bana](/en/hanafuda/patterns/echigobana), each of the cards is inscribed with half of the following *waka* poem penned by an unknown author.
+
+|Romaji Transcription|English Translation|
+|:---|---:|
+|Uguhisu no|The nightingale's|
+|Nakioto ha siruki|Song is clear|
+|Ume no hana|And the white plum blossom|
+|Iro magahedo ya|Becomes lost|
+|Yuki no fururan.|In the  falling  snow.|
