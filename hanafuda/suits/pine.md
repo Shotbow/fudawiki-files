@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2020-10-14T05:17:19.733Z
+date: 2020-10-14T05:28:24.612Z
 tags: brights, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:46:58.158Z
@@ -12,3 +12,10 @@ Pine [松 - まつ, *matsu*] is the name of a [suit](/en/hanafuda/suits) in trad
 
 ![Icon for month 1](/hanafuda/icons/monthicon_1.png)
 
+# Crane with Sun
+![10.svg](/sheldonchen-cards/10.svg =150x)
+# Red Ribbon with Kana
+![11.svg](/sheldonchen-cards/11.svg =150x)
+# Chaff
+![12.svg](/sheldonchen-cards/12.svg =150x)
+![13.svg](/sheldonchen-cards/13.svg =150x)
