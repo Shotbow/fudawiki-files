@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-06T06:13:04.975Z
+date: 2020-10-14T03:46:40.507Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -73,6 +73,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - [Comet and Constellations](/comet__constellations_v4.0.pdf)
 - Triple Threat
 ## Ryan Sartor
+- Black Flower
 - [600 Hearts](/newgames/600_hearts_v2.1.pdf)
 - Hana-Hearts
 - Koi-Fish
