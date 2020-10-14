@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2020-10-14T22:35:21.395Z
+date: 2020-10-14T22:36:50.693Z
 tags: animals, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:59:51.126Z
@@ -28,3 +28,5 @@ In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warble
 |Ume no hana|And the white plum blossom|
 |Iro magahedo ya|Becomes lost|
 |Yuki no fururan.|In the  falling  snow.|
+# Bibliography
+Fairbairn, John. “The Poems of the Echigobana.” Journal of the International Playing Card Society, Edited by Trevor Denning, XIV, no. 4, May 1986, pp. 97–102. 
