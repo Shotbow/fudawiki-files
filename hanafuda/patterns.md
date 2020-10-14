@@ -2,7 +2,7 @@
 title: List of Hanafuda Patterns
 description: A list of known traditional card patterns
 published: true
-date: 2020-10-09T04:26:01.780Z
+date: 2020-10-14T05:18:15.503Z
 tags: hanafuda patterns, lists
 editor: markdown
 dateCreated: 2020-09-18T19:57:54.024Z
@@ -20,3 +20,4 @@ For patterns featuring a particular cultural theme or intellectual property, see
 - Hokkai-Bana
 - [Mushi-Bana (Insect Flowers)](/en/hanafuda/patterns/mushibana)
 - Yamagata-Bana
+- Yokohama-Bana
