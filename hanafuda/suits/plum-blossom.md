@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2020-10-14T22:36:50.693Z
+date: 2020-10-14T22:41:59.694Z
 tags: animals, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:59:51.126Z
@@ -13,7 +13,7 @@ dateCreated: 2020-10-09T04:59:51.126Z
 In a few games, including Tensho, an alternate month ordering is used, with the Plum Blossom suit representing December or the number 12 instead.
 
 # Bush Warbler
-![A green and yellow bush warbler, perched on a tree with red plum blossoms, with red clouds above](/sheldonchen-cards/20.svg#float-right,hanafuda-card =150x) The Bush Warbler is also known as the "Nightingale" in some English sources. In [Koi-Koi](/en/hanafuda/games/koi-koi) it contributes to the generic "Animals" yaku, but in other games it may take on a more specific role. In [Go-Stop], for instance, it combines with the [Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) and [Geese](/en/hanafuda/suits/susuki-grass#geese) to make the valuable "Five Birds" yaku.
+![A green and yellow bush warbler, perched on a tree with red plum blossoms, with red clouds above](/sheldonchen-cards/20.svg#float-right,hanafuda-card =150x) The Bush Warbler is also known as the "Nightingale" in some English sources. In [Koi-Koi](/en/hanafuda/games/koi-koi) it contributes to the generic "Animals" yaku, but in other games it may take on a more specific role. In [Go-Stop](/en/hanafuda/games/go-stop), for instance, it combines with the [Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon) and [Geese](/en/hanafuda/suits/susuki-grass#geese) to make the valuable "Five Birds" yaku.
 
 In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warbler is a de-facto Bright card, being worth more points than the other Animals, and forming the "Big Three" yaku when combined with the [Crane](/en/hanafuda/suits/pine#crane-with-sun) and [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). The same combination of cards is also used in other games, including [Mushi](/en/hanafuda/games/mushi) where the yaku is called "Three Brights."
 # Poetry Ribbon
