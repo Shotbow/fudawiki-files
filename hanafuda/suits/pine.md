@@ -2,7 +2,7 @@
 title: Pine
 description: The first suit in hanafuda, representing January or the number 1
 published: true
-date: 2020-10-14T17:16:05.821Z
+date: 2020-10-14T17:20:31.637Z
 tags: brights, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:46:58.158Z
@@ -21,5 +21,4 @@ In [Koi-Koi](/en/hanafuda/games/koi-koi), the Crane plays a role in the series o
 ![A tanzaki ribbon among pine trees, it reads "あ𛀙よろし"](/sheldonchen-cards/11.svg#float-right,hanafuda-card =150x)
 In the [standard hanafuda design](/en/hanafuda/patterns/hachihachibana), the Ribbon on this card features the phrase "Aka-yoroshi" written in hiragana, using a hentaigana character in place of the standard "ka." This refers to one name of the yaku known more commonly today as "Aka-Tan," or "Red Ribbons," which includes this card as well as the Ribbons of the [Plum Blossom](/en/hanafuda/suits/plum-blossom) and [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) suits, and is featured in a large number of games.
 # Chaff
-![Stylized Pine trees](/sheldonchen-cards/12.svg#hanafuda-card =150x)
-![Stylized Pine Trees (mirrored version of the previous card)](/sheldonchen-cards/13.svg#hanafuda-card =150x)
+![Stylized Pine trees](/sheldonchen-cards/12.svg#hanafuda-card =150x) ![Stylized Pine Trees (mirrored version of the previous card)](/sheldonchen-cards/13.svg#hanafuda-card =150x)
