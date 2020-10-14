@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-10-14T04:21:31.059Z
+date: 2020-10-14T04:46:07.464Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -25,8 +25,14 @@ On your turn, choose one card from your hand to play to the field. If it matches
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your scoring area categorized by card type.
 ## Wild Card
 In Mushi, the Lightning card can be used to capture any other individual card except another Willow. If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
+## End of Round
+The current round ends when both players have played 8 turns and thus exhausted their hands.
 
-Due to the usage of a wild card, most rounds will end with two unpaired cards - one Willow, and one that matches suit with the card captured by the Lightning. In this case, the last Willow will be added to the score of the player who captured the other two non-wild Willows, and the remaining card is added to the score of the player who used the Lightning.
+Due to the usage of a wild card, most rounds will end with two unpaired cards - one Willow, and one that matches the suit of whatever card was captured by the Lightning. In this case, the last Willow will be added to the scoring area of the player who captured the other two non-wild Willows, and the remaining card is added to the scoring area of the player who used the Lightning to capture its mate.
+
+At this point, both players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player's score for the round is calculated as the sum of their captured card points minus 115, plus the value of any captured yaku, minus the value of the opponent's yaku. 
+
+For example, if "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
 # Card Values
 The values of each card in Mushi are the same as in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), though the reduction in suits leads to different distributions of those card types.
 |Card Type|Value|Number in Deck|
