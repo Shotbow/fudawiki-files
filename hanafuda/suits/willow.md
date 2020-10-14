@@ -2,13 +2,13 @@
 title: Willow
 description: The eleventh suit in hanafuda, usually representing November or the number 11
 published: true
-date: 2020-10-13T10:11:01.568Z
+date: 2020-10-14T20:07:29.212Z
 tags: animals, brights, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T23:03:00.858Z
 ---
 
-Willow [柳 - やなぎ, *yanagi*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. In the standard Japanese ordering, it is generally taken to be the eleventh suit, representing the month of November [十一月 - じゅういちがつ, *jūichigatsu*] or the numeral 11. Originally, the cards in this suit all featured willow trees with hanging branches. There is one Chaff card, one Plain Ribbon, one Animal, and one Bright.
+![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x)Willow [柳 - やなぎ, *yanagi*] is the name of a [suit](/en/hanafuda/suits) in traditional [hanafuda](/en/hanafuda) decks. In the standard Japanese ordering, it is generally taken to be the eleventh suit, representing the month of November [十一月 - じゅういちがつ, *jūichigatsu*] or the numeral 11. Originally, the cards in this suit all featured willow trees with hanging branches. There is one Chaff card, one Plain Ribbon, one Animal, and one Bright.
 
 The Willow Chaff is known as the Lightning card [鬼札 - おにふだ, *onifuda*, lit. "demon card"], and in the modern [hachihachibana](/en/hanafuda/patterns/hachihachibana) pattern the hanging willow branches on it have been altered to a more abstract grey and red cyclone shape, with various details (such as drums, windmills, a demon's claw, etc.) underlying the coloration, depending on the specific deck.
 
@@ -16,4 +16,11 @@ The other three cards of the suit have maintained the willow tree motif. The Ani
 
 In a few games, including Tensho, an alternate month ordering is used, with the Willow suit representing February or the number 2 instead. On the other hand, in the [Korean](/en/hanafuda/hwatu) suit order, Willow is considered to represent December or the number 12.
 
-![Icon for month 11](/hanafuda/icons/monthicon_11.png)
+# Rain Man
+![110.svg](/sheldonchen-cards/110.svg#float-right,hanafuda-card =150x)
+# Swallow
+![111.svg](/sheldonchen-cards/111.svg#float-right,hanafuda-card =150x)
+# Plain Ribbon
+![112.svg](/sheldonchen-cards/112.svg#float-right,hanafuda-card =150x)
+# Lightning
+![113.svg](/sheldonchen-cards/113.svg#float-right,hanafuda-card =150x)
