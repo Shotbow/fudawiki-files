@@ -2,7 +2,7 @@
 title: Wisteria
 description: The fourth suit in hanafuda, representing April or the number 4
 published: true
-date: 2020-10-14T21:57:06.005Z
+date: 2020-10-17T16:07:13.832Z
 tags: animals, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T19:42:18.155Z
@@ -14,4 +14,11 @@ dateCreated: 2020-10-11T19:42:18.155Z
 # Plain Ribbon
 ![41.svg](/sheldonchen-cards/41.svg#float-right,hanafuda-card =150x)
 # Chaff
-![42.svg](/sheldonchen-cards/42.svg#float-right,hanafuda-card =150x)![43.svg](/sheldonchen-cards/43.svg#float-right,hanafuda-card =150x)
+![42.svg](/sheldonchen-cards/42.svg#float-right,hanafuda-card =150x)![43.svg](/sheldonchen-cards/43.svg#float-right,hanafuda-card =150x)This suit, like most, has two Chaff cards. In some older [patterns](/en/hanafuda/patterns) such as [echigobana](/en/hanafuda/patterns/echigobana) each of these will feature half of the following *waka* poem, of dubious authorship.
+|Japanese|Romaji Transcription|English Translation|
+|:---|:---:|---:|
+|-||
+|-||
+|-||
+|-||
+|-||
