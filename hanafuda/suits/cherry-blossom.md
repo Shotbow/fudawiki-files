@@ -2,7 +2,7 @@
 title: Cherry Blossom
 description: The third suit in hanafuda, representing March or the number 3
 published: true
-date: 2020-10-17T05:24:05.518Z
+date: 2020-10-17T05:27:50.492Z
 tags: brights, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T05:09:54.903Z
@@ -19,5 +19,5 @@ In Six Hundred, when captured alongside the other cards of its suit, it forms "C
 # Poetry Ribbon
 ![31.svg](/sheldonchen-cards/31.svg#float-right,hanafuda-card =150x)The Cherry Blossom Ribbon combines with the [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon) and [Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon) in a large number of games to form the yaku variously called "Poetry Ribbons," "Red Ribbons," "Small Three," etc. Unlike the other two Poetry Ribbons, which read "akayoroshi," this card's ribbon features the text "Miyoshino" in hiragana, referring to the town of Yoshino, Nara, which is known for its beautiful cherry blossoms. This is seen even in older [patterns](/en/hanafuda/patterns) that do not have text on the other two Poetry Ribbons.
 # Chaff
-![32.svg](/sheldonchen-cards/32.svg#float-right,hanafuda-card =150x)![33.svg](/sheldonchen-cards/33.svg#float-right,hanafuda-card =150x)
+![32.svg](/sheldonchen-cards/32.svg#float-right,hanafuda-card =150x)![33.svg](/sheldonchen-cards/33.svg#float-right,hanafuda-card =150x)The two Chaff cards of this suit feature upward-branching cherry blossoms, usually pink and red in color. As with many other suits, these cards are often visually weighted in opposite directions from one another, one to the left and one to the right.
 
