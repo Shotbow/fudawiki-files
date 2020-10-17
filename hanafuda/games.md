@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-17T06:05:37.684Z
+date: 2020-10-17T16:34:16.633Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -12,15 +12,17 @@ dateCreated: 2020-09-17T04:23:39.577Z
 This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 ## Popular Games
 These games are relatively widely known, and quite frequently show up in rule books and video games.
-- [Godori (Go-Stop)](/en/hanafuda/games/go-stop)
-- [Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)
-- [Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)
-- [Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)
-- [Mushi (Insect)](/en/hanafuda/games/mushi)
-- Oicho-Kabu (Eight-Nine)
-- [Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)
-- Sudaoshi
-- [Sakura (Higo-Bana)](/en/hanafuda/games/sakura)
+|Game|Players|Family|Origin|
+|:---|:---:|:---:|---:|
+|[Godori (Go-Stop)](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
+|[Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Japan|
+|[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-3|Fishing|Japan|
+|[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
+|[Mushi (Insect)](/en/hanafuda/games/mushi)|2|Fishing|Osaka, Japan|
+|Oicho-Kabu (Eight-Nine)|2-8|Banking|Japan|
+|[Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
+|Sudaoshi|3|Fishing|Japan|
+|[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo, Japan|
 ## Other Traditional Games
 - Atosaki
 - Ayame Katsugi
