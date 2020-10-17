@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-17T16:34:16.633Z
+date: 2020-10-17T16:36:15.509Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -19,7 +19,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-3|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
 |[Mushi (Insect)](/en/hanafuda/games/mushi)|2|Fishing|Osaka, Japan|
-|Oicho-Kabu (Eight-Nine)|2-8|Banking|Japan|
+|Oicho-Kabu (Eight-Nine)|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |Sudaoshi|3|Fishing|Japan|
 |[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo, Japan|
