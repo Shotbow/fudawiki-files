@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-14T04:09:51.647Z
+date: 2020-10-17T06:05:37.684Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -10,19 +10,35 @@ dateCreated: 2020-09-17T04:23:39.577Z
 
 # Traditional Games
 This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
-
+## Popular Games
+These games are relatively widely known, and quite frequently show up in rule books and video games.
+- [Godori (Go-Stop)](/en/hanafuda/games/go-stop)
+- [Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)
+- [Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)
+- [Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)
+- [Mushi (Insect)](/en/hanafuda/games/mushi)
+- Oicho-Kabu (Eight-Nine)
+- [Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)
+- Sudaoshi
+- [Sakura (Higo-Bana)](/en/hanafuda/games/sakura)
+## Other Traditional Games
 - Atosaki
 - Ayame Katsugi
 - [Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)
 - Batta
-- [Godori (Go-Stop)](/en/hanafuda/games/go-stop)
+- Bozu-Mekuri
+- Dobutsu-Asobi
+- Fuda-Awase
+- Fuda-Narabe
+- Fuda-Okoshi
+- Fuda-Soroe
+- Fuda-Tsukami
 - Gomai-Kabu
 - Hachi (Eight)
-- [Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)
 - [Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)
-- [Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)
 - Hiki-Kabu
 - Hiyoko
+- Hon-Bana
 - Hyaku-Otoshi
 - Ichi-Ni-San (One-Two-Three)
 - Ichi-Soku-Yuki
@@ -35,18 +51,15 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Kaga
 - Kekoro
 - Kingo
-- [Koi-Koi](/en/hanafuda/games/koi-koi)
 - Kyo-Kabu
+- Kyuten-Tori
 - Min-Hwatu
-- [Mushi (Insect)](/en/hanafuda/games/mushi)
 - Ni-Shi-Roku (Two-Four-Six)
-- Oicho-Kabu (Eight-Nine)
 - Oni Koi-Koi
+- Oni-Nuki
 - Poka
 - Roku-Tan (Six Scrolls)
-- [Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)
 - Saburokku (Three-Six-Nine)
-- [Sakura (Higo-Bana)](/en/hanafuda/games/sakura)
 - San-Jū Tsuppari (Thirty Palm Thrust)
 - Sanuki Mekuri
 - San-Zoku Go-Jū (Three Bunches and Fifty)
@@ -54,13 +67,16 @@ This is a list of known hanafuda games, arranged alphabetically and with links t
 - Sen-Roku-Jū (One Thousand Sixty)
 - Sashikomi
 - Seotda
-- Sudaoshi
 - Suhara-Bana
 - Takame
 - Tensho
 - Toppa
+- Towashi
+- Tsuki-Ate
+- Yaku-Bana
 - Yokohama-Bana
 - Yonpin
+- Ze-kan
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
