@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-17T17:52:25.012Z
+date: 2020-10-17T21:55:48.828Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -33,8 +33,12 @@ These games, while not as widespread today as those listed above, are variously 
 - Ayame Katsugi
 - [Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)
 - Batta
+- Batta Maki
 - Bozu-Mekuri
+- Chunchun
 - Dobutsu-Asobi
+- Echobo
+- Enshu-Hana
 - Fuda-Awase
 - Fuda-Narabe
 - Fuda-Okoshi
@@ -44,7 +48,7 @@ These games, while not as widespread today as those listed above, are variously 
 - Hachi (Eight)
 - [Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)
 - Hiki-Kabu
-- Hiyoko
+- Hiyoko (Chick)
 - Hon-Bana
 - Hyaku-Otoshi
 - Ichi-Ni-San (One-Two-Three)
@@ -58,28 +62,39 @@ These games, while not as widespread today as those listed above, are variously 
 - Kaga
 - Kekoro
 - Kingo
+- Koi-Koi no Ato-Saki
 - Kyo-Kabu
+- Kyū-Rei Hana (Ninety Flowers)
 - Kyuten-Tori
+- Matsu-Kiri-Bōzu
 - Min-Hwatu
+- Moto Taoshi
 - Ni-Shi-Roku (Two-Four-Six)
 - Oni Koi-Koi
 - Oni-Nuki
+- Oto-Roku
 - Poka
 - Roku-Tan (Six Scrolls)
+- Roku-Wari
 - Saburokku (Three-Six-Nine)
 - San-Jū Tsuppari (Thirty Palm Thrust)
 - Sanuki Mekuri
 - San-Zoku Go-Jū (Three Bunches and Fifty)
 - San-Zoku Tsuppari (Three Bunches Palm Thrust)
-- Sen-Roku-Jū (One Thousand Sixty)
 - Sashikomi
+- Sendai-Hana
+- Sen-Roku-Jū (One Thousand Sixty)
 - Seotda
+- Shi-Ichi (Four-One)
+- Sotta
 - Suhara-Bana
+- Sutda
 - Takame
 - Tensho
 - Toppa
 - Towashi
 - Tsuki-Ate
+- Yatchaba
 - Yaku-Bana
 - Yokohama-Bana
 - Yonpin
