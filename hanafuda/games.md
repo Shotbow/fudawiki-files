@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-17T17:21:25.241Z
+date: 2020-10-17T17:51:51.668Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -26,6 +26,9 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |Sudaoshi|3|Fishing|Japan|
 |[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo, Japan|
 ## Other Traditional Games
+These games, while not as widespread today as those listed above, are variously attested and referenced in historical documents or some rule books.
+|Game|Players|Family|Origin|
+|:---|:---:|:---:|---:|
 - Atosaki
 - Ayame Katsugi
 - [Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)
