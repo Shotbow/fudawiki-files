@@ -2,7 +2,7 @@
 title: Wisteria
 description: The fourth suit in hanafuda, representing April or the number 4
 published: true
-date: 2020-10-18T04:05:12.320Z
+date: 2020-10-18T04:08:29.871Z
 tags: animals, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T19:42:18.155Z
@@ -15,7 +15,7 @@ dateCreated: 2020-10-11T19:42:18.155Z
 ![41.svg](/sheldonchen-cards/41.svg#float-right,hanafuda-card =150x)This card combines with the [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon) and [Bush Clover Ribbon](/en/hanafuda/suits/bush-clover#plain-ribbon) in some games such as Go-Stop to form the "Grass Ribbons" yaku. In many other games such as [Koi-Koi](/en/hanafuda/games/koi-koi) and Six Hundred it merely contributes to generic Ribbon yaku.
 # Chaff
 ![42.svg](/sheldonchen-cards/42.svg#float-right,hanafuda-card =150x)![43.svg](/sheldonchen-cards/43.svg#float-right,hanafuda-card =150x)This suit, like most, has two Chaff cards. In some older [patterns](/en/hanafuda/patterns) such as [echigobana](/en/hanafuda/patterns/echigobana) each of these will feature half of the following *waka* poem, of dubious authorship.
-|Japanese|Romaji Transcription|English Translation|
+|Japanese|Rōmaji|English|
 |:---|:---:|---:|
 |-|Waga yado no|The waves of wisteria by the pond|
 |-|ike no huzinami|at my house|
