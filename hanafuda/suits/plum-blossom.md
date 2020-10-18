@@ -2,7 +2,7 @@
 title: Plum Blossom
 description: The second suit in hanafuda, usually representing February or the number 2
 published: true
-date: 2020-10-17T16:02:06.106Z
+date: 2020-10-18T04:07:55.756Z
 tags: animals, hanafuda suits, poetry ribbons
 editor: markdown
 dateCreated: 2020-10-09T04:59:51.126Z
@@ -21,7 +21,7 @@ In most versions of [Six Hundred](/en/hanafuda/games/roppyakken) the Bush Warble
 # Chaff
 ![Stylized plum blossom branch with flowers](/sheldonchen-cards/22.svg#float-right,hanafuda-card =150x)![Stylized plum blossom branch with flowers (mirrored version of the previous card)](/sheldonchen-cards/23.svg#float-right,hanafuda-card =150x)As with most suits, there are two Chaff cards in the Plum Blossom suit, often with one card featuring a branch coming from the lower left and the other card featuring a branch coming from the lower right. In some patterns, including [Echigo-Bana](/en/hanafuda/patterns/echigobana), each of the cards is inscribed with half of the following *waka* poem penned by an unknown author.
 
-|Japanese|Romaji Transcription|English Translation|
+|Japanese|Rōmaji|English|
 |:---|:---:|---:|
 |-|Uguhisu no|The nightingale's|
 |-|nakioto ha siruki|song is clear|
