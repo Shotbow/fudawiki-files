@@ -2,7 +2,7 @@
 title: Iris
 description: The fifth suit in hanafuda, representing May or the number 5
 published: true
-date: 2020-10-14T19:51:04.146Z
+date: 2020-10-18T04:23:05.462Z
 tags: animals, hanafuda suits, plain ribbons
 editor: markdown
 dateCreated: 2020-10-11T19:52:41.530Z
@@ -14,4 +14,11 @@ dateCreated: 2020-10-11T19:52:41.530Z
 # Plain Ribbon
 ![51.svg](/sheldonchen-cards/51.svg#float-right,hanafuda-card =150x)
 # Chaff
-![52.svg](/sheldonchen-cards/52.svg#float-right,hanafuda-card =150x)![53.svg](/sheldonchen-cards/53.svg#float-right,hanafuda-card =150x)
+![52.svg](/sheldonchen-cards/52.svg#float-right,hanafuda-card =150x)![53.svg](/sheldonchen-cards/53.svg#float-right,hanafuda-card =150x) The Iris suit, like most, contains two Chaff cards. In some designs, notably the [echigobana] pattern, these cards will each contain half of the following acrostic poem from Section IX of the Tales of Ise. The first syllable of each line, when added together, spell "kakituhata," an older pronunciation of "kakitsubata," which is another name in Japanese for the iris.
+|Japanese|Rōmaji|English|
+|:---|:---:|---:|
+|-|Karagoromo|I have a wife|
+|-|kitutu narenisi|as close to me|
+|-|tuma si areba|as a silken gown,|
+|-|harubaru kinuru|and so I feel sad|
+|-|tabi wo si zo omofu|to have journeyed so far.|
