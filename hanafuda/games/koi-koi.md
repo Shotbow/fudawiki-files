@@ -2,15 +2,15 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-10-14T20:26:28.364Z
+date: 2020-10-19T04:42:14.976Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-Koi-Koi [こいこい] is among the best-known [hanafuda](/en/hanafuda) games outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
+Koi-Koi [こいこい] is among the best-known [hanafuda](/en/hanafuda) [games](/en/hanafuda/games) outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
 
-This game seems to have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic.
+This game may have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic.
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
