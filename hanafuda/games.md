@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-17T21:55:48.828Z
+date: 2020-10-20T17:43:29.517Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -137,3 +137,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - [Oh No!](/70_no_oh_no_v2.pdf)
 - [Untitled 1](/this_is_some_game_that_i_made_up.pdf)
 - [Untitled 2](/untitled_2.pdf)
+## Shodo Watanabe
+- Mekuri-Kabu (Turning Up Nine)
+- Oni-Mawashi (Demon's Belt)
+- Tsuki-Narabe (Month Arrangement)
+- Yon-San (Four-Three)
