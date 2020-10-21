@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T19:44:16.151Z
+date: 2020-10-21T20:02:36.508Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -21,9 +21,9 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
 |[Mushi (Insect)](/en/hanafuda/games/mushi)|2|Fishing|Osaka, Japan|
-|Oicho-Kabu (Eight-Nine)|2-10|Banking|Japan|
+|Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
-|Sudaoshi|3|Fishing|Japan|
+|Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
 |[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
@@ -40,7 +40,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Dobutsu-Asobi|
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
-|Echobo|
+|Echobo|2+|Banking|Japan|
 |Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
 |Fuda-Awase|
 |Fuda-Narabe|
@@ -56,7 +56,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Hyaku-Otoshi|
 |Ichi-Ni-San (One-Two-Three)|3|Fishing|Japan|
 |Ichi-Soku-Yuki|
-|Ino-Shika-Cho|
+|Ino-Shika-Cho|2+|Banking|Japan|
 |Isuri|2-3|Sequence|Japan|
 |Issoku Iki (One Bunch Goes)|2|Fishing|Japan|
 |Jū-Mai (Ten Cards)|2|Fishing|Japan|
@@ -65,7 +65,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Kaga|2|Fishing|Kaga Province, Japan|
 |Kekoro|
 |Kingo|2-10|Showdown|-|
-|Koi-Koi no Ato-Saki|
+|Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |Kyo-Kabu|2-10|Banking|Japan|
 |Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Kyuten-Tori|
@@ -76,10 +76,10 @@ These games, while not as widespread today as those listed above, are variously 
 |Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
 |Oni Koi-Koi|2|Fishing|Gifu, Japan|
 |Oni-Nuki|
-|Oto-Roku|
+|Oto-Roku|5-6|Showdown|Tōkai region, Japan|
 |Poka|2|Sequence|-|
 |Roku-Tan (Six Scrolls)|2|Japan|
-|Roku-Wari|
+|Roku-Wari|2+|Showdown|Tōkai region, Japan|
 |Saburokku (Three-Six-Nine)|3|Fishing|Japan|
 |San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
 |Sanuki Mekuri|2|Fishing|Japan|
@@ -88,7 +88,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Sashikomi|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
-|Seotda|2-6|Showdown|-|
+|Seotda|2-10|Showdown|Korea|
 |Shi-Ichi (Four-One)|
 |Suhara-Bana|
 |Sutda|2-10|Showdown|-|
@@ -98,11 +98,11 @@ These games, while not as widespread today as those listed above, are variously 
 |Toppa (Eighteen)|
 |Towashi|
 |Tsuki-Ate|
-|Yatchaba|
+|Yatchaba|4-6|-|-|
 |Yaku-Bana|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
 |Yokohama-Bana|
-|Yonpin|
+|Yon-Pin (Four-Ace)|2+|Showdown|Japan|
 |Ze-kan|
 
 # Modern Games
