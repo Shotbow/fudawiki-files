@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T06:30:39.948Z
+date: 2020-10-21T06:39:12.732Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -11,7 +11,7 @@ dateCreated: 2020-09-17T04:23:39.577Z
 # Traditional Games
 This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
-There are three major families to which hanafuda games tend to belong. Fishing (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. Showdown games involve players comparing their hands to determine the winner, and include as a subcategory Banking games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent. Climbing (or "Sequence") games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents. Other families of games are described [here](https://www.pagat.com/class/#mechanism).
+There are three major families to which hanafuda games tend to belong. Fishing (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. Showdown games involve players comparing their hands to determine the winner, and include as a subcategory Banking games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent. Sequence games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents. Other families of games are described [here](https://www.pagat.com/class/#mechanism).
 ## Popular Games
 These games are relatively widely known, and quite frequently show up in rule books and video games.
 |Game|Players|Family|Origin|
@@ -116,10 +116,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Hachi (Simplified)|2|Fishing|
 |Hana-Gin|2|Draw and Discard|
 |Hana-Rumi|2-4|Draw and Discard|
-|Hiyoko (Simplified)|2-4|Climbing|
-|Isuri (Simplified)|2-3|Climbing|
-|Kage|2|Climbing|
-|Orochi|2-4|Climbing|
+|Hiyoko (Simplified)|2-4|Sequence|
+|Isuri (Simplified)|2-3|Sequence|
+|Kage|2|Sequence|
+|Orochi|2-4|Sequence|
 |Simplified Game for Beginners|2-4|Fishing|
 |Sutda (Simplified)|2-10|Showdown|
 |Tensho (Simplified)|2|Fishing|
@@ -131,7 +131,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Game|Players|Family|
 |:---|:---:|---:|
 |[Comet and Constellations](/comet__constellations_v4.0.pdf)|4|-|
-|Triple Threat|||
+|Triple Threat|3-4|Climbing|
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
