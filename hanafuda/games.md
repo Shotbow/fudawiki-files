@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T20:26:10.837Z
+date: 2020-10-21T20:26:43.074Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -16,7 +16,7 @@ There are three major families to which hanafuda games tend to belong. Fishing (
 These games are relatively widely known, and quite frequently show up in rule books and video games.
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|[Godori (Go-Stop)](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
+|[Godori (Five Birds), a.k.a. Go-Stop](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
 |[Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Japan|
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
