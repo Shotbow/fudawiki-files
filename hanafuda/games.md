@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T07:01:38.367Z
+date: 2020-10-21T07:30:51.747Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -18,7 +18,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |:---|:---:|:---:|---:|
 |[Godori (Go-Stop)](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
 |[Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Japan|
-|[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-3|Fishing|Japan|
+|[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
 |[Mushi (Insect)](/en/hanafuda/games/mushi)|2|Fishing|Osaka, Japan|
 |Oicho-Kabu (Eight-Nine)|2-10|Banking|Japan|
@@ -44,36 +44,36 @@ These games, while not as widespread today as those listed above, are variously 
 |Fuda-Okoshi|
 |Fuda-Soroe|
 |Fuda-Tsukami|
-|Gomai-Kabu|
+|Gomai-Kabu|8|Showdown|Japan|
 |Hachi (Eight)|2|Fishing|Japan|
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
-|Hiki-Kabu|
-|Hiyoko (Chick)|
+|Hiki-Kabu|2-10|Showdown|Japan|
+|Hiyoko (Chick)|2-4|Sequence|Japan|
 |Hon-Bana|
 |Hyaku-Otoshi|
 |Ichi-Ni-San (One-Two-Three)|
 |Ichi-Soku-Yuki|
 |Ino-Shika-Cho|
-|Isuri|
+|Isuri|2-3|Sequence|Japan|
 |Issoku Iki (One Bunch Goes)|
 |Jū-Mai (Ten Cards)|
 |Junishi-Awase|
 |Kachi-Kachi|
 |Kaga|
 |Kekoro|
-|Kingo|
+|Kingo|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|
-|Kyo-Kabu|
+|Kyo-Kabu|2-10|Banking|Japan|
 |Kyū-Rei Hana (Ninety Flowers)|
 |Kyuten-Tori|
 |Matsu-Kiri-Bōzu|
-|Min-Hwatu|
+|Min-Hwatu|2-3|Fishing|Korea|
 |Moto Taoshi|
 |Ni-Shi-Roku (Two-Four-Six)|
-|Oni Koi-Koi|
+|Oni Koi-Koi|2|Fishing|Japan|
 |Oni-Nuki|
 |Oto-Roku|
-|Poka|
+|Poka|2|Sequence|-|
 |Roku-Tan (Six Scrolls)|
 |Roku-Wari|
 |Saburokku (Three-Six-Nine)|
@@ -84,14 +84,13 @@ These games, while not as widespread today as those listed above, are variously 
 |Sashikomi|
 |Sendai-Hana|
 |Sen-Roku-Jū (One Thousand Sixty)|
-|Seotda|
+|Seotda|2-6|Showdown|-|
 |Shi-Ichi (Four-One)|
-|Sotta|
 |Suhara-Bana|
-|Sutda|
+|Sutda|2-10|Showdown|-|
 |Takame|
-|Tensho|
-|Toppa|
+|Tensho|2|Fishing|Japan|
+|Toppa (Eighteen)|
 |Towashi|
 |Tsuki-Ate|
 |Yatchaba|
