@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T17:19:12.106Z
+date: 2020-10-21T19:44:16.151Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -24,21 +24,24 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |Oicho-Kabu (Eight-Nine)|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |Sudaoshi|3|Fishing|Japan|
-|[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo, Japan|
+|[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |Atosaki|
+|Akita-Bana|-|Fishing|Akita, Japan|
 |Ayame Katsugi|
 |[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
 |Batta|
-|Batta Maki|
+|Batta Maki|2+|Showdown|Japan|
+|Bizen-Bana|-|Fishing|Bizen Province, Japan|
 |Bozu-Mekuri|
-|Chunchun|
+|Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Dobutsu-Asobi|
+|Echigo-Bana|-|Fishing|Echigo Province, Japan|
 |Echobo|
-|Enshu-Hana|
+|Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
 |Fuda-Awase|
 |Fuda-Narabe|
 |Fuda-Okoshi|
@@ -59,18 +62,19 @@ These games, while not as widespread today as those listed above, are variously 
 |Jū-Mai (Ten Cards)|2|Fishing|Japan|
 |Junishi-Awase|
 |Kachi-Kachi|
-|Kaga|
+|Kaga|2|Fishing|Kaga Province, Japan|
 |Kekoro|
 |Kingo|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|
 |Kyo-Kabu|2-10|Banking|Japan|
-|Kyū-Rei Hana (Ninety Flowers)|
+|Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Kyuten-Tori|
-|Matsu-Kiri-Bōzu|
+|Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |Min-Hwatu|2-3|Fishing|Korea|
 |Moto Taoshi|
+|Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
 |Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
-|Oni Koi-Koi|2|Fishing|Japan|
+|Oni Koi-Koi|2|Fishing|Gifu, Japan|
 |Oni-Nuki|
 |Oto-Roku|
 |Poka|2|Sequence|-|
@@ -82,19 +86,21 @@ These games, while not as widespread today as those listed above, are variously 
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
 |Sashikomi|
-|Sendai-Hana|
+|Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
 |Seotda|2-6|Showdown|-|
 |Shi-Ichi (Four-One)|
 |Suhara-Bana|
 |Sutda|2-10|Showdown|-|
 |Takame|
+|Tehonbiki|2+|Banking|Japan|
 |Tensho|2|Fishing|Japan|
 |Toppa (Eighteen)|
 |Towashi|
 |Tsuki-Ate|
 |Yatchaba|
 |Yaku-Bana|
+|Yamagata-Bana|-|Fishing|Yamagata, Japan|
 |Yokohama-Bana|
 |Yonpin|
 |Ze-kan|
