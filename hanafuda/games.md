@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T06:45:46.663Z
+date: 2020-10-21T07:01:38.367Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -130,8 +130,8 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Long Beak
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Comet and Constellations](/comet__constellations_v4.0.pdf)|4|-|
-|Triple Threat|3-4|Climbing|
+|[Comet and Constellations](/comet__constellations_v4.0.pdf)|4|Draw and Discard|
+|[Triple Threat](/newgames/triple_threat_2-1.pdf)|3-4|Climbing|
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
