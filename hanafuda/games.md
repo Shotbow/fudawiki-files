@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T17:03:51.318Z
+date: 2020-10-21T17:10:42.156Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -104,7 +104,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## CC
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Sangohana (Coral Flowers)](http://cartacc.g1.xrea.com/sangohana.html)
+|[Sangohana (Three-Five Flowers)](http://cartacc.g1.xrea.com/sangohana.html)|2-4|Draw and Discard|
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
