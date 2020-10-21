@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T04:41:08.573Z
+date: 2020-10-21T05:09:07.623Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -135,12 +135,12 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
-|Black Flower
-|[600 Hearts](/newgames/600_hearts_v2.1.pdf)
-|Hana-Hearts
-|Koi-Fish
-|Po-Koi
-|[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)
+|Black Flower|2-10|Banking|
+|[600 Hearts](/newgames/600_hearts_v2.1.pdf)|2-4|Trick-Taking|
+|Hana-Hearts|2-5|Trick-Taking|
+|Koi-Fish|2-6|Quartet|
+|Po-Koi|2-5|Vying|
+|[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Patience|
 ## Sumo-No-Z
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -148,11 +148,11 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Suryong
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Judge](/judge_v1.1.pdf)
-|[Match-3 Solitaire](/match_3_solitaire.pdf)
-|[Oh No!](/70_no_oh_no_v2.pdf)
-|[Untitled 1](/this_is_some_game_that_i_made_up.pdf)
-|[Untitled 2](/untitled_2.pdf)
+|[Judge](/judge_v1.1.pdf)|2|War|
+|[Match-3 Solitaire](/match_3_solitaire.pdf)|1|Patience|
+|[Oh No!](/70_no_oh_no_v2.pdf)|2-6|Adding|
+|[Untitled 1](/this_is_some_game_that_i_made_up.pdf)|2-5|Matching|
+|[Untitled 2](/untitled_2.pdf)|2|Combat|
 ## Shodo Watanabe
 |Game|Players|Family|
 |:---|:---:|---:|
