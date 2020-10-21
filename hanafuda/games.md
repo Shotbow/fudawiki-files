@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T07:37:35.066Z
+date: 2020-10-21T17:03:51.318Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -108,7 +108,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Gardening](/newgames/robert_goodwin_-_gardening.pdf)
+|[Gardening](/newgames/robert_goodwin_-_gardening.pdf)|2|Draw and Discard|
 ## IndianWolf Studios
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -125,7 +125,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Junior
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Hanaya (Florist)](/how_to_play_hanaya.pdf)
+|[Hanaya (Florist)](/how_to_play_hanaya.pdf)|2|Commerce|
 ## Long Beak
 |Game|Players|Family|
 |:---|:---:|---:|
