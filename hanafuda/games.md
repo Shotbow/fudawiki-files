@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T20:36:43.357Z
+date: 2020-10-21T20:43:51.973Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -30,7 +30,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |Akita-Bana|-|Fishing|Akita, Japan|
-|Ayame Katsugi|
+|Ayame Katsugi|-|-|-|
 |[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
 |Batta Maki, a.k.a. Batta or Atosaki|2+|Showdown|Japan|
 |Bizen-Bana|-|Fishing|Bizen Province, Japan|
@@ -46,50 +46,47 @@ These games, while not as widespread today as those listed above, are variously 
 |Hon-Bana|3|Fishing|Japan|
 |Hyaku-Otoshi|-|-|-|
 |Ichi-Ni-San (One-Two-Three)|3|Fishing|Japan|
-|Ichi-Soku-Yuki|
 |Ino-Shika-Cho|2+|Banking|Japan|
 |Isuri|2-3|Sequence|Japan|
 |Issoku Iki (One Bunch Goes)|2|Fishing|Japan|
 |Jū-Mai (Ten Cards)|2|Fishing|Japan|
-|Junishi-Awase|
-|Kachi-Kachi|
+|Junishi-Awase|-|-|-|
+|Kachi-Kachi|-|-|-|
 |Kaga|2|Fishing|Kaga Province, Japan|
-|Kekoro|
+|Kekoro|-|-|-|
 |Kingo|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |Kyo-Kabu|2-10|Banking|Japan|
 |Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |Min-Hwatu|2-3|Fishing|Korea|
-|Moto Taoshi|
 |Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
 |Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
 |Oni Koi-Koi|2|Fishing|Gifu, Japan|
 |Oto-Roku|5-6|Showdown|Tōkai region, Japan|
 |Poka|2|Sequence|-|
-|Roku-Tan (Six Scrolls)|2|Japan|
+|Roku-Tan (Six Scrolls)|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
 |Saburokku (Three-Six-Nine)|3|Fishing|Japan|
 |San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
 |Sanuki Mekuri|2|Fishing|Japan|
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
-|Sashikomi|
+|Sashikomi|-|-|-|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
 |Seotda|2-10|Showdown|Korea|
-|Shi-Ichi (Four-One)|
-|Suhara-Bana|
+|Suhara-Bana|-|-|-|
 |Sutda|2-10|Showdown|-|
-|Takame|
+|Takame|-|-|-|
 |Tehonbiki|2+|Banking|Japan|
 |Tensho|2|Fishing|Japan|
-|Towashi|
+|Towashi|-|-|-|
 |Yatchaba|4-6|-|-|
-|Yaku-Bana|
+|Yaku-Bana|-|-|-|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
-|Yokohama-Bana|
-|Yon-Pin (Four-Ace)|2+|Showdown|Japan|
+|Yokohama-Bana|-|-|Yokohama, Japan|
+|Yon-Pin (Four-Ace), a.k.a. Shi-Ichi|2+|Showdown|Japan|
 
 
 # Modern Games
