@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T20:19:45.580Z
+date: 2020-10-21T20:26:10.837Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -22,7 +22,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
 |[Mushi (Insect)](/en/hanafuda/games/mushi)|2|Fishing|Osaka, Japan|
 |Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
-|[Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
+|[Roppyakken (Six Hundred), a.ka. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
 |[Sakura, a.k.a. Higo-Bana or Hawaiian Hanafuda)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
@@ -51,8 +51,8 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |Hiki-Kabu|2-10|Showdown|Japan|
 |Hiyoko (Chick)|2-4|Sequence|Japan|
-|Hon-Bana|
-|Hyaku-Otoshi|
+|Hon-Bana|3|Fishing|Japan|
+|Hyaku-Otoshi|-|-|-|
 |Ichi-Ni-San (One-Two-Three)|3|Fishing|Japan|
 |Ichi-Soku-Yuki|
 |Ino-Shika-Cho|2+|Banking|Japan|
