@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T20:02:36.508Z
+date: 2020-10-21T20:07:44.405Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -24,7 +24,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
-|[Sakura (Higo-Bana)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
+|[Sakura, a.k.a. Higo-Bana or Hawaiian Hanafuda)](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
@@ -95,7 +95,6 @@ These games, while not as widespread today as those listed above, are variously 
 |Takame|
 |Tehonbiki|2+|Banking|Japan|
 |Tensho|2|Fishing|Japan|
-|Toppa (Eighteen)|
 |Towashi|
 |Tsuki-Ate|
 |Yatchaba|4-6|-|-|
