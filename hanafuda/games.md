@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T06:39:12.732Z
+date: 2020-10-21T06:45:46.663Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -139,12 +139,12 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |[600 Hearts](/newgames/600_hearts_v2.1.pdf)|2-4|Fishing|
 |Hana-Hearts|2-5|Trick-Taking|
 |Koi-Fish|2-6|Quartet|
-|Po-Koi|2-5|Vying|
+|Po-Koi|2-5|Showdown|
 |[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Patience|
 ## Sumo-No-Z
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Pin K](/newgames/new_game_-_sumo-no-z.pdf)|Presumably 2-10|Vying|
+|[Pin K](/newgames/new_game_-_sumo-no-z.pdf)|Presumably 2-10|Showdown|
 ## Suryong
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -156,7 +156,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Shodo Watanabe
 |Game|Players|Family|
 |:---|:---:|---:|
-|Mekuri-Kabu (Turning Up Nine)|2-10|Vying|
+|Mekuri-Kabu (Turning Up Nine)|2-10|Showdown|
 |Oni-Mawashi (Demon's Belt)|3, 4, or 6|Card Passing|
 |Tsuki-Narabe (Month Arrangement)|3-4|Draw and Discard|
 |Yon-San (Four-Three)|3|Commerce|
