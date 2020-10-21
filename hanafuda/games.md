@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T20:26:43.074Z
+date: 2020-10-21T20:36:43.357Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -32,20 +32,12 @@ These games, while not as widespread today as those listed above, are variously 
 |Akita-Bana|-|Fishing|Akita, Japan|
 |Ayame Katsugi|
 |[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
-|Batta|
-|Batta Maki, a.k.a. Atosaki|2+|Showdown|Japan|
+|Batta Maki, a.k.a. Batta or Atosaki|2+|Showdown|Japan|
 |Bizen-Bana|-|Fishing|Bizen Province, Japan|
-|Bozu-Mekuri|
 |Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
-|Dobutsu-Asobi|
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
 |Echobo|2+|Banking|Japan|
 |Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
-|Fuda-Awase|
-|Fuda-Narabe|
-|Fuda-Okoshi|
-|Fuda-Soroe|
-|Fuda-Tsukami|
 |Gomai-Kabu|8|Showdown|Japan|
 |Hachi (Eight)|2|Fishing|Japan|
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
@@ -67,14 +59,12 @@ These games, while not as widespread today as those listed above, are variously 
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |Kyo-Kabu|2-10|Banking|Japan|
 |Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
-|Kyuten-Tori|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |Min-Hwatu|2-3|Fishing|Korea|
 |Moto Taoshi|
 |Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
 |Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
 |Oni Koi-Koi|2|Fishing|Gifu, Japan|
-|Oni-Nuki|
 |Oto-Roku|5-6|Showdown|Tōkai region, Japan|
 |Poka|2|Sequence|-|
 |Roku-Tan (Six Scrolls)|2|Japan|
@@ -95,13 +85,12 @@ These games, while not as widespread today as those listed above, are variously 
 |Tehonbiki|2+|Banking|Japan|
 |Tensho|2|Fishing|Japan|
 |Towashi|
-|Tsuki-Ate|
 |Yatchaba|4-6|-|-|
 |Yaku-Bana|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
 |Yokohama-Bana|
 |Yon-Pin (Four-Ace)|2+|Showdown|Japan|
-|Ze-kan|
+
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
@@ -126,6 +115,20 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Simplified Game for Beginners|2-4|Fishing|
 |Sutda (Simplified)|2-10|Showdown|
 |Tensho (Simplified)|2|Fishing|
+## Japan Competition Club
+|Game|Players|Family|
+|:---|:---:|---:|
+|Bozu-Mekuri|-|-|
+|Dobutsu-Asobi|-|-|
+|Fuda-Awase|-|-|
+|Fuda-Narabe|-|-|
+|Fuda-Okoshi|-|-|
+|Fuda-Soroe|-|-|
+|Fuda-Tsukami|-|-|
+|Kyuten-Tori|-|-|
+|Oni-Nuki|-|-|
+|Tsuki-Ate|-|-|
+|Zei-kan|-|-|
 ## Junior
 |Game|Players|Family|
 |:---|:---:|---:|
