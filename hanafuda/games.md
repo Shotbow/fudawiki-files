@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T04:35:14.795Z
+date: 2020-10-21T04:41:08.573Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -29,91 +29,91 @@ These games are relatively widely known, and quite frequently show up in rule bo
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|Atosaki
-|Ayame Katsugi
-|[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)
-|Batta
-|Batta Maki
-|Bozu-Mekuri
-|Chunchun
-|Dobutsu-Asobi
-|Echobo
-|Enshu-Hana
-|Fuda-Awase
-|Fuda-Narabe
-|Fuda-Okoshi
-|Fuda-Soroe
-|Fuda-Tsukami
-|Gomai-Kabu
-|Hachi (Eight)
-|[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)
-|Hiki-Kabu
-|Hiyoko (Chick)
-|Hon-Bana
-|Hyaku-Otoshi
-|Ichi-Ni-San (One-Two-Three)
-|Ichi-Soku-Yuki
-|Ino-Shika-Cho
-|Isuri
-|Issoku Iki (One Bunch Goes)
-|Jū-Mai (Ten Cards)
-|Junishi-Awase
-|Kachi-Kachi
-|Kaga
-|Kekoro
-|Kingo
-|Koi-Koi no Ato-Saki
-|Kyo-Kabu
-|Kyū-Rei Hana (Ninety Flowers)
-|Kyuten-Tori
-|Matsu-Kiri-Bōzu
-|Min-Hwatu
-|Moto Taoshi
-|Ni-Shi-Roku (Two-Four-Six)
-|Oni Koi-Koi
-|Oni-Nuki
-|Oto-Roku
-|Poka
-|Roku-Tan (Six Scrolls)
-|Roku-Wari
-|Saburokku (Three-Six-Nine)
-|San-Jū Tsuppari (Thirty Palm Thrust)
-|Sanuki Mekuri
-|San-Zoku Go-Jū (Three Bunches and Fifty)
-|San-Zoku Tsuppari (Three Bunches Palm Thrust)
-|Sashikomi
-|Sendai-Hana
-|Sen-Roku-Jū (One Thousand Sixty)
-|Seotda
-|Shi-Ichi (Four-One)
-|Sotta
-|Suhara-Bana
-|Sutda
-|Takame
-|Tensho
-|Toppa
-|Towashi
-|Tsuki-Ate
-|Yatchaba
-|Yaku-Bana
-|Yokohama-Bana
-|Yonpin
-|Ze-kan
+|Atosaki|
+|Ayame Katsugi|
+|[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
+|Batta|
+|Batta Maki|
+|Bozu-Mekuri|
+|Chunchun|
+|Dobutsu-Asobi|
+|Echobo|
+|Enshu-Hana|
+|Fuda-Awase|
+|Fuda-Narabe|
+|Fuda-Okoshi|
+|Fuda-Soroe|
+|Fuda-Tsukami|
+|Gomai-Kabu|
+|Hachi (Eight)|2|Fishing|Japan|
+|[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
+|Hiki-Kabu|
+|Hiyoko (Chick)|
+|Hon-Bana|
+|Hyaku-Otoshi|
+|Ichi-Ni-San (One-Two-Three)|
+|Ichi-Soku-Yuki|
+|Ino-Shika-Cho|
+|Isuri|
+|Issoku Iki (One Bunch Goes)|
+|Jū-Mai (Ten Cards)|
+|Junishi-Awase|
+|Kachi-Kachi|
+|Kaga|
+|Kekoro|
+|Kingo|
+|Koi-Koi no Ato-Saki|
+|Kyo-Kabu|
+|Kyū-Rei Hana (Ninety Flowers)|
+|Kyuten-Tori|
+|Matsu-Kiri-Bōzu|
+|Min-Hwatu|
+|Moto Taoshi|
+|Ni-Shi-Roku (Two-Four-Six)|
+|Oni Koi-Koi|
+|Oni-Nuki|
+|Oto-Roku|
+|Poka|
+|Roku-Tan (Six Scrolls)|
+|Roku-Wari|
+|Saburokku (Three-Six-Nine)|
+|San-Jū Tsuppari (Thirty Palm Thrust)|
+|Sanuki Mekuri|
+|San-Zoku Go-Jū (Three Bunches and Fifty)|
+|San-Zoku Tsuppari (Three Bunches Palm Thrust)|
+|Sashikomi|
+|Sendai-Hana|
+|Sen-Roku-Jū (One Thousand Sixty)|
+|Seotda|
+|Shi-Ichi (Four-One)|
+|Sotta|
+|Suhara-Bana|
+|Sutda|
+|Takame|
+|Tensho|
+|Toppa|
+|Towashi|
+|Tsuki-Ate|
+|Yatchaba|
+|Yaku-Bana|
+|Yokohama-Bana|
+|Yonpin|
+|Ze-kan|
 
 # Modern Games
 This is a list of contemporary creations to be played with a hanafuda deck. It is subdivided by game creator, which are alphabetized by last name when available.
 ## CC
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Sangohana (Coral Flowers)](http://cartacc.g1.xrea.com/sangohana.html)
 ## Robert Goodwin
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Gardening](/newgames/robert_goodwin_-_gardening.pdf)
 ## IndianWolf Studios
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
-|Hachi (Simplified)
+|Game|Players|Family|
+|:---|:---:|---:|
+|Hachi (Simplified)|2|Fishing|
 |Hana-Gin
 |Hana-Rumi
 |Hiyoko (Simplified)
@@ -124,17 +124,17 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Sutda (Simplified)
 |Tensho (Simplified)
 ## Junior
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Hanaya (Florist)](/how_to_play_hanaya.pdf)
 ## Long Beak
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Comet and Constellations](/comet__constellations_v4.0.pdf)
 |Triple Threat
 ## Ryan Sartor
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |Black Flower
 |[600 Hearts](/newgames/600_hearts_v2.1.pdf)
 |Hana-Hearts
@@ -142,20 +142,20 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Po-Koi
 |[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)
 ## Sumo-No-Z
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Pin K](/newgames/new_game_-_sumo-no-z.pdf)
 ## Suryong
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |[Judge](/judge_v1.1.pdf)
 |[Match-3 Solitaire](/match_3_solitaire.pdf)
 |[Oh No!](/70_no_oh_no_v2.pdf)
 |[Untitled 1](/this_is_some_game_that_i_made_up.pdf)
 |[Untitled 2](/untitled_2.pdf)
 ## Shodo Watanabe
-|Game|Players|Family|Origin|
-|:---|:---:|:---:|---:|
+|Game|Players|Family|
+|:---|:---:|---:|
 |Mekuri-Kabu (Turning Up Nine)
 |Oni-Mawashi (Demon's Belt)
 |Tsuki-Narabe (Month Arrangement)
