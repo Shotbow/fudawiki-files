@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-21T20:07:44.405Z
+date: 2020-10-21T20:19:45.580Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -29,12 +29,11 @@ These games are relatively widely known, and quite frequently show up in rule bo
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|Atosaki|
 |Akita-Bana|-|Fishing|Akita, Japan|
 |Ayame Katsugi|
 |[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
 |Batta|
-|Batta Maki|2+|Showdown|Japan|
+|Batta Maki, a.k.a. Atosaki|2+|Showdown|Japan|
 |Bizen-Bana|-|Fishing|Bizen Province, Japan|
 |Bozu-Mekuri|
 |Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
