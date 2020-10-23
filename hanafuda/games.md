@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-23T23:55:42.053Z
+date: 2020-10-23T23:56:15.810Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -166,5 +166,5 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
+- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
 - *Tobaku Ni Kansuru chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696.
-- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761. 
