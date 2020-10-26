@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T04:57:12.189Z
+date: 2020-10-26T05:12:45.402Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -10,7 +10,7 @@ dateCreated: 2020-10-26T03:11:27.576Z
 
 Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
 # Setup
-First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. If the game is to be played for money, determine collectively what each point is worth.
+First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
 
 The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
 
@@ -24,7 +24,11 @@ Gameplay proceeds in much the same manner as other fishing games, with the deale
 
 Since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
 ## Scoring
-At the end of the round, the draw pile, field, and hands should all have been exhausted, and all cards have been captured. 
+At the end of the round, the draw pile, field, and hands should all have been exhausted, and all cards have been captured. The scoring process has two steps.
+
+First, each player sums the values of their captured cards according to the below chart. The player with the most card points collects 2 Points from each other player, and becomes the dealer for the next round.
+
+Second, each player checks for yaku. 
 # Card Values
 |Cards|Value|Number per Deck|
 |:---:|:---:|:---:|
@@ -33,7 +37,7 @@ At the end of the round, the draw pile, field, and hands should all have been ex
 |[Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [Boar](/en/hanafuda/suits/bush-clover#boar), [Geese](/en/hanafuda/suits/susuki-grass#geese), [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [Rain Man](/en/hanafuda/suits/willow#rain-man), [Swallow](/en/hanafuda/suits/willow#swallow), [Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
 |Ribbons|5|10|
 |Chaff|0|21|
-Thus, there are a total of 300 card points per round, meaning each player's score is compared to a baseline of 100 in a 3-person game.
+Thus, there are a total of 300 card points per round.
 # Yaku
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
