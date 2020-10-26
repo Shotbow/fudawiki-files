@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T05:12:45.402Z
+date: 2020-10-26T05:24:59.429Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -28,7 +28,9 @@ At the end of the round, the draw pile, field, and hands should all have been ex
 
 First, each player sums the values of their captured cards according to the below chart. The player with the most card points collects 2 Points from each other player, and becomes the dealer for the next round.
 
-Second, each player checks for yaku. 
+Second, each player checks for yaku, according the chart further down the page, and collects Points from each other playing accordingly. However, if any player has made the Imperial Messenger or Four Brights yaku, any yaku made by other non-dealer players is negated. If the Imperial Messenger and Four Brights yaku are each made by a different player, whichever was captured first will negate the second.
+
+
 # Card Values
 |Cards|Value|Number per Deck|
 |:---:|:---:|:---:|
