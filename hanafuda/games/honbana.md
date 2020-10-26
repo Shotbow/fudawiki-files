@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T04:49:06.222Z
+date: 2020-10-26T04:52:51.181Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -22,9 +22,7 @@ With 9 cards on the field, 6 cards in each player's hand, and 18 cards in the dr
 # Gameplay
 Gameplay proceeds in much the same manner as other fishing games, with the dealer going first. On your turn, add one card from your hand to the field, followed by the top card of the draw pile, matching each of them with a card on the field if possible. If a pair is made, capture those cards and add them to your scoring area.
 
-Since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field.
-
-
+Since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
 ## Scoring
 
 # Card Values
