@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T04:35:53.904Z
+date: 2020-10-26T04:41:02.704Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -20,13 +20,17 @@ At this point, there should be nine cards on the field, along with six stacks of
 
 With 9 cards on the field, 6 cards in each player's hand, and 18 cards in the draw pile, the round is ready to begin.
 # Gameplay
+Gameplay proceeds in much the same manner as other fishing games, with the dealer going first. On your turn, add one card from your hand to the field, followed by the top card of the draw pile, matching each of them with a card on the field if possible. If a pair is made, capture those cards and add them to your scoring area.
+
+Since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field.
+
 
 ## Scoring
 
 # Card Values
 |Cards|Value|Number per Deck|
 |:---:|:---:|:---:|
-|[Crane](/en/hanafuda/suits/pine#crane-with-sun), [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [Moon](/en/hanafuda/suits/susuki-grass#full-moon), [Phoenix](/en/hanafuda/suits/paulownia#phoenix)|30|4|
+|[Crane](/en/hanafuda/suits/pine#crane-with-sun), [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [Moon](/en/hanafuda/suits/susuki-grass#full-moon), Phoenix|30|4|
 |[Bridge](/en/hanafuda/suits/iris#eight-plank-bridge), [Deer](/en/hanafuda/suits/maple#deer), [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|20|3|
 |[Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [Boar](/en/hanafuda/suits/bush-clover#boar), [Geese](/en/hanafuda/suits/susuki-grass#geese), [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [Rain Man](/en/hanafuda/suits/willow#rain-man), [Swallow](/en/hanafuda/suits/willow#swallow), [Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
 |Ribbons|5|10|
