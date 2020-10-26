@@ -2,13 +2,13 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T04:48:23.818Z
+date: 2020-10-26T04:49:06.222Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
 ---
 
-Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; this page describes the 3-player version of the game.
+Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
 # Setup
 First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. If the game is to be played for money, determine collectively what each point is worth.
 
