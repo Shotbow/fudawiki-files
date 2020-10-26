@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T04:24:15.842Z
+date: 2020-10-26T04:30:44.853Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -10,7 +10,13 @@ dateCreated: 2020-10-26T03:11:27.576Z
 
 Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants.
 # Setup
-First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. 
+First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer.
+
+The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
+
+Then, the dealer places three cards face-up on the field, followed by four face-down stacks of three cards each in front of him/herself, and then another two face-down stacks of three cards each in front of that. Next, the dealer places three more cards face-up on the field, and adds three more cards to each of the six face-down stacks. Finally, the dealer places the final three cards of the deck face-up on the field.
+
+At this point, there should be nine cards on the field, along with six stacks of six cards each.
 # Gameplay
 
 ## Scoring
