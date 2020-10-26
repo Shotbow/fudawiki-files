@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T05:28:50.269Z
+date: 2020-10-26T07:17:08.701Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -10,7 +10,7 @@ dateCreated: 2020-10-26T03:11:27.576Z
 
 Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
 # Setup
-First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
+First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) (![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
 
 The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
 
@@ -43,9 +43,9 @@ Thus, there are a total of 300 card points per round.
 # Yaku
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
-|1|Pine Stripe|All four [Pine](/en/hanafuda/suits/pine) cards.|
-|1|Cherry Blossom Stripe|All four [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.
-|1|Plum Blossom Stripe|All four [Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
+|1|Pine Stripe|All four [Pine](/en/hanafuda/suits/pine) (![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x)) cards.|
+|1|Cherry Blossom Stripe|All four [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) (![Icon for month 3](/hanafuda/icons/monthicon_3.png =25x)) cards.
+|1|Plum Blossom Stripe|All four [Plum Blossom](/en/hanafuda/suits/plum-blossom) (![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)) cards.|
 |1|One Drink|The Sake Cup and one 30-point card.|
 |2|Two Drinks|The Sake Cup and two (or more) 30-point cards.|
 |3|Front Elder Middle|The Bridge, Phoenix, and Deer.|
