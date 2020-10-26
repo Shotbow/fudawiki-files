@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T14:24:49.819Z
+date: 2020-10-26T14:27:33.995Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -14,7 +14,7 @@ First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/sui
 
 The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
 
-![hon-bana_deal.gif](/hanafuda/animated/hon-bana_deal.gif#float-right =500x)Then, the dealer places three cards face-up on the field, followed by four face-down stacks of three cards each in front of him/herself, and then another two face-down stacks of three cards each in front of that. Next, the dealer places three more cards face-up on the field, and adds three more cards to each of the six face-down stacks. Finally, the dealer places the final three cards of the deck face-up on the field.
+[![hon-bana_deal.gif](/hanafuda/animated/hon-bana_deal.gif#float-right =500x)](/hanafuda/animated/hon-bana_deal.gif)Then, the dealer places three cards face-up on the field, followed by four face-down stacks of three cards each in front of him/herself, and then another two face-down stacks of three cards each in front of that. Next, the dealer places three more cards face-up on the field, and adds three more cards to each of the six face-down stacks. Finally, the dealer places the final three cards of the deck face-up on the field.
 
 At this point, there should be nine cards on the field, along with six stacks of six cards each. Each player takes the two stacks closest to themselves, and chooses one of them to become their hand. The stacks not selected return to the play area to form the draw pile.
 
