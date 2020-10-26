@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T03:29:52.411Z
+date: 2020-10-26T03:35:28.633Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -32,9 +32,9 @@ Thus, there are a total of 300 card points per round, meaning each player's scor
 |2|Two Drinks|The Sake Cup and two (or more) 30-point cards.|
 |3|Front Elder Middle|The Bridge, Phoenix, and Deer.|
 |3|Back Elder Middle|The [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon), Phoenix, and [Maple Ribbon](/en/hanafuda/suits/maple#blue-ribbon).
-|3|Front Three Brights|
-|3|Back Three Brights|
-|5|Imperial Messenger|
+|3|Front Three Brights|The Crane, Curtain, and Bush Warbler.
+|3|Back Three Brights|The [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon), and [Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon).
+|5|Imperial Messenger|The [
 |6|Four Brights|All four 30-point cards.|
 
 # Bibliography
