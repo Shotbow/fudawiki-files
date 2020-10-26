@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T14:38:09.486Z
+date: 2020-10-26T16:44:06.372Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -51,12 +51,12 @@ Thus, there are a total of 300 card points per round.
 |1|Plum Blossom Stripe|All four [Plum Blossom](/en/hanafuda/suits/plum-blossom) (![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)) cards.|
 |1|One Drink|The Sake Cup and one 30-point card.|
 |2|Two Drinks|The Sake Cup and two (or more) 30-point cards.|
-|3|Front Elder Middle|The Bridge, Phoenix, and Deer.|
-|3|Back Elder Middle|The [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon), Phoenix, and [Maple Ribbon](/en/hanafuda/suits/maple#blue-ribbon).
+|3|Front Elder|The Bridge, Phoenix, and Deer.|
+|3|Back Elder|The [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon), Phoenix, and [Maple Ribbon](/en/hanafuda/suits/maple#blue-ribbon).
 |3|Front Three Brights|The Crane, Curtain, and Bush Warbler.
 |3|Back Three Brights|The [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon), and [Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon).
 |5|Imperial Messenger|The [Chrysanthemum Ribbon](/en/hanafuda/suits/chrysanthemum#blue-ribbon), [Peony Ribbon](/en/hanafuda/suits/peony#blue-ribbon), and Maple Ribbon.
 |6|Four Brights|All four 30-point cards.|
 
 # Bibliography
-*Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 62-64.
+*Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 62-64.
