@@ -2,13 +2,13 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-10-14T20:33:44.786Z
+date: 2020-10-28T06:43:18.464Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
 ---
 
-Mushi [虫 - むし, lit. "Insect"] is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [Peony](/en/hanafuda/suits/peony) and [Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [Lightning](/en/hanafuda/suits/willow#lightning) card as a wild card, relatively few yaku, and zero-sum scoring.
+Mushi [虫 - むし, lit. "Insect"] is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony) and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card as a wild card, relatively few yaku, and zero-sum scoring.
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or until some target score has been met by one player. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
@@ -24,11 +24,11 @@ On your turn, choose one card from your hand to play to the field. If it matches
 
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your scoring area categorized by card type.
 ## Wild Card
-In Mushi, the Lightning card can be used to capture any other individual card except another [Willow](/en/hanafuda/suits/willow). If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
+In Mushi, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card can be used to capture any other individual card except another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow). If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
 ## End of Round
 The current round ends when both players have played 8 turns and thus exhausted their hands.
 
-Due to the usage of a wild card, most rounds will end with two unpaired cards - one Willow, and one that matches the suit of whatever card was captured by the Lightning. In this case, the last Willow will be added to the scoring area of the player who captured the other two non-wild Willows, and the remaining card is added to the scoring area of the player who used the Lightning to capture its mate.
+Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning. In this case, the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
 
 At this point, both players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player's score for the round is calculated as the sum of their captured card points minus 115, plus the value of any captured yaku, minus the value of the opponent's yaku. If the agreed upon number of rounds have elapsed or the target score has been reached, whichever player has the greater score would be declared the winner.
 # Card Values
@@ -41,16 +41,18 @@ The values of each card in Mushi are the same as in [Hachi-Hachi](/en/hanafuda/g
 |Chaff|1|20|
 This means that the total number of card points to be split by the players each round is 230. To calculate one's initial score for a given round, add up the points for all cards captured, and subtract 115.
 # Yaku
-There are typically only 4 yaku used in Mushi. Players earn points for each of these that they capture, and subtract the same number of points from their opponents' score.
+There are typically only 4 yaku used in Mushi. Players earn points for each of these that they capture, and subtract the same number of points from their opponents' score. Some variants only have 3 yaku, excluding "Five Brights".
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
 |30|Five Brights - 五光 [ごうこ, *gōko*]|All five Bright cards.|
-|25|Three Brights - 三光 [さんこ, *sanko*]|[The Crane](/en/hanafuda/suits/pine#crane-with-sun), [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
-|10|Wisteria Stripe - 藤シマ [ふじしま, *fujishima*]|All 4 [Wisteria](/en/hanafuda/suits/wisteria) cards.|
-|10|Paulownia Stripe - 桐シマ [きりしま, *kirishima*]|All 4 [Paulownia](/en/hanafuda/suits/paulownia) cards.|
+|25|Three Brights - 三光 [さんこ, *sanko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
+|10|Wisteria Stripe - 藤シマ [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
+|10|Paulownia Stripe - 桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.|
 # Scoring Example
 If "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
 # Bibliography
 - Duarcain. “Mushi 虫.” *Hanafuda Hub!*, 21 June 2013, duarcain.blogspot.com/2013/06/mushi.html.
 - Johnson, Jason, and Antonietta Fazio-Johnson. “Mushi.” *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 38–40. 
-- しらぎく . “むし.” *Marguerite*, www.marguerite.jp/Nihongo/Games/%E3%81%97%E3%82%89%E3%81%8E%E3%81%8F%E8%8A%B1%E6%9C%AD/%E3%82%80%E3%81%97.html. 
+- Shiragiku. “Mushi.”  *Marguerite*, www.marguerite.jp/Nihongo/Games/%E3%81%97%E3%82%89%E3%81%8E%E3%81%8F%E8%8A%B1%E6%9C%AD/%E3%82%80%E3%81%97.html. 
+- *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 64-65.
+
