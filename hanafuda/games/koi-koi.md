@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-10-19T04:42:14.976Z
+date: 2020-10-28T06:53:45.876Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -51,22 +51,22 @@ Yaku listed below are sorted into groups.  For each of these groups (except “U
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
 |15|Five Brights - 五光 [ごこう, *gokō*]|All five Bright cards.|
-|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the [Rain Man](/en/hanafuda/suits/willow#rain-man).|
-|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the Rain Man.|
-|6|Three Brights - 三光 [さんこう, *sankō*]| 	Three Bright cards, but cannot include the Rain Man.|
+|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man).|
+|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man.|
+|6|Three Brights - 三光 [さんこう, *sankō*]| 	Three Bright cards, but cannot include the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man.|
 |<h2 align="center">Animal Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the [Boar](/en/hanafuda/suits/bush-clover#boar), [Deer](/en/hanafuda/suits/maple#deer), and [Butterflies](/en/hanafuda/suits/peony#butterflies). Players are awarded an additional point for each other Animal card.|
+|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies). Players are awarded an additional point for each other Animal card.|
 |1|Animals - タネ [たね, *tane*]|Any five Animal cards. One additional point is awarded for every additional Animal card.|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |Points|Yaku Name|Description|
 |10|Poetry+Blue Ribbons - 赤短・青短の重複 [あかたん・あおたんのちょうふく, akatan - *aotan no chōfuku*]|All three poetry ribbons and all three blue ribbons. Players are awarded an additional point for each other Ribbon card.|
-|5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|All three poetry ribbons ([Pine](/en/hanafuda/suits/pine#poetry-ribbon), [Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)). Players are awarded an additional point for each other Ribbon card.|
-|5|Blue Ribbons - 青短 [あおたん, *aotan*]|All three blue ribbons. ([Peony](/en/hanafuda/suits/peony#blue-ribbon), [Chrysanthemum](/en/hanafuda/suits/chrysanthemum#blue-ribbon) and [Maple](/en/hanafuda/suits/maple#blue-ribbon)). Players are awarded an additional point for each other Ribbon card.|
+|5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|All three poetry ribbons ([![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine#poetry-ribbon), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)). Players are awarded an additional point for each other Ribbon card.|
+|5|Blue Ribbons - 青短 [あおたん, *aotan*]|All three blue ribbons. ([![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony#blue-ribbon), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum](/en/hanafuda/suits/chrysanthemum#blue-ribbon) and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple#blue-ribbon)). Players are awarded an additional point for each other Ribbon card.|
 |1|Ribbons - 短冊 [たんざく, *tanzaku*]|Any five Ribbon cards. One additional point is awarded for every additional Ribbon card.|
 |<h2 align="center">Ungrouped Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|The [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup).|
-|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|The [Moon](/en/hanafuda/suits/susuki-grass#full-moon) and Sake Cup.|
+|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|The [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup).|
+|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|The [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon) and ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup.|
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.|
 |1|Chaff - カス [かす, *kasu*]|Any ten Chaff cards. One additional point is awarded for every additional Chaff card.
