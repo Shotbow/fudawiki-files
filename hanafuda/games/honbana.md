@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-26T19:24:21.782Z
+date: 2020-10-28T05:00:52.971Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -10,7 +10,7 @@ dateCreated: 2020-10-26T03:11:27.576Z
 
 Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
 # Setup
-First, prepare the deck by removing the three [Paulownia Chaff](/en/hanafuda/suits/paulownia) (![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)) from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
+First, prepare the deck by removing the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)Paulownia Chaff](/en/hanafuda/suits/paulownia)  from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
 
 The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
 
@@ -27,7 +27,7 @@ Gameplay proceeds in much the same manner as other fishing games, with the deale
 
 Play then continues counter-clockwise around the table, with each player repeating the above steps in turn, until all cards have been played.
 
-Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
+Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
 ## Scoring
 At the end of the round, the draw pile, field, and hands should all have been exhausted, and all cards have been captured. The scoring process has two steps.
 
@@ -39,25 +39,25 @@ Once all calculations have been completed, money changes hands according to the 
 # Card Values
 |Cards|Value|Number per Deck|
 |:---:|:---:|:---:|
-|[Crane](/en/hanafuda/suits/pine#crane-with-sun), [Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [Moon](/en/hanafuda/suits/susuki-grass#full-moon), Phoenix|30|4|
-|[Bridge](/en/hanafuda/suits/iris#eight-plank-bridge), [Deer](/en/hanafuda/suits/maple#deer), [Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|20|3|
-|[Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [Boar](/en/hanafuda/suits/bush-clover#boar), [Geese](/en/hanafuda/suits/susuki-grass#geese), [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [Rain Man](/en/hanafuda/suits/willow#rain-man), [Swallow](/en/hanafuda/suits/willow#swallow), [Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
+|[![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix|30|4|
+|[![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Bridge](/en/hanafuda/suits/iris#eight-plank-bridge), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|20|3|
+|[![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Swallow](/en/hanafuda/suits/willow#swallow), [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
 |Ribbons|5|10|
 |Chaff|0|21|
 Thus, there are a total of 300 card points per round.
 # Yaku
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
-|1|Pine Stripe|All four [Pine](/en/hanafuda/suits/pine) (![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x)) cards.|
-|1|Cherry Blossom Stripe|All four [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) (![Icon for month 3](/hanafuda/icons/monthicon_3.png =25x)) cards.
-|1|Plum Blossom Stripe|All four [Plum Blossom](/en/hanafuda/suits/plum-blossom) (![Icon for month 2](/hanafuda/icons/monthicon_2.png =25x)) cards.|
-|1|One Drink|The Sake Cup and one 30-point card.|
-|2|Two Drinks|The Sake Cup and two (or more) 30-point cards.|
-|3|Front Elder|The Bridge, Phoenix, and Deer.|
-|3|Back Elder|The [Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon), Phoenix, and [Maple Ribbon](/en/hanafuda/suits/maple#blue-ribbon).
-|3|Front Three Brights|The Crane, Curtain, and Bush Warbler.
-|3|Back Three Brights|The [Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon), and [Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon).
-|5|Imperial Messenger|The [Chrysanthemum Ribbon](/en/hanafuda/suits/chrysanthemum#blue-ribbon), [Peony Ribbon](/en/hanafuda/suits/peony#blue-ribbon), and Maple Ribbon.
+|1|Pine Stripe|All four [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
+|1|Cherry Blossom Stripe|All four [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.
+|1|Plum Blossom Stripe|All four [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
+|1|One Drink|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and one 30-point card.|
+|2|Two Drinks|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and two (or more) 30-point cards.|
+|3|Front Elder|![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)The Bridge, ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix, and ![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer.|
+|3|Back Elder|The [![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Iris Ribbon](/en/hanafuda/suits/iris#plain-ribbon), ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix, and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple Ribbon](/en/hanafuda/suits/maple#blue-ribbon).
+|3|Front Three Brights|The ![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane, ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain, and ![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler.
+|3|Back Three Brights|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine Ribbon](/en/hanafuda/suits/pine#poetry-ribbon), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon), and [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon).
+|5|Imperial Messenger|The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum Ribbon](/en/hanafuda/suits/chrysanthemum#blue-ribbon), [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony Ribbon](/en/hanafuda/suits/peony#blue-ribbon), and ![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple Ribbon.
 |6|Four Brights|All four 30-point cards.|
 
 # Bibliography
