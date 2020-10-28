@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-10-28T05:00:52.971Z
+date: 2020-10-28T05:11:25.209Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -10,14 +10,13 @@ dateCreated: 2020-10-26T03:11:27.576Z
 
 Hon-Bana is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 department of justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering than what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
 # Setup
-First, prepare the deck by removing the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)Paulownia Chaff](/en/hanafuda/suits/paulownia)  from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
+First, prepare the deck by removing the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaff](/en/hanafuda/suits/paulownia)  from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
 
 The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
 
-Then, the dealer places three cards face-up on the field, followed by four face-down stacks of three cards each in front of him/herself, and then another two face-down stacks of three cards each in front of that. Next, the dealer places three more cards face-up on the field, and adds three more cards to each of the six face-down stacks. Finally, the dealer places the final three cards of the deck face-up on the field.
+Then, the dealer places three cards face-up on the field, followed by four face-down stacks of three cards each in front of him/herself, and then another two face-down stacks of three cards each in front of those. Next, the dealer places three more cards face-up on the field, and adds three more cards to each of the six face-down stacks. Finally, the dealer places the final three cards of the deck face-up on the field.
 > [![hon-bana_dealing.gif](/hanafuda/animated/hon-bana_dealing.gif =500x)](/hanafuda/animated/hon-bana_dealing.gif)
 {.is-success}
-
 
 At this point, there should be nine cards on the field, along with six stacks of six cards each. Each player takes the two stacks closest to themselves, and chooses one of them to become their hand. The stacks not selected return to the play area to form the draw pile.
 
@@ -27,7 +26,7 @@ Gameplay proceeds in much the same manner as other fishing games, with the deale
 
 Play then continues counter-clockwise around the table, with each player repeating the above steps in turn, until all cards have been played.
 
-Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
+Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
 ## Scoring
 At the end of the round, the draw pile, field, and hands should all have been exhausted, and all cards have been captured. The scoring process has two steps.
 
