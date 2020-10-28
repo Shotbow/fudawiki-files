@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-10-28T14:06:03.948Z
+date: 2020-10-28T16:17:19.268Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -33,7 +33,7 @@ On your turn, choose one card from your hand to play to the field. If it matches
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea to keep your scoring area categorized by card type.
 ## Checking for Yaku
 At this point, evaluate your scoring area to see if you have formed any yaku. If not, the game proceeds to your opponent's turn, who will repeat the same steps described above. If you *have* formed a yaku or improved a yaku that you have already captured, you are given the choice whether to continue the round or not. 
-> Note that in many versions of the game, the [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) (Chrysanthemum Animal) may count towards both the Animals category **and** the Chaff category for making yaku.
+> Note that in many versions of the game, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) may count towards both the Animals category **and** the Chaff category for making yaku.
 {.is-info}
 
 ## Calling "Koi-Koi"
