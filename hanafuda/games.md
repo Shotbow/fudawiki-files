@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-28T06:46:25.982Z
+date: 2020-10-28T07:07:19.650Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -20,7 +20,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Japan|
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
-|[Mushi (Insect)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
+|[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
 |Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred), a.ka. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
@@ -43,7 +43,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |Hiki-Kabu|2-10|Showdown|Japan|
 |Hiyoko (Chick)|2-4|Sequence|Japan|
-|[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Japan|
+|[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |Hyaku-Otoshi|-|-|-|
 |Ichi-Ni-San (One-Two-Three)|3|Fishing|Japan|
 |Ino-Shika-Cho|2+|Banking|Japan|
