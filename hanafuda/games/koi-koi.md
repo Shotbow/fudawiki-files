@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-10-28T06:53:45.876Z
+date: 2020-10-28T14:06:03.948Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -18,6 +18,10 @@ There is no required method for selecting who is the first dealer, though a typi
 ## Distributing the Initial Cards
 Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
 
+> ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
+{.is-success}
+
+
 Depending on the preferred rule set, if 4 cards of the same suit are dealt to the field at the beginning of a round, either a misdeal is declared and the same dealer shuffles and distributes cards once more, **or** the dealer automatically wins that round, usually receiving 6 points, and staying the dealer for the next round. The same may be true in the case that that 4 pairs of different suits are dealt to the field.
 
 Some rules also have a provision for "lucky hands," in which either of the above situations are dealt to a player's hand rather than the field. In this case, the player who received the lucky hand earns the 6 points and becomes the dealer for the next round. Other rule sets may allow the recipient of such a hand to declare a misdeal, or may simply continue the game as usual.
@@ -28,7 +32,10 @@ On your turn, choose one card from your hand to play to the field. If it matches
 
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea to keep your scoring area categorized by card type.
 ## Checking for Yaku
-At this point, evaluate your scoring area to see if you have formed any yaku. If not, the game proceeds to your opponent's turn, who will repeat the same steps described above. If you *have* formed a yaku or improved a yaku that you have already captured, you are given the choice whether to continue the round or not. Note that in many versions of the game, the Sake Cup (Chrysanthemum Animal) may count towards both the Animals category **and** the Chaff category for making yaku.
+At this point, evaluate your scoring area to see if you have formed any yaku. If not, the game proceeds to your opponent's turn, who will repeat the same steps described above. If you *have* formed a yaku or improved a yaku that you have already captured, you are given the choice whether to continue the round or not. 
+> Note that in many versions of the game, the [Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) (Chrysanthemum Animal) may count towards both the Animals category **and** the Chaff category for making yaku.
+{.is-info}
+
 ## Calling "Koi-Koi"
 To call "koi-koi" is to choose to continue the round - a calculated risk that will either lead to increasing your score, or to you forfeiting the points you would have earned that round. If declaring "koi-koi," the game simply continues to the opponent's turn. In most rule sets, "koi-koi" may be called as many times as desired by either player.
 ## Calling “Shōbu”
