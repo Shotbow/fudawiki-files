@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-29T02:47:26.819Z
+date: 2020-10-29T03:04:43.568Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -134,7 +134,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Junior
 |Game|Players|Family|
 |:---|:---:|---:|
-|[Hanaya (Florist)](/how_to_play_hanaya.pdf)|2|Commerce|
+|[Hanaya (Florist)](/newgames/how_to_play_hanaya.pdf)|2|Commerce|
 ## Long Beak
 |Game|Players|Family|
 |:---|:---:|---:|
