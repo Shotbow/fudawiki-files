@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-29T01:50:54.102Z
+date: 2020-10-29T01:51:32.893Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -19,7 +19,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Go-Stop, a.k.a. Godori (Five Birds)](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
 |[Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Japan|
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
-|[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Unknown|
+|[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
 |[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
 |Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred), a.ka. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
