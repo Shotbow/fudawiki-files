@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T06:05:50.580Z
+date: 2020-11-01T06:16:29.770Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -39,13 +39,13 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |100|Moon Viewing - 月見 [つきみ, *tsukimi*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.
 |<h2 align="center">Stripe Yaku</h2>|||
 |200|Rain Stripe - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
-|50|Pine Stripe - 松島 [まつしま, *matsushima*]|
-|50|Plum Blossom Stripe - 梅島 [うめしま, *umeshima*]|
-|50|Cherry Blossom Stripe - 桜島 [さくらしま, *sakurashima*]|
-|50|Wisteria Stripe - 藤島 [ふじしま, *fujishima*]|
-|50|Baldy Stripe - 坊主島 [ぼうずしま, *bōzushima*]|
-|50|Maple Stripe - 紅葉島 [もみじしま, *momijishima*]|
-|50|Paulownia Stripe - 桐島 [きりしま, *kirishima*]|
+|50|Pine Stripe - 松島 [まつしま, *matsushima*]|All 4 [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
+|50|Plum Blossom Stripe - 梅島 [うめしま, *umeshima*]|All 4 [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
+|50|Cherry Blossom Stripe - 桜島 [さくらしま, *sakurashima*]|All 4 [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.|
+|50|Wisteria Stripe - 藤島 [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](en/hanafuda/suits/wisteria) cards.|
+|50|Baldy Stripe - 坊主島 [ぼうずしま, *bōzushima*]|All 4 [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards.
+|50|Maple Stripe - 紅葉島 [もみじしま, *momijishima*]|All 4 [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple) cards.
+|50|Paulownia Stripe - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
