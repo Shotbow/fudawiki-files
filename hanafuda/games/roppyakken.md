@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T05:51:11.009Z
+date: 2020-11-01T05:54:00.768Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -39,12 +39,13 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |100|Moon Viewing - 月見 [つきみ, *tsukimi*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.
 |<h2 align="center">Stripe Yaku</h2>|||
 |200|Rain Stripe - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
-|50|
-|50|
-|50|
-|50|
-|50|
-|50|
+|50|Pine Stripe
+|50|Plum Blossom Stripe
+|50|Cherry Blossom Stripe
+|50|Wisteria Stripe
+|50|Susuki Grass Stripe
+|50|Maple Stripe
+|50|Paulownia Stripe
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
