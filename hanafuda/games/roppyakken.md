@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T04:58:06.354Z
+date: 2020-11-01T05:25:27.195Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -37,3 +37,6 @@ In some rule sets, you may only score for one yaku per group (except the Stripe 
 |300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterfly](/en/hanafuda/suits/peony#butterflies) cards.|
 |<h2 align="center">Sake Yaku</h2>|||
 |<h2 align="center">Stripe Yaku</h2>|||
+# Bibliography
+- *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
+- Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
