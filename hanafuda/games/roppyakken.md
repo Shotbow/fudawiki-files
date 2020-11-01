@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T03:45:49.331Z
+date: 2020-11-01T04:02:27.534Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -22,3 +22,5 @@ Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game f
 Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
+|600|Four Brights - 四光 [しこ, *shiko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix). In some rule sets, Four Brights is considered an instant win, even if the other player had a greater final score.|
+|600|Seven Ribbons - 七短 [ななたん - *nanatan*]|Any 7 Ribbon cards. In some rule sets, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon) does not count towards this yaku, while in others it does. Seven Ribbons may also count as an instant victory, but loses to Four Brights if both are captured by different players.|
