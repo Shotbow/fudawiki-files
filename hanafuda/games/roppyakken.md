@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-10-28T07:05:05.899Z
+date: 2020-11-01T03:45:49.331Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -17,4 +17,8 @@ Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game f
 |Other Animals|10|8|
 |Ribbons|10|10|
 |[![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|10|1|
-|Other Chaff|01|23|
+|Other Chaff|0|23|
+# Typical Yaku
+Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
+|Value|Name of Yaku|Description|
+|:---:|:---:|:---:|
