@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T04:23:42.600Z
+date: 2020-11-01T04:53:03.233Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -20,8 +20,20 @@ Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game f
 |Other Chaff|0|23|
 # Typical Yaku
 Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
+
+In some rule sets, you may only score for one yaku per group (except the Stripe Yaku), whereas in others, this may only be the case for the Sake Yaku.
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
+|<h2 align="center">Bright Yaku</h2>|||
 |600|Four Brights - 四光 [しこ, *shiko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix). In some rule sets, Four Brights is considered an instant win, even if the other player had a greater final score.|
-|600|Seven Ribbons - 七短 [ななたん - *nanatan*]|Any 7 Ribbon cards. In some rule sets, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon) does not count towards this yaku, while in others it does. Seven Ribbons may also count as an instant victory, but loses to Four Brights if both are captured by different players.|
+|150|Pine, Paulownia, Baldy - 松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]|The ![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane, ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.|
+|150|Big Three - 大三 [おおざん, *oozan*]|The ![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane, ![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Warbler, and ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain.
+|<h2 align="center">Ribbon Yaku</h2>|||
+|600|Seven Ribbons - 七短 [ななたん, *nanatan*]|Any 7 Ribbon cards. In some rule sets, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon) does not count towards this yaku, while in others it does. Seven Ribbons may also count as an instant victory, but loses to Four Brights if both are captured by different players.|
+|100|Little Three - 小三 [こざん, *kozan*]| The three Poetry Ribbons: [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine#poetry-ribbon), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)
+|100|Blue Ribbons - 青短 [あおたん, *aotan*]|
+|100|Grass - 草 [くさ, *kusa*]|
+|<h2 align="center">Animal Yaku</h2>|||
 |300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterfly](/en/hanafuda/suits/peony#butterflies) cards.|
+|<h2 align="center">Sake Yaku</h2>|||
+|<h2 align="center">Stripe Yaku</h2>|||
