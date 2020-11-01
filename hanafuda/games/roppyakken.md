@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T05:44:58.046Z
+date: 2020-11-01T05:51:11.009Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -20,8 +20,6 @@ Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game f
 |Other Chaff|0|23|
 # Typical Yaku
 Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
-
-In some rule sets, you may only score for one yaku per group (except the Stripe Yaku), whereas in others, this may only be the case for the Sake Yaku.
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
@@ -36,16 +34,17 @@ In some rule sets, you may only score for one yaku per group (except the Stripe 
 |<h2 align="center">Animal Yaku</h2>|||
 |300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterfly](/en/hanafuda/suits/peony#butterflies) cards.|
 |<h2 align="center">Sake Yaku</h2>|||
-|300|Gun - 鉄砲 [てっぽう, *teppō*]|The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.
+|300|Gun - 鉄砲 [てっぽう, *teppō*]|The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon. Note that this yaku replaces the other two Sake Yaku; you do not score for all three individually.
 |100|Flower Viewing - 花見 [はなみ, *hanami*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain.
 |100|Moon Viewing - 月見 [つきみ, *tsukimi*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.
 |<h2 align="center">Stripe Yaku</h2>|||
-|
-|
-|
-|
-|
-|
+|200|Rain Stripe - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
+|50|
+|50|
+|50|
+|50|
+|50|
+|50|
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
