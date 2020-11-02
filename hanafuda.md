@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2020-11-02T22:00:47.208Z
+date: 2020-11-02T22:08:05.559Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T19:52:04.670Z
@@ -18,7 +18,7 @@ For a list of traditional designs and how they differ, see [Hanafuda Patterns](/
 The following chart displays the cards in their standard order and categorization; note however that other [suit arrangements](/en/hanafuda/suits#arrangement-of-suits) and categorizations of cards exist, depending on the game in question.
 |#|Month|Icon|Plant|Bright|Animal|Ribbon|Chaff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pine](/en/hanafuda/suits/pine)||||
+|1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pine](/en/hanafuda/suits/pine)|![10.svg](/sheldonchen-cards/10.svg#hanafuda-card =100x)|-|![11.svg](/sheldonchen-cards/11.svg#hanafuda-card =100x)|![12.svg](/sheldonchen-cards/12.svg#hanafuda-card =100x)![13.svg](/sheldonchen-cards/13.svg#hanafuda-card =100x)|
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|||||
 |3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|||||
 |4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Wisteria](/en/hanafuda/suits/wisteria)|||||
