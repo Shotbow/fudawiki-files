@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-01T06:29:47.486Z
+date: 2020-11-02T05:13:56.543Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -10,6 +10,13 @@ dateCreated: 2020-09-17T04:56:40.603Z
 
 Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six-Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card (depending on house rules) as a wild card, and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) Animal card as similarly valuable to a Bright card.
 # Setup
+## Lucky Hands
+There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that one might be dealt in Six Hundred. If you receive any of these combinations in your hand, reveal all cards that are part of that combination at the beginning of the round to earn points, according to the following chart.
+|Value|Name of Lucky Hand|Description|
+|:---:|:---:|:---:|
+|400|All Chaff [総ガス - そうがす, *sōgasu*]|All cards in hand are 0-point cards. Note that this excludes the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), which is worth 10 points in this game.
+|200|
+|400|
 # Gameplay
 ## Wild Card
 # Card Values
@@ -19,7 +26,7 @@ Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game f
 |[![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|50|1|
 |Other Animals|10|8|
 |Ribbons|10|10|
-|[![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|10|1|
+|![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia|10|1|
 |Other Chaff|0|23|
 # Typical Yaku
 Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
