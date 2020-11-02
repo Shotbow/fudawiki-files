@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2020-11-02T22:17:13.710Z
+date: 2020-11-02T22:25:41.998Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T19:52:04.670Z
@@ -22,12 +22,12 @@ The following chart displays the cards in their standard order and categorizatio
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|-|![20.svg](/sheldonchen-cards/20.svg#hanafuda-card =80x)|![21.svg](/sheldonchen-cards/21.svg#hanafuda-card =80x)|![22.svg](/sheldonchen-cards/22.svg#hanafuda-card =80x)![23.svg](/sheldonchen-cards/23.svg#hanafuda-card =80x)|
 |3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|![30.svg](/sheldonchen-cards/30.svg#hanafuda-card =80x)|-|![31.svg](/sheldonchen-cards/31.svg#hanafuda-card =80x)|![32.svg](/sheldonchen-cards/32.svg#hanafuda-card =80x)![33.svg](/sheldonchen-cards/33.svg#hanafuda-card =80x)|
 |4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Wisteria](/en/hanafuda/suits/wisteria)|-|![40.svg](/sheldonchen-cards/40.svg#hanafuda-card =80x)|![41.svg](/sheldonchen-cards/41.svg#hanafuda-card =80x)|![42.svg](/sheldonchen-cards/42.svg#hanafuda-card =80x)![43.svg](/sheldonchen-cards/43.svg#hanafuda-card =80x)|
-|5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png)|[Iris](/en/hanafuda/suits/iris)|||||
-|6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png)|[Peony](/en/hanafuda/suits/peony)|||||
-|7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png)|[Bush Clover](/en/hanafuda/suits/bush-clover)|||||
-|8|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|||||
-|9|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|||||
-|10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png)|[Maple](/en/hanafuda/suits/maple)|||||
-|11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png)|[Willow](/en/hanafuda/suits/willow)|||||
-|12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png)|[Paulownia](/en/hanafuda/suits/paulownia)|||||
+|5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png)|[Iris](/en/hanafuda/suits/iris)|-|![50.svg](/sheldonchen-cards/50.svg#hanafuda-card =80x)|![51.svg](/sheldonchen-cards/51.svg#hanafuda-card =80x)|![52.svg](/sheldonchen-cards/52.svg#hanafuda-card =80x)![53.svg](/sheldonchen-cards/53.svg#hanafuda-card =80x)|
+|6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png)|[Peony](/en/hanafuda/suits/peony)|-|![60.svg](/sheldonchen-cards/60.svg#hanafuda-card =80x)|![61.svg](/sheldonchen-cards/61.svg#hanafuda-card =80x)|![62.svg](/sheldonchen-cards/62.svg#hanafuda-card =80x)![63.svg](/sheldonchen-cards/63.svg#hanafuda-card =80x)|
+|7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png)|[Bush Clover](/en/hanafuda/suits/bush-clover)|-|![70.svg](/sheldonchen-cards/70.svg#hanafuda-card =80x)|![71.svg](/sheldonchen-cards/71.svg#hanafuda-card =80x)|![72.svg](/sheldonchen-cards/72.svg#hanafuda-card =80x)![73.svg](/sheldonchen-cards/73.svg#hanafuda-card =80x)|
+|8|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|![80.svg](/sheldonchen-cards/80.svg#hanafuda-card =80x)|![81.svg](/sheldonchen-cards/81.svg#hanafuda-card =80x)|-|![82.svg](/sheldonchen-cards/82.svg#hanafuda-card =80x)![83.svg](/sheldonchen-cards/83.svg#hanafuda-card =80x)|
+|9|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|-|![90.svg](/sheldonchen-cards/90.svg#hanafuda-card =80x)|![91.svg](/sheldonchen-cards/91.svg#hanafuda-card =80x)|![92.svg](/sheldonchen-cards/92.svg#hanafuda-card =80x)![93.svg](/sheldonchen-cards/93.svg#hanafuda-card =80x)|
+|10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png)|[Maple](/en/hanafuda/suits/maple)|-|![100.svg](/sheldonchen-cards/100.svg#hanafuda-card =80x)|![101.svg](/sheldonchen-cards/101.svg#hanafuda-card =80x)|![102.svg](/sheldonchen-cards/102.svg#hanafuda-card =80x)![103.svg](/sheldonchen-cards/103.svg#hanafuda-card =80x)|
+|11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png)|[Willow](/en/hanafuda/suits/willow)|![110.svg](/sheldonchen-cards/110.svg#hanafuda-card =80x)|![111.svg](/sheldonchen-cards/111.svg#hanafuda-card =80x)|![112.svg](/sheldonchen-cards/112.svg#hanafuda-card =80x)|![113.svg](/sheldonchen-cards/113.svg#hanafuda-card =80x)|
+|12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png)|[Paulownia](/en/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
 
