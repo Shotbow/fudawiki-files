@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2020-11-02T22:13:53.690Z
+date: 2020-11-02T22:17:13.710Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T19:52:04.670Z
@@ -21,7 +21,7 @@ The following chart displays the cards in their standard order and categorizatio
 |1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pine](/en/hanafuda/suits/pine)|![10.svg](/sheldonchen-cards/10.svg#hanafuda-card =80x)|-|![11.svg](/sheldonchen-cards/11.svg#hanafuda-card =80x)|![12.svg](/sheldonchen-cards/12.svg#hanafuda-card =80x)![13.svg](/sheldonchen-cards/13.svg#hanafuda-card =80x)|
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|-|![20.svg](/sheldonchen-cards/20.svg#hanafuda-card =80x)|![21.svg](/sheldonchen-cards/21.svg#hanafuda-card =80x)|![22.svg](/sheldonchen-cards/22.svg#hanafuda-card =80x)![23.svg](/sheldonchen-cards/23.svg#hanafuda-card =80x)|
 |3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|![30.svg](/sheldonchen-cards/30.svg#hanafuda-card =80x)|-|![31.svg](/sheldonchen-cards/31.svg#hanafuda-card =80x)|![32.svg](/sheldonchen-cards/32.svg#hanafuda-card =80x)![33.svg](/sheldonchen-cards/33.svg#hanafuda-card =80x)|
-|4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Wisteria](/en/hanafuda/suits/wisteria)|||||
+|4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Wisteria](/en/hanafuda/suits/wisteria)|-|![40.svg](/sheldonchen-cards/40.svg#hanafuda-card =80x)|![41.svg](/sheldonchen-cards/41.svg#hanafuda-card =80x)|![42.svg](/sheldonchen-cards/42.svg#hanafuda-card =80x)![43.svg](/sheldonchen-cards/43.svg#hanafuda-card =80x)|
 |5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png)|[Iris](/en/hanafuda/suits/iris)|||||
 |6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png)|[Peony](/en/hanafuda/suits/peony)|||||
 |7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png)|[Bush Clover](/en/hanafuda/suits/bush-clover)|||||
