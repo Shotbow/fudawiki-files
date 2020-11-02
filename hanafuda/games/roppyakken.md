@@ -2,7 +2,7 @@
 title: Roppyakken
 description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-02T05:13:56.543Z
+date: 2020-11-02T05:21:31.210Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -15,8 +15,8 @@ There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that 
 |Value|Name of Lucky Hand|Description|
 |:---:|:---:|:---:|
 |400|All Chaff [総ガス - そうがす, *sōgasu*]|All cards in hand are 0-point cards. Note that this excludes the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), which is worth 10 points in this game.
-|200|
-|400|
+|200|Hand Three [手三 - てさん, *tesan*]|Hand contains at least three cards of one suit.|
+|400|Double Hand Three [二手三 - ふたてさん, *futatesan*]|Hand contains at least three of a kind in two different suits. Overrides Hand Three.
 # Gameplay
 ## Wild Card
 # Card Values
