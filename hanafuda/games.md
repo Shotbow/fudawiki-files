@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-10-29T03:04:43.568Z
+date: 2020-11-02T21:51:45.091Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -43,7 +43,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |Hiki-Kabu|2-10|Showdown|Japan|
 |Hiyoko (Chick)|2-4|Sequence|Japan|
-|[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
+|[Hon-Bana (Original Flowers)](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |Hyaku-Otoshi|-|-|-|
 |Ichi-Ni-San (One-Two-Three)|3|Fishing|Japan|
 |Ino-Shika-Cho|2+|Banking|Japan|
@@ -99,7 +99,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## K.K. Corner and R. Whitbeck
 |Game|Players|Family|
 |:---|:---:|---:|
-|Kwa-Do|2-6|Fishing|
+|Kwa-Dō|2-6|Fishing|
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
