@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T21:38:56.647Z
+date: 2020-11-03T21:49:57.680Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -53,9 +53,9 @@ Once one or more players' cumulative scores have reached or exceeded 600 points,
 |![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia|10|1|
 |Other Chaff|0|23|
 
-
+## Visual Representation
 |Value|Cards|
-|:---:|---|
+|:---:|:---:|
 |50|![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)|
 |10|![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)<br>![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)<br>![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)
 
