@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T05:30:19.907Z
+date: 2020-11-03T05:42:51.302Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -37,6 +37,12 @@ After playing a card from your hand and making a match as is appropriate, flip o
 The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man card functions as a (limited) wild card in Six Hundred. This means that it can be used to match any card **other** than 0-point cards or other [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. The exception is when the other three ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow cards are all on the field; then it will capture all of them. In addition, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man **cannot** be used to capture sets of 3 of any other suit.
 
 If the wild card is on the field, you may capture it using any non-0-point card **or** using another ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card.
+## End of Round
+The current round ends when all players have used up their cards. If there are any cards left on the field at this point, they simply stay there and do not play any role in scoring.
+
+At this point, all players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player’s score for the round is calculated as the sum of their captured card plus the value of any captured yaku. If no player has reached 600 points, the current scores are recorded, to be added to the results of the next round.
+
+Once one or more players' cumulative scores have reached or exceeded 600 points, the player with the greatest number of points is declared the winner. (The possible exception to this is if one of the instant win yaku have been formed.)
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
@@ -51,7 +57,7 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
-|600|Four Brights - 四光 [しこ, *shiko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix). In some rule sets, Four Brights is considered an instant win, even if the other player had a greater final score.|
+|600|Four Brights - 四光 [しこ, *shiko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix). In some rule sets, Four Brights is considered an instant win, even if another player had a greater final score.|
 |150|Pine, Paulownia, Baldy - 松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]|The ![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane, ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.|
 |150|Big Three - 大三 [おおざん, *oozan*]|The ![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane, ![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Warbler, and ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain.
 |<h2 align="center">Ribbon Yaku</h2>|||
