@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T05:15:49.641Z
+date: 2020-11-03T05:30:19.907Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -28,8 +28,15 @@ There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that 
 |400|Double Hand Three [二手三 - ふたてさん, *futatesan*]|Hand contains at least three of a kind in two different suits. Overrides Hand Three.
 # Gameplay
 Once any Lucky Hands have been revealed and scored, players re-conceal their hands and begin the round. The dealer is the first to play, after which play moves counterclockwise until each player has exhausted their hands.
+Turns
+## Turns
+On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your scoring area categorized by card type.
 ## Wild Card
+The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man card functions as a (limited) wild card in Six Hundred. This means that it can be used to match any card **other** than 0-point cards or other [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. The exception is when the other three ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow cards are all on the field; then it will capture all of them. In addition, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man **cannot** be used to capture sets of 3 of any other suit.
+
+If the wild card is on the field, you may capture it using any non-0-point card **or** using another ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card.
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
