@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T22:27:15.766Z
+date: 2020-11-03T22:35:44.340Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -70,8 +70,8 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |150|Big Three - 大三 [おおざん, *oozan*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |600|Seven Ribbons - 七短 [ななたん, *nanatan*]|Any 7 Ribbon cards. In some rule sets, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon) does not count towards this yaku, while in others it does. Seven Ribbons may also count as an instant victory, but loses to Four Brights if both are captured by different players.|
-|100|Little Three - 小三 [こざん, *kozan*]| The three Poetry Ribbons: [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine#poetry-ribbon), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon).|
-|100|Blue Ribbons - 青短 [あおたん, *aotan*]|The three Blue Ribbons: [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony#blue-ribbon), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum](/en/hanafuda/suits/chrysanthemum#blue-ribbon), and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple#blue-ribbon).|
+|100|Little Three - 小三 [こざん, *kozan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|100|Blue Ribbons - 青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |100|Grass Ribbons- 草短 [くさたん, *kusatan*]|Three **Specific** Plain Ribbons: [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria#plain-ribbon), [![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris#plain-ribbon), and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover#plain-ribbon).|
 |<h2 align="center">Animal Yaku</h2>|||
 |300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterfly](/en/hanafuda/suits/peony#butterflies) cards.|
