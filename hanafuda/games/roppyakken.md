@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T05:11:06.150Z
+date: 2020-11-03T05:15:49.641Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -27,6 +27,8 @@ There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that 
 |200|Hand Three [手三 - てさん, *tesan*]|Hand contains at least three cards of one suit.|
 |400|Double Hand Three [二手三 - ふたてさん, *futatesan*]|Hand contains at least three of a kind in two different suits. Overrides Hand Three.
 # Gameplay
+Once any Lucky Hands have been revealed and scored, players re-conceal their hands and begin the round. The dealer is the first to play, after which play moves counterclockwise until each player has exhausted their hands.
+
 ## Wild Card
 # Card Values
 |Card Type|Value|Number in Deck|
