@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T22:37:09.532Z
+date: 2020-11-03T22:40:40.712Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -74,9 +74,9 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |100|Blue Ribbons - 青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |100|Grass Ribbons- 草短 [くさたん, *kusatan*]|Three **specific** Plain Ribbons:<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |<h2 align="center">Animal Yaku</h2>|||
-|300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterfly](/en/hanafuda/suits/peony#butterflies) cards.|
-|<h2 align="center">Sake Yaku</h2>|||
-|300|Gun - 鉄砲 [てっぽう, *teppō*]|The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon. Note that this yaku replaces the other two Sake Yaku; you do not score for all three individually.
+|300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
+|<h2 align="center">Viewing Yaku</h2>|||
+|300|Gun - 鉄砲 [てっぽう, *teppō*]|The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon. Note that this yaku replaces the other two Viewing Yaku; you do not score for all three individually.
 |100|Flower Viewing - 花見 [はなみ, *hanami*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain.
 |100|Moon Viewing - 月見 [つきみ, *tsukimi*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.
 |<h2 align="center">Stripe Yaku</h2>|||
@@ -90,7 +90,7 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |50|Paulownia Stripe - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
 # Notable Variants
 - The 2017 IndianWolf Studios book uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as the wild card.
-- In the Marguerite web game, the three [Sake](/en/hanafuda/games/roppyakken#sake-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
+- In the Marguerite web game, the three [Viewing](/en/hanafuda/games/roppyakken#viewing-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
 - The MocoGame iOS version of Six Hundred takes place over 12 rounds, with the ultimate winner being the one who has exceeded 600 points the most times in that period.
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
