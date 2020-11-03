@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T22:43:52.346Z
+date: 2020-11-03T23:08:23.572Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -79,18 +79,18 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |300|Gun - 鉄砲 [てっぽう, *teppō*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)<br> Note that this yaku replaces the other two Viewing Yaku; you do not score for all three individually.|
 |100|Flower Viewing - 花見 [はなみ, *hanami*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |100|Moon Viewing - 月見 [つきみ, *tsukimi*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
-|<h2 align="center">Stripe Yaku</h2>|||
-|200|Rain Stripe - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
-|50|Pine Stripe - 松島 [まつしま, *matsushima*]|All 4 [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
-|50|Plum Blossom Stripe - 梅島 [うめしま, *umeshima*]|All 4 [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
-|50|Cherry Blossom Stripe - 桜島 [さくらしま, *sakurashima*]|All 4 [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.|
-|50|Wisteria Stripe - 藤島 [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
-|50|Baldy Stripe - 坊主島 [ぼうずしま, *bōzushima*]|All 4 [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards.
-|50|Maple Stripe - 紅葉島 [もみじしま, *momijishima*]|All 4 [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple) cards.
-|50|Paulownia Stripe - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
+|<h2 align="center">Island Yaku</h2>|||
+|200|Rain Island - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
+|50|Pine Island - 松島 [まつしま, *matsushima*]|All 4 [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
+|50|Plum Blossom Island - 梅島 [うめしま, *umeshima*]|All 4 [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
+|50|Cherry Blossom Island - 桜島 [さくらしま, *sakurashima*]|All 4 [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.|
+|50|Wisteria Island - 藤島 [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
+|50|Baldy Island - 坊主島 [ぼうずしま, *bōzushima*]|All 4 [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards.
+|50|Maple Island - 紅葉島 [もみじしま, *momijishima*]|All 4 [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple) cards.
+|50|Paulownia Island - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
 # Notable Variants
 - The 2017 IndianWolf Studios book uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as the wild card.
-- In the Marguerite web game, the three [Viewing](/en/hanafuda/games/roppyakken#viewing-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
+- In the Marguerite web game, the three [Viewing](/en/hanafuda/games/roppyakken#viewing-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
 - The MocoGame iOS version of Six Hundred takes place over 12 rounds, with the ultimate winner being the one who has exceeded 600 points the most times in that period.
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
