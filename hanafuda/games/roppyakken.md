@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T22:40:40.712Z
+date: 2020-11-03T22:43:52.346Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -76,9 +76,9 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |<h2 align="center">Animal Yaku</h2>|||
 |300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
 |<h2 align="center">Viewing Yaku</h2>|||
-|300|Gun - 鉄砲 [てっぽう, *teppō*]|The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain, and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon. Note that this yaku replaces the other two Viewing Yaku; you do not score for all three individually.
-|100|Flower Viewing - 花見 [はなみ, *hanami*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain.
-|100|Moon Viewing - 月見 [つきみ, *tsukimi*]|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and ![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon.
+|300|Gun - 鉄砲 [てっぽう, *teppō*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)<br> Note that this yaku replaces the other two Viewing Yaku; you do not score for all three individually.|
+|100|Flower Viewing - 花見 [はなみ, *hanami*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|100|Moon Viewing - 月見 [つきみ, *tsukimi*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
 |<h2 align="center">Stripe Yaku</h2>|||
 |200|Rain Stripe - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
 |50|Pine Stripe - 松島 [まつしま, *matsushima*]|All 4 [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
