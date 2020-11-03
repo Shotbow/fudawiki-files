@@ -1,15 +1,20 @@
 ---
 title: Roppyakken
-description: Known in English as "Six-Hundred" - a quick hanafuda game for 2 or 3 players
+description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T01:23:14.919Z
+date: 2020-11-03T04:52:58.270Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
 ---
 
-Six-Hundred [六百間, ろっぴゃっけん *roppyakken*] is a hanafuda game for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six-Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) as a wild card, and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) Animal card as a de-facto Bright card.
+Six Hundred [六百間, ろっぴゃっけん *roppyakken*] is a [hanafuda](/en/hanafuda) game for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) as a wild card and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) Animal card as a de-facto Bright card.
 # Setup
+Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+## The Deal
+Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. If there are two participants, the dealer sends 8 cards face up to the table and 8 cards face down to each player. If three people are playing, the field will instead receive 6 cards and each player will receive 7.
+
+Players then check their hands for any of the combinations described in the following section before the typical [Hana Awase](/en/hanafuda/games/hana-awase)-style gameplay begins.
 ## Lucky Hands
 There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that one might be dealt in Six Hundred. If you receive any of these combinations in your hand, reveal all cards that are part of that combination at the beginning of the round to earn points, according to the following chart.
 |Value|Name of Lucky Hand|Description|
@@ -56,6 +61,8 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |50|Baldy Stripe - 坊主島 [ぼうずしま, *bōzushima*]|All 4 [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards.
 |50|Maple Stripe - 紅葉島 [もみじしま, *momijishima*]|All 4 [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple) cards.
 |50|Paulownia Stripe - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
+# Notable Variants
+
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
