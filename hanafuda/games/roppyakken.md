@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T23:08:23.572Z
+date: 2020-11-03T23:25:23.185Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -81,10 +81,10 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |100|Moon Viewing - 月見 [つきみ, *tsukimi*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
 |<h2 align="center">Island Yaku</h2>|||
 |200|Rain Island - 雨島 [あめしま, *ameshima*]|All 4 [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. 
-|50|Pine Island - 松島 [まつしま, *matsushima*]|All 4 [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
-|50|Plum Blossom Island - 梅島 [うめしま, *umeshima*]|All 4 [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
-|50|Cherry Blossom Island - 桜島 [さくらしま, *sakurashima*]|All 4 [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.|
-|50|Wisteria Island - 藤島 [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
+|50|Pine Island - 松島 [まつしま, *matsushima*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Pine Chaff 1](/sheldonchen-cards/12.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)[![Pine Chaff 2](/sheldonchen-cards/13.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#chaff)|
+|50|Plum Blossom Island - 梅島 [うめしま, *umeshima*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Plum Blossom Chaff 1](/sheldonchen-cards/22.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)[![Plum Blossom Chaff 2](/sheldonchen-cards/23.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#chaff)|
+|50|Cherry Blossom Island - 桜島 [さくらしま, *sakurashima*]|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Cherry Blossom Chaff 1](/sheldonchen-cards/32.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)[![Cherry Blossom Chaff 2](/sheldonchen-cards/33.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#chaff)|
+|50|Wisteria Island - 藤島 [ふじしま, *fujishima*]|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
 |50|Baldy Island - 坊主島 [ぼうずしま, *bōzushima*]|All 4 [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards.
 |50|Maple Island - 紅葉島 [もみじしま, *momijishima*]|All 4 [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple) cards.
 |50|Paulownia Island - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
