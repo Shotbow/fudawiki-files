@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T04:54:48.869Z
+date: 2020-11-03T05:04:21.309Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -13,6 +13,8 @@ Six Hundred [六百間, ろっぴゃっけん *roppyakken*] is a [hanafuda](/en/
 Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## The Deal
 Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. If there are two participants, the dealer sends 8 cards face up to the table and 8 cards face down to each player. If three people are playing, the field will instead receive 6 cards and each player will receive 7. Any remaining cards in the deck will make up the draw pile.
+
+If a complete suit of 4 cards was dealt to the field, a misdeal is declared and the same player shuffles and deals anew. If all 4 cards of a suit were dealt to a player's hand, they have the **option** of declaring a misdeal, with the same results.
 
 Players then check their hands for any of the combinations described in the following section before the typical [Hana Awase](/en/hanafuda/games/hana-awase)-style gameplay begins.
 ## Lucky Hands
