@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-03T05:43:51.501Z
+date: 2020-11-03T05:55:39.923Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -64,7 +64,7 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |600|Seven Ribbons - 七短 [ななたん, *nanatan*]|Any 7 Ribbon cards. In some rule sets, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon) does not count towards this yaku, while in others it does. Seven Ribbons may also count as an instant victory, but loses to Four Brights if both are captured by different players.|
 |100|Little Three - 小三 [こざん, *kozan*]| The three Poetry Ribbons: [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine#poetry-ribbon), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon).|
 |100|Blue Ribbons - 青短 [あおたん, *aotan*]|The three Blue Ribbons: [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony#blue-ribbon), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum](/en/hanafuda/suits/chrysanthemum#blue-ribbon), and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple#blue-ribbon).|
-|100|Grass - 草 [くさ, *kusa*]|Three **Specific** Plain Ribbons: [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria#plain-ribbon), [![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris#plain-ribbon), and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover#plain-ribbon).|
+|100|Grass Ribbons- 草短 [くさたん, *kusatan*]|Three **Specific** Plain Ribbons: [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria#plain-ribbon), [![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris#plain-ribbon), and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover#plain-ribbon).|
 |<h2 align="center">Animal Yaku</h2>|||
 |300|Boar, Deer, Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterfly](/en/hanafuda/suits/peony#butterflies) cards.|
 |<h2 align="center">Sake Yaku</h2>|||
@@ -82,6 +82,8 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |50|Paulownia Stripe - 桐島 [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.
 # Notable Variants
 - The 2017 IndianWolf Studios book uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as the wild card.
+- In the Marguerite web game, the three [Sake](/en/hanafuda/games/roppyakken#sake-yaku) yaku are not counted if the player who scores them has also captured a ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, unless they have also captured the [Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun).
+- The MocoGame iOS version of Six Hundred takes place over 12 rounds, with the ultimate winner being the one who has exceeded 600 points the most times in that period.
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. "Six Hundred." *Hanafuda Games*, Hanami ed., IndianWolf Studios, 2017. pp 41-45.
