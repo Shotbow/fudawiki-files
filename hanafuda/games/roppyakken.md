@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-04T00:03:39.213Z
+date: 2020-11-04T00:07:34.228Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -20,7 +20,7 @@ If 3 cards of a suit were dealt to the field, they are stacked together to signi
 
 Players then check their hands for any of the combinations described in the following section before the typical [Hana Awase](/en/hanafuda/games/hana-awase)-style gameplay begins.
 ## Lucky Hands
-There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that one might be dealt in Six Hundred. If you receive any of these combinations in your hand, reveal all cards that are part of that combination at the beginning of the round to earn points, according to the following chart.
+There are three "Lucky Hands" [手役 - てやく, *teyaku*] that one might be dealt in Six Hundred. If you receive any of these combinations in your hand, reveal all cards that are part of that combination at the beginning of the round to earn points, according to the following chart.
 |Value|Name of Lucky Hand|Description|
 |:---:|:---:|:---:|
 |400|All Chaff [総ガス - そうがす, *sōgasu*]|All cards in hand are 0-point cards. Note that this excludes the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), which is worth 10 points in this game.
@@ -28,7 +28,6 @@ There are three commonly used "Lucky Hands" [手役 - てやく, *teyaku*] that 
 |400|Double Hand Three [二手三 - ふたてさん, *futatesan*]|Hand contains at least three of a kind in two different suits. Overrides Hand Three.
 # Gameplay
 Once any Lucky Hands have been revealed and scored, players re-conceal their hands and begin the round. The dealer is the first to play, after which play moves counterclockwise until each player has exhausted their hands.
-Turns
 ## Turns
 On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
