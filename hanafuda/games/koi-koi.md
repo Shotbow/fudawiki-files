@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-11-04T05:10:53.603Z
+date: 2020-11-04T05:30:39.702Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -63,17 +63,18 @@ Yaku listed below are sorted into groups.  For each of these groups (except “U
 |6|Three Brights - 三光 [さんこう, *sankō*]|Any 3 of:[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |<h2 align="center">Animal Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies). Players are awarded an additional point for each other Animal card.|
+|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>Players are awarded an additional point for each other Animal card.|
 |1|Animals - タネ [たね, *tane*]|Any five Animal cards. One additional point is awarded for every additional Animal card.|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |Points|Yaku Name|Description|
-|10|Poetry+Blue Ribbons - 赤短・青短の重複 [あかたん・あおたんのちょうふく, akatan - *aotan no chōfuku*]|All three poetry ribbons and all three blue ribbons. Players are awarded an additional point for each other Ribbon card.|
-|5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|All three poetry ribbons ([![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine#poetry-ribbon), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom#poetry-ribbon), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)). Players are awarded an additional point for each other Ribbon card.|
-|5|Blue Ribbons - 青短 [あおたん, *aotan*]|All three blue ribbons. ([![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony#blue-ribbon), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum](/en/hanafuda/suits/chrysanthemum#blue-ribbon) and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple#blue-ribbon)). Players are awarded an additional point for each other Ribbon card.|
+|10|Poetry+Blue Ribbons - 赤短・青短の重複 [あかたん・あおたんのちょうふく, akatan - *aotan no chōfuku*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>Players are awarded an additional point for each other Ribbon card.|
+|5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)<br>Players are awarded an additional point for each other Ribbon card.|
+|5|Blue Ribbons - 青短 [あおたん, *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>Players are awarded an additional point for each other Ribbon card.|
 |1|Ribbons - 短冊 [たんざく, *tanzaku*]|Any five Ribbon cards. One additional point is awarded for every additional Ribbon card.|
 |<h2 align="center">Ungrouped Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|The [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup).|
-|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|The [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon) and ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup.|
+|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)
+|
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.|
 |1|Chaff - カス [かす, *kasu*]|Any ten Chaff cards. One additional point is awarded for every additional Chaff card.
