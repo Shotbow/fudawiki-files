@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-11-03T23:11:15.452Z
+date: 2020-11-04T05:54:21.321Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -46,8 +46,8 @@ There are typically only 4 yaku used in Mushi. Players earn points for each of t
 |:---:|:---:|:---:|
 |30|Five Brights - 五光 [ごうこ, *gōko*]|All five Bright cards.|
 |25|Three Brights - 三光 [さんこ, *sanko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
-|10|Wisteria Island - 藤シマ [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
-|10|Paulownia Island - 桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.|
+|10|Four Wisterias - 藤シマ [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
+|10|Four Paulownias - 桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.|
 # Scoring Example
 If "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
 # Bibliography
