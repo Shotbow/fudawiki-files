@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-11-03T23:10:25.270Z
+date: 2020-11-04T05:55:33.589Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -47,9 +47,9 @@ Thus, there are a total of 300 card points per round.
 # Yaku
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
-|1|Pine Island - 松島 [まつしま, *matsushima*]|All four [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
-|1|Cherry Blossom Island - 桜島 [さくらしま, *sakurashima*]|All four [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.
-|1|Plum Blossom Island - 梅島 [うめしま, *umeshima*]|All four [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
+|1|Four Pines - 松島 [まつしま, *matsushima*]|All four [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards.|
+|1|Four Cherry Blossoms - 桜島 [さくらしま, *sakurashima*]|All four [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards.
+|1|Four Plum Blossoms - 梅島 [うめしま, *umeshima*]|All four [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom) cards.|
 |1|One Drink|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and one 30-point card.|
 |2|Two Drinks|The ![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup and two (or more) 30-point cards.|
 |3|Front Elder|![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)The Bridge, ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix, and ![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer.|
