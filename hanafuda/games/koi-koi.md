@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-10-28T16:17:19.268Z
+date: 2020-11-04T05:10:53.603Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -57,10 +57,10 @@ Yaku listed below are sorted into groups.  For each of these groups (except “U
 |Points|Yaku Name|Description|
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
-|15|Five Brights - 五光 [ごこう, *gokō*]|All five Bright cards.|
-|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|Four Bright cards, but cannot include the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man).|
-|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|Four Bright cards, one of them being the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man.|
-|6|Three Brights - 三光 [さんこう, *sankō*]| 	Three Bright cards, but cannot include the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man.|
+|15|Five Brights - 五光 [ごこう, *gokō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)plus 3 of:[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|6|Three Brights - 三光 [さんこう, *sankō*]|Any 3 of:[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |<h2 align="center">Animal Yaku</h2>|||
 |Points|Yaku Name|Description|
 |5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|The three Animal cards showing the [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), and [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies). Players are awarded an additional point for each other Animal card.|
