@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-04T00:07:34.228Z
+date: 2020-11-04T00:54:04.607Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -31,7 +31,7 @@ Once any Lucky Hands have been revealed and scored, players re-conceal their han
 ## Turns
 On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
-After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your scoring area categorized by card type.
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your captured cards clearly organized by card type.
 ## Wild Card
 The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man card functions as a (limited) wild card in Six Hundred. This means that it can be used to match any card **other** than 0-point cards or other [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. The exception is when the other three ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow cards are all on the field; then it will capture all of them. In addition, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man **cannot** be used to capture sets of 3 of any other suit.
 
@@ -40,7 +40,9 @@ If the wild card is on the field, you may capture it using any non-0-point card 
 The current round ends when all players have used up their cards. If there are any cards left on the field at this point, they simply stay there and do not play any role in scoring.
 
 At this point, all players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player’s score for the round is calculated as the sum of their captured card plus the value of any captured yaku. If no player has reached 600 points, the current scores are recorded, to be added to the results of the next round.
-
+### Dandruff
+If any player has only scored 30 points or fewer, not counting ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow and ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) Paulownia cards, during a round, all players' scores for the round, including those for Lucky Hands, are invalidated. This negation of scoring is called *fuke* [ふけ, lit. "dandruff"].
+### End of Game
 Once one or more players' cumulative scores have reached or exceeded 600 points, the player with the greatest number of points is declared the winner. (The possible exception to this is if one of the instant win yaku have been formed.)
 # Card Values
 |Card Type|Value|Number in Deck|
@@ -64,7 +66,7 @@ Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, 
 |Value|Name of Yaku|Description|
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
-|600|Four Brights - 四光 [しこ, *shiko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>In some rule sets, Four Brights is considered an instant win, even if another player had a greater final score.|
+|600|Four Brights - 四光 [しこ, *shiko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>In most rule sets, Four Brights is considered an instant win, even if another player had a greater final score.|
 |150|Pine, Paulownia, Baldy - 松桐坊主 [まつきりぼうず, *matsu-kiri-bōzu*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |150|Big Three - 大三 [おおざん, *oozan*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |<h2 align="center">Ribbon Yaku</h2>|||
