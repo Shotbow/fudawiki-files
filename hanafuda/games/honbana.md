@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-11-04T05:55:33.589Z
+date: 2020-11-07T13:33:18.542Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -38,9 +38,9 @@ Once all calculations have been completed, money changes hands according to the 
 # Card Values
 |Cards|Value|Number per Deck|
 |:---:|:---:|:---:|
-|[![monthicon_1.png](/hanafuda/icons/monthicon_1_crane.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3_curtain.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8_moon.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), ![Icon for month 12](/hanafuda/icons/monthicon_12_phoenix.png =20x)Phoenix|30|4|
-|[![monthicon_5.png](/hanafuda/icons/monthicon_5_bridge.png =20x)Bridge](/en/hanafuda/suits/iris#eight-plank-bridge), [![monthicon_10.png](/hanafuda/icons/monthicon_10_deer.png =20x)Deer](/en/hanafuda/suits/maple#deer), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|20|3|
-|[![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese), [![monthicon_9.png](/hanafuda/icons/monthicon_9_sake.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Swallow](/en/hanafuda/suits/willow#swallow), [![monthicon_6.png](/hanafuda/icons/monthicon_6_butterfly.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
+|[![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix|30|4|
+|[![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Bridge](/en/hanafuda/suits/iris#eight-plank-bridge), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|20|3|
+|[![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Swallow](/en/hanafuda/suits/willow#swallow), [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
 |Ribbons|5|10|
 |Chaff|0|21|
 Thus, there are a total of 300 card points per round.
