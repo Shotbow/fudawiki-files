@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2020-11-16T22:22:00.067Z
+date: 2020-11-16T22:26:12.228Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -17,8 +17,8 @@ Sudaoshi is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of se
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
 |Chaff|10|24|
-|Curtain and Phoenix|10|2|
-|Crane, Moon, and Rain Man|5|3|
+|[![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix)|10|2|
+|[![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man)|5|3|
 |Animals|5|9|
 |Ribbons|1|10|
 The total value of cards in the deck is 330.
