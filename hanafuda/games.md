@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-02T21:51:45.091Z
+date: 2020-11-16T19:58:04.363Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -23,7 +23,6 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
 |Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred), a.ka. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
-|Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
 |[Sakura, a.k.a. Higo-Bana or Hawaiian Hanafuda](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
@@ -76,6 +75,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
 |Seotda|2-10|Showdown|Korea|
+|Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
 |Suhara-Bana|-|-|-|
 |Sutda|2-10|Showdown|-|
 |Takame|-|-|-|
