@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2020-11-16T22:20:32.718Z
+date: 2020-11-16T22:22:00.067Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -12,6 +12,7 @@ Sudaoshi is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of se
 # Setup
 ## The Deal
 ## Lucky Hands
+# Gameplay
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
