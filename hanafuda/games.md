@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-16T19:58:04.363Z
+date: 2020-11-16T20:04:08.538Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -21,7 +21,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
 |[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
-|Oicho-Kabu (Eight-Nine), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
+|[Oicho-Kabu (Eight-Nine)](/en/hanafuda/games/oicho-kabu), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
 |[Roppyakken (Six Hundred), a.ka. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |[Sakura, a.k.a. Higo-Bana or Hawaiian Hanafuda](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
@@ -31,14 +31,14 @@ These games, while not as widespread today as those listed above, are variously 
 |Akita-Bana|-|Fishing|Akita, Japan|
 |Ayame Katsugi|-|-|-|
 |[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
-|Batta Maki, a.k.a. Batta, Shoniban, or Atosaki|2+|Banking|Japan|
+|[Batta Maki](/en/hanafuda/games/battamaki), a.k.a. Batta, Shoniban, or Atosaki|2+|Banking|Japan|
 |Bizen-Bana|-|Fishing|Bizen Province, Japan|
 |Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
 |Echobo|2+|Banking|Japan|
 |Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
 |Gomai-Kabu|8|Showdown|Japan|
-|Hachi (Eight)|2|Fishing|Japan|
+|[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |Hiki-Kabu|2-10|Showdown|Japan|
 |Hiyoko (Chick)|2-4|Sequence|Japan|
@@ -52,7 +52,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Junishi-Awase|-|-|-|
 |Kachi-Kachi|-|-|-|
 |Kaga|2|Fishing|Kaga Province, Japan|
-|Kekoro|-|-|-|
+|Kekoro|Fishing|-|-|
 |Kingo|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |Kyo-Kabu|2-10|Banking|Japan|
@@ -75,7 +75,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
 |Seotda|2-10|Showdown|Korea|
-|Sudaoshi, a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
+|[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
 |Suhara-Bana|-|-|-|
 |Sutda|2-10|Showdown|-|
 |Takame|-|-|-|
@@ -148,6 +148,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Hana-Hearts|2-5|Trick-Taking|
 |Koi-Fish|2-6|Quartet|
 |Po-Koi|2-5|Showdown|
+|[Quick Draw!](/newgames/quick_draw_v1.1.pdf)|2|Draw and Discard|
 |[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Patience|
 ## Sumo-No-Z
 |Game|Players|Family|
