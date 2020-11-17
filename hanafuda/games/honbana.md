@@ -2,7 +2,7 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2020-11-17T06:56:15.659Z
+date: 2020-11-17T07:05:45.703Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
@@ -36,14 +36,6 @@ Second, each player checks for yaku, according the chart further down the page, 
 
 Once all calculations have been completed, money changes hands according to the Points scored, and if desired, players prepare for the next round.
 # Card Values
-|Cards|Value|Number per Deck|
-|:---:|:---:|:---:|
-|[![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix|30|4|
-|[![monthicon_5.png](/hanafuda/icons/monthicon_5.png =20x)Bridge](/en/hanafuda/suits/iris#eight-plank-bridge), [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler)|20|3|
-|[![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Cuckoo](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Swallow](/en/hanafuda/suits/willow#swallow), [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Butterflies](/en/hanafuda/suits/peony#butterflies)|10|7|
-|Ribbons|5|10|
-|Chaff|0|21|
-## Visual Representation
 |Card Value|Cards|
 |:---:|:---:|
 |30|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
