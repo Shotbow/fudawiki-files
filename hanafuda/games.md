@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-16T20:04:08.538Z
+date: 2020-11-17T00:51:58.834Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -75,7 +75,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
 |Seotda|2-10|Showdown|Korea|
-|[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3|Fishing|Japan|
+|[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |Suhara-Bana|-|-|-|
 |Sutda|2-10|Showdown|-|
 |Takame|-|-|-|
