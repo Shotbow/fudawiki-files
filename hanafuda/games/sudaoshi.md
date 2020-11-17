@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2020-11-16T23:11:25.317Z
+date: 2020-11-17T00:56:18.555Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -12,6 +12,7 @@ Sudaoshi is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of se
 # Setup
 ## The Deal
 ## Lucky Hands
+The Lucky Hands in this game are generally the same as those used in Hachi-Hachi. They are quite numerous, but can be broken into two categories: Chaff combinations and Suit combinations. Only one Lucky Hand may be scored from each category per player, but two hands from different categories may both be scored together.
 # Gameplay
 # Card Values
 |Card Type|Value|Number in Deck|
