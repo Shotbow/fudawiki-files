@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-17T00:51:58.834Z
+date: 2020-11-17T02:51:24.132Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -143,7 +143,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
-|Black Flower|2-10|Banking|
+|[Black Flower](/newgames/black_flower_-_kurobana_v2.pdf)|2-10|Banking|
 |[600 Hearts](/newgames/600_hearts_v2.1.pdf)|2-4|Fishing|
 |Hana-Hearts|2-5|Trick-Taking|
 |Koi-Fish|2-6|Quartet|
