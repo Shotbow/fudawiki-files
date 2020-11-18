@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-17T02:51:24.132Z
+date: 2020-11-18T23:26:18.369Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -52,7 +52,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Junishi-Awase|-|-|-|
 |Kachi-Kachi|-|-|-|
 |Kaga|2|Fishing|Kaga Province, Japan|
-|Kekoro|Fishing|-|-|
+|Kekoro|Fishing|2|-|
 |Kingo|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |Kyo-Kabu|2-10|Banking|Japan|
