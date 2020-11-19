@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-18T23:26:18.369Z
+date: 2020-11-19T01:26:13.220Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -22,7 +22,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
 |[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
 |[Oicho-Kabu (Eight-Nine)](/en/hanafuda/games/oicho-kabu), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
-|[Roppyakken (Six Hundred), a.ka. Roppyakuten](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
+|[Roppyakken (Six Hundred Spans), a.k.a. Roppyakuten (Six Hundred Points)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
 |[Sakura, a.k.a. Higo-Bana or Hawaiian Hanafuda](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
@@ -59,6 +59,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |Min-Hwatu|2-3|Fishing|Korea|
+|Nana-Tan (Seven Scrolls)|2|Fishing|Japan|
 |Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
 |Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
 |Oni Koi-Koi|2|Fishing|Gifu, Japan|
@@ -66,14 +67,14 @@ These games, while not as widespread today as those listed above, are variously 
 |Poka|2|Sequence|-|
 |Roku-Tan (Six Scrolls)|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
-|Saburokku (Three-Six-Nine)|3|Fishing|Japan|
+|Saburokku (Three-Six-Nine), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
 |San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
-|Sanuki Mekuri|2|Fishing|Japan|
+|Sanuki Mekuri|2|Fishing|Sanuki Province, Japan|
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
 |Sashikomi|-|-|-|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
-|Sen-Roku-Jū (One Thousand Sixty)|3|Fishing|Japan|
+|Sen-Roku-Jū (One Thousand Sixty), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |Seotda|2-10|Showdown|Korea|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |Suhara-Bana|-|-|-|
