@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-19T01:26:13.220Z
+date: 2020-11-19T01:28:23.549Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -72,7 +72,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Sanuki Mekuri|2|Fishing|Sanuki Province, Japan|
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
-|Sashikomi|-|-|-|
+|Sashikomi|2|Showdown|Japan|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |Seotda|2-10|Showdown|Korea|
