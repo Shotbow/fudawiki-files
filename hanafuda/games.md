@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2020-11-20T06:12:52.364Z
+date: 2020-11-21T05:31:02.095Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -17,7 +17,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |[Go-Stop, a.k.a. Godori (Five Birds)](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
-|[Hachi-Hachi (Eighty-Eight)](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Japan|
+|[Hachi-Hachi (Eighty-Eight), a.k.a. Yokohama-Bana](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Yokohama, Japan|
 |[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
 |[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
 |[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
@@ -88,7 +88,6 @@ These games, while not as widespread today as those listed above, are variously 
 |Yatchaba|4-6|-|-|
 |Yaku-Bana|-|-|-|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
-|Yokohama-Bana|-|-|Yokohama, Japan|
 |Yon-Pin (Four-Ace), a.k.a. Shi-Ichi|2+|Showdown|Japan|
 
 
