@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-03T23:08:23.842Z
+date: 2020-12-03T23:16:15.431Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -28,14 +28,14 @@ There are 8 yaku in Sakura, each consisting of 3 cards. Each is worth 50 points,
 The yaku in this game also seem to lack specific name; instead, each is assigned one of the first 8 syllables of the [Iroha poem](https://en.wikipedia.org/wiki/Iroha).
 |Name of Yaku|Description|
 |:---:|:---:|
-|I - い|
-|Ro - ろ|
-|Ha - は|
-|Ni - に|
-|Ho - ほ|
-|He - へ|
-|To - と|
-|Chi - ち|
+|I - い|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
+|Ro - ろ|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|Ha - は|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|Ni - に|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|Ho - ほ|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
+|He - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|To - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|
+|Chi - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
 # Bibliography
 - “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html. 
 - “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
