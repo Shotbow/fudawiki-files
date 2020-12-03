@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-03T21:35:29.569Z
+date: 2020-12-03T21:36:26.860Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -19,3 +19,7 @@ Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.pn
 |5|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)<br>[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)
 |0|All Chaff except [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|
 
+# Yaku
+
+# Bibliography
+- “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html. 
