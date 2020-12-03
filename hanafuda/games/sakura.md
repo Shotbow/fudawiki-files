@@ -2,15 +2,16 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-03T21:29:19.219Z
+date: 2020-12-03T21:35:29.569Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
 ---
 
-Sakura is a popular hanafuda game in Hawaii for 2-7 players. It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other.
+Sakura is a popular hanafuda game in Hawaii for 2-7 players. It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique Hiki rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
 
 # Card Values
+Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) is treated as an Animal rather than a Bright. Note as well the reversal from the usual values for Animals and Ribbons, and that the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) has the value of a Ribbon.
 |Value|Cards|
 |:---:|:---:|
 |20|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
