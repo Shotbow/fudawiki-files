@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-03T21:47:34.493Z
+date: 2020-12-03T23:08:23.842Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -23,7 +23,19 @@ Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.pn
 |0|All Chaff except [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|
 Thus, a complete deck contains 240 points.
 # Yaku
+There are 8 yaku in Sakura, each consisting of 3 cards. Each is worth 50 points, but unlike in most other fishing games, the points are subtracted from each opponent's score rather than being added to one's own.
 
+The yaku in this game also seem to lack specific name; instead, each is assigned one of the first 8 syllables of the [Iroha poem](https://en.wikipedia.org/wiki/Iroha).
+|Name of Yaku|Description|
+|:---:|:---:|
+|I - い|
+|Ro - ろ|
+|Ha - は|
+|Ni - に|
+|Ho - ほ|
+|He - へ|
+|To - と|
+|Chi - ち|
 # Bibliography
 - “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html. 
 - “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
