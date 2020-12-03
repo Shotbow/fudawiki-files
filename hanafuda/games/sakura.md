@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-03T21:43:01.918Z
+date: 2020-12-03T21:47:34.493Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -26,3 +26,4 @@ Thus, a complete deck contains 240 points.
 
 # Bibliography
 - “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html. 
+- “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
