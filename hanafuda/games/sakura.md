@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-04T00:05:13.167Z
+date: 2020-12-04T00:12:26.158Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -15,7 +15,18 @@ First, determine how many are to play and who will make up each team. For 2, 3, 
 Next, determine who will be the first dealer. Any method may be used, but a traditional mode would be to have each player draw one card from the deck, and whoever draws the earliest month in the standard [order of suits](/en/hanafuda/suits#arrangement-of-suits) deals first. (In the case of a tie, the tied players may draw again until the matter is resolved.)
 
 ## The Deal
+Once the cards have been shuffled and cut as desired by the group, the dealer passes out cards face down to each player and face up to the field according to the following chart.
 
+|Number of Players|Cards to each Player|Cards to the Field|
+|:---:|:---:|:---:|
+|2|8|8|
+|3|7|6|
+|4|5|8|
+|5|4|8|
+|6|3|12|
+|7|3|6|
+
+Any remaining cards form the draw pile for the round and are to be placed in a single face down stack beside the field cards.
 
 # Gameplay
 
