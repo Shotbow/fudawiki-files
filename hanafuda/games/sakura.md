@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-04T00:02:12.090Z
+date: 2020-12-04T00:05:13.167Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -11,6 +11,10 @@ dateCreated: 2020-10-01T09:09:21.547Z
 Sakura is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique Hiki rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
 # Setup
 First, determine how many are to play and who will make up each team. For 2, 3, 5, or 7 players, each participant plays on their own. For a 4-player game, each team will consist of 2 players. For a 6-player game, the teams may consist of 2 or 3 players apiece. If playing in teams of 2, teammates should sit opposite one another; for teams of 3, players from each team should be seated alternately around the table.
+
+Next, determine who will be the first dealer. Any method may be used, but a traditional mode would be to have each player draw one card from the deck, and whoever draws the earliest month in the standard [order of suits](/en/hanafuda/suits#arrangement-of-suits) deals first. (In the case of a tie, the tied players may draw again until the matter is resolved.)
+
+## The Deal
 
 
 # Gameplay
