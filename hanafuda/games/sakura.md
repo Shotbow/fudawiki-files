@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-04T04:36:07.280Z
+date: 2020-12-12T06:57:53.259Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -47,7 +47,7 @@ Thus, a complete deck contains 240 points.
 # Yaku
 There are 8 yaku in Sakura, each consisting of 3 cards. Each is worth 50 points, but unlike in most other fishing games, the points are subtracted from each opponent's score rather than being added to one's own.
 
-The yaku in this game also seem to lack specific name; instead, each is assigned one of the first 8 syllables of the [Iroha poem](https://en.wikipedia.org/wiki/Iroha).
+The yaku in this game also seem to lack specific names; instead, each is typically assigned one of the first 8 syllables of the [Iroha poem](https://en.wikipedia.org/wiki/Iroha). In the Paradise Factors rule leaflet, they are instead simply numbered from 1 to 8, following the same order.
 |Name of Yaku|Description|
 |:---:|:---:|
 |I - い|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
@@ -67,5 +67,6 @@ Being that Chaff cards are not worth any points, one should refrain from matchin
 
 Note that the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) suit cards do not participate in any yaku.
 # Bibliography
-- “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html. 
+- “How to Play Hanafuda Hawaii Style.” *Hanafuda Hawaii Style,* Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html.
+- "A Japanese HANA FUDA (Flower Cards) Game." *Paradise Factors* 
 - “Sakura.” *Hanafubuki,* web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html. 
