@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-14T21:37:14.204Z
+date: 2020-12-14T21:44:43.743Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -42,7 +42,9 @@ Scoring areas should be kept organized by point value, with each card visible. U
 ## Hiki (Four of a Kind)
 If a player sees all 4 cards of a suit among the cards in their hand and those on the field (in any combination), this is considered a Hiki. A player may on their turn declare this and capture the entire suit at once.
 
-A player is not required to reveal a Hiki unless another player attempts to capture a card that belongs to that Hiki using the Gaji. 
+A player is not required to reveal a Hiki unless another player attempts to capture a card that belongs to that Hiki using the Gaji (which will force the player of the Gaji to target a different card).
+
+Note that the concept of Hiki in the game of Sakura does not have an exact equivalent in other hanafuda games, and overlaps with those games' concepts of dealer privelege, [lucky hands](/en/hanafuda/games/roppyakken#lucky-hands), capturing stacked cards on the field with one from the hand, and [bombing the field](/en/hanafuda/games/go-stop#bombing-the-field).
 ## Gaji (Wild Card)
 The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. When played from the hand, it may pair with and thus capture any card on the field. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
 
