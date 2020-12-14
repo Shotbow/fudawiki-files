@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-14T21:11:58.576Z
+date: 2020-12-14T21:22:16.317Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -42,7 +42,11 @@ Scoring areas should be kept organized by point value, with each card visible. U
 ## Hiki
 
 ## Gaji (Wild Card)
+The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. When played from the hand, it may pair with and thus capture any card on the field. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
 
+Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
+
+However, the Gaji cannot be used to capture a card that would complete another player's Hiki. In this circumstance, the owner of the Hiki would announce it when the Gaji's user tried to capture one of the Hiki cards. Then the Gaji's user would have to target a different card on the field for capture or simply leave the Gaji on the field.
 # Card Values
 Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) is treated as an Animal rather than a Bright. Note as well the reversal from the usual values for Animals and Ribbons, and that the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) has the value of a Ribbon.
 |Value|Cards|
