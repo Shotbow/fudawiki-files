@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-12T06:57:53.259Z
+date: 2020-12-14T21:11:58.576Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -30,11 +30,19 @@ Once the cards have been shuffled and cut, the dealer passes out cards face down
 
 Any remaining cards form the draw pile for the round and are to be placed in a single face down stack beside the field cards.
 
+If four cards of the same suit have been dealt to the table, the dealer automatically captures them.
 # Gameplay
+As in most Hanafuda games, the dealer takes the first turn, followed by each player around the table in counter-clockwise order.
+## Turns
+On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area.
+
+Scoring areas should be kept organized by point value, with each card visible. Unlike in other games though, captured Chaff cards are simply discarded into one central pile rather than arranged in the scoring area. (This does not affect scoring since Chaff are not worth any points on their own and do not have any role in yaku.)
 ## Hiki
 
 ## Gaji (Wild Card)
+
 # Card Values
 Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) is treated as an Animal rather than a Bright. Note as well the reversal from the usual values for Animals and Ribbons, and that the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) has the value of a Ribbon.
 |Value|Cards|
