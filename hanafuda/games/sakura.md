@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2020-12-14T21:22:16.317Z
+date: 2020-12-14T21:37:14.204Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -39,8 +39,10 @@ On your turn, choose one card from your hand to play to the field. If it matches
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area.
 
 Scoring areas should be kept organized by point value, with each card visible. Unlike in other games though, captured Chaff cards are simply discarded into one central pile rather than arranged in the scoring area. (This does not affect scoring since Chaff are not worth any points on their own and do not have any role in yaku.)
-## Hiki
+## Hiki (Four of a Kind)
+If a player sees all 4 cards of a suit among the cards in their hand and those on the field (in any combination), this is considered a Hiki. A player may on their turn declare this and capture the entire suit at once.
 
+A player is not required to reveal a Hiki unless another player attempts to capture a card that belongs to that Hiki using the Gaji. 
 ## Gaji (Wild Card)
 The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. When played from the hand, it may pair with and thus capture any card on the field. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
 
@@ -70,6 +72,9 @@ The yaku in this game also seem to lack specific names; instead, each is typical
 |He - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |To - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|
 |Chi - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
+
+# Notable Variants
+
 # Strategy
 There are four cards that contribute to 2 yaku each; thus, these should be considered more valuable than others and priority should be given to their capture. These are the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer). Among these, the ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain is worth 20 points on its own as well, making it the most valuable card in the game.
 
