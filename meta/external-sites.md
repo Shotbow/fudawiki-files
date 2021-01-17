@@ -2,7 +2,7 @@
 title: External Sites
 description: Links to archived websites
 published: true
-date: 2021-01-17T19:09:32.277Z
+date: 2021-01-17T19:26:14.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-13T02:36:02.492Z
@@ -12,7 +12,7 @@ dateCreated: 2021-01-13T02:36:02.492Z
 
 Here are some external sites that might be useful and/or interesting.
 * [Anthony L. Esq.](http://anthonylesq.blogspot.com/) has a blog featuring many different types of cards including hanafuda.
-* [Hanafuda Hub!](https://duarcain.blogspot.com/?m=1) is a blog by user "duarcain" with information and photos of hanafuda.
+* [Hanafuda Hub!](https://duarcain.blogspot.com/?m=1) is a blog by user "duarcain" with information and photos of hanafuda. (Now inactive, no longer updated.)
 * Tom Sloper has [a section of his site dedicated to Hanafuda](https://www.sloperama.com/hanafuda/).
 * Pagat (run by John McLeod) has [a section about games played with Hanafuda cards](https://www.pagat.com/class/flower.html).
 
