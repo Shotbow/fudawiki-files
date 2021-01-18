@@ -2,13 +2,13 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-18T17:36:36.077Z
-tags: jeu de pêche, jeu
+date: 2021-01-18T17:44:53.274Z
+tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
 ---
 
-Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisation soit un deck de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les suites [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/en/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/en/hanafuda/suits/bush-clover), ou un deck standard auquel on a simplement enlevé ces suites. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)l'orage](/en/hanafuda/suits/willow#lightning) comme joker, le faible nombre de yaku, ainsi qu'un score à somme nulle.
+Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisation soit un deck de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les suites [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/en/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/en/hanafuda/suits/bush-clover), ou un deck standard auquel on a simplement enlevé ces suites. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/en/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de yaku, ainsi qu'un score à somme nulle.
 
 * 📺 [tutoriel vidéo (en anglais)](/e/fr/hanafuda/games/mushi#ressources-externes)
 
@@ -44,11 +44,17 @@ Après avoir joué une carte de sa main et fait une capture si possible, on pioc
 Enfin, on récupère toutes les cartes capturées et on les place face visible devant soit, ce sera notre score. Il est plus facile de trier les cartes par types pour bien voir ce qui a déjà été capturé. 
 
 ## Joker
-Au Mushi, ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) l'orage peut être utilisé pour capturer n'importe quelle autre carte sauf.  card can be used to capture any other individual card except another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow). If it is dealt to the field at game setup, it will be captured by the first non-Willow card drawn from the deck. If, however, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning card is the last to be drawn from the deck, it captures all remaining cards in play.
-## End of Round
-The current round ends when both players have played 8 turns and thus exhausted their hands.
+Au Mushi, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre peut être utilisé pour capturer n'importe quelle autre carte sauf d'autres cartes de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/en/hanafuda/suits/willow)). 
+* Si elle est distribuée à la table au début de la partie, elle sera capturée par la première carte piochée (si celle ci n'est pas de la suite du Saule).   
+* Si, par contre, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre est la dernière carte a être piochée, elle capturera toutes les cartes restantes sur le tapis.
+## Fin de la partie
+La partie en cours s'arrête lors que chaque joueur a fait 8 tours et a épuisé sa main.
 
-Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning. In this case, the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
+À cause du joker, chaque partie finira avec deux cartes sans paires : 
+* une carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule
+* une carte de la suite de la carte capturée par la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre durant cette partie.
+
+Dans ce cas, la dernière carte du ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule est ajoutée au score du joueur ayant capturé les deux autres cartes ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule, et la dernière carte est ajoutée au score du joueur ayant utilisé la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre.
 
 At this point, both players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player's score for the round is calculated as the sum of their captured card points minus 115, plus the value of any captured yaku, minus the value of the opponent's yaku. If the agreed upon number of rounds have elapsed or the target score has been reached, whichever player has the greater score would be declared the winner.
 # Card Values
