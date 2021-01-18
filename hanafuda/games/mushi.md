@@ -2,13 +2,16 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2020-11-04T05:54:21.321Z
+date: 2021-01-18T17:00:21.666Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
 ---
 
 Mushi [虫 - むし, lit. "Insect"] is a 2-player hanafuda game played either with a 40-card [Mushi-bana](/en/hanafuda/patterns/mushibana) deck, which lacks the [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony) and [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover) suits, or a standard deck with those suits simply removed. Some of its characteristic features are the use of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card as a wild card, relatively few yaku, and zero-sum scoring.
+
+* 📺 [Video Tutorial](/en/hanafuda/games/mushi#External_resources)
+
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or until some target score has been met by one player. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
@@ -50,6 +53,10 @@ There are typically only 4 yaku used in Mushi. Players earn points for each of t
 |10|Four Paulownias - 桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.|
 # Scoring Example
 If "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
+
+# External resources
+> 📺 ["How to play Mushi"](https://youtu.be/Kws5lvlN-QQ), YouTube tutorial by **suryong**.
+
 # Bibliography
 - Duarcain. “Mushi 虫.” *Hanafuda Hub!*, 21 June 2013, duarcain.blogspot.com/2013/06/mushi.html.
 - Johnson, Jason, and Antonietta Fazio-Johnson. “Mushi.” *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 38–40. 
