@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-18T18:07:43.280Z
+date: 2021-01-18T18:20:47.109Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -10,7 +10,7 @@ dateCreated: 2021-01-18T17:36:36.077Z
 
 Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un deck de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les suites [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/en/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/en/hanafuda/suits/bush-clover), ou un deck standard auquel on a simplement enlevé ces suites. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/en/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de yaku, ainsi qu'un score à somme nulle.
 
-* 📺 [tutoriel vidéo (en anglais)](/e/fr/hanafuda/games/mushi#ressources-externes)
+* 📺 [tutoriel vidéo (en anglais)](/fr/hanafuda/games/mushi#ressources-externes)
 
 # Installation
 On choisit le *dealer* [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. On doit aussi choisir combien de temps durera le jeu (6 ou 12 parties en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
