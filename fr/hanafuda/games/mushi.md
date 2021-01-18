@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-18T18:20:47.109Z
+date: 2021-01-18T18:27:49.127Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -27,7 +27,7 @@ Huit cartes sont distribuées à chaque joueur et huit autres sont placées face
 Si 4 cartes de la même suite sont distribuées sur le champ de jeu au début du tour, on déclare "*maldonne*" (mauvaise donne) et on redistribue les cartes après les avoir mélangées. On déclare aussi "*maldonne*" si : 
 * 4 paires de suites différentes sont placées sur la table
 * un joueur reçoit 4 cartes de la même suite (⚠ *dépend de la règle utilisée*)
-# Jeu
+# Jouer
 Chaque partie, le *dealer* (celui qui a distribué) est le premier à jouer. 
 
 ## Tour
@@ -47,7 +47,7 @@ Enfin, on récupère toutes les cartes capturées et on les place face visible d
 Au Mushi, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre peut être utilisé pour capturer n'importe quelle autre carte sauf d'autres cartes de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/en/hanafuda/suits/willow)). 
 * Si elle est distribuée à la table au début de la partie, elle sera capturée par la première carte piochée (si celle ci n'est pas de la suite du Saule).   
 * Si, par contre, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre est la dernière carte a être piochée, elle capturera toutes les cartes restantes sur le tapis.
-## Fin de la partie
+# Fin de la partie
 La partie en cours s'arrête lors que chaque joueur a fait 8 tours et a épuisé sa main.
 
 À cause du joker, chaque partie finira avec deux cartes sans paires : 
@@ -64,7 +64,7 @@ Dans ce cas, la dernière carte du ![monthicon_11.png](/hanafuda/icons/monthicon
 
 Si on a fait le nombre de parties décidé à l'origine ou l'un des joueurs atteint le score fixé au départ, il sera déclaré vainqueur du jeu. 
 
-# Valeur des cartes
+## Valeur des cartes
 La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), même si la distribution est différente en raison de la perte des suites Pivoine et Lespédéza. 
 |Type de carte|Valeur|Nombre total dans le paquet|
 |:---:|:---:|:---:|
@@ -73,7 +73,7 @@ La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda
 |Rubans|5|8|
 |Simples|1|20|
 Cela signifie que le total des points fait avec les cartes à partager entre les deux joueurs est de **230**. Pour calculer le score initial d'un joueur pour une partie données, on somme les points de toutes les cartes capturées et on soustrait 115.
-# Yaku
+## Yaku
 Il y a 4 *yakus* [役, やく] au Mushi, des sortes de petits contrats rapportant plus de points. On gagne des points pour chaque *yaku* capturé et on soustraira le même nombre de points au score de l'adversaire. Certaines variantes ne comptent pas le *yaku* des "Cinq Lumières". 
 |Valeur|Nom|Description|
 |:---:|:---:|:---:|
@@ -81,7 +81,7 @@ Il y a 4 *yakus* [役, やく] au Mushi, des sortes de petits contrats rapportan
 |25|Trois Lumières - 三光 [さんこ, *sanko*]|La [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Cigogne](/en/hanafuda/suits/pine#crane-with-sun), la [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bouscarle chanteuse](/en/hanafuda/suits/plum-blossom#bush-warbler), et le [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Rideau](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Il ne doit pas être confondu avec le *yaku* du même nom joué au [Koi-Koi](/e/fr/hanafuda/games/koi-koi).|
 |10|Quatre Glycines - 藤シマ [ふじしま, *fujishima*]|Les 4 cartes [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Glycine](/en/hanafuda/suits/wisteria).|
 |10|Quatre Paulownias - 桐シマ [きりしま, *kirishima*]|Les 4 cartes [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia).|
-# Example de calcul de score
+## Example de calcul de score
 Anna et Boubou ont fini une partie. 
 * Anna a capturé 2 cartes Lumières, 3 Animaux, 3 Rubans et 10 Simples et fait le *yaku* des "Trois Lumières".
 * Boubou a capturé le reste des cartes et fait le yaku des "Quatre Glycines". 
