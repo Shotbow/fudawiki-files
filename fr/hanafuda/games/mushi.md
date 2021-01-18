@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-18T17:44:53.274Z
+date: 2021-01-18T18:07:01.727Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -56,31 +56,43 @@ La partie en cours s'arrête lors que chaque joueur a fait 8 tours et a épuisé
 
 Dans ce cas, la dernière carte du ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule est ajoutée au score du joueur ayant capturé les deux autres cartes ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule, et la dernière carte est ajoutée au score du joueur ayant utilisé la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre.
 
-At this point, both players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player's score for the round is calculated as the sum of their captured card points minus 115, plus the value of any captured yaku, minus the value of the opponent's yaku. If the agreed upon number of rounds have elapsed or the target score has been reached, whichever player has the greater score would be declared the winner.
-# Card Values
-The values of each card in Mushi are the same as in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), though the reduction in suits leads to different distributions of those card types.
-|Card Type|Value|Number in Deck|
+À ce moment, les deux joueurs calculent la valeur total des cartes qu'ils ont capturées, et regardent s'ils ont fait des yakus (cf. Sections suivantes). Le score d'un joueur pour la partie est calculé comme suit : 
+* la somme des carte capturées 
+* soustraire 115
+* ajouter la valeur des yakus réalisés
+* soustraire la valeur des yakus de l'adversaire 
+
+Si on a fait le nombre de parties décidé à l'origine ou l'un des joueurs atteint le score fixé au départ, il sera déclaré vainqueur du jeu. 
+
+# Valeur des cartes
+La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), même si la distribution est différente en raison de la perte des suites Pivoine et Lespédéza. 
+|Type de carte|Valeur|Nombre total dans le paquet|
 |:---:|:---:|:---:|
-|Bright|20|5|
-|Animal|10|7|
-|Ribbon|5|8|
-|Chaff|1|20|
-This means that the total number of card points to be split by the players each round is 230. To calculate one's initial score for a given round, add up the points for all cards captured, and subtract 115.
+|Lumières|20|5|
+|Animaux ou objets|10|7|
+|Rubans|5|8|
+|Simples|1|20|
+Cela signifie que le total des points fait avec les cartes à partager entre les deux joueurs est de **230**. Pour calculer le score initial d'un joueur pour une partie données, on somme les points de toutes les cartes capturées et on soustrait 115.
 # Yaku
-There are typically only 4 yaku used in Mushi. Players earn points for each of these that they capture, and subtract the same number of points from their opponents' score. Some variants only have 3 yaku, excluding "Five Brights".
-|Value|Name of Yaku|Description|
+Il y a 4 *yakus* [役, やく] au Mushi, des sortes de petits contrats rapportant plus de points. On gagne des points pour chaque *yaku* capturé et on soustraira le même nombre de points au score de l'adversaire. Certaines variantes ne comptent pas le *yaku* des "Cinq Lumières". 
+|Valeur|Nom|Description|
 |:---:|:---:|:---:|
-|30|Five Brights - 五光 [ごうこ, *gōko*]|All five Bright cards.|
-|25|Three Brights - 三光 [さんこ, *sanko*]|The [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
-|10|Four Wisterias - 藤シマ [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.|
-|10|Four Paulownias - 桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.|
-# Scoring Example
-If "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
+|30|Cinq Lumières - 五光 [ごうこ, *gōko*]|Obtenir les cinq cartes Lumière.|
+|25|Trois Lumières - 三光 [さんこ, *sanko*]|La [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Cigogne](/en/hanafuda/suits/pine#crane-with-sun), la [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bouscarle chanteuse](/en/hanafuda/suits/plum-blossom#bush-warbler), et le [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Rideau](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Il ne doit pas être confondu avec le *yaku* du même nom joué au [Koi-Koi](/e/fr/hanafuda/games/koi-koi).|
+|10|Quatre Glycines - 藤シマ [ふじしま, *fujishima*]|Les 4 cartes [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Glycine](/en/hanafuda/suits/wisteria).|
+|10|Quatre Paulownias - 桐シマ [きりしま, *kirishima*]|Les 4 cartes [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia).|
+# Example de calcul de score
+Anna et Boubou ont fini une partie. 
+* Anna a capturé 2 cartes Lumières, 3 Animaux, 3 Rubans et 10 Simples et fait le *yaku* des "Trois Lumières".
+* Boubou a capturé le reste des cartes et fait le yaku des "Quatre Glycines". 
+
+Anna calculera comme suit : `2×20 + 3×10 + 3×5 + 10×1 - 115 + 25 - 10 = (-5)`.
+Le score de Boubou pour ce round sera alors `5` car la somme des scores d'une partie fait toujours `0`. 
 
 # Ressources externes
 > 📺 ["How to play Mushi"](https://youtu.be/Kws5lvlN-QQ), tutoriel YouTube de **suryong** (en anglais).
 
-# Bibliography
+# Bibliographie
 - Duarcain. “Mushi 虫.” *Hanafuda Hub!*, 21 June 2013, duarcain.blogspot.com/2013/06/mushi.html.
 - Johnson, Jason, and Antonietta Fazio-Johnson. “Mushi.” *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 38–40. 
 - Shiragiku. “Mushi.”  *Marguerite*, www.marguerite.jp/Nihongo/Games/%E3%81%97%E3%82%89%E3%81%8E%E3%81%8F%E8%8A%B1%E6%9C%AD/%E3%82%80%E3%81%97.html. 
