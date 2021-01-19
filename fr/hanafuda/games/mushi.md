@@ -2,18 +2,18 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-18T18:27:49.127Z
+date: 2021-01-19T11:53:10.103Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
 ---
 
-Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un deck de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les suites [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/en/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/en/hanafuda/suits/bush-clover), ou un deck standard auquel on a simplement enlevé ces suites. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/en/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de yaku, ainsi qu'un score à somme nulle.
+Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un jeu de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les cartes [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/en/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/en/hanafuda/suits/bush-clover), ou un jeu standard Hanafuda auquel on a simplement enlevé ces cartes. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/en/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de *yaku* (ou contrats), ainsi qu'un score à somme nulle.
 
 * 📺 [tutoriel vidéo (en anglais)](/fr/hanafuda/games/mushi#ressources-externes)
 
 # Installation
-On choisit le *dealer* [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. On doit aussi choisir combien de temps durera le jeu (6 ou 12 parties en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
+On choisit le donneur [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. On doit aussi choisir combien de temps durera le jeu (6 ou 12 parties en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
 
 ## Distribuer les cartes pour la partie
 Huit cartes sont distribuées à chaque joueur et huit autres sont placées face visible sur la table. On peut distribuer comme bon nous semble, mais une manière courante de faire est : 
@@ -27,8 +27,11 @@ Huit cartes sont distribuées à chaque joueur et huit autres sont placées face
 Si 4 cartes de la même suite sont distribuées sur le champ de jeu au début du tour, on déclare "*maldonne*" (mauvaise donne) et on redistribue les cartes après les avoir mélangées. On déclare aussi "*maldonne*" si : 
 * 4 paires de suites différentes sont placées sur la table
 * un joueur reçoit 4 cartes de la même suite (⚠ *dépend de la règle utilisée*)
+
+> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/guide/suites). 
+{.is-info}
 # Jouer
-Chaque partie, le *dealer* (celui qui a distribué) est le premier à jouer. 
+Chaque partie, le donneur (celui qui a distribué) est le premier à jouer. 
 
 ## Tour
 À votre tour, choisissez une carte de votre main à jouer sur la table. 
@@ -73,8 +76,11 @@ La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda
 |Rubans|5|8|
 |Simples|1|20|
 Cela signifie que le total des points fait avec les cartes à partager entre les deux joueurs est de **230**. Pour calculer le score initial d'un joueur pour une partie données, on somme les points de toutes les cartes capturées et on soustrait 115.
-## Yaku
-Il y a 4 *yakus* [役, やく] au Mushi, des sortes de petits contrats rapportant plus de points. On gagne des points pour chaque *yaku* capturé et on soustraira le même nombre de points au score de l'adversaire. Certaines variantes ne comptent pas le *yaku* des "Cinq Lumières". 
+> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des types de cartes](/fr/hanafuda/guide/types-de-cartes). 
+{.is-info}
+
+## Yaku (contrats)
+Il y a 4 *yakus* [役, やく] au Mushi, des sortes de contrats optionnels rapportant plus de points. On gagne des points pour chaque *yaku* capturé et on soustraira le même nombre de points au score de l'adversaire. Certaines variantes ne comptent pas le *yaku* des "Cinq Lumières". 
 |Valeur|Nom|Description|
 |:---:|:---:|:---:|
 |30|Cinq Lumières - 五光 [ごうこ, *gōko*]|Obtenir les cinq cartes Lumière.|
