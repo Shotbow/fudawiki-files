@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-19T11:53:10.103Z
+date: 2021-01-19T11:55:21.176Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -16,13 +16,13 @@ Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit
 On choisit le donneur [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. On doit aussi choisir combien de temps durera le jeu (6 ou 12 parties en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
 
 ## Distribuer les cartes pour la partie
-Huit cartes sont distribuées à chaque joueur et huit autres sont placées face visible sur la table. On peut distribuer comme bon nous semble, mais une manière courante de faire est : 
+![koikoi_setup.png](/hanafuda/koikoi_setup.png#float-right =400x) Huit cartes sont distribuées à chaque joueur et huit autres sont placées face visible sur la table. On peut distribuer comme bon nous semble, mais une manière courante de faire est : 
 * 4 à l'adversaire
 * 4 à la table
 * 4 pour soi
 * (répeter)
-> ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
-{.is-success}
+
+
 
 Si 4 cartes de la même suite sont distribuées sur le champ de jeu au début du tour, on déclare "*maldonne*" (mauvaise donne) et on redistribue les cartes après les avoir mélangées. On déclare aussi "*maldonne*" si : 
 * 4 paires de suites différentes sont placées sur la table
