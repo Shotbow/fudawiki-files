@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-19T11:55:21.176Z
+date: 2021-01-21T18:51:09.120Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -76,7 +76,7 @@ La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda
 |Rubans|5|8|
 |Simples|1|20|
 Cela signifie que le total des points fait avec les cartes à partager entre les deux joueurs est de **230**. Pour calculer le score initial d'un joueur pour une partie données, on somme les points de toutes les cartes capturées et on soustrait 115.
-> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des types de cartes](/fr/hanafuda/guide/types-de-cartes). 
+> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/guide/suites). 
 {.is-info}
 
 ## Yaku (contrats)
