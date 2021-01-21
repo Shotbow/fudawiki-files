@@ -2,7 +2,7 @@
 title: Guide des suites (Hanafuda)
 description: Ensembles de 4 cartes, dont le thème commun est une plante particulière, représentant un mois ou un nombre.
 published: true
-date: 2021-01-21T18:43:59.075Z
+date: 2021-01-21T18:47:40.343Z
 tags: guide
 editor: markdown
 dateCreated: 2021-01-21T18:43:59.075Z
@@ -15,7 +15,7 @@ Le tableau suivant montre le contenu de chaque suite, son mois et sa plante les 
 
 |#|Mois|Icône|Plante (Standard)|Lumières|Animaux/Objets|Rubans|Simples|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|Janvier|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pin](/en/hanafuda/suits/pine)|...|...|...|...|
+|1|Janvier|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pin](/en/hanafuda/suits/pine)|![Cigogne](/sheldonchen-cards/10.svg#hanafuda-card =40x)|-|![Ruban pins](/sheldonchen-cards/11.svg#hanafuda-card =40x)|![Pins](/sheldonchen-cards/12.svg#hanafuda-card =40x)![Pins2](/sheldonchen-cards/13.svg#hanafuda-card =40x)|
 |2|Février|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Abricotier](/en/hanafuda/suits/plum-blossom)|...|...|...|...|
 |3|Mars|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cerisier](/en/hanafuda/suits/cherry-blossom)|...|...|...|...|
 |4|Avril|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Glycine](/en/hanafuda/suits/wisteria)|...|...|...|...|
