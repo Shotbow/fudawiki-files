@@ -2,7 +2,7 @@
 title: List of Manufacturers
 description: A list of known producers of hanafuda
 published: true
-date: 2020-09-18T19:47:20.788Z
+date: 2021-02-11T23:44:05.517Z
 tags: hanafuda manufacturers, lists
 editor: markdown
 dateCreated: 2020-09-18T19:47:20.788Z
@@ -35,6 +35,7 @@ This is a list of known producers of hanafuda, arranged alphabetically, with lin
 - [Ōishi Tengudō (大石天狗堂)](/en/hanafuda/manufacturers/oishitengudo)
 - Ōtani Shōten (大谷商店)
 - Ryūtendō (龍天堂)
+- Seieidō (精英堂)
 - Suisando (翠山堂)
 - Tamada Fukushōdō (玉田福勝堂)
 - Tamura Shōgundō (田村将軍堂)
