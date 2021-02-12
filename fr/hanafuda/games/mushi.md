@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-01-21T18:51:09.120Z
+date: 2021-02-12T09:59:51.171Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -59,7 +59,7 @@ La partie en cours s'arrête lors que chaque joueur a fait 8 tours et a épuisé
 
 Dans ce cas, la dernière carte du ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule est ajoutée au score du joueur ayant capturé les deux autres cartes ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule, et la dernière carte est ajoutée au score du joueur ayant utilisé la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre.
 
-À ce moment, les deux joueurs calculent la valeur total des cartes qu'ils ont capturées, et regardent s'ils ont fait des yakus (cf. Sections suivantes). Le score d'un joueur pour la partie est calculé comme suit : 
+À ce moment, les deux joueurs calculent la valeur totale des cartes qu'ils ont capturées, et regardent s'ils ont fait des yakus (cf. Sections suivantes). Le score d'un joueur pour la partie est calculé comme suit : 
 * la somme des carte capturées 
 * soustraire 115
 * ajouter la valeur des yakus réalisés
@@ -102,5 +102,5 @@ Le score de Boubou pour ce round sera alors `5` car la somme des scores d'une pa
 - Duarcain. “Mushi 虫.” *Hanafuda Hub!*, 21 June 2013, duarcain.blogspot.com/2013/06/mushi.html.
 - Johnson, Jason, and Antonietta Fazio-Johnson. “Mushi.” *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 38–40. 
 - Shiragiku. “Mushi.”  *Marguerite*, www.marguerite.jp/Nihongo/Games/%E3%81%97%E3%82%89%E3%81%8E%E3%81%8F%E8%8A%B1%E6%9C%AD/%E3%82%80%E3%81%97.html. 
-- *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 64-65.
+- *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 64-65.
 
