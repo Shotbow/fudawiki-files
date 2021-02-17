@@ -2,7 +2,7 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-02-17T15:17:37.007Z
+date: 2021-02-17T15:22:01.408Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:17:37.007Z
@@ -49,14 +49,14 @@ Après avoir joué une carte de sa main et fait une capture si possible, on pioc
 > On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le champ si aucune carte n'est capturable.
 {.is-warning}
 
-Enfin, on récupère toutes les cartes capturées et on les place face visible devant soit, ce sera notre score. Il est plus facile de trier les cartes par types - valeur - pour bien voir ce qui a déjà été capturé. 
+Enfin, on récupère toutes les cartes capturées et on les place face visible devant soi, ce sera notre score. Il est plus facile de trier les cartes par types - valeur - pour bien voir ce qui a déjà été capturé. 
 
 ## Foudre (Joker)
 ![113.svg](/sheldonchen-cards/113.svg#float-right =160x) Au Sakura, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre peut être utilisée comme un joker. Quand elle est jouée d'une main, elle peut capturer n'importe quelle  carte du terrain. Par contre, quand elle est sur le terrain, elle ne peut être capturée que par une carte de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/en/hanafuda/suits/willow)). 
 
 Une fois capturée, garder la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre avec la carte qu'elle a capturée. À la fin de la manche, si des cartes de la même suite que la carte capturée par la Foudre sont sur le terrain, elles sont automatiquement capturées par le possesseur de la carte Foudre. 
 
-La carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre ne peut pas capturer une carte qui compléterait un Hiki d'un autre joueur - voir ([Hiki](/fr/hanafuda/games/Sakura#Jouer##Hiki)). Dans ce cas, le propriétaire du Hiki l'annoncerait lorsque l'utilisateur de la Foudre tente de capturer une carte du Hiki. Ensuite, l'utilisateur devrait cibler une autre carte du terrain pour la capture ou laisser simplement la Foudre sur le terrain. 
+La carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre ne peut pas capturer une carte qui compléterait un Hiki d'un autre joueur - voir plus bas. Dans ce cas, le propriétaire du Hiki l'annoncerait lorsque l'utilisateur de la Foudre tente de capturer une carte du Hiki. Ensuite, l'utilisateur devrait cibler une autre carte du terrain pour la capture ou laisser simplement la Foudre sur le terrain. 
 
 ## Hiki (Quatre de la même suite)
 Si un joueur a la possibilité de capturer quatre cartes de la même suite, que ce soit dans sa main ou sur le terrain (de n'importe quelle façon), c'est ce qu'on appelle un Hiki. Lors de son tour, le joueur doit déclarer "Hiki" et capturer la suite entière en un coup. 
@@ -88,7 +88,7 @@ Cela signifie que le total des points fait avec les cartes à partager entre les
 ## Yaku (combinaisons)
 Il y a 8 *yakus* [役, やく] au Sakura, des sortes de contrats optionnels, chacun constitué de 3 cartes. Chaque *yaku* capturé fait soustraire 50 points au score de l'adversaire. 
 
-Dans ce jeu, les *yaku* sont appelés par chacune des 8 syllabes du [poème Iroha](https://fr.wikipedia.org/wiki/Iroha). Dans la brochure des règles de Paradise Factors, ils sont simplement numérotés de 1 à 8, dans le même ordre. 
+Dans ce jeu, les *yakus* sont appelés par chacune des 8 syllabes du [poème Iroha](https://fr.wikipedia.org/wiki/Iroha). Dans la brochure des règles de Paradise Factors, ils sont simplement numérotés de 1 à 8, dans le même ordre. 
 
 |Numéro|Nom|Description|Points|
 |:---:|:---:|:---:|:---:|
