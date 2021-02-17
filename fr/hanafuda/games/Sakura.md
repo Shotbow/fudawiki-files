@@ -2,7 +2,7 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-02-17T15:22:01.408Z
+date: 2021-02-17T15:23:23.991Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:17:37.007Z
@@ -17,7 +17,7 @@ Tout d'abord, on commence par déterminer le nombre de joueurs et comment se for
 
 On doit aussi choisir combien de temps durera le jeu (6 ou 12 manches en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
 
-Ensuite, on choisit le donneur [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. N'importe quelle méthode peut être utilisée. Traditionnelement, tout le monde tire une carte au hasard, et celui qui a tiré une carte du mois le plus proche de Janvier commence - en cas d'égalité, les joueurs concernés retirent jusqu'à ce qu'il y ait un gagnant. 
+Ensuite, on choisit le donneur [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. N'importe quelle méthode peut être utilisée. Traditionnellement, tout le monde tire une carte au hasard, et celui qui a tiré une carte du mois le plus proche de Janvier commence - en cas d'égalité, les joueurs concernés retirent jusqu'à ce qu'il y ait un gagnant. 
 
 ## Distribuer les cartes pour la manche
 ![koikoi_setup.png](/hanafuda/koikoi_setup.png#float-right =400x) Une fois les cartes mélangées, le donneur distribue les cartes à chaque joueur face cachée ainsi que les cartes sur le terrain face découverte selon le tableau suivant: 
