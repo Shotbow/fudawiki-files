@@ -2,7 +2,7 @@
 title: Guide des suites (Hanafuda)
 description: Ensembles de 4 cartes, dont le thème commun est une plante particulière, représentant un mois ou un nombre.
 published: true
-date: 2021-02-17T11:07:19.520Z
+date: 2021-02-17T11:11:58.792Z
 tags: guide
 editor: markdown
 dateCreated: 2021-01-21T18:43:59.075Z
@@ -13,6 +13,7 @@ Il y a **48 cartes** réparties en **12 suites (=ensembles) de 4 cartes** dans u
 - 9 cartes animaux ou objets, 10 points
 - 10 cartes ruban, dont 3 rubans avec poésie et 3 rubans bleus, 5 points
 - 24 cartes normales/simples, 1 point.
+
 La valeur des cartes est utilisée dans certains jeux, mais n'est que représentatif dans d'autres afin de pouvoir les classer en catégories. 
 
 # Arrangement des suites
