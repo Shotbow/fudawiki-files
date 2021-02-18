@@ -2,7 +2,7 @@
 title: Guide des suites (Hanafuda)
 description: Ensembles de 4 cartes, dont le thème commun est une plante particulière, représentant un mois ou un nombre.
 published: true
-date: 2021-02-18T12:36:22.759Z
+date: 2021-02-18T12:37:02.610Z
 tags: guide
 editor: markdown
 dateCreated: 2021-01-21T18:43:59.075Z
@@ -25,7 +25,7 @@ Le tableau suivant montre le contenu de chaque suite, son mois et sa plante les 
 |1|Janvier|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pin](/fr/hanafuda/guide/Pin)|![Grue](/sheldonchen-cards/10.svg#hanafuda-card =40x)|-|![Ruban poésie pins](/sheldonchen-cards/11.svg#hanafuda-card =40x)|![Pins 1](/sheldonchen-cards/12.svg#hanafuda-card =40x)![Pins 2](/sheldonchen-cards/13.svg#hanafuda-card =40x)|
 |2|Février|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Abricotier](/fr/hanafuda/guide/Abricotier)|-|![Bouscarle](/sheldonchen-cards/20.svg#hanafuda-card =40x)|![Ruban poésie abricotiers](/sheldonchen-cards/21.svg#hanafuda-card =40x)|![Abricotiers 1](/sheldonchen-cards/22.svg#hanafuda-card =40x)![Abricotiers 2](/sheldonchen-cards/23.svg#hanafuda-card =40x)|
 |3|Mars|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cerisier](/fr/hanafuda/guide/Cerisier)|![Rideau](/sheldonchen-cards/30.svg#hanafuda-card =40x)|-|![Ruban poésie cerisiers](/sheldonchen-cards/31.svg#hanafuda-card =40x)|![Cerisiers 1](/sheldonchen-cards/32.svg#hanafuda-card =40x)![Cerisiers 2](/sheldonchen-cards/33.svg#hanafuda-card =40x)|
-|4|Avril|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Glycine](/en/hanafuda/suits/wisteria)|-|![Petit coucou](/sheldonchen-cards/40.svg#hanafuda-card =40x)|![Ruban glycine](/sheldonchen-cards/41.svg#hanafuda-card =40x)|![Glycine 1](/sheldonchen-cards/42.svg#hanafuda-card =40x)![Glycine 2](/sheldonchen-cards/43.svg#hanafuda-card =40x)|
+|4|Avril|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Glycine](/fr/hanafuda/guide/Glycine)|-|![Petit coucou](/sheldonchen-cards/40.svg#hanafuda-card =40x)|![Ruban glycine](/sheldonchen-cards/41.svg#hanafuda-card =40x)|![Glycine 1](/sheldonchen-cards/42.svg#hanafuda-card =40x)![Glycine 2](/sheldonchen-cards/43.svg#hanafuda-card =40x)|
 |5|Mai|![Icon for month 5](/hanafuda/icons/monthicon_5.png)|[Iris](/fr/hanafuda/guide/Iris)|-|![Pont de 8 planches](/sheldonchen-cards/50.svg#hanafuda-card =40x)|![Ruban iris](/sheldonchen-cards/51.svg#hanafuda-card =40x)|![Iris 1](/sheldonchen-cards/52.svg#hanafuda-card =40x)![Iris 2](/sheldonchen-cards/53.svg#hanafuda-card =40x)|
 |6|Juin|![Icon for month 6](/hanafuda/icons/monthicon_6.png)|[Pivoine](/en/hanafuda/suits/peony)|-|![Papillons](/sheldonchen-cards/60.svg#hanafuda-card =40x)|![Ruban bleu pivoine](/sheldonchen-cards/61.svg#hanafuda-card =40x)|![Pivoine 1](/sheldonchen-cards/62.svg#hanafuda-card =40x)![Pivoine 2](/sheldonchen-cards/63.svg#hanafuda-card =40x)|
 |7|Juillet|![Icon for month 7](/hanafuda/icons/monthicon_7.png)|[Lespédéza](/en/hanafuda/suits/bush-clover)|-|![Sanglier](/sheldonchen-cards/70.svg#hanafuda-card =40x)|![Ruban lespédéza](/sheldonchen-cards/71.svg#hanafuda-card =40x)|![Lespédéza 1](/sheldonchen-cards/72.svg#hanafuda-card =40x)![Lespédéza 2](/sheldonchen-cards/73.svg#hanafuda-card =40x)|
