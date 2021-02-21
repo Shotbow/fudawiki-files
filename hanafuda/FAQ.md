@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-21T22:14:08.669Z
+date: 2021-02-21T22:17:59.910Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -21,13 +21,15 @@ Many decks, though not all, include an extra card outside of the wrapper
 ## 4. Where can I buy \_____ deck?
 ## 5. What's the difference between Hanafuda and [Kabufuda](/en/kabufuda)?
 ## 6. What do I need to look out for when buying a deck?
+## 7. Hwatu vs. Hanafuda - What's the difference?
 # Gameplay
 ## 1. What is the best game for beginners?
 ## 2. My friend and I don't play koi-koi the same way. Why?
 ## 3. My hand doesn't have any matches with the board. What are my options?
-## 4. This game is complicated. Is there a printable reference somewhere?
-## 5. I'm tired of Koi-Koi; what else can I do with Hanafuda?
-## 6. 
+## 4. What happens if I play a card with multiple matches on the board?
+## 5. This game is complicated. Is there a printable reference somewhere?
+## 6. I'm tired of Koi-Koi; what else can I do with Hanafuda?
+
 # Other
 ## 1. I want to make my own deck; how do I go about doing that?
 ## 2. Why are they sometimes called "scrolls," and other times "ribbons?" Which is correct?
