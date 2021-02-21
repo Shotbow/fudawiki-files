@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-21T21:20:12.197Z
+date: 2021-02-21T21:49:44.378Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -11,6 +11,10 @@ dateCreated: 2021-02-21T21:17:33.771Z
 This page contains answers to some common questions related to [Hanafuda](/en/hanafuda) and [Koi-Koi](/en/hanafuda/games/koi-koi).
 # Decks
 ## 1. What is this white card for?
+The white card [白札 - しろふだ, *shirofuda*] included in many decks has a few uses:
+1. For games such as [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) with more than 3 players that require some to drop out each round, the white card can be shuffled with the deck to allow 7 people to participate in the game. In this case, the player dealt the white card is automatically required to drop out, and the other 6 cards in their hand become the field for the match.
+2. In the case that another card in the deck becomes lost, which would make the deck unsuitable to play most games, the white card can be used to replace the missing card. When this is the case, the necessary details of the missing card are often drawn on the blank card.
+3.  In some decks, especially those by Nintendo, the white card is not completely blank, but has a number and/or some kanji printed on it. The number 
 ## 2. Why does my deck have 5 [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards?
 ## 3. What's the difference between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s hanafuda decks?
 ## 4. Where can I buy \_____ deck?
@@ -24,4 +28,6 @@ This page contains answers to some common questions related to [Hanafuda](/en/ha
 ## 5. I'm tired of Koi-Koi; what else can I do with Hanafuda?
 # Other
 ## 1. I want to make my own deck; how do I go about doing that?
+## 2. Why are they sometimes called "scrolls," and other times "ribbons?" Which is correct?
+
 
