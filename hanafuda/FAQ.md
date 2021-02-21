@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-21T23:18:19.578Z
+date: 2021-02-21T23:56:56.637Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -22,10 +22,12 @@ This sample card may take the form of any card in the deck, but is very frequent
 
 In a pinch, a sample card in good condition may be used to fill the role of a joker or the white card for gameplay.
 ## 3. What's the difference between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s hanafuda decks?
-Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same artwork, but may be considered to be of differing levels of "quality":
-1. President [大統領 - だいとうりょう, *daitōryō*]
-2. Tengu [天狗 - てんぐ]
-3. Flowers of the Capital [都の花, みやこのはな, *miyako no hana*]
+Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same artwork, but may be considered to be of differing levels of "quality". The biggest difference seems to be in the weight of the cards and the protective coating that is applied to them. Starting with the "best," these are:
+1. President [大統領 - だいとうりょう, *daitōryō*] which features a portrait of Napoleon on the box and wrapper.
+2. Tengu [天狗 - てんぐ] which features a a red, long-nosed goblin, with a long white beard.
+3. Flowers of the Capital [都の花, みやこのはな, *miyako no hana*] which has a brightly colored background with hanging willow, white cherry blossoms, and a stream. 
+
+Nintendo also makes various [Character Hanafuda](/en/hanafuda/character) decks whose cards are decorated with characters from, for example, the Mario or Kirby franchise.
 ## 4. Where can I buy \_____ deck?
 ## 5. What's the difference between Hanafuda and [Kabufuda](/en/kabufuda)?
 ## 6. What do I need to look out for when buying a deck?
