@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-21T22:17:59.910Z
+date: 2021-02-21T22:35:51.375Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -16,7 +16,11 @@ The white card [白札 - しろふだ, *shirofuda*] included in many decks has a
 2. In the case that another card in the deck becomes lost, which would make the deck unsuitable to play most games, the white card can be used to replace the missing card. When this is the case, the necessary details of the missing card are often drawn on the blank card.
 3.  In some decks, especially those by Nintendo, the white card is not completely blank, but has a number and/or some kanji printed on it. The number or kanji may sometimes be helpful in dating a deck; starting in the early 2000s, Nintendo began printing the date on these cards, in YYMMDD format. Older decks often have 5- or 6-digit numbers as well, but it is less clear whether or how these can be interpreted as dates.
 ## 2. Why does my deck have 5 [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards?
-Many decks, though not all, include an extra card outside of the wrapper 
+Many decks, though not all, include an extra card outside of the wrapper. This is called a "sample" [見本, みほん, *mihon*] card, and its purpose is to display the quality of the deck within the wrapper. It is not traditionally intended for play, and may sometimes be marked with a cut corner to distinguish it as such.
+
+This sample card may take the form of any card in the deck, but is very frequently a copy of the [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon) with "見本" in place of the usual "みよしの" *miyoshino*.
+
+In a pinch, a sample card in good condition may be used to fill the role of a joker or the white card for gameplay.
 ## 3. What's the difference between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s hanafuda decks?
 ## 4. Where can I buy \_____ deck?
 ## 5. What's the difference between Hanafuda and [Kabufuda](/en/kabufuda)?
