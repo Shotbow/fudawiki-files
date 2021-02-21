@@ -2,13 +2,13 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-21T21:17:33.771Z
+date: 2021-02-21T21:20:12.197Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
 ---
 
-
+This page contains answers to some common questions related to [Hanafuda](/en/hanafuda) and [Koi-Koi](/en/hanafuda/games/koi-koi).
 # Decks
 ## 1. What is this white card for?
 ## 2. Why does my deck have 5 [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards?
@@ -21,6 +21,7 @@ dateCreated: 2021-02-21T21:17:33.771Z
 ## 2. My friend and I don't play koi-koi the same way. Why?
 ## 3. My hand doesn't have any matches with the board. What are my options?
 ## 4. This game is complicated. Is there a printable reference somewhere?
+## 5. I'm tired of Koi-Koi; what else can I do with Hanafuda?
 # Other
 ## 1. I want to make my own deck; how do I go about doing that?
 
