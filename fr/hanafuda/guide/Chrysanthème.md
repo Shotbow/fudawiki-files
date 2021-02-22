@@ -2,7 +2,7 @@
 title: Chrysanthème
 description: La neuvième suite du Hanafuda, qui représente Septembre ou le numéro 9
 published: true
-date: 2021-02-22T17:16:42.636Z
+date: 2021-02-22T17:17:19.037Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T17:16:42.636Z
@@ -11,7 +11,7 @@ dateCreated: 2021-02-22T17:16:42.636Z
 ![Icon for month 9](/hanafuda/icons/monthicon_9.png =25x)Le Chysanthème [菊 - きく, *kiku*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la neuvième suite, représentant le mois de Septembre [九月	- くがつ *kugatsu*] ou le numéro 9. Les cartes dans cette suite comportent toutes des fleurs de chrysanthème panachées jaune et rouge. Il y a deux cartes normales, une carte Ruban Bleu avec Poème et une carte Animal/Objet. La carte Animal/Objet de la suite du Chrysanthème comporte une Coupe de Saké [盃 - さかずき, *sakezuki*] sur laquelle est inscrit un caractère signifiant "longévité" [寿 - じゅ, *ju*].
 
 # La Coupe de Saké
-![90.svg](/sheldonchen-cards/90.svg#float-right,hanafuda-card =150x)Dans plusieurs jeux, dont le [Koi-Koi](/en/hanafuda/games/koi-koi) et le [Roppyakken](/en/hanafuda/games/roppyakken), elle est considérée comme une excellente carte de par les yakus "Contemplation", qui ne sont composée que de deux cartes. Soit la "Contemplation de la Lune" [月見酒 - つきみざけ, *tsukimi-zake*] lorsqu'elle est combinée avec la [Lune](/fr/hanafuda/guide/Eulalie#la-lune), et la "Contemplation des Fleurs" [花見酒 - はなみざけ, *hanami-zake*] lorsqu'elle est combinée avec le [Rideau](/fr/hanafuda/guide/Cerisier#le-rideau-de-campement). 
+![90.svg](/sheldonchen-cards/90.svg#float-right,hanafuda-card =150x)Dans plusieurs jeux, dont le [Koi-Koi](/en/hanafuda/games/koi-koi) et le [Roppyakken](/en/hanafuda/games/roppyakken), elle est considérée comme une excellente carte de par les yakus "Contemplation", qui ne sont composés que de deux cartes. Soit la "Contemplation de la Lune" [月見酒 - つきみざけ, *tsukimi-zake*] lorsqu'elle est combinée avec la [Lune](/fr/hanafuda/guide/Eulalie#la-lune), et la "Contemplation des Fleurs" [花見酒 - はなみざけ, *hanami-zake*] lorsqu'elle est combinée avec le [Rideau](/fr/hanafuda/guide/Cerisier#le-rideau-de-campement). 
 
 Elle contribue également au yaku générique des Animaux/Objets. 
 
