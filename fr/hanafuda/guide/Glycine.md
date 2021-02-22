@@ -2,13 +2,13 @@
 title: Glycine
 description: La quatrième suite du Hanafuda, qui représente Avril ou le numéro 4
 published: true
-date: 2021-02-17T21:38:07.325Z
+date: 2021-02-22T10:20:13.286Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T21:38:07.325Z
 ---
 
-![Icon for month 4](/hanafuda/icons/monthicon_4.png =25x) La Glycine [藤 - ふじ, *fuji*] est une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la quatrième suite, représentant le mois d'Avril [四月 - しがつ, *shigatsu*] ou le numéro 4. Les cartes dans cette suite comportent toutes des vignes de glycine suspendues avec des grappes de fleurs violacées. Il y a deux cartes Normales, une carte Ruban et une carte Animal. La carte Animal de la Glycine présente un Petit Coucou [不如帰 - ほととぎす, *hototogisu*] devant un croissant de Lune rouge. 
+![Icon for month 4](/hanafuda/icons/monthicon_4.png =25x) La Glycine [藤 - ふじ, *fuji*] est une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la quatrième suite, représentant le mois d'Avril [四月 - しがつ, *shigatsu*] ou le numéro 4. Les cartes dans cette suite comportent toutes des vignes de glycine suspendues avec des grappes de fleurs violacées. Il y a deux cartes Normales, une carte Ruban et une carte Animal. La carte Animal de la Glycine présente un Petit Coucou [不如帰 - ほととぎす, *hototogisu*]. 
 
 # Le Petit Coucou
 ![40.svg](/sheldonchen-cards/40.svg#float-right,hanafuda-card =150x) Au [Koi-Koi](/en/hanafuda/games/koi-koi), cette carte contribue uniquement au yaku générique des “Animaux/Objets”, mais dans d’autres jeux elle peut prendre des rôles plus spécifiques. Au [Go-Stop](/en/hanafuda/games/go-stop), elle se combine avec la [Bouscarle Chanteuse](/fr/hanafuda/guide/Abricotier#la-bouscarle-chanteuse) et les [Oies](/en/hanafuda/suits/susuki-grass#geese) pour former le yaku de valeur "Cinq Oiseaux". 
