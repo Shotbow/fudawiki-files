@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T01:57:38.955Z
+date: 2021-02-22T02:33:21.890Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -35,8 +35,9 @@ These are two different kinds of Japanese playing cards, similar in size and sha
 
 It is important to note that the two decks are not interchangeable in terms of what games they can be used to play; kabufuda games can be adapted to play using hanafuda by assigning each suit a numerical value (see [here](/en/hanafuda/suits#arrangement-of-suits)), but kabufuda cannot generally be used to play hanafuda games because of the differing deck structures.
 
-Note as well that hanafuda and kabufuda come in very similar packaging, often with the exact same brands and images; for example, Nintendo sells *daitōryō* brands of both these decks, with identical packaging with the exception of the addition of the kanji "株札" on the bottom right of the kabufuda.
+Note as well that hanafuda and kabufuda come in very similar packaging, often with the exact same brands and images; for example, Nintendo sells *daitōryō* brands of both these decks, with identical packaging with the exception of the addition of the kanji "株札" or even just "株" on the bottom right of the kabufuda box.
 ## 6. What's the difference between hanafuda and hwatu?
+
 ## 7. What do I need to look out for when buying a deck?
 # Gameplay
 ## 1. What is the best game for beginners?
