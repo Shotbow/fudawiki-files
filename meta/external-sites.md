@@ -2,7 +2,7 @@
 title: External Sites
 description: Links to current and archived websites
 published: true
-date: 2021-02-22T00:13:03.681Z
+date: 2021-02-22T00:41:49.415Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-13T02:36:02.492Z
@@ -16,7 +16,7 @@ Here are some external sites that might be useful and/or interesting.
 * Tom Sloper has [a section of his site dedicated to Hanafuda](https://www.sloperama.com/hanafuda/).
 * Pagat (run by John McLeod) has [a section about games played with Hanafuda cards](https://www.pagat.com/class/flower.html).
 * [Ways to Play](https://games.porg.es/articles/cards/japan/hanafuda/), run by George Pollard, has a handful of hanafuda pages, including an overview of the cards and two thorough pages on traditional and modern manufacturers.
-
+* The Worshipful Company of Makers of Playing Cards (WOMPC) has scans and information on a few hanafuda decks along with a few other types of Japanese decks on their [Cards From Asia](http://playingcardmakerscollection.co.uk/STD-A.html) page.
 ### Archived Sites
 
 Below are links to sites that are defunct and now only accessible via the Internet Archive; they are hard to find otherwise.
