@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T01:53:52.149Z
+date: 2021-02-22T01:57:38.955Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -45,6 +45,7 @@ Note as well that hanafuda and kabufuda come in very similar packaging, often wi
 ## 4. What happens if I play a card with multiple matches on the board?
 ## 5. This game is complicated. Is there a printable reference somewhere?
 ## 6. I'm tired of Koi-Koi; what else can I do with Hanafuda?
+Hanafuda make up an "open system" so to speak; that is, the cards can be used to play a practically infinite number of games, just like Western playing cards. For a non-exhaustive list of hanafuda games, see [Hanafuda Games](/en/hanafuda/games).
 
 # Other
 ## 1. I want to make my own deck; how do I go about doing that?
