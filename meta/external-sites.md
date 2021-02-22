@@ -2,7 +2,7 @@
 title: External Sites
 description: Links to current and archived websites
 published: true
-date: 2021-02-22T00:04:31.471Z
+date: 2021-02-22T00:11:13.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-13T02:36:02.492Z
@@ -31,6 +31,9 @@ Geocities sites:
 
 ## Places to buy Hanafuda
 
+* [Amazon](https://www.amazon.com/s?k=hanafuda&ref=nb_sb_noss_1)
+* [eBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=hanafuda&_sacat=0&_sop=12)
 * [Hanafuda Hawaii Style](http://hanafudahawaii.com/ginstructions.html)
 * [Indianwolf Studios](http://www.indianwolfstudios.com/)
 * [Junior Hanafuda](https://buyolympia.com/sid=639ffb118/Item/junior-hanafuda)
+* [TheGameCrafter](https://www.thegamecrafter.com/search?query=hanafuda)
