@@ -2,7 +2,7 @@
 title: External Sites
 description: Links to current and archived websites
 published: true
-date: 2021-02-22T00:41:49.415Z
+date: 2021-02-22T00:47:28.992Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-13T02:36:02.492Z
@@ -37,3 +37,4 @@ Geocities sites:
 * [Indianwolf Studios](http://www.indianwolfstudios.com/)
 * [Junior Hanafuda](https://buyolympia.com/sid=639ffb118/Item/junior-hanafuda)
 * [The Game Crafter](https://www.thegamecrafter.com/search?query=hanafuda)
+* [Yahoo! Auctions (via proxy service Buyee)](https://buyee.jp/item/search/query/%E8%8A%B1%E6%9C%AD?translationType=1&suggest=1)
