@@ -2,7 +2,7 @@
 title: External Sites
 description: Links to current and archived websites
 published: true
-date: 2021-02-22T00:11:13.194Z
+date: 2021-02-22T00:13:03.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-13T02:36:02.492Z
@@ -36,4 +36,4 @@ Geocities sites:
 * [Hanafuda Hawaii Style](http://hanafudahawaii.com/ginstructions.html)
 * [Indianwolf Studios](http://www.indianwolfstudios.com/)
 * [Junior Hanafuda](https://buyolympia.com/sid=639ffb118/Item/junior-hanafuda)
-* [TheGameCrafter](https://www.thegamecrafter.com/search?query=hanafuda)
+* [The Game Crafter](https://www.thegamecrafter.com/search?query=hanafuda)
