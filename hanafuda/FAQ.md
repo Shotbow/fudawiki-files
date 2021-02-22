@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T02:33:21.890Z
+date: 2021-02-22T02:40:10.728Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -39,18 +39,26 @@ Note as well that hanafuda and kabufuda come in very similar packaging, often wi
 ## 6. What's the difference between hanafuda and hwatu?
 
 ## 7. What do I need to look out for when buying a deck?
+
 # Gameplay
 ## 1. What is the best game for beginners?
+
 ## 2. My friend and I don't play koi-koi the same way. Why?
+
 ## 3. My hand doesn't have any matches with the board. What are my options?
+
 ## 4. What happens if I play a card with multiple matches on the board?
+
 ## 5. This game is complicated. Is there a printable reference somewhere?
+
 ## 6. I'm tired of Koi-Koi; what else can I do with Hanafuda?
 Hanafuda make up an "open system" so to speak; that is, the cards can be used to play a practically infinite number of games, just like Western playing cards. For a non-exhaustive list of hanafuda games, see [Hanafuda Games](/en/hanafuda/games).
 
 # Other
 ## 1. I want to make my own deck; how do I go about doing that?
+
 ## 2. Why are they sometimes called "scrolls," and other times "ribbons?" Which is correct?
+
 ## 3. Are there hanafuda video games? How can I play without a physical deck?
 
-
+## 4. What are hanafuda and other karuta made of?
