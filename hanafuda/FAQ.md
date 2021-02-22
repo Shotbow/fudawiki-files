@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T02:40:10.728Z
+date: 2021-02-22T08:27:54.197Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -37,7 +37,11 @@ It is important to note that the two decks are not interchangeable in terms of w
 
 Note as well that hanafuda and kabufuda come in very similar packaging, often with the exact same brands and images; for example, Nintendo sells *daitōryō* brands of both these decks, with identical packaging with the exception of the addition of the kanji "株札" or even just "株" on the bottom right of the kabufuda box.
 ## 6. What's the difference between hanafuda and hwatu?
+There are two ways to look at this. First, the word "hwatu" can be taken to mean "Korean hanafuda." From this point of view, any flower cards made in Korea, and intended for consumption in Korea, are hwatu, regardless of the art style or construction of the cards. 
 
+On the other hand, you can consider the word to refer to a particular style and construction of flower card deck, which is the most common realization of the former definition of "hwatu." These cards are made of thick (usually, but not always red) plastic, with a checkered texture on the back and a smooth front. The artwork on the cards differs slightly in style from their Japanese counterparts. Notably, the five Bright cards each feature a circled 光 [ひかり, *hikari*, "light"] symbol. Furthermore, these decks often include between one and six "joker" or extra cards, which differ in design among manufacturers.
+
+The hwatu described in the previous paragraph may be considered a good choice for beginners because of the marked Brights, as well as their being less delicate than the paper-made hanafuda. The extra cards may also be useful for playing the popular Korean game [Go-Stop](/en/hanafuda/games/go-stop), which regularly makes use of them. Aside from these factors, the games playable with hwatu and hanafuda are the same, regardless of how you define "hwatu," so beginners need not fret over the choice of one over the other.
 ## 7. What do I need to look out for when buying a deck?
 
 # Gameplay
