@@ -2,7 +2,7 @@
 title: Glycine
 description: La quatrième suite du Hanafuda, qui représente Avril ou le numéro 4
 published: true
-date: 2021-02-22T10:20:13.286Z
+date: 2021-02-22T16:38:20.385Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T21:38:07.325Z
@@ -13,7 +13,7 @@ dateCreated: 2021-02-17T21:38:07.325Z
 # Le Petit Coucou
 ![40.svg](/sheldonchen-cards/40.svg#float-right,hanafuda-card =150x) Au [Koi-Koi](/en/hanafuda/games/koi-koi), cette carte contribue uniquement au yaku générique des “Animaux/Objets”, mais dans d’autres jeux elle peut prendre des rôles plus spécifiques. Au [Go-Stop](/en/hanafuda/games/go-stop), elle se combine avec la [Bouscarle Chanteuse](/fr/hanafuda/guide/Abricotier#la-bouscarle-chanteuse) et les [Oies](/en/hanafuda/suits/susuki-grass#geese) pour former le yaku de valeur "Cinq Oiseaux". 
 
-Au [Mushi](/fr/hanafuda/games/mushi) et dans quelques versions du [Roppyakken](/en/hanafuda/games/roppyakken), lorsqu'elle est capturée avec les trois autres cartes Glycine, elle forme le yaku "Bande de Glycine". Dans bien d'autres jeux, cette carte ne joue aucun rôle particulier autre que celui de créer un yaku Animal/Objets générique. 
+Au [Mushi](/fr/hanafuda/games/mushi) et dans quelques versions du [Roppyakken](/en/hanafuda/games/roppyakken), lorsqu'elle est capturée avec les trois autres cartes Glycine, elle forme le yaku "Shima" de la Glycine. Dans bien d'autres jeux, cette carte ne joue aucun rôle particulier autre que celui de créer un yaku Animal/Objets générique. 
 
 # Le Ruban
 ![41.svg](/sheldonchen-cards/41.svg#float-right,hanafuda-card =150x)Dans certains jeux comme le [Go-Stop](/en/hanafuda/games/go-stop), cette carte se combine avec le [Ruban Iris](/en/hanafuda/suits/iris#plain-ribbon) et le [Ruban Léspézéda](/en/hanafuda/suits/bush-clover#plain-ribbon) pour faire le yaku "Ruban d'Herbe". Dans beaucoup d'autres jeux comme le [Koi-Koi](/en/hanafuda/games/koi-koi) et le [Roppyakken](/en/hanafuda/games/roppyakken), elle contribue simplement au yaku Rubans générique. 
