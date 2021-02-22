@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T00:01:43.632Z
+date: 2021-02-22T01:53:52.149Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -28,10 +28,16 @@ Nintendo currently has three major brands of standard hanafuda cards, though his
 3. Flowers of the Capital [都の花, みやこのはな, *miyako no hana*] which has green hanging willow, white cherry blossoms, and a stream, over a bright red and yellow background. 
 
 Nintendo also makes various [Character Hanafuda](/en/hanafuda/character) decks whose cards are decorated with characters from, for example, the Mario or Kirby franchise.
-## 4. Where can I buy \_____ deck?
+## 4. Where can I buy \_\_\_\_\_ deck?
+Unfortunately there is no centralized location to find a given deck you might want; however, see [Places to Buy Hanafuda](/en/meta/external-sites#places-to-buy-hanafuda) for some starting points.
 ## 5. What's the difference between Hanafuda and [Kabufuda](/en/kabufuda)?
-## 6. What do I need to look out for when buying a deck?
-## 7. Hwatu vs. Hanafuda - What's the difference?
+These are two different kinds of Japanese playing cards, similar in size and shape, but much different with regards to actual card design and deck configuration. Whereas hanafuda consist of 12 suits of 4 cards each, and are decorated with somewhat abstracted images of East Asian flowers, kabufuda consist of 4 copies each of values 1 to 10, mostly represented by black stripes (abstracted from the Western suit of clubs).
+
+It is important to note that the two decks are not interchangeable in terms of what games they can be used to play; kabufuda games can be adapted to play using hanafuda by assigning each suit a numerical value (see [here](/en/hanafuda/suits#arrangement-of-suits)), but kabufuda cannot generally be used to play hanafuda games because of the differing deck structures.
+
+Note as well that hanafuda and kabufuda come in very similar packaging, often with the exact same brands and images; for example, Nintendo sells *daitōryō* brands of both these decks, with identical packaging with the exception of the addition of the kanji "株札" on the bottom right of the kabufuda.
+## 6. What's the difference between hanafuda and hwatu?
+## 7. What do I need to look out for when buying a deck?
 # Gameplay
 ## 1. What is the best game for beginners?
 ## 2. My friend and I don't play koi-koi the same way. Why?
