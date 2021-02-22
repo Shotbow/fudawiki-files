@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T08:27:54.197Z
+date: 2021-02-22T18:32:27.685Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -21,8 +21,8 @@ Many decks, though not all, include an extra card outside of the wrapper. This i
 This sample card may take the form of any card in the deck, but is very frequently a copy of the [Cherry Blossom Ribbon](/en/hanafuda/suits/cherry-blossom#poetry-ribbon) with "見本" in place of the usual "みよしの" *miyoshino*.
 
 In a pinch, a sample card in good condition may be used to fill the role of a joker or the white card for gameplay.
-## 3. What's the difference between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s hanafuda decks?
-Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same artwork, but may be considered to be of differing levels of "quality". The biggest differences seem to be in the weight of the cards and the protective coating that is applied to them. Starting with the "best," these are:
+## 3. What are the differences between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s different hanafuda decks?
+Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same [artwork](/en/hanafuda/patterns/hachihachibana), but may be considered to be of differing levels of "quality". The biggest differences seem to be in the weight of the cards and the protective coating that is applied to them. Starting with the "best," these are:
 1. President [大統領 - だいとうりょう, *daitōryō*] which features a portrait of Napoleon on the box and wrapper.
 2. Tengu [天狗 - てんぐ] which features a a red, long-nosed goblin, with a long white beard.
 3. Flowers of the Capital [都の花, みやこのはな, *miyako no hana*] which has green hanging willow, white cherry blossoms, and a stream, over a bright red and yellow background. 
