@@ -2,7 +2,7 @@
 title: Chrysanthème
 description: La neuvième suite du Hanafuda, qui représente Septembre ou le numéro 9
 published: true
-date: 2021-02-24T22:23:57.988Z
+date: 2021-02-24T22:28:13.283Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T17:16:42.636Z
@@ -16,7 +16,7 @@ dateCreated: 2021-02-22T17:16:42.636Z
 Elle contribue également au yaku générique des Animaux/Objets. 
 
 # Le Ruban Bleu
-![91.svg](/sheldonchen-cards/91.svg#float-right,hanafuda-card =150x)Dans de nombreux jeux, comme au [Koi-Koi](/en/hanafuda/games/koi-koi), au [Roppyakken](/en/hanafuda/games/roppyakken), au [Go-Stop](/en/hanafuda/games/go-stop), etc., elle contribue au yaku des Rubans Bleus [青短 - あおたん, aotan] quand elle est combinée avec les autres Rubans Bleus, soient celui de la [Pivoine](/fr/hanafuda/guide/Pivoine) et celui de l’[Érable](/en/hanafuda/suits/maple).
+![91.svg](/sheldonchen-cards/91.svg#float-right,hanafuda-card =150x)Dans de nombreux jeux, comme au [Koi-Koi](/en/hanafuda/games/koi-koi), au [Roppyakken](/en/hanafuda/games/roppyakken), au [Go-Stop](/en/hanafuda/games/go-stop), etc., elle contribue au yaku des Rubans Bleus [青短 - あおたん, *aotan*] quand elle est combinée avec les autres Rubans Bleus, soient celui de la [Pivoine](/fr/hanafuda/guide/Pivoine) et celui de l’[Érable](/en/hanafuda/suits/maple).
 
 Dans la plupart des jeux, elle contribue aussi au yaku Rubans générique.
 
