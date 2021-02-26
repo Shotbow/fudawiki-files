@@ -2,7 +2,7 @@
 title: Eulalie
 description: La huitième suite du Hanafuda, qui représente Août ou le numéro 8
 published: true
-date: 2021-02-22T16:43:18.998Z
+date: 2021-02-26T11:22:46.778Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-22T16:43:18.998Z
@@ -19,8 +19,8 @@ Autant au [Roppyakken](/en/hanafuda/games/roppyakken) qu’au [Mushi](/fr/hanafu
 
 Au [Roppyakken](/en/hanafuda/games/roppyakken), lorsqu’elle est capturée avec les autres cartes de sa suite, il forme le yaku "Shima" d'Août. Et, lorsqu’elle est capturée avec la [Coupe de Sake](/en/hanafuda/suits/chrysanthemum#sake-cup), elles forment le yaku “Contemplation de la Lune”.
 
-# Geese
+# Les Oies
 ![81.svg](/sheldonchen-cards/81.svg#float-right,hanafuda-card =150x)Au [Koi-Koi](/en/hanafuda/games/koi-koi), cette carte contribue uniquement au yaku générique des “Animaux/Objets”, mais dans d’autres jeux elle peut prendre des rôles plus spécifiques. Au [Go-Stop](/en/hanafuda/games/go-stop), elle se combine avec la [Bouscarle Chanteuse](/fr/hanafuda/guide/Abricotier#la-bouscarle-chanteuse) et le [Petit Coucou](/fr/hanafuda/guide/Glycine#le-petit-coucou) pour former le yaku de valeur “Cinq Oiseaux”.
 
-# Chaff
+# Les Cartes Normales
 ![82.svg](/sheldonchen-cards/82.svg#float-right,hanafuda-card =150x)![83.svg](/sheldonchen-cards/83.svg#float-right,hanafuda-card =150x)Les deux cartes Normales de cette suite présentent des roseaux de Chine, généralement de couleur rouge et vertes. Comme pour de nombreuses autres suites, ces cartes sont souvent pondérées visuellement dans des directions opposées l’une de l’autre, une à gauche et l’autre à droite.
