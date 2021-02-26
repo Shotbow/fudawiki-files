@@ -2,7 +2,7 @@
 title: Pin
 description: La première suite du Hanafuda, qui représente Janvier ou le numéro 1
 published: true
-date: 2021-02-17T15:59:49.380Z
+date: 2021-02-26T11:21:55.501Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:59:49.380Z
@@ -10,7 +10,7 @@ dateCreated: 2021-02-17T15:59:49.380Z
 
 Le ![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x)Pin [松 - まつ, *matsu*] est le nom d'une [suite](/fr/hanafuda/guide/suites) dans les jeux de cartes traditionnels de hanafuda. Elle est généralement considérée comme la première suite, représentant le mois de Janvier [一月 - いちがつ, *ichigatsu*] ou le numéro 1. Les cartes dans cette suite comportent toutes des pins. Il y a deux cartes normales, une carte Ruban avec Poème et une Lumière. La carte Lumière de la suite du Pin présente une grue [鶴 - つる *tsuru*] parmi les pins ainsi qu'un soleil rouge dans le coin supérieur droit de la carte.
 
-# La Grue avec le Soleil
+# La Grue
 ![A crane standing among pine trees, facing a red sun](/sheldonchen-cards/10.svg#float-right,hanafuda-card =150x) La Grue, étant une des seules 5 cartes Lumières dans les cartes standards, est importante pour marquer des yakus au score élevé dans de nombreux jeux. Elle est tout autant souhaitable en soi dans de nombreux jeux qui attribuent des points à des cartes individuelles. 
 
 Au [Koi-Koi](/en/hanafuda/games/koi-koi), la grue joue un rôle dans les yakus des Lumières. Au [Mushi](/en/hanafuda/games/mushi), cette carte est nécessaire pour faire les deux yakus les plus importants : avec les quatre autres Lumières elle peut former le yaku des "5 Lumières", et combinée abec la carte [Bouscarle chanteuse](/en/hanafuda/suits/plum-blossom#bush-warbler) et le [Rideau](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) elle forme le yaku des "3 Lumières". Au [Roppyakken](/en/hanafuda/games/roppyakken) elle peut être utilisée pour le yaku des "quatre Lumières" (qui est une victoire instantanée), "Grue, Phénix, Lune," (qui combine la carte avec le [Phénix](/en/hanafuda/suits/paulownia#phoenix) et la [Lune](/en/hanafuda/suits/susuki-grass#full-moon)) et "3 Lumières" (même combinaison qu'au Mushi).
