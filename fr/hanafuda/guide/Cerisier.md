@@ -2,7 +2,7 @@
 title: Fleur de Cerisier
 description: La troisième suite du Hanafuda, qui représente Mars ou le numéro 3
 published: true
-date: 2021-02-22T16:39:35.868Z
+date: 2021-02-27T14:47:48.825Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T17:18:16.079Z
@@ -13,11 +13,11 @@ dateCreated: 2021-02-17T17:18:16.079Z
 # Le Rideau de Campement
 ![30.svg](/sheldonchen-cards/30.svg#float-right,hanafuda-card =150x) Le Rideau, étant une des seules 5 cartes Lumières dans les cartes standards, est importante pour marquer des yakus au score élevé dans de nombreux jeux. Elle est tout autant souhaitable en soi dans de nombreux jeux qui attribuent des points à des cartes individuelles.
 
-Le Rideau a une grande valeur au [Koi-Koi](/en/hanafuda/games/koi-koi), car il peut être utilisé en combinaison avec la [Coupe de Saké](/en/hanafuda/suits/chrysanthemum#sake-cup) pour une victoire rapide. Il est aussi utile pour créer les yakus de valeur des Lumières. Il est également utile dans un large éventail d'autres jeux en raison de sa valeur élevée et de la variété de yakus qu'il peut former. 
+Le Rideau a une grande valeur au [Koi-Koi](/en/hanafuda/games/koi-koi), car il peut être utilisé en combinaison avec la [Coupe de Saké](/fr/hanafuda/guide/Chrysanthème#la-coupe-de-saké) pour une victoire rapide. Il est aussi utile pour créer les yakus de valeur des Lumières. Il est également utile dans un large éventail d'autres jeux en raison de sa valeur élevée et de la variété de yakus qu'il peut former. 
 
-Autant au [Roppyakken](/en/hanafuda/games/roppyakken) qu'au [Mushi](/en/hanafuda/games/mushi), cette carte se combine avec les autres cartes Lumière pour former les yakus au plus haut score ("Quatre Lumières" et "Cinq Lumières", respectivement). Elle se combine aussi avec la [Grue](/fr/hanafuda/guide/Pin#la-grue-avec-le-soleil) et la [Bouscarle Chanteuse](/fr/hanafuda/guide/Abricotier#la-bouscarle-chanteuse) pour faire le yaku "Trois Lumières" dans les deux jeux.
+Autant au [Roppyakken](/en/hanafuda/games/roppyakken) qu'au [Mushi](/en/hanafuda/games/mushi), cette carte se combine avec les autres cartes Lumière pour former les yakus au plus haut score ("Quatre Lumières" et "Cinq Lumières", respectivement). Elle se combine aussi avec la [Grue](/fr/hanafuda/guide/Pin#la-grue) et la [Bouscarle Chanteuse](/fr/hanafuda/guide/Abricotier#la-bouscarle-chanteuse) pour faire le yaku "Trois Lumières" dans les deux jeux.
 
-Au [Roppyakken](/en/hanafuda/games/roppyakken), lorsqu'elle est capturée avec les autres cartes de sa suite, il forme le yaku "Shima" de la Fleur de Cerisier et, lorsqu'elle est capturée avec la [Coupe de Saké](/en/hanafuda/suits/chrysanthemum#sake-cup), elles forment le yaku "Contemplation des Fleurs". 
+Au [Roppyakken](/en/hanafuda/games/roppyakken), lorsqu'elle est capturée avec les autres cartes de sa suite, il forme le yaku "Shima" de la Fleur de Cerisier et, lorsqu'elle est capturée avec la [Coupe de Saké](/fr/hanafuda/guide/Chrysanthème#la-coupe-de-saké), elles forment le yaku "Contemplation des Fleurs". 
 
 # Le Ruban avec Poésie
 ![31.svg](/sheldonchen-cards/31.svg#float-right,hanafuda-card =150x)Le Ruban de la Fleur de Cerisier se combine avec le [Ruban du Pin](/fr/hanafuda/guide/Pin#le-ruban-avec-poésie) et le [Ruban de l'Abricotier](/fr/hanafuda/guide/Abricotier#le-ruban-avec-poésie) dans un grand nombre de jeux pour former le yaku appelé "Rubans de Poésie", "Ruban Rouges", "Rubans de Poèmes", etc. Contrairement aux deux autres rubans de poésie, sur lesquels est inscrit "akayoroshi", le ruban de cette carte présente le texte "Miyoshino" en hiragana, faisant référence à la ville de Yoshino, Nara, connue pour ses superbes fleurs de cerisier. Cela se voit même dans les [modèles](/en/hanafuda/patterns) plus anciens, qui n'ont pas de texte sur les deux autres Rubans de Poésie. 
