@@ -2,7 +2,7 @@
 title: Iris
 description: La cinquième suite du Hanafuda, qui représente Mai ou le numéro 5
 published: true
-date: 2021-02-18T12:34:14.702Z
+date: 2021-02-27T14:49:40.033Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-18T12:34:14.702Z
@@ -15,10 +15,10 @@ dateCreated: 2021-02-18T12:34:14.702Z
 
 La conception de cette carte fait référence à la section IX des Contes d'Isle, une compilation de proses et de poésies du 10-11ème siècle, dans laquelle un homme et ses compagnons voyagent au pays des Huits Ponts dans la province de Mikawa, une terre marécageuse avec un zigzag de ponts contruits au-dessus de ses rivières.
 
-# Plain Ribbon
+# Le Ruban
 ![51.svg](/sheldonchen-cards/51.svg#float-right,hanafuda-card =150x)Au [Go-Stop](/en/hanafuda/games/go-stop), la carte Ruban de l'Iris se combine avec le [Ruban de la Glycine](/fr/hanafuda/guide/Glycine#le-ruban) ainsi que le [Ruban du Lespédéza](/en/hanafuda/suits/bush-clover#plain-ribbon) afin de former le yaku du "Ruban d'Herbe". Dans bien d'autres jeux, il ne joue aucun rôle particulier autre que celui de contribuer au yaku Ruban générique. 
 
-# Chaff
+# Les Cartes Normales
 ![52.svg](/sheldonchen-cards/52.svg#float-right,hanafuda-card =150x)![53.svg](/sheldonchen-cards/53.svg#float-right,hanafuda-card =150x)La suite de l'Iris, comme la plupart, comporte deux cartes Normales. Dans certains modèles, notamment le modèle [echigobana](/en/hanafuda/patterns/echigobana), ces cartes contiendront chacune une moitié du poème acrostiche ci-dessous, possiblement écrit par Arihara no Narihira, de la section IX des Contes d'Isle. La première syllabe de chaque ligne, lorsqu'elles sont assemblées, épelle "kakituhata", une ancienne prononciation désuète de "kakitsubata", qui est un autre nom japonais pour désigner l'iris. 
 
 |Japonais|Rōmaji|Français|
