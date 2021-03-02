@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2021-03-02T17:41:10.356Z
+date: 2021-03-02T17:41:51.897Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -21,17 +21,17 @@ The order reflected in the final column is used in certain Japanese games, inclu
 |#|Month|Icon|Standard|Korean|Kabu|Mushi|Alternative|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[Pine](/en/hanafuda/suits/pine)|Pine|Pine|Pine|Pine|
-|2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|Plum Blossom|Plum Blossom|Plum Blossom|Willow|
-|3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|Cherry Blossom|Cherry Blossom|Cherry Blossom|Cherry Blossom|
-|4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Wisteria](/en/hanafuda/suits/wisteria)|Wisteria|Wisteria|Wisteria|Wisteria|
-|5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png)|[Iris](/en/hanafuda/suits/iris)|Iris|Iris|Iris|Iris|
-|6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png)|[Peony](/en/hanafuda/suits/peony)|Peony|Peony|Susuki Grass|Paulownia|
-|7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png)|[Bush Clover](/en/hanafuda/suits/bush-clover)|Bush Clover|Bush Clover|Chrysanthemum|Bush Clover|
-|8|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|Susuki Grass|Susuki Grass|Maple|Susuki Grass|
-|9|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|Chrysanthemum|Chrysanthemum|Willow|Chrysanthemum|
-|10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png)|[Maple](/en/hanafuda/suits/maple)|Maple|Maple|Paulownia|Maple|
-|11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png)|[Willow](/en/hanafuda/suits/willow)|Paulownia|-|-|Peony|
-|12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png)|[Paulownia](/en/hanafuda/suits/paulownia)|Willow|-|-|Plum Blossom|
+|2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|Plum Blossom|Plum Blossom|Plum Blossom|Willow|
+|3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|Cherry Blossom|Cherry Blossom|Cherry Blossom|Cherry Blossom|
+|4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)|[Wisteria](/en/hanafuda/suits/wisteria)|Wisteria|Wisteria|Wisteria|Wisteria|
+|5|May|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)|[Iris](/en/hanafuda/suits/iris)|Iris|Iris|Iris|Iris|
+|6|June|![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)|[Peony](/en/hanafuda/suits/peony)|Peony|Peony|Susuki Grass|Paulownia|
+|7|July|![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)|[Bush Clover](/en/hanafuda/suits/bush-clover)|Bush Clover|Bush Clover|Chrysanthemum|Bush Clover|
+|8|August|![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)|[Susuki Grass](/en/hanafuda/suits/susuki-grass)|Susuki Grass|Susuki Grass|Maple|Susuki Grass|
+|9|September|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[Chrysanthemum](/en/hanafuda/suits/chrysanthemum)|Chrysanthemum|Chrysanthemum|Willow|Chrysanthemum|
+|10|October|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[Maple](/en/hanafuda/suits/maple)|Maple|Maple|Paulownia|Maple|
+|11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[Willow](/en/hanafuda/suits/willow)|Paulownia|-|-|Peony|
+|12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/en/hanafuda/suits/paulownia)|Willow|-|-|Plum Blossom|
 
 # Additional Suits
 A few specialty hanafuda decks feature additional suits, the most famous of these produced by Matsui Tengudo. These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
