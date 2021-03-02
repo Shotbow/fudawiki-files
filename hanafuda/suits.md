@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2020-10-13T10:08:38.816Z
+date: 2021-03-02T17:41:10.356Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -20,7 +20,7 @@ The order reflected in the final column is used in certain Japanese games, inclu
 
 |#|Month|Icon|Standard|Korean|Kabu|Mushi|Alternative|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png)|[Pine](/en/hanafuda/suits/pine)|Pine|Pine|Pine|Pine|
+|1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[Pine](/en/hanafuda/suits/pine)|Pine|Pine|Pine|Pine|
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|Plum Blossom|Plum Blossom|Plum Blossom|Willow|
 |3|March|![Icon for month 3](/hanafuda/icons/monthicon_3.png)|[Cherry Blossom](/en/hanafuda/suits/cherry-blossom)|Cherry Blossom|Cherry Blossom|Cherry Blossom|Cherry Blossom|
 |4|April|![Icon for month 4](/hanafuda/icons/monthicon_4.png)|[Wisteria](/en/hanafuda/suits/wisteria)|Wisteria|Wisteria|Wisteria|Wisteria|
