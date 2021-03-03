@@ -2,18 +2,18 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-02-22T18:32:27.685Z
+date: 2021-03-03T02:41:48.856Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
 ---
 
-This page contains answers to some common questions related to [Hanafuda](/en/hanafuda) and [Koi-Koi](/en/hanafuda/games/koi-koi).
+This page contains answers to some common questions related to [Hanafuda](/en/hanafuda) and [Koi-Koi](/en/hanafuda/games/koi-koi). Please note that this page contains original research.
 # Decks
 ## 1. What is this white card for?
 The white card [白札 - しろふだ, *shirofuda*] included in many decks has a few uses:
 1. For games such as [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) with more than 3 players that require some to drop out each round, the white card can be shuffled with the deck to allow 7 people to participate in the game. In this case, the player dealt the white card is automatically required to drop out, and the other 6 cards in their hand become the field for the match.
-2. In the case that another card in the deck becomes lost, which would make the deck unsuitable to play most games, the white card can be used to replace the missing card. When this is the case, the necessary details of the missing card are often drawn on the blank card.
+2. In the case that another card in the deck becomes lost, which would make the deck unsuitable to play most games, the white card can be used to replace the missing card. When this is the case, the necessary details of the missing card are often drawn onto the blank card.
 3.  In some decks, especially those by Nintendo, the white card is not completely blank, but has a number and/or some kanji printed on it. The number or kanji may sometimes be helpful in dating a deck; starting in the early 2000s, Nintendo began printing the date on these cards, in YYMMDD format. Older decks often have 5- or 6-digit numbers as well, but it is less clear whether or how these can be interpreted as dates.
 ## 2. Why does my deck have 5 [Cherry Blossom](/en/hanafuda/suits/cherry-blossom) cards?
 Many decks, though not all, include an extra card outside of the wrapper. This is called a "sample" [見本 - みほん, *mihon*] card, and its purpose is to display the quality of the deck within the wrapper. It is not traditionally intended for play, and may sometimes be marked with a cut corner to distinguish it as such.
@@ -35,11 +35,11 @@ These are two different kinds of Japanese playing cards, similar in size and sha
 
 It is important to note that the two decks are not interchangeable in terms of what games they can be used to play; kabufuda games can be adapted to play using hanafuda by assigning each suit a numerical value (see [here](/en/hanafuda/suits#arrangement-of-suits)), but kabufuda cannot generally be used to play hanafuda games because of the differing deck structures.
 
-Note as well that hanafuda and kabufuda come in very similar packaging, often with the exact same brands and images; for example, Nintendo sells *daitōryō* brands of both these decks, with identical packaging with the exception of the addition of the kanji "株札" or even just "株" on the bottom right of the kabufuda box.
-## 6. What's the difference between hanafuda and hwatu?
+Note as well that hanafuda and kabufuda come in very similar packaging, often with the exact same brands and images; for example, Nintendo sells *daitōryō* brands of both these decks, with identical packaging with the exception of the addition of the kanji "株札" [かぶふだ, *kabufuda*] or even just "株" [かぶ,*kabu*] on the bottom right of the kabufuda box.
+## 6. What's the difference between hanafuda and hwatu? Which should I buy?
 There are two ways to look at this. First, the word "hwatu" can be taken to mean "Korean hanafuda." From this point of view, any flower cards made in Korea, and intended for consumption in Korea, are hwatu, regardless of the art style or construction of the cards. 
 
-On the other hand, you can consider the word to refer to a particular style and construction of flower card deck, which is the most common realization of the former definition of "hwatu." These cards are made of thick (usually, but not always red) plastic, with a checkered texture on the back and a smooth front. The artwork on the cards differs slightly in style from their Japanese counterparts. Notably, the five Bright cards each feature a circled 光 [ひかり, *hikari*, "light"] symbol. Furthermore, these decks often include between one and six "joker" or extra cards, which differ in design among manufacturers.
+On the other hand, one might consider the word to refer to a particular style and construction of flower card deck, which is the most common realization of the former definition of "hwatu." These cards are made of thick (usually, but not always red) plastic, with a checkered texture on the back and a smooth front. The artwork on the cards differs slightly in style from their Japanese counterparts. Notably, the five Bright cards each feature a circled 光 [ひかり, *hikari*, "light"] symbol, which may be useful to beginners for distinguishing betwen those and the Animal cards. Furthermore, these decks often include between one and six "joker" or extra cards, which differ in design among manufacturers.
 
 The hwatu described in the previous paragraph may be considered a good choice for beginners because of the marked Brights, as well as their being less delicate than the paper-made hanafuda. The extra cards may also be useful for playing the popular Korean game [Go-Stop](/en/hanafuda/games/go-stop), which regularly makes use of them. Aside from these factors, the games playable with hwatu and hanafuda are the same, regardless of how you define "hwatu," so beginners need not fret over the choice of one over the other.
 ## 7. What do I need to look out for when buying a deck?
