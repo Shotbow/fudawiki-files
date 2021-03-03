@@ -2,7 +2,7 @@
 title: Guide des suites (Hanafuda)
 description: Ensembles de 4 cartes, dont le thème commun est une plante particulière, représentant un mois ou un nombre.
 published: true
-date: 2021-03-02T18:15:01.594Z
+date: 2021-03-03T13:59:40.498Z
 tags: guide
 editor: markdown
 dateCreated: 2021-01-21T18:43:59.075Z
@@ -33,7 +33,7 @@ Le tableau suivant montre le contenu de chaque suite, son mois et sa plante les 
 |9|Septembre|![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|[Chrysanthème](/fr/hanafuda/guide/Chrysanthème)|-|![Coupe de saké](/sheldonchen-cards/90.svg#hanafuda-card =40x)|![Ruban bleu chrysanthème](/sheldonchen-cards/91.svg#hanafuda-card =40x)|![Chrysanthème 1](/sheldonchen-cards/92.svg#hanafuda-card =40x)![Chrysanthème 2](/sheldonchen-cards/93.svg#hanafuda-card =40x)|
 |10|Octobre|![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|[Érable](/fr/hanafuda/guide/Érable)|-|![Cerf](/sheldonchen-cards/100.svg#hanafuda-card =40x)|![Ruban bleu érable](/sheldonchen-cards/101.svg#hanafuda-card =40x)|![Erable 1](/sheldonchen-cards/102.svg#hanafuda-card =40x)![Erable 2](/sheldonchen-cards/103.svg#hanafuda-card =40x)|
 |11|Novembre|![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|[Saule](/fr/hanafuda/guide/Saule)|![Homme au parapluie](/sheldonchen-cards/110.svg#hanafuda-card =40x)|![Hirondelle](/sheldonchen-cards/111.svg#hanafuda-card =40x)|![Ruban saule](/sheldonchen-cards/112.svg#hanafuda-card =40x)|![Foudre](/sheldonchen-cards/113.svg#hanafuda-card =40x)|
-|12|Décembre|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/fr/hanafuda/guide/Paulownia)|![Phénix](/sheldonchen-cards/120.svg#hanafuda-card =40x)|-|-|![Paulownia 1](/sheldonchen-cards/121.svg#hanafuda-card =40x)![Paulownia 2](/sheldonchen-cards/122.svg =40x)![Paulownia 3](/sheldonchen-cards/123.svg =40x)|
+|12|Décembre|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/fr/hanafuda/guide/Paulownia)|![Phénix](/sheldonchen-cards/120.svg#hanafuda-card =40x)|-|-|![Paulownia 1](/sheldonchen-cards/121.svg#hanafuda-card =40x)![Paulownia 2](/sheldonchen-cards/122.svg#hanafuda-card =40x)![Paulownia 3](/sheldonchen-cards/123.svg#hanafuda-card =40x)|
 
 # Suites additionnelles (rares)
 Certains paquets contiennent une treizième voire une treizième et quatorzième suite, qui sont ajoutée au jeu pour permettre des règles différentes ou plus de participants. Les plus connues sont celles produites par Matsui Tengudo. Le contenu de ces suites variera en fonction du jeu, même parmis les jeux produits par le même fabricant. 
