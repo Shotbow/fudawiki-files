@@ -2,13 +2,13 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-02-12T09:59:51.171Z
+date: 2021-03-03T21:50:39.250Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
 ---
 
-Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un jeu de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les cartes [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/en/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/en/hanafuda/suits/bush-clover), ou un jeu standard Hanafuda auquel on a simplement enlevé ces cartes. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/en/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de *yaku* (ou contrats), ainsi qu'un score à somme nulle.
+Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un jeu de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les cartes [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/fr/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/fr/hanafuda/suits/bush-clover), ou un jeu standard Hanafuda auquel on a simplement enlevé ces cartes. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/fr/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de *yaku* (ou contrats), ainsi qu'un score à somme nulle.
 
 * 📺 [tutoriel vidéo (en anglais)](/fr/hanafuda/games/mushi#ressources-externes)
 
@@ -28,7 +28,7 @@ Si 4 cartes de la même suite sont distribuées sur le champ de jeu au début du
 * 4 paires de suites différentes sont placées sur la table
 * un joueur reçoit 4 cartes de la même suite (⚠ *dépend de la règle utilisée*)
 
-> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/guide/suites). 
+> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
 {.is-info}
 # Jouer
 Chaque partie, le donneur (celui qui a distribué) est le premier à jouer. 
@@ -47,7 +47,7 @@ Après avoir joué une carte de sa main et fait une capture si possible, on pioc
 Enfin, on récupère toutes les cartes capturées et on les place face visible devant soit, ce sera notre score. Il est plus facile de trier les cartes par types pour bien voir ce qui a déjà été capturé. 
 
 ## Joker
-Au Mushi, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre peut être utilisé pour capturer n'importe quelle autre carte sauf d'autres cartes de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/en/hanafuda/suits/willow)). 
+Au Mushi, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre peut être utilisé pour capturer n'importe quelle autre carte sauf d'autres cartes de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/fr/hanafuda/suits/willow)). 
 * Si elle est distribuée à la table au début de la partie, elle sera capturée par la première carte piochée (si celle ci n'est pas de la suite du Saule).   
 * Si, par contre, la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre est la dernière carte a être piochée, elle capturera toutes les cartes restantes sur le tapis.
 # Fin de la partie
@@ -76,7 +76,7 @@ La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda
 |Rubans|5|8|
 |Simples|1|20|
 Cela signifie que le total des points fait avec les cartes à partager entre les deux joueurs est de **230**. Pour calculer le score initial d'un joueur pour une partie données, on somme les points de toutes les cartes capturées et on soustrait 115.
-> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/guide/suites). 
+> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
 {.is-info}
 
 ## Yaku (contrats)
@@ -84,9 +84,9 @@ Il y a 4 *yakus* [役, やく] au Mushi, des sortes de contrats optionnels rappo
 |Valeur|Nom|Description|
 |:---:|:---:|:---:|
 |30|Cinq Lumières - 五光 [ごうこ, *gōko*]|Obtenir les cinq cartes Lumière.|
-|25|Trois Lumières - 三光 [さんこ, *sanko*]|La [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Cigogne](/en/hanafuda/suits/pine#crane-with-sun), la [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bouscarle chanteuse](/en/hanafuda/suits/plum-blossom#bush-warbler), et le [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Rideau](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Il ne doit pas être confondu avec le *yaku* du même nom joué au [Koi-Koi](/e/fr/hanafuda/games/koi-koi).|
-|10|Quatre Glycines - 藤シマ [ふじしま, *fujishima*]|Les 4 cartes [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Glycine](/en/hanafuda/suits/wisteria).|
-|10|Quatre Paulownias - 桐シマ [きりしま, *kirishima*]|Les 4 cartes [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia).|
+|25|Trois Lumières - 三光 [さんこ, *sanko*]|La [![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Cigogne](/fr/hanafuda/suits/pine#crane-with-sun), la [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bouscarle chanteuse](/fr/hanafuda/suits/plum-blossom#bush-warbler), et le [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Rideau](/fr/hanafuda/suits/cherry-blossom#flower-viewing-curtain). Il ne doit pas être confondu avec le *yaku* du même nom joué au [Koi-Koi](/e/fr/hanafuda/games/koi-koi).|
+|10|Quatre Glycines - 藤シマ [ふじしま, *fujishima*]|Les 4 cartes [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Glycine](/fr/hanafuda/suits/wisteria).|
+|10|Quatre Paulownias - 桐シマ [きりしま, *kirishima*]|Les 4 cartes [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/fr/hanafuda/suits/paulownia).|
 ## Example de calcul de score
 Anna et Boubou ont fini une partie. 
 * Anna a capturé 2 cartes Lumières, 3 Animaux, 3 Rubans et 10 Simples et fait le *yaku* des "Trois Lumières".
