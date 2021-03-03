@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-03-03T02:41:48.856Z
+date: 2021-03-03T03:17:32.087Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -45,8 +45,10 @@ The hwatu described in the previous paragraph may be considered a good choice fo
 ## 7. What do I need to look out for when buying a deck?
 
 # Gameplay
-## 1. What is the best game for beginners?
-
+## 1. What is the best hanafuda game for beginners?
+There are probably two really good answers for this question:
+1. [Bakappana](/en/hanafuda/games/bakappana) is a simple fishing-type game for 2-4 players whose gameplay is generalizable to a wide variety of other [hanafuda games](/en/hanafuda/games). Its straightforward scoring is easy to learn and may offer newcomers an opportunity to learn the different categories of cards. Its greatest downside is one its upsides - its relative lack of depth. Once you've mastered this game, you'll probably want to mix it up with some more complex games, which allow for more thoughtful play.
+2. [Koi-Koi](/en/hanafuda/games/koi-koi) is probably the most popular hanafuda game, which makes it quite accessible. For one, there are more koi-koi video games and applications than there are for any other hanafuda game, making it easy to learn and play on one's own. And, if you encounter another hanafuda enthusiast, whether in person or online, chances are that they will know how to play koi-koi, allowing you the most opportunities to play hanafuda with others. That said, it's more complex and more difficult to master than bakappana.
 ## 2. My friend and I don't play koi-koi the same way. Why?
 
 ## 3. My hand doesn't have any matches with the board. What are my options?
