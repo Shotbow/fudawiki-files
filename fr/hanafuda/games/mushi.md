@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-03-04T09:34:53.489Z
+date: 2021-03-04T09:35:13.541Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -89,7 +89,7 @@ Il y a 4 *yakus* [役, やく] ou combinaisons au Mushi, des sortes de contrats 
 |10|Quatre Paulownias - 桐シマ [きりしま, *kirishima*]|Les 4 cartes [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/fr/hanafuda/suits/paulownia).|
 ## Example de calcul de score
 Anna et Boubou ont fini une partie. 
-* Anna a capturé 2 cartes Lumières, 3 Animaux, 3 Rubans et 10 Simples et fait le *yaku* des "Trois Lumières".
+* Anna a capturé 2 cartes Lumières, 3 Animaux, 3 Rubans et 10 Normales et fait le *yaku* des "Trois Lumières".
 * Boubou a capturé le reste des cartes et fait le yaku des "Quatre Glycines". 
 
 Anna calculera comme suit : `2×20 + 3×10 + 3×5 + 10×1 - 115 + 25 - 10 = (-5)`.
