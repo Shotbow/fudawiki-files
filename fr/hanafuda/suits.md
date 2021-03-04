@@ -2,25 +2,25 @@
 title: Guide des suites (Hanafuda)
 description: Ensembles de 4 cartes, dont le thème commun est une plante particulière, représentant un mois ou un nombre.
 published: true
-date: 2021-03-03T21:44:27.258Z
+date: 2021-03-04T09:32:26.518Z
 tags: guide
 editor: markdown
 dateCreated: 2021-01-21T18:43:59.075Z
 ---
 
 Il y a **48 cartes** réparties en **12 suites (=ensembles) de 4 cartes** dans un jeu [hanafuda](/en/hanafuda). Elles seront présentées dans un ordre différent en fonction du jeu choisi ou la région d'origine. Chaque suite représente un mois et est représentée par une plante ou une fleur qui lui est associée. Chaque carte peut être classée dans une famille selon ce qu'elle représente, ce qui détermine sa valeur. Il y a:
-- 5 cartes lumières (ou spéciales), 20 points
+- 5 cartes lumières (ou spéciales), habituellement 20 points
 - 9 cartes animaux ou objets, 10 points
 - 10 cartes ruban, dont 3 rubans avec poésie et 3 rubans bleus, 5 points
-- 24 cartes normales/simples, 1 point.
+- 24 cartes normales, 1 point.
 
-La valeur des cartes est utilisée dans certains jeux, mais n'est que représentatif dans d'autres afin de pouvoir les classer en catégories. 
+La valeur des cartes est utilisée dans certains jeux, mais n'est que représentative dans d'autres afin de pouvoir les classer en catégories. 
 
 # Arrangement des suites
 Le tableau suivant montre le contenu de chaque suite, son mois et sa plante les plus couramment associés. 
 *L'icône est celle utilisée dans le wiki pour faciliter la compréhension seulement.*
 
-|#|Mois|Icône|Plante (Standard)|Lumières|Animaux/Objets|Rubans|Simples|
+|#|Mois|Icône|Plante (Standard)|Lumières|Animaux/Objets|Rubans|Normales|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|Janvier|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[Pin](/fr/hanafuda/suits/pine)|![Grue](/sheldonchen-cards/10.svg#hanafuda-card =40x)|-|![Ruban poésie pins](/sheldonchen-cards/11.svg#hanafuda-card =40x)|![Pins 1](/sheldonchen-cards/12.svg#hanafuda-card =40x)![Pins 2](/sheldonchen-cards/13.svg#hanafuda-card =40x)|
 |2|Février|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[Abricotier](/fr/hanafuda/suits/plum-blossom)|-|![Bouscarle](/sheldonchen-cards/20.svg#hanafuda-card =40x)|![Ruban poésie abricotiers](/sheldonchen-cards/21.svg#hanafuda-card =40x)|![Abricotiers 1](/sheldonchen-cards/22.svg#hanafuda-card =40x)![Abricotiers 2](/sheldonchen-cards/23.svg#hanafuda-card =40x)|
