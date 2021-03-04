@@ -2,13 +2,13 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-03-03T21:50:39.250Z
+date: 2021-03-04T09:34:53.489Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
 ---
 
-Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un jeu de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les cartes [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/fr/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/fr/hanafuda/suits/bush-clover), ou un jeu standard Hanafuda auquel on a simplement enlevé ces cartes. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/fr/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de *yaku* (ou contrats), ainsi qu'un score à somme nulle.
+Mushi [虫 - むし, lit. "Insecte"] est un jeu pour deux joueurs utilisant soit un jeu de 40 cartes [Mushi-bana](/en/hanafuda/patterns/mushibana), auquel manque les cartes [![monthicon_6.png](/hanafuda/icons/monthicon_6.png =20x)Pivoine](/fr/hanafuda/suits/peony) et [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Lespédéza](/fr/hanafuda/suits/bush-clover), ou un jeu standard Hanafuda auquel on a simplement enlevé ces cartes. Ses caractéristiques principales sont l'utilisation de [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)la Foudre](/fr/hanafuda/suits/willow#lightning) comme *joker*, le faible nombre de *yaku* (ou combinaisons), ainsi qu'un score à somme nulle.
 
 * 📺 [tutoriel vidéo (en anglais)](/fr/hanafuda/games/mushi#ressources-externes)
 
@@ -59,7 +59,7 @@ La partie en cours s'arrête lors que chaque joueur a fait 8 tours et a épuisé
 
 Dans ce cas, la dernière carte du ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule est ajoutée au score du joueur ayant capturé les deux autres cartes ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule, et la dernière carte est ajoutée au score du joueur ayant utilisé la ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Foudre.
 
-À ce moment, les deux joueurs calculent la valeur totale des cartes qu'ils ont capturées, et regardent s'ils ont fait des yakus (cf. Sections suivantes). Le score d'un joueur pour la partie est calculé comme suit : 
+À ce moment, les deux joueurs calculent la valeur totale des cartes qu'ils ont capturées, et regardent s'ils ont fait des *yakus* (des combinaisons, voir Sections suivantes). Le score d'un joueur pour la partie est calculé comme suit : 
 * la somme des carte capturées 
 * soustraire 115
 * ajouter la valeur des yakus réalisés
@@ -74,13 +74,13 @@ La valeur de chaque carte au Mushi est la même qu'au [Hachi-Hachi](/en/hanafuda
 |Lumières|20|5|
 |Animaux ou objets|10|7|
 |Rubans|5|8|
-|Simples|1|20|
+|Normales|1|20|
 Cela signifie que le total des points fait avec les cartes à partager entre les deux joueurs est de **230**. Pour calculer le score initial d'un joueur pour une partie données, on somme les points de toutes les cartes capturées et on soustrait 115.
 > Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
 {.is-info}
 
 ## Yaku (contrats)
-Il y a 4 *yakus* [役, やく] au Mushi, des sortes de contrats optionnels rapportant plus de points. On gagne des points pour chaque *yaku* capturé et on soustraira le même nombre de points au score de l'adversaire. Certaines variantes ne comptent pas le *yaku* des "Cinq Lumières". 
+Il y a 4 *yakus* [役, やく] ou combinaisons au Mushi, des sortes de contrats optionnels rapportant plus de points. On gagne des points pour chaque *yaku* capturé et on soustraira le même nombre de points au score de l'adversaire. Certaines variantes ne comptent pas le *yaku* des "Cinq Lumières". 
 |Valeur|Nom|Description|
 |:---:|:---:|:---:|
 |30|Cinq Lumières - 五光 [ごうこ, *gōko*]|Obtenir les cinq cartes Lumière.|
