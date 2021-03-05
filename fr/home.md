@@ -2,7 +2,7 @@
 title: Fudawiki
 description: Le wiki pour tous les types de jeux de cartes japonais traditionnels
 published: true
-date: 2021-03-03T21:29:11.578Z
+date: 2021-03-05T15:16:17.000Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-01T07:39:37.883Z
@@ -19,7 +19,6 @@ Ce wiki a été créé pour discuter de divers jeux de cartes traditionnels Japo
 * [Suites d'Hanafuda](/fr/hanafuda/suits)
 * [Koi-Koi](/fr/hanafuda/games/koi-koi)
 * [Liste de jeux Hanafuda](/fr/hanafuda/games)
-* [Termes and Traductions](/fr/hanafuda/terms)
 * [Questions Fréquemment Posées (FAQ)](/fr/hanafuda/FAQ)
 * [Liens Externes](/fr/meta/external-sites)
 
