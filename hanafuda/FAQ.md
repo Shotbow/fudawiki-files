@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-03-07T19:21:18.549Z
+date: 2021-03-07T19:26:46.429Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -28,7 +28,7 @@ The [Cherry Blossom](/en/hanafuda/suits/cherry-blossom#poetry-ribbon) card inste
 
 Those are the standard inscriptions, but note that some (especially older) decks use different text for the Ribbons, and may not limit the text to the three cards we now think of as Poetry Ribbons! For instance, decks made by [Tanaka Gyokusuido](/en/hanafuda/manufacturers/tanaka-gyokusuido) feature an alternate name for the aforementioned yaku on each of the three relevant cards - うらす *urasu*, よろし *yoroshi*, and すがわら *sugawara* - and also have the name of another yaku, たてさん *tatesan* on the [Wisteria](/en/hanafuda/suits/wisteria), [Iris](/en/hanafuda/suits/iris), and [Bush Clover](/en/hanafuda/suits/bush-clover) Ribbons. 
 ## 4. What are the differences between [Nintendo](/en/hanafuda/manufacturers/nintendo)'s different hanafuda decks?
-Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same [artwork](/en/hanafuda/patterns/hachihachibana), but may be considered to be of differing levels of "quality". The biggest differences seem to be in the weight of the cards and the protective coating that is applied to them. Starting with the "best," these are:
+Nintendo currently has three major brands of standard hanafuda cards, though historically they have sold many many more. These brands all feature the same [artwork](/en/hanafuda/patterns/hachihachibana), but may be considered to be of differing levels of "quality". The biggest differences seem to be in the weight of the cards and the protective coating that is applied to them. From "best" to "worst", these are:
 1. President [大統領 - だいとうりょう, *daitōryō*] which features a portrait of Napoleon on the box and wrapper.
 2. Tengu [天狗 - てんぐ] which features a a red, long-nosed goblin, with a long white beard.
 3. Flowers of the Capital [都の花, みやこのはな, *miyako no hana*] which has green hanging willow, white cherry blossoms, and a stream, over a bright red and yellow background. 
