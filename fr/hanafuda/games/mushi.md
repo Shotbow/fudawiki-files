@@ -2,7 +2,7 @@
 title: Mushi
 description: Un jeu sans les cartes Pivoines et Lespédéza. 
 published: true
-date: 2021-03-04T09:35:13.541Z
+date: 2021-03-07T10:33:46.595Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-01-18T17:36:36.077Z
@@ -24,7 +24,7 @@ On choisit le donneur [親 - おや, *oya*], qui mélange le paquet et distribue
 
 
 
-Si 4 cartes de la même suite sont distribuées sur le champ de jeu au début du tour, on déclare "*maldonne*" (mauvaise donne) et on redistribue les cartes après les avoir mélangées. On déclare aussi "*maldonne*" si : 
+Si 4 cartes de la même suite sont distribuées sur le terrain au début du tour, on déclare "*maldonne*" (mauvaise donne) et on redistribue les cartes après les avoir mélangées. On déclare aussi "*maldonne*" si : 
 * 4 paires de suites différentes sont placées sur la table
 * un joueur reçoit 4 cartes de la même suite (⚠ *dépend de la règle utilisée*)
 
@@ -35,13 +35,13 @@ Chaque partie, le donneur (celui qui a distribué) est le premier à jouer.
 
 ## Tour
 À votre tour, choisissez une carte de votre main à jouer sur la table. 
-* Si cette carte correspond à la suite d'**une** carte sur le champ de jeu, on la place sur celle-ci, pour indiquer que c'est celle-ci qu'on capturera. 
-* Si on peut capturer **deux** cartes du champ, il faut choisir laquelle on capture avec notre carte. 
-* Si on peut capturer **trois** cartes du champ, on capturera alors ces quatres cartes (en comptant celle qui venait de notre main). 
-* Si aucune carte ne correspond, alors elle devient une carte du champ et ne capture aucune carte.
+* Si cette carte correspond à la suite d'**une** carte sur le terrain de jeu, on la place sur celle-ci, pour indiquer que c'est celle-ci qu'on capturera. 
+* Si on peut capturer **deux** cartes du terrain, il faut choisir laquelle on capture avec notre carte. 
+* Si on peut capturer **trois** cartes du terrain, on capturera alors ces quatres cartes (en comptant celle qui venait de notre main). 
+* Si aucune carte ne correspond, alors elle devient une carte du terrain et ne capture aucune carte.
 
-Après avoir joué une carte de sa main et fait une capture si possible, on pioche une carte et on essaye de capturer comme précédemment une carte du champ de jeu. 
-> On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le champ si aucune carte n'est capturable.
+Après avoir joué une carte de sa main et fait une capture si possible, on pioche une carte et on essaye de capturer comme précédemment une carte du terrain de jeu. 
+> On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le terrain si aucune carte n'est capturable.
 {.is-warning}
 
 Enfin, on récupère toutes les cartes capturées et on les place face visible devant soit, ce sera notre score. Il est plus facile de trier les cartes par types pour bien voir ce qui a déjà été capturé. 
