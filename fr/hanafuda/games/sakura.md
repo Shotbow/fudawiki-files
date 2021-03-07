@@ -2,18 +2,23 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-03-03T21:54:01.325Z
+date: 2021-03-07T10:02:21.766Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:17:37.007Z
 ---
 
-Sakura est un jeu populaire de hanafuda à Hawaii pour deux à sept joueurs (bien qu'on dit qu'il est préférable entre 2 et 4). Il est également connu sous les noms Higo-Bana, Koi-Koi Hawaïen ou même juste Hanafuda. Il utilise un système de points unique, les familles Rubans et Animaux/Objets échangent leurs points respectifs habituels. Il comporte également des règles Hihi uniques et utilise la carte Foudre comme joker. 
+Le **Sakura** est un jeu populaire d'hanafuda à Hawaii pour 2 à 7 joueurs, de préférence de 2 à 4 joueurs. Il est également connu sous les noms *Higo-Bana*, *Koi-Koi Hawaïen* ou même juste *Hanafuda*. Il utilise un système de points unique où les familles Rubans et Animaux/Objets échangent leurs points respectifs habituels et utilise la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre comme joker. 
 
 * 📺 [Tutoriel vidéo (en anglais)](/fr/hanafuda/games/sakura#ressources-externes)
 
 # Installation
-Tout d'abord, on commence par déterminer le nombre de joueurs et comment se forment les équipes. Pour une partie à 2, 3, 5 ou 7 joueurs, chacun joue pour soi. Pour une partie à 4 joueurs, chaque équipe sera constituée par 2 joueurs. Pour une partie à 6 joueurs, les équipes seront consituée de 2 ou 3 joueurs, au choix. S'il y a 2 joueurs par équipe, les équipiers devraient se tenir l'un à l'opposé de l'autre. S'il y a 3 joueurs par équipe, les joueurs de chaque équipe devraient être assis alternativement autour de la table. 
+Tout d'abord, on choisit le nombre de joueurs et comment se forment les équipes : 
+* **À 2, 3, 5 ou 7 joueurs**, chacun joue pour soi. 
+* **À 4 joueurs**, chaque équipe sera constituée de 2 joueurs. 
+* **À 6 joueurs**, les équipes seront consituée de 2 ou 3 joueurs, au choix. 
+S'il y a 2 joueurs par équipe, les équipiers devraient se tenir l'un à l'opposé de l'autre. 
+S'il y a 3 joueurs par équipe, les joueurs de chaque équipe devraient être assis alternativement autour de la table. 
 
 On doit aussi choisir combien de temps durera le jeu (6 ou 12 manches en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
 
