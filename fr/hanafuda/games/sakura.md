@@ -2,13 +2,13 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-03-07T10:02:21.766Z
+date: 2021-03-07T10:22:42.463Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:17:37.007Z
 ---
 
-Le **Sakura** est un jeu populaire d'hanafuda à Hawaii pour 2 à 7 joueurs, de préférence de 2 à 4 joueurs. Il est également connu sous les noms *Higo-Bana*, *Koi-Koi Hawaïen* ou même juste *Hanafuda*. Il utilise un système de points unique où les familles Rubans et Animaux/Objets échangent leurs points respectifs habituels et utilise la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre comme joker. 
+Le **Sakura** est un jeu populaire d'hanafuda à Hawaii pour 2 à 7 joueurs, de préférence de 2 à 4 joueurs. Il est également connu sous les noms *Higo-Bana*, *Koi-Koi Hawaïen* ou même juste *Hanafuda*. Il utilise un système de points unique où les familles Rubans et Animaux/Objets échangent leurs points respectifs habituels, une méchanique de *Hiki*, et utilise la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre comme joker. 
 
 * 📺 [Tutoriel vidéo (en anglais)](/fr/hanafuda/games/sakura#ressources-externes)
 
@@ -22,10 +22,10 @@ S'il y a 3 joueurs par équipe, les joueurs de chaque équipe devraient être as
 
 On doit aussi choisir combien de temps durera le jeu (6 ou 12 manches en général, ou alors si un certain score a été atteint par l'un des joueurs).  On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
 
-Ensuite, on choisit le donneur [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. N'importe quelle méthode peut être utilisée. Traditionnellement, tout le monde tire une carte au hasard, et celui qui a tiré une carte du mois le plus proche de Janvier commence - en cas d'égalité, les joueurs concernés retirent jusqu'à ce qu'il y ait un gagnant. 
+Ensuite, on choisit le **donneur** [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. N'importe quelle méthode peut être utilisée. Traditionnellement, tout le monde tire une carte au hasard, et celui qui a tiré une carte du mois le plus proche de Janvier commence - en cas d'égalité, les joueurs concernés retirent jusqu'à ce qu'il y ait un gagnant. 
 
 ## Distribuer les cartes pour la manche
-![koikoi_setup.png](/hanafuda/koikoi_setup.png#float-right =400x) Une fois les cartes mélangées, le donneur distribue les cartes à chaque joueur face cachée ainsi que les cartes sur le terrain face découverte selon le tableau suivant: 
+![Image représentant une distribution pour deux joueurs](/hanafuda/koikoi_setup.png#float-right =400x) Une fois les cartes mélangées, le donneur distribue les cartes à chaque joueur face cachée ainsi que les cartes sur le terrain face découverte selon le tableau suivant : 
 |Nombre de joueurs |Cartes à chaque joueur|Cartes sur le terrain|
 |:---:|:---:|:---:|
 |2|8|8|
@@ -35,48 +35,52 @@ Ensuite, on choisit le donneur [親 - おや, *oya*], qui mélange le paquet et 
 |6|3|12|
 |7|3|6|
 
-Si quatre cartes de la même suite sont distribuées sur le terrain, le donneur les capture automatiquement. 
-
-> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
-{.is-info}
+Si quatre cartes de la même [suite](/fr/hanafuda/suits) sont distribuées sur le terrain, le donneur les capture automatiquement. 
 
 # Jouer
 À chaque manche, le donneur (celui qui a distribué) est le premier à jouer. Le jeu se joue dans le sens contraire des aiguilles d'une montre. 
 
 ## Tour
 À votre tour, choisissez une carte de votre main à jouer sur la table. 
-* Si cette carte correspond à la suite d'**une** carte sur le champ de jeu, on la place sur celle-ci, pour indiquer que c'est celle-ci qu'on capturera. 
-* Si on peut capturer **deux** cartes du champ, il faut choisir laquelle on capture avec notre carte. 
-* Si on peut capturer **trois** cartes du champ, on capturera alors ces quatres cartes (en comptant celle qui venait de notre main). 
-* Si aucune carte ne correspond, alors elle devient une carte du champ et ne capture aucune carte.
+* Si cette carte correspond à la suite d'**une** carte sur le terrain de jeu, on la place sur celle-ci, pour indiquer que c'est celle-ci qu'on capturera. 
+* Si on peut capturer **deux** cartes du terrain, il faut choisir laquelle on capture avec notre carte. 
+* Si on peut capturer **trois** cartes du terrain, on capturera alors ces quatres cartes (en comptant celle qui venait de notre main). 
+* Si aucune carte ne correspond, alors elle devient une carte du terrain et ne capture aucune carte.
 
 Après avoir joué une carte de sa main et fait une capture si possible, on pioche une carte et on essaye de capturer comme précédemment une carte du champ de jeu. 
-> On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le champ si aucune carte n'est capturable.
+> On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le terrain si aucune carte n'est capturable.
 {.is-warning}
 
-Enfin, on récupère toutes les cartes capturées et on les place face visible devant soi, ce sera notre score. Il est plus facile de trier les cartes par types - valeur - pour bien voir ce qui a déjà été capturé. 
+Enfin, on récupère toutes les cartes capturées et on les place face visible devant soi, ce sera notre score. Il est plus facile de trier les cartes par types et valeur pour bien voir ce qui a déjà été capturé. 
 
-## Foudre (Joker)
-![113.svg](/sheldonchen-cards/113.svg#float-right =160x) Au Sakura, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre peut être utilisée comme un joker. Quand elle est jouée d'une main, elle peut capturer n'importe quelle  carte du terrain. Par contre, quand elle est sur le terrain, elle ne peut être capturée que par une carte de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/fr/hanafuda/suits/willow)). 
+## La Foudre (Joker)
+![113.svg](/sheldonchen-cards/113.svg#float-right =160x) Au Sakura, **la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre peut être utilisée comme un joker**. Quand elle est jouée d'une main, elle peut capturer n'importe quelle  carte du terrain. Par contre, quand elle est sur le terrain, elle ne peut être capturée que par une carte de la même suite ([![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Saule](/fr/hanafuda/suits/willow)). 
 
-Une fois capturée, garder la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre avec la carte qu'elle a capturée. À la fin de la manche, si des cartes de la même suite que la carte capturée par la Foudre sont sur le terrain, elles sont automatiquement capturées par le possesseur de la carte Foudre. 
+Une fois la capture faite, garder la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre avec la carte qu'elle a capturée. À la fin de la manche, si des cartes de la même suite que la carte capturée par la Foudre sont sur le terrain, elles sont automatiquement capturées par le possesseur de la carte Foudre. 
 
-La carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre ne peut pas capturer une carte qui compléterait un Hiki d'un autre joueur - voir plus bas. Dans ce cas, le propriétaire du Hiki l'annoncerait lorsque l'utilisateur de la Foudre tente de capturer une carte du Hiki. Ensuite, l'utilisateur devrait cibler une autre carte du terrain pour la capture ou laisser simplement la Foudre sur le terrain. 
+**Attention, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre ne peut pas capturer une carte qui compléterait un *Hiki* d'un autre joueur** (voir paragraphe suivant). Dans ce cas, le propriétaire du Hiki l'annonce lorsque l'utilisateur de la Foudre tente de capturer une carte du Hiki. Ensuite, l'utilisateur doit cibler une autre carte du terrain pour la capture ou laisser simplement la Foudre sur le terrain. 
+
+
 
 ## Hiki (Quatre de la même suite)
-Si un joueur a la possibilité de capturer quatre cartes de la même suite, que ce soit dans sa main ou sur le terrain (de n'importe quelle façon), c'est ce qu'on appelle un Hiki. Lors de son tour, le joueur doit déclarer "Hiki" et capturer la suite entière en un coup. 
+Si un joueur a la possibilité de capturer quatre cartes de la même suite, que ce soit dans sa main ou sur le terrain (de n'importe quelle façon), c'est ce qu'on appelle un *Hiki*. Lors de son tour, le joueur peut déclarer "Hiki" et capturer la suite entière en un coup. 
 
 Un joueur n'est pas obligé de déclarer un Hiki, sauf dans le cas où un joueur tente de capturer une carte du Hiki à l'aide de la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre - ce qui obligerait au joueur de la carte Foudre à choisir une autre carte.
 
-Notez que le concept d'Hiki n'a pas d'équivalent exact dans les autres jeux de hanafuda, et chevauche certains concepts dans ces jeux, comme par exemple le privilège du coupier, les mains chanceuses, les captures de cartes empilées sur le terrain ou les bombardements du terrain. 
+> Notez que le concept d'*Hiki* n'a pas d'équivalent exact dans les autres jeux d'hanafuda, et chevauche certains concepts dans ces jeux, comme par exemple le privilège du croupier, les mains chanceuses, les captures de cartes empilées sur le terrain ou les bombardements du terrain. 
+{.is-info}
+
 
 # Fin de la manche et de la partie
-La manche en cours s'arrête lors que chaque joueur n'a plus de carte dans sa main. Les joueurs (ou l'équipe) marquent les points des cartes capturées, puis soustraient 50 points du total pour chaque Yaku formé par les adversaires ou l'équipe adverse. 
+La manche en cours s'arrête lors que chaque joueur n'a plus de carte dans sa main. Les joueurs (ou l'équipe) marquent les points des cartes capturées, puis soustraient 50 points du total pour chaque *Yaku* (combinaison de cartes) formé par les adversaires ou l'équipe adverse. 
 
-Si on a fait le nombre de manches décidé à l'origine ou l'un des joueurs (ou équipe) atteint le score fixé au départ, le joueur avec le score le plus élevé sera déclaré vainqueur de la partie. 
+Si le nombre de manches décidé à l'origine est compté ou l'un des joueurs (ou équipe) atteint le score fixé au départ, le joueur avec le score le plus élevé sera déclaré vainqueur de la partie. 
 
 ## Valeur des cartes
-Au Sakura, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) est traitée comme une carte Animal/Objet plutôt que comme une Lumière. Notez que la valeur des cartes Animaux/Objets et Rubans est inversée par rapport au standard. Notez aussi que la carte ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) [Paulownia Jaune](/fr/hanafuda/suits/paulownia#la-carte-normale-jaune) a une valeur de Ruban.
+Au Sakura : 
+* la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) est traitée comme une carte Animal/Objet plutôt que comme une Lumière. 
+* la carte ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) [Paulownia Jaune](/fr/hanafuda/suits/paulownia#la-carte-normale-jaune) a une valeur de Ruban.
+* la valeur des cartes Animaux/Objets et Rubans est inversée par rapport au standard.
 
 |Valeur|Famille|Nombre total dans le paquet|Cartes|
 |:---:|:---:|:---:|:---:|
@@ -91,9 +95,14 @@ Cela signifie que le total des points fait avec les cartes à partager entre les
 {.is-info}
 
 ## Yaku (combinaisons)
-Il y a 8 *yakus* [役, やく] au Sakura, des sortes de contrats optionnels, chacun constitué de 3 cartes. Chaque *yaku* capturé fait soustraire 50 points au score de l'adversaire. 
+Il y a 8 *yakus* [役, やく] (ou combinaisons) au Sakura, des sortes de contrats optionnels, chacun constitué de 3 cartes. **Chaque *yaku* capturé fait soustraire 50 points au score de l'adversaire.**
 
-Dans ce jeu, les *yakus* sont appelés par chacune des 8 syllabes du [poème Iroha](https://fr.wikipedia.org/wiki/Iroha). Dans la brochure des règles de Paradise Factors, ils sont simplement numérotés de 1 à 8, dans le même ordre. 
+Dans ce jeu, les *yakus* sont appelés par chacune des 8 syllabes du [poème Iroha](https://fr.wikipedia.org/wiki/Iroha) : 	
+> い ろ は に ほ へ と ち (り ぬ る) 
+*Iro ha nihohe to chi(rinuru)*
+Toute floraison finit par se fa(ner)
+
+Dans la brochure des règles de *Paradise Factors*, ils sont simplement numérotés de 1 à 8, dans le même ordre. 
 
 |Numéro|Nom|Description|Points|
 |:---:|:---:|:---:|:---:|
