@@ -2,7 +2,7 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-03-07T10:26:18.673Z
+date: 2021-03-07T10:28:24.851Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:17:37.007Z
@@ -121,11 +121,11 @@ Il existe deux variations principales dans la notation du jeu :
 * celle qui compte à la place les victoires des manches, utilisée par *Paradise Factors*. 
 
 # Stratégie
-Il y a quatre cartes qui contribuent à 2 *yakus* chacun. Celles-ci devraient être considérées avoir plus de valeur ques les autres et devraient être les cibles prioritaires des joueurs. Elle sont le [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x) Rideau](/fr/hanafuda/suits/cherry-blossom#flower-viewing-curtain), le [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x) Sanglier](/fr/hanafuda/suits/bush-clover#boar), la [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x) Coupe de Saké](/fr/hanafuda/suits/chrysanthemum#sake-cup), et le  [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x) Cerf](/fr/hanafuda/suits/maple#deer). Parmis celles-ci, la carte ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x) Rideau vaut 20 points à elle seule, ce qui fait d'elle la carte la plus importante du jeu. 
+Il y a quatre cartes qui contribuent à 2 *yakus* chacun. Celles-ci devraient être considérées avoir plus de valeur ques les autres et devraient être les cibles prioritaires des joueurs : le [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x) Rideau](/fr/hanafuda/suits/cherry-blossom#flower-viewing-curtain), le [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x) Sanglier](/fr/hanafuda/suits/bush-clover#boar), la [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x) Coupe de Saké](/fr/hanafuda/suits/chrysanthemum#sake-cup), et le  [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x) Cerf](/fr/hanafuda/suits/maple#deer). Parmi celles-ci, la carte ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x) Rideau vaut 20 points à elle seule, ce qui fait d'elle la carte la plus importante du jeu. 
 
 Cela dit, il est souvent préférable de privilégier les cartes qui synergisent le mieux selon la main du joueur, ou celles qui sont déjà capturées, plutôt que de viser sans discernement les quatre cartes les plus polyvalentes. 
 
-Etant donné que les cartes normales ne valent aucun point, les joueurs devraient éviter de faire correspondre deux cartes normales entre elles. Ils devraient plutôt essayer de retenir leurs cartes normales dans leur main jusqu'à ce qu'une carte correspondant à la même famille valant plus de points apparaisse sur le terrain. Mais il est souvent préférable de défausser une carte normale ou de la faire correspondre avec une autre carte normale plutôt que de défausser une carte plus précisieuse et risquer de la donner à un autre joueur. 
+Étant donné que les cartes normales ne valent aucun point, les joueurs doivent éviter de faire correspondre deux cartes normales entre elles. Il vaut mieux essayer de garder ses cartes normales dans sa main jusqu'à ce qu'une carte correspondant à la même famille valant plus de points apparaisse sur le terrain. Il est néanmoins souvent préférable de défausser une carte normale ou de la faire correspondre avec une autre carte normale plutôt que de défausser une carte plus précieuse et de risquer de la donner à un autre joueur. 
 
 Notez que les cartes des familles ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) [Saule](/en/hanafuda/suits/willow) et ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) [Paulownia](/en/hanafuda/suits/paulownia) ne font partie d'aucun *yaku*.
 
