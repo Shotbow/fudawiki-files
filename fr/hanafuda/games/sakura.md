@@ -2,7 +2,7 @@
 title: Sakura
 description: Un jeu hanafuda, aussi connu sous les noms Higo-Bana ou Koi-Koi Hawaiien
 published: true
-date: 2021-03-07T10:28:24.851Z
+date: 2021-03-08T14:37:45.467Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:17:37.007Z
@@ -58,12 +58,13 @@ Enfin, on récupère toutes les cartes capturées et on les place face visible d
 
 Une fois la capture faite, garder la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre avec la carte qu'elle a capturée. À la fin de la manche, si des cartes de la même suite que la carte capturée par la Foudre sont sur le terrain, elles sont automatiquement capturées par le possesseur de la carte Foudre. 
 
-**Attention, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre ne peut pas capturer une carte qui compléterait un *Hiki* d'un autre joueur** (voir paragraphe suivant). Dans ce cas, le propriétaire du Hiki l'annonce lorsque l'utilisateur de la Foudre tente de capturer une carte du Hiki. Ensuite, l'utilisateur doit cibler une autre carte du terrain pour la capture ou laisser simplement la Foudre sur le terrain. 
-
-
+**Attention, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre ne peut pas capturer une carte qui compléterait un *Hiki* d'un autre joueur** (voir [Hiki](/fr/hanafuda/games/sakura#hiki-quatre-de-la-m%C3%AAme-suite)). Dans ce cas, le propriétaire du Hiki l'annonce lorsque l'utilisateur de la Foudre tente de capturer une carte du Hiki. Ensuite, l'utilisateur doit cibler une autre carte du terrain pour la capture ou laisser simplement la Foudre sur le terrain. 
 
 ## Hiki (Quatre de la même suite)
 Si un joueur a la possibilité de capturer quatre cartes de la même suite, que ce soit dans sa main ou sur le terrain (de n'importe quelle façon), c'est ce qu'on appelle un *Hiki*. Lors de son tour, le joueur peut déclarer "Hiki" et capturer la suite entière en un coup. 
+
+> Par exemple, si un joueur a 2 cartes d'un mois dans la main et qu'il y a 2 cartes du même mois sur le terrain, alors c'est un *Hiki* et il peut capturer les 4 cartes pendant son tour. Ceci fonctionne pour n'importe quelle disposition tant que les 4 cartes sont "visibles" par le joueur.
+{.is-success}
 
 Un joueur n'est pas obligé de déclarer un Hiki, sauf dans le cas où un joueur tente de capturer une carte du Hiki à l'aide de la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) Foudre - ce qui obligerait au joueur de la carte Foudre à choisir une autre carte.
 
@@ -111,7 +112,7 @@ Dans la brochure des règles de *Paradise Factors*, ils sont simplement numérot
 |3|Ha - は|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|Les trois rubans avec poème|
 |4|Ni - に|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|Les trois rubans bleus|
 |5|Ho - ほ|[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|Papillons, Saké, Cerf|
-|6|He - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|Les trois rubans sans poème|
+|6|He - へ|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|Les trois rubans sans poème (ruban de Novembre exclu)|
 |7|To - と|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)|Coucou, Iris, Sanglier|
 |8|Chi - ち|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|Sanglier, Oies, Cerf|
 
@@ -134,6 +135,6 @@ Notez que les cartes des familles ![monthicon_11.png](/hanafuda/icons/monthicon_
 
 # Bibliographie
 - How to Play Hanafuda Hawaii Style.” Hanafuda Hawaii Style, Hanafuda Hawaii, LLC, hanafudahawaii.com/ginstructions.html.
-- “A Japanese HANA FUDA (Flower Cards) Game.” Paradise Factors
+- “A Japanese HANA FUDA (Flower Cards) Game.” Paradise Factors, fabricant de cartes hanafuda à Hawaii.
 - “Sakura.” Hanafubuki, web.archive.org/web/20120116011355/www.hanafubuki.org/sakura.html.
 
