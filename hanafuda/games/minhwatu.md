@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T06:47:27.521Z
+date: 2021-03-09T06:48:08.341Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -16,7 +16,7 @@ Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck,
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
 ## Distributing the Initial Cards
 Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
-> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
+> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
