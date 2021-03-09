@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Answers to some of the most common hanafuda-related questions
 published: true
-date: 2021-03-09T09:51:50.691Z
+date: 2021-03-09T09:53:04.592Z
 tags: faqs
 editor: markdown
 dateCreated: 2021-02-21T21:17:33.771Z
@@ -57,8 +57,8 @@ C. Thick plastic hwatu or hwatu-style decks, similar in size to the previous two
 D. Thin paper or plastic "Western-style" cards, of varying sizes.
 2. Pattern/Artwork: There are hundreds of different hanafuda designs out there, of all different styles. Some have simple, bare-bones art, and some have your favorite anime characters on them, while others may form lush tetraptych paintings when the cards in a suit are properly aligned. For gameplay's sake, the traditional designs are probably the easiest to interpret, but you'll also get more enjoyment out of a deck you love to look at and show off.
 3. Indices
-3. Brand
-4. Price
+4. Brand
+5. Price
 # Gameplay
 ## 1. What is the best hanafuda game for beginners?
 There are probably two really good answers for this question:
