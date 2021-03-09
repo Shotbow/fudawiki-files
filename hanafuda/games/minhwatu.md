@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:32:54.975Z
+date: 2021-03-09T07:37:21.277Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -17,7 +17,7 @@ There is no required method for selecting who is the first dealer, though a typi
 ## Distributing the Initial Cards
 Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. If there are two participants, the dealer sends 8 cards face up to the table and 10 cards face down to each player. If three people are playing, the field will instead receive 6 cards and each player will receive 7. Any remaining cards in the deck will make up the draw pile.
 
-If a complete suit of 4 cards was dealt to the field, a misdeal is declared and the same player shuffles and deals anew. If all 4 cards of a suit were dealt to a player's hand, they have the **option** of declaring a misdeal, with the same results.
+If a complete suit of 4 cards was dealt to the field, they are automatically captured by the dealer.
 
 If 3 cards of a suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
@@ -37,6 +37,7 @@ The current round ends when all players have used up their cards.
 
 At this point, all players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player’s score for the round is calculated as the sum of their captured cards' point values, plus the value of any yaku they captured times the number of players, minus the value of any yaku made by another player. The total number of points distributed each round will always total 240.
 
+The player who scored the most points in a given round becomes the dealer for the subsequent round. At the end of the game, the winner is the player who amassed the most points.
 # Card Values
 The values of each card are identical to those used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), with the exception of Chaff cards, which earn no points.
 |Card Type|Value|Number in Deck|
