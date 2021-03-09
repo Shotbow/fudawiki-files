@@ -2,22 +2,27 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T06:48:08.341Z
+date: 2021-03-09T07:06:04.512Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
 ---
 
-Min-Hwatu (alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-3 player game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers, does not include a game-stopping mechanic, and is scored quite differently.
+Min-Hwatu (alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-3 player game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. Scoring is also significantly different, in that 
 
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how many rounds the game will last - common options are 6 or 12 rounds. Any other house rules such as which yaku to use should also be established at this point in order to keep gameplay smooth and fair.
 ## Choosing the Dealer
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
 ## Distributing the Initial Cards
-Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
+Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. If there are two participants, the dealer sends 8 cards face up to the table and 8 cards face down to each player. If three people are playing, the field will instead receive 6 cards and each player will receive 7. Any remaining cards in the deck will make up the draw pile.
+
+If a complete suit of 4 cards was dealt to the field, a misdeal is declared and the same player shuffles and deals anew. If all 4 cards of a suit were dealt to a player's hand, they have the **option** of declaring a misdeal, with the same results.
+
+If 3 cards of a suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
+Note that there are no "lucky hands" in Min-hwatu that result in any 
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
 - Pearson, Randy L. “Minhato Game.” *BamaFolks,* www.bamafolks.com/randy/minhato/game.html.
