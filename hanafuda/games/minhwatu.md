@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:07:11.510Z
+date: 2021-03-09T07:12:58.221Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -25,4 +25,5 @@ If 3 cards of a suit were dealt to the field, they are stacked together to signi
 Note that there are no "lucky hands" in Min-hwatu that result in any 
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
+- kzpn200. *Hana-Awase, or Flower Pairings, a Basic Game of Hanafuda (Flower Cards),* 8 Feb. 2015, kzpn200.blogspot.com/2015/02/hana-awase-or-flower-pairings.html. 
 - Pearson, Randy L. “Minhato Game.” *BamaFolks,* www.bamafolks.com/randy/minhato/game.html.
