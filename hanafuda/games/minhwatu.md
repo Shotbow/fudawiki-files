@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:38:08.664Z
+date: 2021-03-09T07:46:09.730Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -56,4 +56,5 @@ The values of each card are identical to those used in [Hachi-Hachi](/en/hanafud
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 49-52. 
 - kzpn200. *Hana-Awase, or Flower Pairings, a Basic Game of Hanafuda (Flower Cards),* 8 Feb. 2015, kzpn200.blogspot.com/2015/02/hana-awase-or-flower-pairings.html. 
+- “Minhwatu.” *Hana Kirisame,* web.archive.org/web/20050204084516/hana.kirisame.org/minhwatu.html. 
 - Pearson, Randy L. “Minhato Game.” *BamaFolks,* www.bamafolks.com/randy/minhato/game.html.
