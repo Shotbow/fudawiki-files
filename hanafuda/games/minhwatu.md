@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:27:02.042Z
+date: 2021-03-09T07:31:34.536Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -37,7 +37,14 @@ The current round ends when all players have used up their cards.
 
 At this point, all players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player’s score for the round is calculated as the sum of their captured cards' point values, plus the value of any yaku they captured times the number of players, minus the value of any yaku made by another player. The total number of points distributed each round will always total 240.
 
-
+# Card Values
+The values of each card are identical to those used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), with the exception of Chaff cards, which earn no points.
+|Card Type|Value|Number in Deck|
+|:---:|:---:|:---:|
+|Bright|20|5|
+|Animal|10|9|
+|Ribbon|5|10|
+|Chaff|0|24|
 
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
