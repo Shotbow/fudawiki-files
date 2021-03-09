@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2021-03-02T17:41:51.897Z
+date: 2021-03-09T09:02:06.472Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -16,9 +16,9 @@ The column labeled "Standard" is the most common ordering used for Japanese hana
 
 The "Kabu" column reflects a hanafuda deck with the Willow and Paulownia suits removed, making it suitable for adapting games originally played with the 40-card [kabufuda](/en/kabufuda) deck. The "Mushi" column is similar, but reflects instead the [mushibana](/en/hanafuda/patterns/mushibana) deck which lacks the Peony and Bush Clover cards, and is used to play [Osaka Mushi](/en/hanafuda/games/mushi).
 
-The order reflected in the final column is used in certain Japanese games, including Tensho, Hiyoko, and Isuri. It is mostly similar to the standard order, but with Plum Blossom, Peony, Willow, and Paulownia shuffled about.
+The order reflected in the final column is used in certain Japanese games from the Nagoya region, including [Tensho](/en/hanafuda/games/tensho), [Hiyoko](/en/hanafuda/games/hiyoko), and [Isuri](/en/hanafuda/games/isuri). It is mostly similar to the standard order, but with Plum Blossom, Peony, Willow, and Paulownia shuffled about.
 
-|#|Month|Icon|Standard|Korean|Kabu|Mushi|Alternative|
+|#|Month|Icon|Standard|Korean|Kabu|Mushi|Nagoya|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|January|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)|[Pine](/en/hanafuda/suits/pine)|Pine|Pine|Pine|Pine|
 |2|February|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)|[Plum Blossom](/en/hanafuda/suits/plum-blossom)|Plum Blossom|Plum Blossom|Plum Blossom|Willow|
