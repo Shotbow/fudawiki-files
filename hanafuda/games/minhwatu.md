@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:56:05.243Z
+date: 2021-03-09T07:59:05.520Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -52,15 +52,17 @@ There are 6 yaku that are always used this game, but some versions include addit
 ## Core Yaku
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
-|30|Poetry Ribbons||
-|30|Blue Ribbons||
-|30|Grass Ribbons||
-|20|Four Irises||
-|20|Four Maples||
-|20|Four Willows||
+|30|Poetry Ribbons|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|30|Blue Ribbons|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|30|Grass Ribbons|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|20|Four Irises|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Iris Chaff 1](/sheldonchen-cards/52.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)[![Iris Chaff 2](/sheldonchen-cards/53.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#chaff)|
+|20|Four Maples|[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Maple Chaff 1](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)[![Maple Chaff 2](/sheldonchen-cards/103.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#chaff)|
+|20|Four Willows|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 ## Additional Yaku
+The following yaku are not always used, and should be agreed upon prior to the first round of play.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
+
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 49-52. 
 - kzpn200. *Hana-Awase, or Flower Pairings, a Basic Game of Hanafuda (Flower Cards),* 8 Feb. 2015, kzpn200.blogspot.com/2015/02/hana-awase-or-flower-pairings.html. 
