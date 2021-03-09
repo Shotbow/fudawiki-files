@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:55:35.469Z
+date: 2021-03-09T07:56:05.243Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -50,7 +50,7 @@ The values of each card are identical to those used in [Hachi-Hachi](/en/hanafud
 # Yaku
 There are 6 yaku that are always used this game, but some versions include additional yaku, which will be listed in a separate table.
 ## Core Yaku
-|Point Value|Name of Yaku|Description|
+|Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |30|Poetry Ribbons||
 |30|Blue Ribbons||
@@ -59,7 +59,7 @@ There are 6 yaku that are always used this game, but some versions include addit
 |20|Four Maples||
 |20|Four Willows||
 ## Additional Yaku
-|Point Value|Name of Yaku|Description|
+|Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017, pp. 49-52. 
