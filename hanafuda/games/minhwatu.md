@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:13:39.372Z
+date: 2021-03-09T07:19:54.876Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -20,9 +20,18 @@ Once the dealer has been selected, he or she shuffles the deck and sets up the t
 If a complete suit of 4 cards was dealt to the field, a misdeal is declared and the same player shuffles and deals anew. If all 4 cards of a suit were dealt to a player's hand, they have the **option** of declaring a misdeal, with the same results.
 
 If 3 cards of a suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
-> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x)![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
+> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
-Note that there are no "lucky hands" in Min-hwatu that result in any 
+
+There are no "lucky hands" [手役, てやく *teyaku*] that would result in points earned at the initial deal in Min-hwatu.
+
+# Gameplay
+The dealer is the first to have a turn, after which play moves counterclockwise until each player has exhausted their hands.
+## Turns
+On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
+
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area, organized by card type.
+
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
 - kzpn200. *Hana-Awase, or Flower Pairings, a Basic Game of Hanafuda (Flower Cards),* 8 Feb. 2015, kzpn200.blogspot.com/2015/02/hana-awase-or-flower-pairings.html. 
