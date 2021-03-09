@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T07:12:58.221Z
+date: 2021-03-09T07:13:39.372Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -20,7 +20,7 @@ Once the dealer has been selected, he or she shuffles the deck and sets up the t
 If a complete suit of 4 cards was dealt to the field, a misdeal is declared and the same player shuffles and deals anew. If all 4 cards of a suit were dealt to a player's hand, they have the **option** of declaring a misdeal, with the same results.
 
 If 3 cards of a suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
-> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
+> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x)![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 Note that there are no "lucky hands" in Min-hwatu that result in any 
 # Bibliography
