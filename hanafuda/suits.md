@@ -2,7 +2,7 @@
 title: Hanafuda Suits
 description: Four-card sets, each themed around a particular plant, representing a specific month or number
 published: true
-date: 2021-03-09T09:02:06.472Z
+date: 2021-03-09T09:03:56.776Z
 tags: hanafuda suits
 editor: markdown
 dateCreated: 2020-10-12T00:41:00.951Z
@@ -34,7 +34,7 @@ The order reflected in the final column is used in certain Japanese games from t
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|[Paulownia](/en/hanafuda/suits/paulownia)|Willow|-|-|Plum Blossom|
 
 # Additional Suits
-A few specialty hanafuda decks feature additional suits, the most famous of these produced by Matsui Tengudo. These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
+A few specialty hanafuda decks feature additional suits, the most famous of these produced by [Matsui Tengudo](/en/hanafuda/manufacturers/matsui-tengudo). These extra cards may be removed to allow for standard gameplay, or included for expanded capabilities. Note that the contents of these suits differs from deck to deck, even by the same manufacturer.
 |#|"Month"|Plant|
 |:---:|:---:|:---:|
 |13|Earth|[Bamboo](/en/hanafuda/suits/bamboo)|
