@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2021-03-09T09:21:45.227Z
+date: 2021-03-09T10:39:17.748Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -30,7 +30,9 @@ The dealer is the first to have a turn, after which play moves counterclockwise 
 ## Turns
 On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
-After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area, organized by card type.
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. However, if you make a match using the card from your hand, and then the card from the deck matches those two and no other cards on the field, you do not capture any of them, instead stacking them together on the field; whoever plays the fourth card of the suit captures the whole pile.
+
+Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area, organized by card type.
 
 ## End of Round
 The current round ends when all players have used up their cards.
