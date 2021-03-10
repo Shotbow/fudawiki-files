@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: Un jeu hanafuda populaire se jouant à deux
 published: true
-date: 2021-03-10T16:04:14.557Z
+date: 2021-03-10T16:24:52.170Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-03-10T16:04:14.557Z
@@ -141,6 +141,18 @@ Les yakus listés ci-dessous sont classés par groupes. Pour chacun de ces group
 
 ## La carte Foudre (Gaji)
 ![113.svg](/sheldonchen-cards/113.svg#float-right =80x) Optionellement, la carte ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x) [Foudre](/fr/hanafuda/suits/willow#la-foudre) peut être jouée par certains comme carte joker. Si elle est dans la rivière, cette règle est sans effet. Si elle est dans la main d'un joueur, elle peut servir à capturer n'importe quelle carte de la rivière. On conserve de côté les deux cartes - la Foudre et la carte capturée - car à la fin de la manche, le joueur ramasera l'ensemble des cartes restées dans la rivière appartenant au mois de la carte capturée par la Foudre. 
+
+## Mains vides
+Dans tous les cas, une manche s'arrête lorsqu'un joueur déclare “shōbu”. Mais plusieurs variations sont possibles pour la fin de manche lorsqu'un joueur (ou les deux joueurs) n'a plus de cartes. 
+
+### Tous les points sont perdus
+Dans cette variation, lorsque les deux joueurs n'ont plus de cartes, tous les points accumulés jusqu'ici sont perdus, peu importe si un joueur a appelé "koi-koi" ou non. Le donneur pour la manche suivante changera ou restera le même selon la règle utilisée.
+
+### Le donneur n'a plus de cartes
+Dans cette variation, la manche s'arrête dès que le 1er joueur n'a plus de cartes. Trois cas de figure se présentent alors:
+* Il est le dernier à avoir appelé "koi-koi": dans ce cas, s'il n'a pas réussi à améliorer un yaku ou en avoir un supplémentaire, il perd les yakus accumulés et aucun des joueurs ne marque de point. Le rôle de donneur change de main. 
+* L'adversaire est le dernier à avoir appelé "koi-koi": dans ce cas, c'est lui qui remporte la manche. Il récupère ses points en comptant les multiplicateurs et devient le donneur pour la manche suivante. 
+* Aucun des joueurs n'a appelé "koi-koi" durant la manche: dans ce cas, la manche est déclarée comme nulle et aucun joueur ne marque de point. Le rôle de donneur change de main. 
 
 ## Oyaken
 Une variation selon laquelle si la manche est nulle, le donneur marque un point. 
