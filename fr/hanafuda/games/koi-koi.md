@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: Un jeu hanafuda populaire se jouant à deux
 published: true
-date: 2021-03-11T08:43:15.290Z
+date: 2021-03-11T08:44:53.530Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-03-10T16:04:14.557Z
@@ -44,7 +44,7 @@ Lors de la distribution sur le terrain, il y a deux cas de figures où l'on déc
 
 Si un de ces cas de figure arrive sur le terrain lors de la distribution, alors toutes les cartes sont remélangées et redistributées. 
 
-Si un des joueurs voit une de ces cas de figure dans sa main de départ - 4 cartes de la même suite ou 4 paires de suites différentes - , alors c'est une *"main chanceuse"*. Le joueur remporte la manche et empoche directement 6 points. 
+Si un des joueurs voit un de ces cas de figure dans sa main de départ - 4 cartes de la même suite ou 4 paires de suites différentes - , alors c'est une *"main chanceuse"*. Le joueur remporte la manche et empoche directement 6 points. 
 
 # Jouer
 À chaque manche, le donneur (celui qui a distribué) est le premier à jouer. 
