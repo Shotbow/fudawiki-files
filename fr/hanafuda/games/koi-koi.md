@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: Un jeu hanafuda populaire se jouant à deux
 published: true
-date: 2021-03-10T16:24:52.170Z
+date: 2021-03-11T08:43:15.290Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-03-10T16:04:14.557Z
@@ -126,7 +126,7 @@ Les yakus listés ci-dessous sont classés par groupes. Pour chacun de ces group
 |5|Contemplation de la Lune - 月見酒 [つきみざけ, *tsukimi-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)
 |
 |4|Cartes du Mois - 月札 [つきふだ, *tsukifuda*]|Les 4 cartes appartenant au mois de la manche en cours.|
-|1|Normales - カス [かす, *kasu*]|**Dix** cartes Normales, peu importe lesquelles - plus la [Coupe de Saké](/fr/hanafuda/suits/chrysanthemum#la-coupe-de-sak%C3%A9). **+1** point par carte Ruban supplémentaire.
+|1|Normales - カス [かす, *kasu*]|**Dix** cartes Normales, peu importe lesquelles - [Coupe de Saké](/fr/hanafuda/suits/chrysanthemum#la-coupe-de-sak%C3%A9) comprise. **+1** point par carte Ruban supplémentaire.
 
 > Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
 {.is-info}
