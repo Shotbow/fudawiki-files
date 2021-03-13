@@ -2,17 +2,17 @@
 title: Koi-Koi
 description: Un jeu hanafuda populaire se jouant à deux
 published: true
-date: 2021-03-13T19:38:31.060Z
+date: 2021-03-13T19:43:05.431Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-03-10T16:04:14.557Z
 ---
 
-Le **Koi-Koi** [こいこい] fait partie des jeux hanafuda les plus populaires en dehors du Japon. C'est un jeu de pêche pour deux joueurs. Son nom vient d'une mécanique de jeu qui permet aux joueurs de décider de continuer le tour (en disant *"koi-koi"*, lit. "allez!") et de risquer leurs points pour avoir la chance d'améliorer leur score, ou de terminer leur tour (en disant *"shōbu”* [勝負 - しょうぶ], lit. “jeu” ou “match”) et conserver les points qu'ils ont actuellement. 
+Le **Koi-Koi** [こいこい] fait partie des jeux hanafuda les plus **populaires** en dehors du Japon. C'est un jeu de pêche pour deux joueurs. Son nom vient d'une mécanique de jeu qui permet aux joueurs de décider de continuer le tour (en disant *"koi-koi"*, lit. "allez!") et de risquer leurs points pour avoir la chance d'améliorer leur score, ou de terminer leur tour (en disant *"shōbu”* [勝負 - しょうぶ], lit. “jeu” ou “match”) et conserver les points qu'ils ont actuellement. 
 
 Ce jeu s'est peut-être développé comme une simplification du jeu coréen [Go-Stop](/en/hanafuda/games/go-stop), qui présente des scores similaires et la même mécanique de prise de risque. 
 
-> Notez que ce jeu, étant ancien et populaire, connaît beaucoup de variantes et de règles optionnelles possibles. Les règles présentées ici sont un exemple répandu. 
+> Ce jeu, étant ancien et très populaire, il connaît beaucoup de [variantes](/fr/hanafuda/games/koi-koi#quelques-variantes-possibles) et de règles optionnelles possibles. Les règles présentées ici sont un exemple répandu. 
 {.is-warning}
 
 
@@ -21,10 +21,8 @@ Ce jeu s'est peut-être développé comme une simplification du jeu coréen [Go-
 # Installation
 D'abord, on choisit le **donneur** [親 - おや, *oya*], qui mélange le paquet et distribue les cartes. N'importe quelle méthode peut être utilisée. Traditionnellement, tout le monde tire une carte au hasard, et celui qui a tiré une carte du mois le plus proche de Janvier commence - en cas d'égalité, les joueurs concernés retirent jusqu'à ce qu'il y ait un gagnant. 
 
-On doit aussi choisir combien de temps durera le jeu (12 manches de préférence, on peut baisser à 6 voire 3 manches pour des parties rapides mais où le hasard a plus de place).  
+On doit aussi choisir combien de temps durera le jeu (12 manches de préférence, on peut baisser à 6 voire 3 manches pour des parties rapides mais où le hasard a plus de place). On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
 
-> On peut aussi déterminer des règles "maison" afin de garder le jeu juste et agréable.
-{.is-info}
 
 
 ## Distribuer les cartes pour la manche
