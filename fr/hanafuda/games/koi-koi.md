@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: Un jeu hanafuda populaire se jouant à deux
 published: true
-date: 2021-03-13T21:24:06.673Z
+date: 2021-03-13T21:25:16.497Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-03-10T16:04:14.557Z
@@ -147,7 +147,7 @@ Par exemple, si vous avez les cinq cartes Lumière, vous obtenez les points pour
 * Si elle est dans la main d'un joueur, elle peut servir à capturer n'importe quelle carte de la rivière. On conserve de côté les deux cartes - la Foudre et la carte capturée - car à la fin de la manche, le joueur ramassera l'ensemble des cartes restées dans la rivière appartenant au mois de la carte capturée par la Foudre. 
 
 ## Mains vides
-Dans tous les cas, une manche s'arrête lorsqu'un joueur déclare “shōbu”. Mais plusieurs variations sont possibles pour la fin de manche lorsqu'un joueur (ou les deux joueurs) n'a plus de cartes. 
+Dans tous les cas, une manche s'arrête lorsqu'un joueur déclare “shōbu”. Mais plusieurs variations sont possibles pour la fin de manche lorsqu'un joueur (ou les deux joueurs) n'a plus de cartes. Deux exemples sont cités ci-dessous :
 
 ### Tous les points sont perdus
 Dans cette variation, lorsque les deux joueurs n'ont plus de cartes, tous les points accumulés jusqu'ici sont perdus, peu importe si un joueur a appelé "koi-koi" ou non. Le donneur pour la manche suivante changera ou restera le même selon la règle utilisée.
