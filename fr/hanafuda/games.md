@@ -2,16 +2,24 @@
 title: Liste des Jeux Hanafuda
 description: Une liste de jeux hanafuda connus, autant traditionnels que modernes
 published: true
-date: 2021-03-04T07:24:30.357Z
+date: 2021-03-14T11:27:50.536Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-01T15:24:54.206Z
 ---
 
-# Jeux Traditionnels
-Ceci est une liste de jeux hanafuda connus, classés par ordre alphabétique et avec des liens vers les jeux pour lesquels nous pouvons fournir des règles (en français ou en anglais en attendant une traduction), ou suffisamment de détails pour justifier leurs propres pages. 
+*Voici une liste de jeux hanafuda connus, classés par ordre alphabétique, accompagnés de liens vers les jeux pour lesquels nous pouvons fournir des règles (en français ou en anglais en attendant une traduction), ou suffisamment de détails pour justifier leurs propres pages.*
 
-Il existe trois grandes familles auxquelles les jeux de hanafuda ont tendance à appartenir. Les jeux de Pêche (ou "Capture"), comme le Koi-Koi et le Hachi-Hachi, dont la principale mécanique de jeu est de jouer des cartes d'une main pour capture une carte de la même suite sur le terrain. Les jeux de Confrontation impliquent que les joueurs comparent leurs mains pour déterminer le gagnant. Ils incluent comme sous-catégorie les jeux de Banque tels que le Oicho-Kabu, dans lesquels chaque joueur est en concurrence avec la banque plutôt que les uns contre les autres, généralement avec  pour intention de mettre de l'argent en jeu. Les jeux de Séquence sont ceux où les joueurs jouent leurs cartes sur le terrain dans un ordre particulier, généralement basé sur un des [arrangements](/en/hanafuda/suits#arrangement-of-suits) de suites traditionnelles, souvent dans le but de vider sa main avec ses adversaires. D'autres familles de jeux sont décrites [ici](https://www.pagat.com/class/#mechanism).
+# Jeux Traditionnels
+
+Il existe trois grandes familles auxquelles les jeux de hanafuda ont tendance à appartenir : 
+* Les jeux de **Pêche** (ou "Capture"), comme le Koi-Koi et le Hachi-Hachi, dont la principale mécanique de jeu est de jouer des cartes d'une main pour capturer une carte de la même suite sur le terrain. 
+* Les jeux de **Confrontation** impliquent que les joueurs comparent leurs mains pour déterminer le gagnant. Ils incluent comme sous-catégorie les jeux de **Banque** tels que le Oicho-Kabu, dans lesquels chaque joueur est en concurrence avec la banque plutôt que les uns contre les autres, généralement avec  pour intention de mettre de l'argent en jeu. 
+* Les jeux de **Séquence** sont ceux où les joueurs jouent leurs cartes sur le terrain dans un ordre particulier, généralement basé sur un des [arrangements](/fr/hanafuda/suits) de suites traditionnelles, souvent dans le but de vider sa main avec ses adversaires. 
+
+> Ces familles s'inscrivent dans le dictionnaire de familles de jeux universel, décrit en anglais [ici, sur le site de Pagat](https://www.pagat.com/class/#mechanism), une bibliothèque de règle.
+{.is-info}
+
 
 ## Jeux Populaires
 Ces jeux sont relativement connus et apparaissent assez fréquemment dans les livres de règles et les jeux vidéo. 
@@ -63,7 +71,7 @@ Ces jeux, bien qu'ils ne soient pas aussi répandus aujourd'hui que ceux énumé
 |Kyo-Kabu|2-10|Banque|Japon|
 |Kyū-Rei Hana|3 par manche, max 7 par partie|Pêche|Région de San'yō, Japon|
 |Matsu-Kiri-Bōzu|2|Pêche|Japon|
-|Min-Hwatu|2-3|Pêche|Corée|
+|[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-3|Pêche|Corée|
 |Nana-Tan|2|Pêche|Japon|
 |Nanbu-Bana|-|Pêche|Nanbu, Japon|
 |Ni-Shi-Roku|3|Pêche|Japon|
@@ -97,7 +105,7 @@ Ces jeux, bien qu'ils ne soient pas aussi répandus aujourd'hui que ceux énumé
 
 
 # Jeux Modernes
-Voici une liste de créations contemporaines à jouer avec un deck de hanafuda. Il est subdivisé par créateur de jeu, qui sont classés par ordre alphabétique de nom de famille lorsqu'ils sont disponibles. 
+*Voici une liste de créations contemporaines à jouer avec un hanafuda, organisée par créateur (classés par ordre alphabétique de nom de famille lorsqu'ils sont disponibles).*
 
 ## CC
 |Jeu|Nombre de joueurs|Famille|
