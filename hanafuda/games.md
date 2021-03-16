@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-03-09T05:47:57.801Z
+date: 2021-03-16T13:44:42.536Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -152,6 +152,10 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |Po-Koi|2-5|Showdown|
 |[Quick Draw!](/newgames/quick_draw_v1.1.pdf)|2|Draw and Discard|
 |[Yatsuhashi (8-Plank Bridge) Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Patience|
+## Sem
+|Game|Players|Family|
+|:---|:---:|---:|
+|[Hanapette](/newgames/hanapette_by_sem_en.pdf)|2|Speed and Sequence|
 ## Sumo-No-Z
 |Game|Players|Family|
 |:---|:---:|---:|
