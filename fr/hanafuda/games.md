@@ -2,7 +2,7 @@
 title: Liste des Jeux Hanafuda
 description: Une liste de jeux hanafuda connus, autant traditionnels que modernes
 published: true
-date: 2021-03-14T11:27:50.536Z
+date: 2021-03-16T13:46:05.031Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-01T15:24:54.206Z
@@ -172,6 +172,11 @@ Ces jeux, bien qu'ils ne soient pas aussi répandus aujourd'hui que ceux énumé
 |Po-Koi|2-5|Confrontation|
 |[Quick Draw!](/newgames/quick_draw_v1.1.pdf)|2|Tirer et Défausser|
 |[Yatsuhashi Solitaire](/newgames/yatsuhashi_solitaire_v1.2.pdf)|1|Patience|
+
+## Sem
+|Jeu|Nombre de joueurs|Famille|
+|:---|:---:|---:|
+|[Hanapette](/newgames/hanapette_by_sem_en.pdf)|2|Vitesse et Séquence|
 
 ## Sumo-No-Z
 |Jeu|Nombre de joueurs|Famille|
