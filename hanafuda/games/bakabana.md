@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-28T21:26:31.703Z
+date: 2021-03-28T21:39:04.578Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -28,6 +28,12 @@ Bakabana (or possibly pronounced bakahana) is a 4-player game attested in the Oi
 |\*|[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 \* The [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card's value is dependent on the card that it is used to capture. If it is paired with another ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, it is merely treated as a Chaff and is worth no points; if used as a wild card, it is worth the same number of points as the card it was paired with.
 # Yaku
+|Value|Name|Composition
+|:---:|:---:|:---:|
+|10|Great Yaku - 大役 [おおやく *ōyaku*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|10|Small Three - 小三個 [こざんこ *kozanko*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|10|Blue Ribbons - 青短冊 [あおたん *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|10|Red Ribbons - 赤短冊 [あかたん *akatan*]|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 # Scoring Example
 # Bibliography
 
