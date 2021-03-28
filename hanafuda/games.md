@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-03-16T13:44:42.536Z
+date: 2021-03-28T08:49:21.387Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -30,6 +30,7 @@ These games, while not as widespread today as those listed above, are variously 
 |:---|:---:|:---:|---:|
 |Akita-Bana|-|Fishing|Akita, Japan|
 |Ayame Katsugi|3|Fishing|Japan|
+|[Bakabana (Foolish Flowers)](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-3|Fishing|Japan|
 |Batta|-|-|Japan|
 |[Batta Maki](/en/hanafuda/games/battamaki), a.k.a. Shoniban or Atosaki|2+|Banking|Japan|
@@ -180,3 +181,4 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
 - Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
 - *Tobaku Ni Kansuru chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696.
+- "Bakabana", https://web.archive.org/web/20040810024856/http://homepage3.nifty.com/noguta/karuta/usuki.html
