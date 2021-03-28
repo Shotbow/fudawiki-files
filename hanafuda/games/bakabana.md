@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-28T22:27:28.277Z
+date: 2021-03-28T22:39:23.589Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -14,6 +14,8 @@ Choose the first dealer as the group sees fit. For subsequent rounds, the role o
 ## The Deal
 After shuffling, the dealer for the round passes 9 cards face-up to the field, 6 cards face-down to themselves and to the two players to their right, and just 3 cards face-down to the final player, who is known as "Kan."
 ## Lucky Hands
+There is only one Lucky Hand in Bakabana, and it can only be earned by Kan.
+If Kan's dealt hand contains three cards of the same suit, they may reveal their hand to halt gameplay and earn 20 points from each other player. The deal is then invalidated, and the same dealer as before shuffles and re-deals the cards.
 # Gameplay
 ## Turns
 ## Wild Card
@@ -32,7 +34,7 @@ After shuffling, the dealer for the round passes 9 cards face-up to the field, 6
 # Yaku
 A player may earn points for any and all of the following yaku whose cards they have captured.
 
-Due to the asymmetrical gameplay, yaku are calculated differently for the last player ("Kan"). For the first three players, all three cards of a given yaku must be captured to earn its points. But because Kan has fewer chances to capture cards, they qualify as completing a yaku if they have obtained two of the three required cards. If Kan has all three cards for a yaku, it counts as two yaku, so 20 points, instead.
+Due to the asymmetrical gameplay, yaku are calculated differently for the last player (Kan). For the first three players, all three cards of a given yaku must be captured to earn its points. But because Kan has fewer chances to capture cards, they qualify as completing a yaku if they have obtained two of the three required cards. If Kan has all three cards for a yaku, it counts as two yaku, so 20 points, instead.
 |Value|Name|Composition
 |:---:|:---:|:---:|
 |10|Great Yaku - 大役 [おおやく *ōyaku*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
