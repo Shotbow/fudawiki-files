@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-28T21:39:04.578Z
+date: 2021-03-28T21:49:51.815Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -28,6 +28,7 @@ Bakabana (or possibly pronounced bakahana) is a 4-player game attested in the Oi
 |\*|[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 \* The [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card's value is dependent on the card that it is used to capture. If it is paired with another ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow, it is merely treated as a Chaff and is worth no points; if used as a wild card, it is worth the same number of points as the card it was paired with.
 # Yaku
+Due to the asymmetrical gameplay, yaku are calculated differently for the last player ("Kan"). All other players 
 |Value|Name|Composition
 |:---:|:---:|:---:|
 |10|Great Yaku - 大役 [おおやく *ōyaku*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
