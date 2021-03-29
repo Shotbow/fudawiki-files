@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-29T15:23:01.520Z
+date: 2021-03-29T15:41:00.929Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -26,7 +26,11 @@ On your turn, choose one card from your hand to play to the field. If it matches
 
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. Captured cards are public knowledge and should be clearly organized by card type.
 ## Wild Card
+If a player's hand contains the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card, they may use it as a "Wild Card" to pair with and capture any card on the field. Note that if there is a stack of three cards on the field, the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning may only be used to take one of them, not all three.
 
+If the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning card is dealt to the field, however, it functions merely as the Chaff of [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and must be captured with another card of the same suit.
+### Kan's Lightning
+The ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning is the only card that Kan may play during the main six rounds of a hand. They may choose to do so at any point in the game, but it must be after the second child's turn, when Kan would normally have a turn if not for the asymmetric gameplay. 
 ## End of Round
 ### Dandruff
 # Card Values
