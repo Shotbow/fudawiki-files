@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-29T15:06:10.924Z
+date: 2021-03-29T15:23:01.520Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -13,12 +13,20 @@ Bakabana (or possibly pronounced bakahana) is a 4-player game attested in the Oi
 Choose the first dealer as the group sees fit. For subsequent rounds, the role of dealer passes counterclockwise.
 ## The Deal
 After shuffling, the dealer (referred to as *oya*, "parent" in Japanese)  for the round passes 9 cards face-up to the field, 6 cards face-down to themselves and to the two players to their right (known as the two "children"), and just 3 cards face-down to the final player, who is known as "Kan."
+
+If 3 cards of any given suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
 ## Lucky Hands
 There is only one Lucky Hand in Bakabana, and it can only be earned by Kan.
+
 If Kan's dealt hand contains three cards of the same suit, they may reveal their hand to halt gameplay and earn 20 points from each other player. The deal is then thrown in, and the same dealer as before shuffles and re-deals the cards.
 # Gameplay
+As in most fishing games played with hanafuda, players take turns in counterclockwise order, beginning with the dealer. However, the player in the Kan position merely watches the action and does not participate, with one notable exception which will be discussed under the "Wild Card" heading.
 ## Turns
+On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches three cards on the field, all four will be captured. If your played card does not have any matches on the field, it will simply become a field card.
+
+After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. Captured cards are public knowledge and should be clearly organized by card type.
 ## Wild Card
+
 ## End of Round
 ### Dandruff
 # Card Values
