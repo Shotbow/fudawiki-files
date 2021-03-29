@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-28T22:39:23.589Z
+date: 2021-03-29T15:06:10.924Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -12,10 +12,10 @@ Bakabana (or possibly pronounced bakahana) is a 4-player game attested in the Oi
 # Setup
 Choose the first dealer as the group sees fit. For subsequent rounds, the role of dealer passes counterclockwise.
 ## The Deal
-After shuffling, the dealer for the round passes 9 cards face-up to the field, 6 cards face-down to themselves and to the two players to their right, and just 3 cards face-down to the final player, who is known as "Kan."
+After shuffling, the dealer (referred to as *oya*, "parent" in Japanese)  for the round passes 9 cards face-up to the field, 6 cards face-down to themselves and to the two players to their right (known as the two "children"), and just 3 cards face-down to the final player, who is known as "Kan."
 ## Lucky Hands
 There is only one Lucky Hand in Bakabana, and it can only be earned by Kan.
-If Kan's dealt hand contains three cards of the same suit, they may reveal their hand to halt gameplay and earn 20 points from each other player. The deal is then invalidated, and the same dealer as before shuffles and re-deals the cards.
+If Kan's dealt hand contains three cards of the same suit, they may reveal their hand to halt gameplay and earn 20 points from each other player. The deal is then thrown in, and the same dealer as before shuffles and re-deals the cards.
 # Gameplay
 ## Turns
 ## Wild Card
