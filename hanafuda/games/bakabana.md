@@ -2,13 +2,13 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-29T15:41:00.929Z
+date: 2021-03-30T07:08:42.628Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
 ---
 
-Bakabana (or possibly pronounced bakahana) is a 4-player game attested in the Oita Prefecture of Japan. Its basic gameplay is similar to that of other [Hana Awase](/en/hanafuda/games/hana-awase) type games, but it uses unique point values for the cards, and most notably features a different play style for one of the participants each round.
+**Bakabana** (or possibly pronounced bakahana) is a 4-player game attested in the Oita Prefecture of Japan. Its basic gameplay is similar to that of other [Hana Awase](/en/hanafuda/games/hana-awase) type games, but it uses unique point values for the cards, and most notably features a different play style for one of the participants each round.
 # Setup
 Choose the first dealer as the group sees fit. For subsequent rounds, the role of dealer passes counterclockwise.
 ## The Deal
