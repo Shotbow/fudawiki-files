@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T22:04:25.748Z
+date: 2021-04-08T22:06:14.843Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -131,12 +131,12 @@ Les Dekiyaku sont les combinaisons possibles pendant le tour avec les cartes cap
 |6|Double Huit|50|Losqu'un joueur a 168 points ou plus à la fin de la manche.|-|
 |7|Quatre Lumières|50|Quatre cartes Lumière, celle de Novembre exclue|[![La Grue](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#la-grue)[![Le Rideau](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/fr/hanafuda/suits/cherry-blossom#le-rideau-de-campement)[![Lune](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#la-lune)[![Le Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/fr/hanafuda/suits/paulownia#le-phoenix)|
 |8|Cinq Lumières|75|Les Cinq cartes Lumière|[![La Grue](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#la-grue)[![Le Rideau](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/fr/hanafuda/suits/cherry-blossom#le-rideau-de-campement)[![Lune](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#la-lune)[![L'Homme au Parapluie](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/fr/hanafuda/suits/willow#lhomme-au-parapluie)[![Le Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/fr/hanafuda/suits/paulownia#le-phoenix)|
-|9|16 Cartes Normales|50|-|-|
-|10|17 Cartes Normales|60|-|-|
-|11|18 Cartes Normales|75|-|-|
-|12|19 Cartes Normales|100|-|-|
+|9|16 Cartes Normales*|50|-|-|
+|10|17 Cartes Normales*|60|-|-|
+|11|18 Cartes Normales*|75|-|-|
+|12|19 Cartes Normales*|100|-|-|
 
-> Dans les Dekiyaku 9, 10, 11 et 12, toutes les cartes de Novembres sont considérées comme des cartes Normales. Cela ne s'applique pas à leur valeur de points dans les paiements en fin de main. 
+> *Dans les Dekiyaku 9, 10, 11 et 12, toutes les cartes de Novembre sont considérées comme des cartes Normales. Cela ne s'applique pas à leur valeur de points dans les paiements en fin de main. 
 {.is-warning}
 
 # Ressources externes
