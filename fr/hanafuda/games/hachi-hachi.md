@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T19:14:19.200Z
+date: 2021-04-08T19:36:02.064Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -96,6 +96,12 @@ Un jeu entier est composé de 12 tours. Traditionnellement, une pierre est plac�
 
 # Teyaku
 Les Teyaku sont les combinaisons possibles avant le tour avec la main de départ reçue. 
+
+Si plusieurs Teyaku sont possible, alors ne compte que celui qui vaut le plus de points. 
+
+> Par exemple, si on peut faire un *Triplé* et un *Haneken*, alors il n'y aura que le *Haneken* qui compte. 
+{.is-info}
+
 
 Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes à mettre devant soi sont à reprendre en main après les avoir montrées aux adversaires, afin de prouver le Teyaku. 
 
