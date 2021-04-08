@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T17:43:31.431Z
+date: 2021-04-08T18:10:41.528Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -76,7 +76,7 @@ Cependant, si vous avez déclaré "Sage!" et qu'un Dekiyaku est formé par un au
 ## Calcul des paiements en fin de mains
 Lorsque toutes les cartes en main sont jouées et qu'aucun Dekiyaku n'est formé, chaque joueur compte ses points en fonction de ses cartes capturées, puis soustrait ce score de 88 points pour obtenir le score de paiement. 
 
-Les valeurs des cartes sont déterminées selon le tableau suivant. La valeur totale des cartes dans le deck est de 264. Les cartes de ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) Novembre correspondent à leur valeur du tableau, contrairement aux Tekiyaku et Dekiyaku.  
+Les valeurs des cartes sont déterminées selon le tableau suivant. La valeur totale des cartes dans le deck est de 264. Les cartes de ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) Novembre correspondent à leur valeur du tableau, contrairement aux Teyaku et Dekiyaku.  
 |Type de cartes|Valeur|Nombre en jeu|
 |:---:|:---:|:---:|
 |Lumières|20|5|
