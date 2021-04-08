@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-04-08T20:37:53.106Z
+date: 2021-04-08T20:39:57.937Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -39,6 +39,8 @@ In Bakabana, the scores for each round will total to zero, making it easily suit
 Each player totals their card points, rounded up to the nearest whole number, and the non-Kan players exchange points based on their differences in scores. Kan is not subject to this comparison, and merely earns their captured card points from the other players.
 
 Then, yaku points are calculated, and are taken from each of one's opponents; for this purpose, Kan is subject to the same calculations as the other players.
+
+See the sections below for details on card points and yaku values.
 
 ### Dandruff
 In the event that a player has only captured 2 or fewer card points (or 0 points for Kan), the round is invalidated, and normal scoring calculation does not occur. Instead, this low-scoring player earns 10 points from each other player, and the next round is played without changing dealers. This is referred to in Japanese as ふけ *fuke*, literally "dandruff".
