@@ -2,13 +2,13 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T22:09:41.876Z
+date: 2021-04-08T22:10:13.814Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
 ---
 
-Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains - Teyaku - et des combinaisons de capture - [Dekiyaku](/fr/hanafuda/games/hachi-hachi#Dekiyaku). Il fait partie des jeux de hanafuda les plus joués au Japon avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
+Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains - Teyaku - et des combinaisons de capture - [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Il fait partie des jeux de hanafuda les plus joués au Japon avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
 
 > Ce jeu, étant ancien et très populaire, il connaît beaucoup de variantes et de règles maison possibles. Les règles présentées ici sont un exemple répandu. 
 {.is-warning}
