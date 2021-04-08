@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-08T23:48:06.180Z
+date: 2021-04-08T23:52:10.800Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -22,5 +22,9 @@ Two cards are considered a match in the game of Hachi if the numeric value of th
 |E|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)
 
 # Card Values
+|Point Value|Type of Card|Number in Deck|
+|:---:|:---:|:---:|
+|1|Ribbons|10|
+|10|All Other Cards|38|
 # Yaku
 # Bibliography
