@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-04-08T20:23:57.454Z
+date: 2021-04-08T20:31:56.268Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -47,10 +47,13 @@ The Dealer scored 13 card points, Child 1 scored 6, Child 2 scored 7, and Kan sc
 
 Therefore, the Dealer takes 7 points from Child 1 and 6 points from Child 2. Child 1 has given 7 points to the Dealer as just described, and gives 1 point to Child 2. Child 2 has at this point given 6 points to the Dealer and 1 point to Child 1. Kan then takes 2 points from each of the other 3 players. 
 
-In total, the Dealer's final score for the round is 7+6-2=**(+11)**; Child 1's is -7-1-2=**(-10)**; Child 2's is -6+1-2=**(-7)**; and finally, Kan's score is 2+2+2=**(+6)**.
+In total, the **Dealer**'s final score for the round is 7+6-2=**(+11)**; **Child 1**'s is -7-1-2=**(-10)**; **Child 2**'s is -6+1-2=**(-7)**; and finally, **Kan**'s score is 2+2+2=**(+6)**.
 ### Scoring Example 2
 The Dealer scored 10 card points, Child 1 scored 9, Child 2 scored 6, and Kan scored 3. Child 2 also earned the Blue Ribbons yaku.
 
+Therefore, the Dealer takes 1 point from Child 1 and 4 points from Child 2. Child 1 has given 1 point to the Dealer and also takes 3 points from Child 2. Child 2 has thus given 4 points to the Dealer and 3 to Child 1. Kan then takes 3 points from each other player. For their yaku, Child 2 also takes an additional 10 points from each player, including Kan.
+
+In total, the **Dealer**'s score for the round is 1+4-3-10=**(-8)**; **Child 1**'s is -1+3-3-10=**(-11)**; **Child 2**'s is -4-3-3+30=**(+20)**; and **Kan**'s score is 3+3+3-10=**(-1)**.
 
 # Card Values
 |Value|Cards|
