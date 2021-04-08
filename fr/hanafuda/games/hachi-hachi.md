@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T21:47:50.784Z
+date: 2021-04-08T22:04:25.748Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -123,14 +123,14 @@ Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes 
 Les Dekiyaku sont les combinaisons possibles pendant le tour avec les cartes capturées. 
 |Numéro|Nom|Valeur|Description|Cartes|
 |:---:|:---:|:---:|:---:|:---:|
-|1|Rubans avec Poème|35|Les trois rubans avec Poème||
-|2|Rubans bleus|35|Les trois rubans bleus||
-|3|Sanglier, Cerf, Papillons|35|-||
-|4|Sept Rubans|50|Les 7 cartes rubans, celui de Novembre exclu||
+|1|Rubans avec Poème|35|Les **trois** rubans avec Poème|[![Ruban Pin](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#le-ruban-avec-po%C3%A9sie)[![Ruban Abricotier](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/fr/hanafuda/suits/plum-blossom#le-ruban-avec-po%C3%A9sie)[![Ruban Cerisier](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/fr/hanafuda/suits/cherry-blossom#le-ruban-avec-po%C3%A9sie)|
+|2|Rubans bleus|35|Les **trois** rubans bleus|[![Ruban Pivoine](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/fr/hanafuda/suits/peony#le-ruban-bleu)[![Ruban Chrysanthème](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/fr/hanafuda/suits/chrysanthemum#le-ruban-bleu)[![Ruban Érable](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/fr/hanafuda/suits/maple#le-ruban-bleu)|
+|3|Sanglier, Cerf, Papillons|35|-|[![Le Sanglier](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/fr/hanafuda/suits/bush-clover#le-sanglier)[![Le Cerf](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/fr/hanafuda/suits/maple#le-cerf)[![Les Papillons](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/fr/hanafuda/suits/peony#les-papillons)|
+|4|Sept Rubans|50|**Sept** cartes rubans, celui de Novembre exclu|[![Ruban Pin](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#le-ruban-avec-po%C3%A9sie)[![Ruban Abricotier](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/fr/hanafuda/suits/plum-blossom#le-ruban-avec-po%C3%A9sie)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)[![Ruban Iris](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/fr/hanafuda/suits/iris#le-ruban)[![Ruban Pivoine](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/fr/hanafuda/suits/peony#le-ruban-bleu)[![Ruban Léspédéza](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/fr/hanafuda/suits/bush-clover#le-ruban)[![Ruban Érable](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/fr/hanafuda/suits/maple#le-ruban-bleu)|
 |5|Tous à Huit|50|Si tous les joueurs ont 88 points à la fin de la manche, le donneur reçoit 50 points de chacun des deux autres joueurs.|-|
 |6|Double Huit|50|Losqu'un joueur a 168 points ou plus à la fin de la manche.|-|
-|7|Quatre Lumières|50|Quatre cartes Lumière, celle de Novembre exclue||
-|8|Cinq Lumières|75|Les Cinq cartes Lumière||
+|7|Quatre Lumières|50|Quatre cartes Lumière, celle de Novembre exclue|[![La Grue](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#la-grue)[![Le Rideau](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/fr/hanafuda/suits/cherry-blossom#le-rideau-de-campement)[![Lune](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#la-lune)[![Le Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/fr/hanafuda/suits/paulownia#le-phoenix)|
+|8|Cinq Lumières|75|Les Cinq cartes Lumière|[![La Grue](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#la-grue)[![Le Rideau](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/fr/hanafuda/suits/cherry-blossom#le-rideau-de-campement)[![Lune](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#la-lune)[![L'Homme au Parapluie](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/fr/hanafuda/suits/willow#lhomme-au-parapluie)[![Le Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/fr/hanafuda/suits/paulownia#le-phoenix)|
 |9|16 Cartes Normales|50|-|-|
 |10|17 Cartes Normales|60|-|-|
 |11|18 Cartes Normales|75|-|-|
