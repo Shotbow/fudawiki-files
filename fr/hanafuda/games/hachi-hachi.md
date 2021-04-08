@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T17:15:28.336Z
+date: 2021-04-08T17:26:47.420Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -99,7 +99,7 @@ Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes 
 # Teyaku
 |Numéro|Nom|Valeur|Description|Cartes|
 |:---:|:---:|:---:|:---:|:---:|
-|1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.||
+|1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.|[![Petit Coucou](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-petit-coucou)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)|
 |2|Triplé Spécial|15|Triplé d'Avril, Mai ou Juillet, ou les trois cartes Normales de Décembre. Placez le triplé devant vous face visible.||
 |3|Rouge|15|Deux carte Ruban ou plus, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
 |4|Ruban Solitaire|20|Un Ruban, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
