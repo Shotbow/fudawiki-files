@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T18:10:41.528Z
+date: 2021-04-08T18:14:12.285Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -101,8 +101,8 @@ Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes 
 
 |Numéro|Nom|Valeur|Description|Cartes|
 |:---:|:---:|:---:|:---:|:---:|
-|1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.|[![Petit Coucou](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-petit-coucou)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)[![Normale Glycine](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)|
-|2|Triplé Spécial|15|Triplé d'Avril, Mai ou Juillet, ou les trois cartes Normales de Décembre. Placez le triplé devant vous face visible.||
+|1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.|[![Lune](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#la-lune)[![Oies](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-oies)[![Normale Eulalie](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)|
+|2|Triplé Spécial|15|Triplé d'Avril, Mai ou Juillet, ou les trois cartes Normales de Décembre. Placez le triplé devant vous face visible.|[![Petit Coucou](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-petit-coucou)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)[![Normale Glycine](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)|
 |3|Rouge|15|Deux carte Ruban ou plus, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
 |4|Ruban Solitaire|20|Un Ruban, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
 |5|Animal Solitaire|20|Une carte Animal/Objet, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
