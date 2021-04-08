@@ -2,17 +2,17 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-03-30T07:08:42.628Z
+date: 2021-04-08T20:23:57.454Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
 ---
 
-**Bakabana** (or possibly pronounced bakahana) is a 4-player game attested in the Oita Prefecture of Japan. Its basic gameplay is similar to that of other [Hana Awase](/en/hanafuda/games/hana-awase) type games, but it uses unique point values for the cards, and most notably features a different play style for one of the participants each round.
+**Bakabana** (or possibly pronounced bakahana) is a 4-player game attested in the Oita Prefecture of Japan. Its basic gameplay is similar to that of other [Hana Awase](/en/hanafuda/games/hana-awase) type games, but it uses unique point values for the cards, and most notably features a different play style for a rotating participant each round.
 # Setup
 Choose the first dealer as the group sees fit. For subsequent rounds, the role of dealer passes counterclockwise.
 ## The Deal
-After shuffling, the dealer (referred to as *oya*, "parent" in Japanese)  for the round passes 9 cards face-up to the field, 6 cards face-down to themselves and to the two players to their right (known as the two "children"), and just 3 cards face-down to the final player, who is known as "Kan."
+After shuffling, the dealer (referred to as *oya*, "parent" in Japanese) for the round passes 9 cards face-up to the field, 6 cards face-down to themselves and to the two players to their right (known as the two "children"), and just 3 cards face-down to the final player, who is known as "Kan."
 
 If 3 cards of any given suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
 ## Lucky Hands
@@ -30,9 +30,28 @@ If a player's hand contains the [![Icon for month 11](/hanafuda/icons/monthicon_
 
 If the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning card is dealt to the field, however, it functions merely as the Chaff of [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and must be captured with another card of the same suit.
 ### Kan's Lightning
-The ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning is the only card that Kan may play during the main six rounds of a hand. They may choose to do so at any point in the game, but it must be after the second child's turn, when Kan would normally have a turn if not for the asymmetric gameplay. 
+The ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning is the only card that Kan may play during the main six rounds of a hand. They may choose to do so at any point in the game, but it must be after the second Child's turn, when Kan would normally have a turn if not for the asymmetric gameplay. 
 ## End of Round
+Once the Dealer and both Children have exhausted their hands, a few cards should be left on the field. These are then automatically captured by Kan, along with any cards in Kan's hand.
+
+In Bakabana, the scores for each round will total to zero, making it easily suitable for playing for money or chips. Note that Kan's score is calculated differently from that of the other 3 players. 
+
+Each player totals their card points, rounded up to the nearest whole number, and the non-Kan players exchange points based on their differences in scores. Kan is not subject to this comparison, and merely earns their captured card points from the other players.
+
+Then, yaku points are calculated, and are taken from each of one's opponents; for this purpose, Kan is subject to the same calculations as the other players.
+
 ### Dandruff
+
+### Scoring Example 1
+The Dealer scored 13 card points, Child 1 scored 6, Child 2 scored 7, and Kan scored 2. No player achieved a yaku. 
+
+Therefore, the Dealer takes 7 points from Child 1 and 6 points from Child 2. Child 1 has given 7 points to the Dealer as just described, and gives 1 point to Child 2. Child 2 has at this point given 6 points to the Dealer and 1 point to Child 1. Kan then takes 2 points from each of the other 3 players. 
+
+In total, the Dealer's final score for the round is 7+6-2=**(+11)**; Child 1's is -7-1-2=**(-10)**; Child 2's is -6+1-2=**(-7)**; and finally, Kan's score is 2+2+2=**(+6)**.
+### Scoring Example 2
+The Dealer scored 10 card points, Child 1 scored 9, Child 2 scored 6, and Kan scored 3. Child 2 also earned the Blue Ribbons yaku.
+
+
 # Card Values
 |Value|Cards|
 |:---:|:---:|
@@ -53,6 +72,5 @@ Due to the asymmetrical gameplay, yaku are calculated differently for the last p
 |10|Small Three - 小三個 [こざんこ *kozanko*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |10|Blue Ribbons - 青短冊 [あおたん *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |10|Red Ribbons - 赤短冊 [あかたん *akatan*]|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
-# Scoring Example
 # Bibliography
 
