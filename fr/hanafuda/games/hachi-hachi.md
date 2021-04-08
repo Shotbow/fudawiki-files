@@ -2,20 +2,20 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T22:10:13.814Z
+date: 2021-04-08T22:23:27.856Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
 ---
 
-Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains - Teyaku - et des combinaisons de capture - [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Il fait partie des jeux de hanafuda les plus joués au Japon avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
+Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains - [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku) - et des combinaisons de capture - [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Il fait partie des jeux de hanafuda les plus joués au Japon avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
 
 > Ce jeu, étant ancien et très populaire, il connaît beaucoup de variantes et de règles maison possibles. Les règles présentées ici sont un exemple répandu. 
 {.is-warning}
 
 # Installation
 ## Nombre de joueurs
-Seulement trois joueurs sont autorisés à participer à une manche. Si l'on joue avec plus de 3 personnes, le nombre de participants sera réduit à 3 par "abandon". Après avoir distribué les mains, tous les joueurs choisissent de rejoindre ou d'abandonner la manche, en fonction de la qualité de la main reçue ou s'ils ont une combinaison de main appelée Teyaku. 
+Seulement trois joueurs sont autorisés à participer à une manche. Si l'on joue avec plus de 3 personnes, le nombre de participants sera réduit à 3 par "abandon". Après avoir distribué les mains, tous les joueurs choisissent de rejoindre ou d'abandonner la manche, en fonction de la qualité de la main reçue ou s'ils ont une combinaison de main appelée [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku). 
 
 ## Les cartes utilisées
 Toutes les cartes d'un deck de hanafuda sont utilisées. Généralement, pour des sessions plus rapides et plus fluides, on peut utiliser deux decks pendant le jeu (noir et rouge) en alternance à chaque manche. 
@@ -24,33 +24,33 @@ Toutes les cartes d'un deck de hanafuda sont utilisées. Généralement, pour de
 {.is-info}
 
 ## Choix du donneur
-N'importe quelle méthode peut être utilisée pour choisir le donneur, donc le premier joueur à distribuer et jouer. Au hachi-hachi, une méthode traditionnelle est que chaque joueur tire un dé, et celui qui tire le plus au score est le donneur. S'il y a égalité, on réitère entre les concernés jusqu'à ce qu'il y ait un gagnant. 
+N'importe quelle méthode peut être utilisée pour choisir le donneur, donc le premier joueur à distribuer et jouer. Au Hachi-Hachi, une méthode traditionnelle est que chaque joueur tire un dé, et celui qui tire le plus au score est le donneur. S'il y a égalité, on réitère entre les concernés jusqu'à ce qu'il y ait un gagnant. 
 
 ## Distribuer les cartes pour la manche
 ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png#float-right =400x)
 Le donneur distribue 7 cartes face cachée à chaque joueur et 6 cartes sur le terrain face visible. Le reste du jeu constituera la pioche et est placé face cachée à côté du terrain. 
 
 ## Phase de choix des joueurs
-Lorsqu'il y a plus de 3 participants, chaque joueur - en partant du donneur dans le sens inverse des aiguilles d'une montre -, regarde les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon. Le gagnant de la manche prend tous les frais d'abandon sur la table. 
+Lorsqu'il y a plus de 3 participants, chaque joueur - en partant du donneur dans le sens inverse des aiguilles d'une montre -, évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon. Le gagnant de la manche prend tous les frais d'abandon sur la table. 
 
 > S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. 
 {.is-warning}
 
-## Multiplicateurs
-S'il y a au moins une carte Lumière face visible sur le terrain dès le début de la manche, il y aura un multiplicateur dans les paiements des scores de la manche. Ce multiplicateur est appliqué à tous les calculs de points tels que les frais d'abandon, les paiemements de Teyaku, les paiements de Dekiyaku, et le paiement des scores de fin de mains. 
+## Multiplicateur
+S'il y a au moins une carte **Lumière** face visible sur le terrain dès le début de la manche, il y aura un multiplicateur dans les paiements des scores de la manche. Ce multiplicateur est appliqué à tous les calculs de points tels que les frais d'abandon, les paiemements de Teyaku, les paiements de Dekiyaku, et le paiement des scores de fin de mains. 
 
 Les multiplicateurs sont désignés par 3 types de terrains différents:
-- **Petit terrain**: lorsqu'il n'y a pas de carte Lumière sur le terrain. Le multiplicateur est à **x1** (donc aucun multiplicateur). 
+- **Petit terrain**: lorsqu'il n'y a pas de carte Lumière sur le terrain. Le multiplicateur est **x1** (donc aucun multiplicateur). 
 - **Grand terrain**: lorsqu'il y a une ![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x) [Grue](/fr/hanafuda/suits/pine#la-grue), un ![Icon for month 3](/hanafuda/icons/monthicon_3.png =25x) [Rideau](/fr/hanafuda/suits/cherry-blossom#le-rideau-de-campement) ou une ![Icon for month 8](/hanafuda/icons/monthicon_8.png =25x) [Lune](/fr/hanafuda/suits/susuki-grass#la-lune) sur le terrain. Le multiplicateur est **x2**. 
 > Si deux ou trois des cartes citées ci-dessus apparaissent sur le terrain en même temps au début de la manche, la manche suivante sera aussi un grand terrain. 
 {.is-warning}
 - **Terrain supérieur**: lorsqu'il y a un ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) ou un ![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x) [Phoenix](/fr/hanafuda/suits/paulownia#le-phoenix) sur le terrain. Le multiplicateur est **x4**. 
-> Si ces deux apparaissent sur le terrain en même temps au début de la manche, la manche suivante sera aussi un terrain supérieur. 
+> Si ces deux cartes apparaissent sur le terrain en même temps au début de la manche, la manche suivante sera aussi un terrain supérieur. 
 {.is-warning}
 
 # Jouer
 ## Combinaisons des mains de départ
-Une fois que les participants de la manche sont sélectionnés et que le type de terrain est décidé, les joueurs qui ont une combinaison dans leur main, Teyaku, la déclare en exposant les cartes nécessaires. Après quoi, le joueur reçoit des points par les deux autres joueurs en fonction de son Teyaku. 
+Une fois que les participants de la manche sont sélectionnés et que le type de terrain est décidé, les joueurs qui ont une combinaison dans leur main, [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku), la déclare en exposant les cartes nécessaires. Après quoi, le joueur reçoit des points par les deux autres joueurs en fonction de son Teyaku. 
 
 ## Tour
 
@@ -66,12 +66,12 @@ Après avoir joué une carte de sa main et fait une capture si possible, on pioc
 
 Enfin, on récupère toutes les cartes capturées et on les place face visible devant soi, ce sera notre score. Il est plus facile de trier les cartes par types et valeur pour bien voir ce qui a déjà été capturé. 
 
-On peut essayer de former une combinaison de capture, appelée Dekiyaku. Si un joueur forme un Dekiyaku, la manche se termine et ce joueur reçoit des points par les 2 autres joueurs en fonction de la valeur du Dekiyaku. Si aucun des joueurs ne forme un Dekiyaku, le jeu continue jusqu'à ce que tous les joueurs soient à court de cartes dans leur main, puis le score de leurs cartes capturées est compté. 
+On peut essayer de former une combinaison de capture, [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Si un joueur forme un Dekiyaku, la manche se termine et ce joueur reçoit des points par les 2 autres joueurs en fonction de la valeur du Dekiyaku. Si aucun des joueurs ne forme un Dekiyaku, le jeu continue jusqu'à ce que tous les joueurs soient à court de cartes dans leur main, puis le score de leurs cartes capturées est compté. 
 
 ## Sage
-Vous pouvez terminer le tour si vous avez formé un Dekiyaku pendant la manche, mais si vous pensez pouvoir former un autre Dekiyaku, vous pouvez continuer la manche en déclarant "Sage!" (sah-geh) - après avoir été payé pour le premier Dekiyaku. Lorsque vous formez un Dekiyaku supplémentaire, le processus recommence et vous serez également payé pour ce Dekiyaku. 
+Vous pouvez terminer le tour si vous avez formé un [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) pendant la manche, mais si vous pensez pouvoir former un autre Dekiyaku, vous pouvez continuer la manche en déclarant "Sage!" *(sa-gué)* - après avoir été payé pour le premier Dekiyaku. Lorsque vous formez un Dekiyaku supplémentaire, le processus recommence et vous serez également payé pour ce Dekiyaku. 
 
-Cependant, si vous avez déclaré "Sage!" et qu'un Dekiyaku est formé par un autre joueur avant que vous ayez pu former un Dekiyaku supplémentaire, vous devez rembourser la moitié de la valeur du premier Dekiyaku aux 2 joueurs, puis vous seul devez payer le double de la valeur totale du deuxième Dekiyaku au joueur qui l'a formé - c'est-à-dire que vous devez assumer le paiement de l'autre joueur pour le deuxième Dekiyaku. Il faut donc être très prudent lorsque l'on déclare "Sage!". 
+Cependant, si vous avez déclaré "Sage!" et qu'un Dekiyaku est formé par un autre joueur avant que vous ayez pu former un Dekiyaku supplémentaire, vous devez rembourser la **moitié** de la valeur du premier Dekiyaku aux 2 autres joueurs, puis vous seul devez payer le double de la valeur totale du deuxième Dekiyaku au joueur qui l'a formé - c'est-à-dire que vous devez assumer le paiement de l'autre joueur pour le deuxième Dekiyaku. Il faut donc être très prudent lorsque l'on déclare "Sage!". 
 
 ## Calcul des paiements en fin de mains
 Lorsque toutes les cartes en main sont jouées et qu'aucun Dekiyaku n'est formé, chaque joueur compte ses points en fonction de ses cartes capturées, puis soustrait ce score de 88 points pour obtenir le score de paiement. 
@@ -86,6 +86,8 @@ Les valeurs des cartes sont déterminées selon le tableau suivant. La valeur to
 
 - S'il y a un seul joueur qui a un score de paiement négatif, il doit payer aux deux autres joueurs un montant égal à leurs scores positifs. 
 - S'il y a deux joueurs qui ont un score de paiement négatif, ils doivent payer au gagnant un montant égal à leurs score négatifs respectifs. 
+
+Le [multiplicateur](/fr/hanafuda/games/hachi-hachi#multiplicateur) entre en jeu lorsque les paiements doivent avoir lieu. 
 
 > En d'autres termes, le joueur avec un score de paiement positif remporte ce score de paiement, et le joueur avec un score de paiement négatif perd ce score de paiement. 
 {.is-info}
