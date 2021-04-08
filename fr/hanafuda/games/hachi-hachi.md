@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T22:23:27.856Z
+date: 2021-04-08T22:31:52.549Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -87,14 +87,14 @@ Les valeurs des cartes sont déterminées selon le tableau suivant. La valeur to
 - S'il y a un seul joueur qui a un score de paiement négatif, il doit payer aux deux autres joueurs un montant égal à leurs scores positifs. 
 - S'il y a deux joueurs qui ont un score de paiement négatif, ils doivent payer au gagnant un montant égal à leurs score négatifs respectifs. 
 
-Le [multiplicateur](/fr/hanafuda/games/hachi-hachi#multiplicateur) entre en jeu lorsque les paiements doivent avoir lieu. 
-
 > En d'autres termes, le joueur avec un score de paiement positif remporte ce score de paiement, et le joueur avec un score de paiement négatif perd ce score de paiement. 
 {.is-info}
 
+Le [multiplicateur](/fr/hanafuda/games/hachi-hachi#multiplicateur) entre en jeu lorsque les paiements doivent avoir lieu. 
+
 
 ## Fin du jeu
-Un jeu entier est composé de 12 tours. Traditionnellement, une pierre est placée après chaque tour sur la table comme preuve du nombre de tours joués. N'importe quelle autre méthode peut être utilisée. De plus, le gagnant de la manche devient le donneur de la manche suivante. 
+Un jeu entier est composé de 12 manches. Traditionnellement, une pierre est placée après chaque tour sur la table comme preuve du nombre de tours joués. N'importe quelle autre méthode peut être utilisée. De plus, le gagnant de la manche devient le donneur de la manche suivante. 
 
 # Teyaku
 Les Teyaku sont les combinaisons possibles avant le tour avec la main de départ reçue. 
