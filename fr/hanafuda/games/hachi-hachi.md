@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T16:10:34.610Z
+date: 2021-04-08T16:31:06.938Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -33,19 +33,35 @@ Le donneur distribue 7 cartes face cachée à chaque joueur et 6 cartes sur le t
 ## Phase de choix des joueurs
 Lorsqu'il y a plus de 3 participants, chaque joueur - en partant du donneur dans le sens inverse des aiguilles d'une montre -, regarde les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon. Le gagnant de la manche prend tous les frais d'abandon sur la table. 
 
-> 
+> S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. 
 {.is-warning}
+
+## Multiplicateurs
+S'il y a au moins une carte Lumière face visible sur le terrain dès le début de la manche, il y aura un multiplicateur dans les paiements des scores de la manche. Ce multiplicateur est appliqué à tous les calculs de points tels que les frais d'abandon, les paiemements de Teyaku, les paiements de Dekiyaku, et le paiement des scores de fin de mains. 
+
+Les multiplicateurs sont désignés par 3 types de terrains différents:
+- **Petit terrain**: lorsqu'il n'y a pas de carte Lumière sur le terrain. Le multiplicateur est à **x1** (donc aucun multiplicateur). 
+- **Grand terrain**: lorsqu'il y a une ![Icon for month 1](/hanafuda/icons/monthicon_1.png =25x) [Grue](/fr/hanafuda/suits/pine#la-grue), un ![Icon for month 3](/hanafuda/icons/monthicon_3.png =25x) [Rideau](/fr/hanafuda/suits/cherry-blossom#le-rideau-de-campement) ou une ![Icon for month 8](/hanafuda/icons/monthicon_8.png =25x) [Lune](/fr/hanafuda/suits/susuki-grass#la-lune) sur le terrain. Le multiplicateur est **x2**. 
+> Si deux ou trois des cartes citées ci-dessus apparaissent sur le terrain en même temps au début de la manche, la manche suivante sera aussi un grand terrain. 
+{.is-warning}
+- **Terrain supérieur**: lorsqu'il y a un ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) ou un ![Icon for month 12](/hanafuda/icons/monthicon_12.png =25x) [Phoenix](/fr/hanafuda/suits/paulownia#le-phoenix) sur le terrain. Le multiplicateur est **x4**. 
+> Si ces deux apparaissent sur le terrain en même temps au début de la manche, la manche suivante sera aussi un terrain supérieur. 
+{.is-warning}
+
+# Jouer
+
+
+# Card Values
+|Type de cartes|Valeur|Nombre en jeu|
+|:---:|:---:|:---:|
+|Lumières|20|5|
+|Animaux/Objets|10|9|
+|Rubans|5|10|
+|Cartes Normales|1|24|
+La valeur totale des cartes dans le deck est de 264.
 
 
 # Teyaku
-# Card Values
-|Card Type|Value|Number in Deck|
-|:---:|:---:|:---:|
-|Bright|20|5|
-|Animal|10|9|
-|Ribbon|5|10|
-|Chaff|1|24|
-The total value of cards in the deck is 264.
 
 # Dekiyaku
 
