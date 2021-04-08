@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T19:36:02.064Z
+date: 2021-04-08T21:20:54.095Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -109,7 +109,7 @@ Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes 
 |:---:|:---:|:---:|:---:|:---:|
 |1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.|[![Lune](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#la-lune)[![Oies](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-oies)[![Normale Eulalie](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)|
 |2|Triplé Spécial|15|Triplé d'Avril, Mai ou Juillet, ou les trois cartes Normales de Décembre. Placez le triplé devant vous face visible.|[![Petit Coucou](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-petit-coucou)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)[![Normale Glycine](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)|
-|3|Rouge|15|Deux carte Ruban ou plus, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
+|3|Rouge|15|Deux carte Ruban ou plus, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.|[![Ruban Juillet](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/fr/hanafuda/suits/bush-clover#le-ruban)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)[![Ruban Cerisier](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/fr/hanafuda/suits/cherry-blossom#le-ruban-avec-po%C3%A9sie)[![Normale Glycine](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)[![Normale Eulalie](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/fr/hanafuda/suits/susuki-grass#les-cartes-normales)[![Normale Octobre](/sheldonchen-cards/102.svg#hanafuda-card =50x)](/fr/hanafuda/suits/Maple#les-cartes-normales)[![Normale Pin](/sheldonchen-cards/12.svg#hanafuda-card =50x)](/fr/hanafuda/suits/pine#les-cartes-normales)|
 |4|Ruban Solitaire|20|Un Ruban, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
 |5|Animal Solitaire|20|Une carte Animal/Objet, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
 |6|Lumière Solitaire|20|Une carte Lumière (Homme au Parapluie exclu), le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
