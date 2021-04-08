@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-04-08T21:03:59.471Z
+date: 2021-04-08T21:17:20.857Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -41,6 +41,8 @@ In Bakabana, the scores for each round will total to zero, making it easily suit
 Each player totals their card points, rounded up to the nearest whole number, and the non-Kan players exchange points based on their differences in scores. Kan is not subject to this comparison, and merely earns their captured card points from the other players.
 
 Then, yaku points are calculated, and are taken from each of one's opponents; for this purpose, Kan is subject to the same calculations as the other players.
+
+Once scoring is complete, the cards are thrown in and shuffled, and the player to the right of the current Dealer becomes Dealer for the next round.
 
 See the sections below for details on card points and yaku values.
 
