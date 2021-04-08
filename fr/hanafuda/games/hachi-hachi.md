@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T17:27:55.468Z
+date: 2021-04-08T17:34:47.039Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -94,9 +94,11 @@ Les valeurs des cartes sont déterminées selon le tableau suivant. La valeur to
 ## Fin du jeu
 Un jeu entier est composé de 12 tours. Traditionnellement, une pierre est placée après chaque tour sur la table comme preuve du nombre de tours joués. N'importe quelle autre méthode peut être utilisée. De plus, le gagnant de la manche devient le donneur de la manche suivante. 
 
+# Teyaku
+Les Teyaku sont les combinaisons possibles avant le tour avec la main de départ reçue. 
+
 Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes à mettre devant soi sont à reprendre en main après les avoir montrées aux adversaires, afin de prouver le Teyaku. 
 
-# Teyaku
 |Numéro|Nom|Valeur|Description|Cartes|
 |:---:|:---:|:---:|:---:|:---:|
 |1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.|[![Petit Coucou](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-petit-coucou)[![Ruban Glycine](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#le-ruban)[![Normale Glycine](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/fr/hanafuda/suits/wisteria#les-cartes-normales)|
