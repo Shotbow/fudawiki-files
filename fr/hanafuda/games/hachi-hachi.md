@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T22:31:52.549Z
+date: 2021-04-08T22:38:25.867Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -18,7 +18,7 @@ Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", es
 Seulement trois joueurs sont autorisés à participer à une manche. Si l'on joue avec plus de 3 personnes, le nombre de participants sera réduit à 3 par "abandon". Après avoir distribué les mains, tous les joueurs choisissent de rejoindre ou d'abandonner la manche, en fonction de la qualité de la main reçue ou s'ils ont une combinaison de main appelée [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku). 
 
 ## Les cartes utilisées
-Toutes les cartes d'un deck de hanafuda sont utilisées. Généralement, pour des sessions plus rapides et plus fluides, on peut utiliser deux decks pendant le jeu (noir et rouge) en alternance à chaque manche. 
+Toutes les 48 cartes d'un deck de hanafuda sont utilisées. Généralement, pour des sessions plus rapides et plus fluides, on peut utiliser deux decks pendant le jeu (noir et rouge) en alternance à chaque manche. 
 
 > Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
 {.is-info}
