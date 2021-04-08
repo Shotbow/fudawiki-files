@@ -2,13 +2,13 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T16:31:06.938Z
+date: 2021-04-08T17:15:28.336Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
 ---
 
-Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains et des combinaisons de capture. Il fait partie des jeux de hanafuda les plus joués au Japon avec le Koi-Koi, mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
+Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains et des combinaisons de capture. Il fait partie des jeux de hanafuda les plus joués au Japon avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
 
 > Ce jeu, étant ancien et très populaire, il connaît beaucoup de variantes et de règles maison possibles. Les règles présentées ici sont un exemple répandu. 
 {.is-warning}
@@ -49,19 +49,68 @@ Les multiplicateurs sont désignés par 3 types de terrains différents:
 {.is-warning}
 
 # Jouer
+## Combinaisons des mains de départ
+Une fois que les participants de la manche sont sélectionnés et que le type de terrain est décidé, les joueurs qui ont une combinaison dans leur main, Teyaku, la déclare en exposant les cartes nécessaires. Après quoi, le joueur reçoit des points par les deux autres joueurs en fonction de son Teyaku. 
 
+## Tour
 
-# Card Values
+Après les paiements des Teyaku, le jeu se déroule à partir du donneur dans le sens antihoraire. À votre tour, choisissez une carte de votre main à jouer sur la table. 
+* Si cette carte correspond à la suite d'**une** carte sur le terrain de jeu, on la place sur celle-ci, pour indiquer que c'est celle-ci qu'on capturera. 
+* Si on peut capturer **deux** cartes du terrain, il faut choisir laquelle on capture avec notre carte. 
+* Si on peut capturer **trois** cartes du terrain, on capturera alors ces quatres cartes (en comptant celle qui venait de notre main). 
+* Si aucune carte ne correspond, alors elle devient une carte du terrain et ne capture aucune carte.
+
+Après avoir joué une carte de sa main et fait une capture si possible, on pioche une carte et on essaye de capturer comme précédemment une carte du champ de jeu. 
+> On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le terrain si aucune carte n'est capturable.
+{.is-warning}
+
+Enfin, on récupère toutes les cartes capturées et on les place face visible devant soi, ce sera notre score. Il est plus facile de trier les cartes par types et valeur pour bien voir ce qui a déjà été capturé. 
+
+On peut essayer de former une combinaison de capture, appelée Dekiyaku. Si un joueur forme un Dekiyaku, la manche se termine et ce joueur reçoit des points par les 2 autres joueurs en fonction de la valeur du Dekiyaku. Si aucun des joueurs ne forme un Dekiyaku, le jeu continue jusqu'à ce que tous les joueurs soient à court de cartes dans leur main, puis le score de leurs cartes capturées est compté. 
+
+## Sage
+Vous pouvez terminer le tour si vous avez formé un Dekiyaku pendant la manche, mais si vous pensez pouvoir former un autre Dekiyaku, vous pouvez continuer la manche en déclarant "Sage!" (sah-geh) - après avoir été payé pour le premier Dekiyaku. Lorsque vous formez un Dekiyaku supplémentaire, le processus recommence et vous serez également payé pour ce Dekiyaku. 
+
+Cependant, si vous avez déclaré "Sage!" et qu'un Dekiyaku est formé par un autre joueur avant que vous ayez pu former un Dekiyaku supplémentaire, vous devez rembourser la moitié de la valeur du premier Dekiyaku aux 2 joueurs, puis vous seul devez payer le double de la valeur totale du deuxième Dekiyaku au joueur qui l'a formé - c'est-à-dire que vous devez assumer le paiement de l'autre joueur pour le deuxième Dekiyaku. Il faut donc être très prudent lorsque l'on déclare "Sage!". 
+
+## Calcul des paiements en fin de mains
+Lorsque toutes les cartes en main sont jouées et qu'aucun Dekiyaku n'est formé, chaque joueur compte ses points en fonction de ses cartes capturées, puis soustrait ce score de 88 points pour obtenir le score de paiement. 
+
+Les valeurs des cartes sont déterminées selon le tableau suivant. La valeur totale des cartes dans le deck est de 264. Les cartes de ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) Novembre correspondent à leur valeur du tableau, contrairement aux Tekiyaku et Dekiyaku.  
 |Type de cartes|Valeur|Nombre en jeu|
 |:---:|:---:|:---:|
 |Lumières|20|5|
 |Animaux/Objets|10|9|
 |Rubans|5|10|
 |Cartes Normales|1|24|
-La valeur totale des cartes dans le deck est de 264.
 
+- S'il y a un seul joueur qui a un score de paiement négatif, il doit payer aux deux autres joueurs un montant égal à leurs scores positifs. 
+- S'il y a deux joueurs qui ont un score de paiement négatif, ils doivent payer au gagnant un montant égal à leurs score négatifs respectifs. 
+
+> En d'autres termes, le joueur avec un score de paiement positif remporte ce score de paiement, et le joueur avec un score de paiement négatif perd ce score de paiement. 
+{.is-info}
+
+
+## Fin du jeu
+Un jeu entier est composé de 12 tours. Traditionnellement, une pierre est placée après chaque tour sur la table comme preuve du nombre de tours joués. N'importe quelle autre méthode peut être utilisée. De plus, le gagnant de la manche devient le donneur de la manche suivante. 
+
+Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes à mettre devant soi sont à reprendre en main après les avoir montrées aux adversaires, afin de prouver le Teyaku. 
 
 # Teyaku
+|Numéro|Nom|Valeur|Description|Cartes|
+|:---:|:---:|:---:|:---:|:---:|
+|1|Triplé|10|Trois cartes du même mois. Placez les trois cartes concernées devant vous face visible.||
+|2|Triplé Spécial|15|Triplé d'Avril, Mai ou Juillet, ou les trois cartes Normales de Décembre. Placez le triplé devant vous face visible.||
+|3|Rouge|15|Deux carte Ruban ou plus, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
+|4|Ruban Solitaire|20|Un Ruban, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
+|5|Animal Solitaire|20|Une carte Animal/Objet, le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
+|6|Lumière Solitaire|20|Une carte Lumière (Homme au Parapluie exclu), le reste sont des cartes Normales. Placez les cartes Normales devant vous face visible.||
+|7|Triple Paire|20|Trois paires correspondantes. Placez les trois paires devant vous face visible.||
+|8|Nid Vide|25|Sept cartes Normales (les cartes de Novembre comptent ici comme des cartes Normales).||
+|9|Quadruple|30|Quatre cartes du même mois. Placez les quatre cartes devant vous face visible.||
+|10|Haneken|30|Un brelan et deux paires correspondantes. Placez toutes vos cartes devant vous face visible.||
+|11|Un-Deux-Quatre|35|Une carte seule, une paire et un quadruple. Placez toutes vos cartes devant vous face visible.||
+|12|Quatre-Trois|50|Un quadruple et un brelan. Placez toutes vos cartes devant vous face visible.||
 
 # Dekiyaku
 
