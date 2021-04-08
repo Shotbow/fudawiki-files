@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T17:34:47.039Z
+date: 2021-04-08T17:43:31.431Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -115,6 +115,24 @@ Les cartes présentées dans ce tableau sont là à titre d'exemple. Les cartes 
 |12|Quatre-Trois|50|Un quadruple et un brelan. Placez toutes vos cartes devant vous face visible.||
 
 # Dekiyaku
+Les Dekiyaku sont les combinaisons possibles pendant le tour avec les cartes capturées. 
+|Numéro|Nom|Valeur|Description|Cartes|
+|:---:|:---:|:---:|:---:|:---:|
+|1|Rubans avec Poème|35|Les trois rubans avec Poème||
+|2|Rubans bleus|35|Les trois rubans bleus||
+|3|Sanglier, Cerf, Papillons|35|-||
+|4|Sept Rubans|50|Les 7 cartes rubans, celui de Novembre exclu||
+|5|Tous à Huit|50|Si tous les joueurs ont 88 points à la fin de la manche, le donneur reçoit 50 points de chacun des deux autres joueurs.|-|
+|6|Double Huit|50|Losqu'un joueur a 168 points ou plus à la fin de la manche.|-|
+|7|Quatre Lumières|50|Quatre cartes Lumière, celle de Novembre exclue||
+|8|Cinq Lumières|75|Les Cinq cartes Lumière||
+|9|16 Cartes Normales|50|-||
+|10|17 Cartes Normales|60|-||
+|11|18 Cartes Normales|75|-||
+|12|19 Cartes Normales|100|-||
+
+> Dans les Dekiyaku 9, 10, 11 et 12, toutes les cartes de Novembres sont considérées comme des cartes Normales. Cela ne s'applique pas à leur valeur de points dans les paiements en fin de main. 
+{.is-warning}
 
 # Ressources externes
 > ["Nintendo Hachihachi leaflet but it's in English](https://www.reddit.com/r/Hanafuda/comments/mjbhd3/nintendo_hachihachi_leaflet_but_its_in_english/?utm_source=share&utm_medium=web2x&context=3), manuel des règles du jeu par Nintendo, traduit en anglais par suryong. 
