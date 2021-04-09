@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-08T23:53:45.212Z
+date: 2021-04-09T21:03:02.519Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -27,4 +27,28 @@ Two cards are considered a match in the game of Hachi if the numeric value of th
 |1|Ribbons|10|
 |10|All Other Cards|38|
 # Yaku
+There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone yaku with no partner.
+|Point Value|Name of Yaku|Composition|
+|:---:|:---:|:---:|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 # Bibliography
