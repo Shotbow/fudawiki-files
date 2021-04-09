@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T21:03:02.519Z
+date: 2021-04-09T21:17:14.209Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -30,25 +30,25 @@ Two cards are considered a match in the game of Hachi if the numeric value of th
 There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone yaku with no partner.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|10|Mist Island - 霧島||
+|20|Mist Island Ribbons - 短の霧島||
+|10|Elder - 御老中||
+|20|Elder Ribbons - 短の御老中||
+|10|Five Four Six - 五四六||
+|20|Five Four Six Ribbons - 短の五四六||
+|10|Seven Five Three - 七五三||
+|20|Seven Five Three Ribbons - 短の七五三||
+|10|Kumano Shrines - 熊野サン||
+|20|Kumano Shrines' Ribbons - 短の熊野サン||
+|10|Eight Islands - 八島||
+|20|Eight Islands' Ribbons - 短の八島||
+|10|Nakazō - 仲蔵||
+|20|Nakazō Ribbons 短の仲蔵||
+|10|One Two Three - 一二三||
+|20|One Two Three Ribbons - 短の一二三||
+|10|Den - デン||
+|20|Den Ribbons - 短のデン||
+|10|Three Five Six - 三五六||
+|20|Three Five Six Ribbons - 短の三五六||
+|20|Ten Seven Eight [Ribbons] - 十七八||
 # Bibliography
