@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T22:40:30.298Z
+date: 2021-04-09T22:40:36.935Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -26,8 +26,6 @@ Each round, the dealer is the first to play.
 On your turn, choose one card from your hand to play to the field. If it matches another card on the field according to the Capture Chart below, overlap the two cards indicating that you will capture them. If your card has multiple potential matches, you must select only one of them to pair it with. If your played card does not have any matches on the field, it will simply become a field card.
 
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match according to the Capture Chart if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. Captured cards are public knowledge, and should be arranged in such a way that both players can see them. It then becomes the next player's turn.
-
-
 
 ## Capture Chart
 Two cards are considered a match in Hachi if the numeric value of their suits add up to a number whose last digit is 3 or 8, according to the [standard ordering of suits](/en/hanafuda/suits#arrangement-of-suits). In practice, this means that cards marked as Group A in the table below capture cards in Group B, and vice versa; cards in Group C capture those in Group E, and vice versa. Group D cards capture other Group D cards.
