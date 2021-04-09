@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T21:49:12.046Z
+date: 2021-04-09T22:07:26.908Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -10,9 +10,12 @@ dateCreated: 2021-04-08T23:17:59.824Z
 
 **Hachi** [八, はち *hachi*, lit. "Eight"] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for two players loosely based on [Hana Awase](/en/hanafuda/games/hana-awase), but with several unique characteristics, most notably its capture mechanic. In it, cards do not generally capture within their own [suit](/en/hanafuda/suits) as in other games of the genre, but rather may capture from a specific set of suits. Based on the similarity between their yaku inventories, it is likely related to the game [Kekoro](/en/hanafuda/games/kekoro).
 # Setup
-Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Players may also wish at this time to set the duration of the game, whether it be to a number of rounds, points, or victories.
+Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Players may also wish at this time to set the duration of the game, whether it be to a number of rounds, points, or victories. A common option is for the first player to win two consecutive rounds by a margin of 20 points or more to win the overall game.
 ## Choosing the Dealer
 Choose the initial dealer as seen fit; a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
+
+In subsequent games, the winner of the previous round becomes the new dealer.
+## Distributing the Cards
 > ![6field7hand_setup.png](/hanafuda/6field7hand_setup.png =500x) {.is-success}
 
 # Gameplay
@@ -57,3 +60,4 @@ There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and no
 |20|Three Five Six Ribbons - 短の三五六|[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
 |20|Ten Seven Eight [Ribbons] - 十七八|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
 # Bibliography
+- Johnson, Jason, and Antonietta Fazio-Johnson. "Hachi", *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. pp. 108-111.
