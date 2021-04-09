@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T22:09:56.311Z
+date: 2021-04-09T22:16:55.601Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -16,10 +16,13 @@ Choose the initial dealer as seen fit; a typical method in hanafuda games is to 
 
 In subsequent games, the winner of the previous round becomes the new dealer.
 ## Distributing the Cards
+At the beginning of each round, the dealer shuffles the deck and distributes 6 cards face-up to the field and 7 cards face-down to each player. These face-down cards become the players' hands; the remaining cards in the deck become the draw pile for the round and should be set face-down next to the field.
 > ![6field7hand_setup.png](/hanafuda/6field7hand_setup.png =500x) {.is-success}
 
+Note that unlike in related games, nothing special happens if 3 or 4 cards of the same suit are dealt to the field. Likewise, there are no "lucky hands" in Hachi.
 # Gameplay
-# Capture Chart
+
+## Capture Chart
 Two cards are considered a match in the game of Hachi if the numeric value of their suits add up to a number whose last digit is 3 or 8, according to the [standard ordering of suits](/en/hanafuda/suits#arrangement-of-suits). In practice, this means that cards marked as Group A in the table below capture cards in Group B, and vice versa; cards in Group C capture those in Group E, and vice versa. Group D cards capture other Group D cards.
 |Group|Given Suit|Possible Captures|
 |:---:|:---:|:---:|
