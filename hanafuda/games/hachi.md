@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T22:16:55.601Z
+date: 2021-04-09T22:17:17.617Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -23,7 +23,7 @@ Note that unlike in related games, nothing special happens if 3 or 4 cards of th
 # Gameplay
 
 ## Capture Chart
-Two cards are considered a match in the game of Hachi if the numeric value of their suits add up to a number whose last digit is 3 or 8, according to the [standard ordering of suits](/en/hanafuda/suits#arrangement-of-suits). In practice, this means that cards marked as Group A in the table below capture cards in Group B, and vice versa; cards in Group C capture those in Group E, and vice versa. Group D cards capture other Group D cards.
+Two cards are considered a match in Hachi if the numeric value of their suits add up to a number whose last digit is 3 or 8, according to the [standard ordering of suits](/en/hanafuda/suits#arrangement-of-suits). In practice, this means that cards marked as Group A in the table below capture cards in Group B, and vice versa; cards in Group C capture those in Group E, and vice versa. Group D cards capture other Group D cards.
 |Group|Given Suit|Possible Captures|
 |:---:|:---:|:---:|
 |A|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|
