@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T21:32:45.619Z
+date: 2021-04-09T21:40:06.356Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -27,7 +27,7 @@ Two cards are considered a match in the game of Hachi if the numeric value of th
 |1|Ribbons|10|
 |10|All Other Cards|38|
 # Yaku
-There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone yaku with no partner.
+There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone yaku with no partner. Note that the [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese) and [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Colored Paulownia chaff](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) stand in for Ribbons in the yaku in which they appear, despite their individual point values being higher than proper Ribbons.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |10|Mist Island - 霧島|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
