@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T22:07:26.908Z
+date: 2021-04-09T22:09:56.311Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -60,4 +60,5 @@ There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and no
 |20|Three Five Six Ribbons - 短の三五六|[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
 |20|Ten Seven Eight [Ribbons] - 十七八|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
 # Bibliography
-- Johnson, Jason, and Antonietta Fazio-Johnson. "Hachi", *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. pp. 108-111.
+- Johnson, Jason, and Antonietta Fazio-Johnson. "Hachi." *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. pp. 108-111.
+- Shiragiku. "Hachi." *Marguerite,* https://www.marguerite.jp/Nihongo/Games/しらぎく花札/はち.html .
