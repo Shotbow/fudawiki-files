@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-09T21:31:18.803Z
+date: 2021-04-09T21:32:45.619Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -48,7 +48,7 @@ There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and no
 |20|One Two Three Ribbons - 短の一二三|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |10|Den - デン|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |20|Den Ribbons - 短のデン|[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|
-|10|Three Five Six - 三五六||
-|20|Three Five Six Ribbons - 短の三五六||
-|20|Ten Seven Eight [Ribbons] - 十七八||
+|10|Three Five Six - 三五六|[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
+|20|Three Five Six Ribbons - 短の三五六|[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
+|20|Ten Seven Eight [Ribbons] - 十七八|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
 # Bibliography
