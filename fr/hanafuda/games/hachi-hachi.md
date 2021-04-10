@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T10:12:28.827Z
+date: 2021-04-10T10:18:26.707Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -77,10 +77,16 @@ Enfin, on récupère toutes les cartes capturées et on les place face visible d
 
 On peut essayer de former une **combinaison de capture**, ou [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Si un joueur forme un *Dekiyaku*, la manche se termine et ce joueur reçoit des points par les 2 autres joueurs en fonction de la valeur du *Dekiyaku*. Si aucun des joueurs ne forme un Dekiyaku, le jeu continue jusqu'à ce que tous les joueurs soient à court de cartes dans leur main, puis le score de leurs cartes capturées est compté. 
 
-## Déclarer "*Sage*"
-Vous pouvez terminer le tour si vous avez formé un [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) pendant la manche, mais si vous pensez pouvoir former un autre Dekiyaku, vous pouvez continuer la manche en déclarant "Sage!" *(sa-gué)* - après avoir été payé pour le premier Dekiyaku. Lorsque vous formez un Dekiyaku supplémentaire, le processus recommence et vous serez également payé pour ce Dekiyaku. 
+## Déclarer "*Sage!*"
+*Vous pouvez terminer le tour si vous avez formé un [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) pendant la manche*. 
 
-Cependant, si vous avez déclaré "Sage!" et qu'un Dekiyaku est formé par un autre joueur avant que vous ayez pu former un Dekiyaku supplémentaire, vous devez rembourser la **moitié** de la valeur du premier Dekiyaku aux 2 autres joueurs, puis vous seul devez payer le double de la valeur totale du deuxième Dekiyaku au joueur qui l'a formé - c'est-à-dire que vous devez assumer le paiement de l'autre joueur pour le deuxième Dekiyaku. Il faut donc être très prudent lorsque l'on déclare "Sage!". 
+**Cependant, si vous pensez pouvoir former un autre *Dekiyaku*, vous pouvez continuer la manche** en déclarant "Sage!" *(prononcer sa-gué)* —après avoir été payé pour le premier *Dekiyaku*. Lorsque vous formez un *Dekiyaku* supplémentaire, le processus recommencera et vous serez également payé pour ce *Dekiyaku*. 
+
+**Mais attention : si vous avez déclaré "Sage!" et qu'un *Dekiyaku* est formé par un autre joueur avant que vous ayez pu former un *Dekiyaku* supplémentaire,** vous devrez :
+* rembourser la *moitié* de la valeur du premier *Dekiyaku* aux 2 autres joueurs
+* puis payer le double de la valeur totale du deuxième *Dekiyaku* au joueur qui l'a formé, c'est-à-dire assumer le paiement de l'autre joueur pour le deuxième *Dekiyaku*. 
+
+Il faut donc être très prudent lorsque l'on déclare "Sage!". 
 
 ## Calcul des paiements en fin de mains
 Lorsque toutes les cartes en main sont jouées et qu'aucun Dekiyaku n'est formé, chaque joueur compte ses points en fonction de ses cartes capturées, puis soustrait ce score de 88 points pour obtenir le score de paiement. 
