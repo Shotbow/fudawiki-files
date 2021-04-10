@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T11:20:04.475Z
+date: 2021-04-10T12:07:31.995Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -161,6 +161,23 @@ Les *Dekiyaku* sont les combinaisons possibles pendant le tour avec les cartes c
 
 > Dans les Dekiyaku 9, 10, 11 et 12, soit *16, 17, 18 et 19 cartes Normales*, **toutes les cartes de ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) Novembre sont considérées comme des cartes Normales.** Cela ne s'applique pas à leur valeur de points dans les paiements en fin de main. 
 {.is-warning}
+
+# Exemple de manche et calcul des points
+Leonardo, Raphael, Donatello et Michelangelo – dans cet ordre - commencent une manche de Hachi-Hachi. Les cartes sont distribuées sur le terrain, et la carte Lumière l’Homme au Parapluie est présent. Le multiplicateur est donc `×4`.
+
+Raphael décide de ne pas jouer la manche. Il doit donc laisser sur la table `10×4 = 40` points. Il remet ses cartes dans la pioche et la mélange à nouveau. 
+
+Donatello a un Teyaku, un Triplé, qui vaut `10` points. Leonardo et Michelangelo lui doivent alors `10×4 = 40` points chacun. Donatello reçoit donc `80` points au total. Michelangelo annonce lui aussi avoir un Triplé, les deux autres lui doivent donc la même somme. 
+
+La manche se passe sans qu’aucun Dekiyaku n’ait pu être fait. Les joueurs doivent donc compter leur score selon les valeurs des cartes individuelles capturées. 
+
+- Leonardo a 2 Lumières, 2 Animaux/Objets, 2 Rubans et 6 Normales. Son score est donc de `2×20 + 2×10 + 2×5 + 6 = 76`. En soustrayant par 88, il a `76 – 88 = (-12)` points. 
+- Donatello a 2 Lumières, 3 Animaux/Objets, 3 Rubans et 10 Normales. Son score est donc de `2×20 + 3×10 + 3×5 + 10 = 95`. En soustrayant par 88, il a `95 – 88 = 7` points. 
+- Michelangelo a 1 Lumière, 4 Animaux/Objets, 5 Rubans et 8 Normales. Son score est donc de `1×20 + 4×10 + 5×5 + 8 = 93`. En soustrayant par 88, il a `93 – 88 = 5` points. 
+
+Leonardo étant le seul joueur dans les négatifs, il doit aux 2 autres joueurs leur score positif en comptant le multiplicateur. Il doit donc `7×4 = 28` points à Donatello et `5×4 = 20` points à Michelangelo.
+
+De plus, Donatello ayant remporté le plus de points, c’est lui qui gagne la manche. Il deviendra le donneur pour la manche suivante et récupère les 40 points sur la table laissés par Raphael. 
 
 # Ressources externes
 > ["Nintendo Hachihachi leaflet but it's in English](https://www.reddit.com/r/Hanafuda/comments/mjbhd3/nintendo_hachihachi_leaflet_but_its_in_english/?utm_source=share&utm_medium=web2x&context=3), manuel des règles du jeu par Nintendo, traduit en anglais par suryong. 
