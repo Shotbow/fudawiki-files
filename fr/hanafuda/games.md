@@ -2,7 +2,7 @@
 title: Liste des Jeux Hanafuda
 description: Une liste de jeux hanafuda connus, autant traditionnels que modernes
 published: true
-date: 2021-03-16T13:46:05.031Z
+date: 2021-04-10T09:36:47.460Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-01T15:24:54.206Z
@@ -27,7 +27,7 @@ Ces jeux sont relativement connus et apparaissent assez fréquemment dans les li
 |Jeu|Nombre de joueurs|Famille|Origine|
 |:---|:---:|:---:|---:|
 |[Go-Stop, alias. Godori](/en/hanafuda/games/go-stop)|2-3 par manche, max 7 par partie|Pêche|Corée|
-|[Hachi-Hachi, alias. Yokohama-Bana](/en/hanafuda/games/hachi-hachi)|2-3 par manche, max 7 par partie|Pêche|Yokohama, Japon|
+|[Hachi-Hachi, alias. Yokohama-Bana](/fr/hanafuda/games/hachi-hachi)|2-3 par manche, max 7 par partie|Pêche|Yokohama, Japon|
 |[Hana-Awase](/en/hanafuda/games/hana-awase)|2-4|Pêche|Japon|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|généralement 2|Pêche|(Contesté)|
 |[Mushi, alias. Ochi](/fr/hanafuda/games/mushi)|2 par manche, max 4 par partie|Pêche|Osaka, Japon|
