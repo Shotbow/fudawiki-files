@@ -2,23 +2,27 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-08T22:38:25.867Z
+date: 2021-04-10T10:03:36.596Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
 ---
 
-Le Hachi-Hachi [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement compliqué (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois des combinaisons de mains - [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku) - et des combinaisons de capture - [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Il fait partie des jeux de hanafuda les plus joués au Japon avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), mais jouit d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi sont disponibles, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de deck standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
+Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement plutôt complexe (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois : 
+* des combinaisons de mains : [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku) 
+* des combinaisons de capture : [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) 
+
+Étant l'un des jeux hanafuda les plus joués au Japon, avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), il jouit pourtant d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi existent, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de paquet de cartes standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
 
 > Ce jeu, étant ancien et très populaire, il connaît beaucoup de variantes et de règles maison possibles. Les règles présentées ici sont un exemple répandu. 
 {.is-warning}
 
 # Installation
 ## Nombre de joueurs
-Seulement trois joueurs sont autorisés à participer à une manche. Si l'on joue avec plus de 3 personnes, le nombre de participants sera réduit à 3 par "abandon". Après avoir distribué les mains, tous les joueurs choisissent de rejoindre ou d'abandonner la manche, en fonction de la qualité de la main reçue ou s'ils ont une combinaison de main appelée [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku). 
+**Seulement trois joueurs sont autorisés à participer à une manche.** Si l'on joue avec plus de 3 personnes, le nombre de participants sera réduit à 3 par "abandon". Après avoir distribué les mains, tous les joueurs choisissent de rejoindre ou d'abandonner la manche, en fonction de la qualité de la main reçue ou s'ils ont une combinaison de main appelée [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku). 
 
 ## Les cartes utilisées
-Toutes les 48 cartes d'un deck de hanafuda sont utilisées. Généralement, pour des sessions plus rapides et plus fluides, on peut utiliser deux decks pendant le jeu (noir et rouge) en alternance à chaque manche. 
+Toutes les 48 cartes d'un jeu de cartes hanafuda sont utilisées. Généralement, pour des sessions plus rapides et plus fluides, on peut utiliser deux decks pendant le jeu (noir et rouge) en alternance à chaque manche, comme au poker. 
 
 > Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
 {.is-info}
