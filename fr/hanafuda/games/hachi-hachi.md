@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T10:03:36.596Z
+date: 2021-04-10T10:06:55.346Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -31,17 +31,21 @@ Toutes les 48 cartes d'un jeu de cartes hanafuda sont utilisées. Généralement
 N'importe quelle méthode peut être utilisée pour choisir le donneur, donc le premier joueur à distribuer et jouer. Au Hachi-Hachi, une méthode traditionnelle est que chaque joueur tire un dé, et celui qui tire le plus au score est le donneur. S'il y a égalité, on réitère entre les concernés jusqu'à ce qu'il y ait un gagnant. 
 
 ## Distribuer les cartes pour la manche
-![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png#float-right =400x)
-Le donneur distribue 7 cartes face cachée à chaque joueur et 6 cartes sur le terrain face visible. Le reste du jeu constituera la pioche et est placé face cachée à côté du terrain. 
+
+Le donneur distribue **7 cartes face cachée à chaque joueur** et **6 cartes sur le terrain** face visible. Le reste du jeu constituera la pioche et est placé face cachée à côté du terrain. 
+
+> ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
+{.is-success}
+
 
 ## Phase de choix des joueurs
-Lorsqu'il y a plus de 3 participants, chaque joueur - en partant du donneur dans le sens inverse des aiguilles d'une montre -, évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon. Le gagnant de la manche prend tous les frais d'abandon sur la table. 
+**Lorsqu'il y a plus de 3 participants**, chaque joueur—en partant du donneur dans le sens inverse des aiguilles d'une montre—évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon (ou plus si multiplicateur, voir section suivante). Le gagnant de la manche prendra tous les frais d'abandon sur la table. 
 
 > S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. 
 {.is-warning}
 
 ## Multiplicateur
-S'il y a au moins une carte **Lumière** face visible sur le terrain dès le début de la manche, il y aura un multiplicateur dans les paiements des scores de la manche. Ce multiplicateur est appliqué à tous les calculs de points tels que les frais d'abandon, les paiemements de Teyaku, les paiements de Dekiyaku, et le paiement des scores de fin de mains. 
+S'il y a au moins une carte **Lumière** face visible sur le terrain dès le début de la manche, il y aura un multiplicateur dans les paiements des scores de la manche. Ce multiplicateur est appliqué à *tous les calculs de points* tels que les frais d'abandon, les paiemements de Teyaku, les paiements de Dekiyaku, et le paiement des scores de fin de mains. 
 
 Les multiplicateurs sont désignés par 3 types de terrains différents:
 - **Petit terrain**: lorsqu'il n'y a pas de carte Lumière sur le terrain. Le multiplicateur est **x1** (donc aucun multiplicateur). 
