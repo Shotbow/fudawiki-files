@@ -2,13 +2,13 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T15:38:36.975Z
+date: 2021-04-10T17:32:05.335Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
 ---
 
-Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 à 6 joueurs - il est recommandé à 4 ou 5 max. Il dispose d'un système de notation et de paiement plutôt complexe (ce qui le rend adapté notamment aux jeux d'argent en espèces). Il contient notamment : 
+Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour **3 à 6 joueurs**—mais nous recommandons de s'arrêter à 4 ou 5 joueurs maximum. Il dispose d'un système de notation et de paiement plutôt complexe (ce qui le rend adapté notamment aux jeux d'argent en espèces). Il contient notamment : 
 * des combinaisons de mains : [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku) 
 * des combinaisons de capture : [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) 
 
@@ -31,21 +31,20 @@ N'importe quelle méthode peut être utilisée pour choisir le donneur, donc le 
 
 ## Distribuer les cartes pour la manche
 
-Le donneur distribue **7 cartes face cachée à chaque joueur** et **6 cartes sur le terrain** face visible. Le reste du jeu constituera la pioche et est placé face cachée à côté du terrain. 
+Le donneur distribue **7 cartes face cachée à chaque joueur** et **6 cartes sur le terrain** face visible. Le reste du jeu constituera la pioche et est placé face cachée à côté du terrain. S'il y a plus de 3 joueurs, la distribution se fait de la même manière, 7 cartes à chaque joueur et 6 sur le terrain. 
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
-
-S'il y a plus de 3 joueurs, la distribution se fait de la même manière, 7 cartes à chaque joueurs et 6 sur le terrain. 
 
 
 ## Phase de choix des joueurs
 **Lorsqu'il y a plus de 3 participants**, chaque joueur—*en partant du donneur dans le sens inverse des aiguilles d'une montre* ↺ —évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon (ou plus si multiplicateur, voir section suivante). Le gagnant de la manche prendra tous les frais d'abandon sur la table. 
 
+Les joueurs qui ne participent pas à la manche remettent leurs cartes dans la pioche, qui doit être mélangée à nouveau.
+
 > S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. 
 {.is-warning}
 
-Les joueurs qui ne participent pas à la manche remettent leurs cartes dans la pioche, qui doit être mélangée à nouveau. 
 
 ## Multiplicateur
 S'il y a au moins une carte **Lumière** face visible sur le terrain dès le début de la manche, il y aura un multiplicateur dans les paiements des scores de la manche. Ce multiplicateur est appliqué à *tous les calculs de points* tels que les frais d'abandon, les paiemements de Teyaku, les paiements de Dekiyaku, et le paiement des scores de fin de mains. 
@@ -122,7 +121,7 @@ Un jeu entier est composé de 12 manches. Traditionnellement, une pierre est pla
 # Teyaku
 Les *Teyaku* sont les combinaisons possibles avant le tour avec la main de départ reçue. Les cartes à mettre devant soi sont à reprendre en main après les avoir montrées aux adversaires, afin de prouver le *Teyaku*.  
 
-> Si plusieurs *Teyaku* sont possible, alors **on ne compte que celui qui vaut le plus de points**, comme les annonces à la belote. Par exemple, si on peut faire un *Triplé* et un *Haneken*, alors il n'y aura que le *Haneken* qui compte. 
+> Si plusieurs *Teyaku* sont possible, alors **on ne compte que celui qui vaut le plus de points**, comme les annonces à la belote. Par exemple, si on peut faire un *Triplé* et un *Haneken*, alors il n'y aura que le *Haneken* qui compte. <br/> Par contre, si deux joueurs ont un *Teyaku* qui vaut le même nombre de point (par exemple, deux *Triplé*), on paiera les deux.
 {.is-info}
 
 *Attention, les cartes présentées dans le tableau ci-dessous ne sont là qu'à titre d'exemple.*
@@ -163,19 +162,19 @@ Les *Dekiyaku* sont les combinaisons possibles pendant le tour avec les cartes c
 {.is-warning}
 
 # Exemple de manche et calcul des points
-Leonardo, Raphael, Donatello et Michelangelo – dans cet ordre - commencent une manche de Hachi-Hachi. Les cartes sont distribuées sur le terrain, et la carte Lumière ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) est présent. Le multiplicateur est donc `×4`.
+Leonardo, Raphael, Donatello et Michelangelo—dans cet ordre—commencent une manche de Hachi-Hachi. Les cartes sont distribuées sur le terrain, et la carte Lumière ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) est présente. → Le multiplicateur est donc `×4`.
 
 Raphael décide de ne pas jouer la manche. Il doit donc laisser sur la table `10×4 = 40` points. Il remet ses cartes dans la pioche et la mélange à nouveau. 
 
-Donatello a un Teyaku, un Triplé, qui vaut `10` points. Leonardo et Michelangelo lui doivent alors `10×4 = 40` points chacun. Donatello reçoit donc `80` points au total. Michelangelo annonce lui aussi avoir un Triplé, les deux autres lui doivent donc la même somme. 
+Donatello a un *Teyaku*, un **Triplé**, qui vaut `10` points. Leonardo et Michelangelo lui doivent alors `10×4 = 40` points chacun. Donatello reçoit donc `80` points au total. Michelangelo annonce lui aussi avoir un **Triplé**, les deux autres lui doivent donc la même somme. 
 
-La manche se passe sans qu’aucun Dekiyaku n’ait pu être fait. Les joueurs doivent donc compter leur score selon les valeurs des cartes individuelles capturées. 
+La manche se passe sans qu’aucun *Dekiyaku* ne soit fait. Les joueurs doivent donc compter leur score selon les valeurs des cartes individuelles capturées. 
 
 - Leonardo a 2 Lumières, 2 Animaux/Objets, 2 Rubans et 6 Normales. Son score est donc de `2×20 + 2×10 + 2×5 + 6 = 76`. En soustrayant par 88, il a `76 – 88 = (-12)` points. 
 - Donatello a 2 Lumières, 3 Animaux/Objets, 3 Rubans et 10 Normales. Son score est donc de `2×20 + 3×10 + 3×5 + 10 = 95`. En soustrayant par 88, il a `95 – 88 = 7` points. 
 - Michelangelo a 1 Lumière, 4 Animaux/Objets, 5 Rubans et 8 Normales. Son score est donc de `1×20 + 4×10 + 5×5 + 8 = 93`. En soustrayant par 88, il a `93 – 88 = 5` points. 
 
-Leonardo étant le seul joueur dans les négatifs, il doit aux 2 autres joueurs leur score positif en comptant le multiplicateur. Il doit donc `7×4 = 28` points à Donatello et `5×4 = 20` points à Michelangelo.
+Leonardo étant le seul joueur dans les négatifs, il doit aux deux autres joueurs leur score positif, **sans oublier le multiplicateur**. Il doit donc `7×4 = 28` points à Donatello et `5×4 = 20` points à Michelangelo. 
 
 De plus, Donatello ayant remporté le plus de points, c’est lui qui gagne la manche. Il deviendra le donneur pour la manche suivante et récupère les 40 points sur la table laissés par Raphael. 
 
