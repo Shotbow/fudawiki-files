@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T12:07:31.995Z
+date: 2021-04-10T12:08:47.853Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -163,7 +163,7 @@ Les *Dekiyaku* sont les combinaisons possibles pendant le tour avec les cartes c
 {.is-warning}
 
 # Exemple de manche et calcul des points
-Leonardo, Raphael, Donatello et Michelangelo – dans cet ordre - commencent une manche de Hachi-Hachi. Les cartes sont distribuées sur le terrain, et la carte Lumière l’Homme au Parapluie est présent. Le multiplicateur est donc `×4`.
+Leonardo, Raphael, Donatello et Michelangelo – dans cet ordre - commencent une manche de Hachi-Hachi. Les cartes sont distribuées sur le terrain, et la carte Lumière ![Icon for month 11](/hanafuda/icons/monthicon_11.png =25x) [Homme au Parapluie](/fr/hanafuda/suits/willow#lhomme-au-parapluie) est présent. Le multiplicateur est donc `×4`.
 
 Raphael décide de ne pas jouer la manche. Il doit donc laisser sur la table `10×4 = 40` points. Il remet ses cartes dans la pioche et la mélange à nouveau. 
 
