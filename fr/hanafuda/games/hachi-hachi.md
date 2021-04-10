@@ -2,13 +2,13 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T10:06:55.346Z
+date: 2021-04-10T10:12:28.827Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
 ---
 
-Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement plutôt complexe (ce qui le rend adapté notamment aux jeux d'argent en espèces), comprenant à la fois : 
+Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88", est un jeu de hanafuda traditionnel pour 3 joueurs. Il dispose d'un système de notation et de paiement plutôt complexe (ce qui le rend adapté notamment aux jeux d'argent en espèces). Il contient notamment : 
 * des combinaisons de mains : [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku) 
 * des combinaisons de capture : [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) 
 
@@ -24,9 +24,6 @@ Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88"
 ## Les cartes utilisées
 Toutes les 48 cartes d'un jeu de cartes hanafuda sont utilisées. Généralement, pour des sessions plus rapides et plus fluides, on peut utiliser deux decks pendant le jeu (noir et rouge) en alternance à chaque manche, comme au poker. 
 
-> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
-{.is-info}
-
 ## Choix du donneur
 N'importe quelle méthode peut être utilisée pour choisir le donneur, donc le premier joueur à distribuer et jouer. Au Hachi-Hachi, une méthode traditionnelle est que chaque joueur tire un dé, et celui qui tire le plus au score est le donneur. S'il y a égalité, on réitère entre les concernés jusqu'à ce qu'il y ait un gagnant. 
 
@@ -39,7 +36,7 @@ Le donneur distribue **7 cartes face cachée à chaque joueur** et **6 cartes su
 
 
 ## Phase de choix des joueurs
-**Lorsqu'il y a plus de 3 participants**, chaque joueur—en partant du donneur dans le sens inverse des aiguilles d'une montre—évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon (ou plus si multiplicateur, voir section suivante). Le gagnant de la manche prendra tous les frais d'abandon sur la table. 
+**Lorsqu'il y a plus de 3 participants**, chaque joueur—*en partant du donneur dans le sens inverse des aiguilles d'une montre* ↺ —évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon (ou plus si multiplicateur, voir section suivante). Le gagnant de la manche prendra tous les frais d'abandon sur la table. 
 
 > S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. 
 {.is-warning}
@@ -58,15 +55,19 @@ Les multiplicateurs sont désignés par 3 types de terrains différents:
 
 # Jouer
 ## Combinaisons des mains de départ
-Une fois que les participants de la manche sont sélectionnés et que le type de terrain est décidé, les joueurs qui ont une combinaison dans leur main, [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku), la déclare en exposant les cartes nécessaires. Après quoi, le joueur reçoit des points par les deux autres joueurs en fonction de son Teyaku. 
+Une fois que les participants de la manche sont sélectionnés et que le type de terrain est décidé, les joueurs qui ont une combinaison dans leur main (= [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku), voir après) la déclare en exposant les cartes nécessaires. Après quoi, le joueur reçoit des points par les deux autres joueurs en fonction de son *Teyaku*. 
 
 ## Tour
 
-Après les paiements des Teyaku, le jeu se déroule à partir du donneur dans le sens antihoraire. À votre tour, choisissez une carte de votre main à jouer sur la table. 
+Après les paiements des *Teyaku*, le jeu se déroule à partir du donneur dans le **sens antihoraire** ↺. À votre tour, choisissez une carte de votre main à jouer sur la table : 
 * Si cette carte correspond à la suite d'**une** carte sur le terrain de jeu, on la place sur celle-ci, pour indiquer que c'est celle-ci qu'on capturera. 
 * Si on peut capturer **deux** cartes du terrain, il faut choisir laquelle on capture avec notre carte. 
 * Si on peut capturer **trois** cartes du terrain, on capturera alors ces quatres cartes (en comptant celle qui venait de notre main). 
 * Si aucune carte ne correspond, alors elle devient une carte du terrain et ne capture aucune carte.
+
+> Si vous n'êtes pas familier avec les cartes *hanafuda*, vous pouvez consulter le [Guide des suites](/fr/hanafuda/suits). 
+{.is-info}
+
 
 Après avoir joué une carte de sa main et fait une capture si possible, on pioche une carte et on essaye de capturer comme précédemment une carte du champ de jeu. 
 > On ne met pas la carte piochée dans sa main. Il faut forcément capturer ou laisser cette carte sur le terrain si aucune carte n'est capturable.
@@ -74,9 +75,9 @@ Après avoir joué une carte de sa main et fait une capture si possible, on pioc
 
 Enfin, on récupère toutes les cartes capturées et on les place face visible devant soi, ce sera notre score. Il est plus facile de trier les cartes par types et valeur pour bien voir ce qui a déjà été capturé. 
 
-On peut essayer de former une combinaison de capture, [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Si un joueur forme un Dekiyaku, la manche se termine et ce joueur reçoit des points par les 2 autres joueurs en fonction de la valeur du Dekiyaku. Si aucun des joueurs ne forme un Dekiyaku, le jeu continue jusqu'à ce que tous les joueurs soient à court de cartes dans leur main, puis le score de leurs cartes capturées est compté. 
+On peut essayer de former une **combinaison de capture**, ou [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku). Si un joueur forme un *Dekiyaku*, la manche se termine et ce joueur reçoit des points par les 2 autres joueurs en fonction de la valeur du *Dekiyaku*. Si aucun des joueurs ne forme un Dekiyaku, le jeu continue jusqu'à ce que tous les joueurs soient à court de cartes dans leur main, puis le score de leurs cartes capturées est compté. 
 
-## Sage
+## Déclarer "*Sage*"
 Vous pouvez terminer le tour si vous avez formé un [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) pendant la manche, mais si vous pensez pouvoir former un autre Dekiyaku, vous pouvez continuer la manche en déclarant "Sage!" *(sa-gué)* - après avoir été payé pour le premier Dekiyaku. Lorsque vous formez un Dekiyaku supplémentaire, le processus recommence et vous serez également payé pour ce Dekiyaku. 
 
 Cependant, si vous avez déclaré "Sage!" et qu'un Dekiyaku est formé par un autre joueur avant que vous ayez pu former un Dekiyaku supplémentaire, vous devez rembourser la **moitié** de la valeur du premier Dekiyaku aux 2 autres joueurs, puis vous seul devez payer le double de la valeur totale du deuxième Dekiyaku au joueur qui l'a formé - c'est-à-dire que vous devez assumer le paiement de l'autre joueur pour le deuxième Dekiyaku. Il faut donc être très prudent lorsque l'on déclare "Sage!". 
