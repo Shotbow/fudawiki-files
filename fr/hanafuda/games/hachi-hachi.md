@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T17:32:05.335Z
+date: 2021-04-10T18:11:50.873Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -38,11 +38,11 @@ Le donneur distribue **7 cartes face cachée à chaque joueur** et **6 cartes su
 
 
 ## Phase de choix des joueurs
-**Lorsqu'il y a plus de 3 participants**, chaque joueur—*en partant du donneur dans le sens inverse des aiguilles d'une montre* ↺ —évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon (ou plus si multiplicateur, voir section suivante). Le gagnant de la manche prendra tous les frais d'abandon sur la table. 
+**Lorsqu'il y a plus de 3 participants**, chaque joueur—*en partant du donneur dans le sens inverse des aiguilles d'une montre* ↺ —évalue les cartes de sa main et décide s'il veut "rejoindre" ou "abandonner" la manche. Les joueurs qui ont abandonné volontairement doivent placer 10 points sur la table comme frais d'abandon (ou plus si multiplicateur, voir section suivante). Le gagnant de la manche prendra tous les frais d'abandon sur la table.  
 
 Les joueurs qui ne participent pas à la manche remettent leurs cartes dans la pioche, qui doit être mélangée à nouveau.
 
-> S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. 
+> La manche se joue forcément à 3 joueurs. S'il y a 3 joueurs qui ont déjà choisi de "rejoindre", les joueurs restants qui sont forcés d'abandonner n'ont pas à payer de frais d'abandon. S'il n'y a pas assez de joueurs, alors le reste est obligé de participer. 
 {.is-warning}
 
 
