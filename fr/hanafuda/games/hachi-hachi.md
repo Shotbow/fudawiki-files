@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T10:18:26.707Z
+date: 2021-04-10T10:19:22.386Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -84,7 +84,7 @@ On peut essayer de former une **combinaison de capture**, ou [Dekiyaku](/fr/hana
 
 **Mais attention : si vous avez déclaré "Sage!" et qu'un *Dekiyaku* est formé par un autre joueur avant que vous ayez pu former un *Dekiyaku* supplémentaire,** vous devrez :
 * rembourser la *moitié* de la valeur du premier *Dekiyaku* aux 2 autres joueurs
-* puis payer le double de la valeur totale du deuxième *Dekiyaku* au joueur qui l'a formé, c'est-à-dire assumer le paiement de l'autre joueur pour le deuxième *Dekiyaku*. 
+* puis assumer le paiement de l'autre joueur pour le deuxième *Dekiyaku*, c'est-à-dire payer le double de la valeur totale du deuxième *Dekiyaku* au joueur qui l'a formé. 
 
 Il faut donc être très prudent lorsque l'on déclare "Sage!". 
 
