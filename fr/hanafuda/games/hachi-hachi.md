@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: Un jeu hanafuda populaire se jouant généralement à trois. Aussi connu sous le nom de "88".
 published: true
-date: 2021-04-10T10:38:11.782Z
+date: 2021-04-10T10:45:44.415Z
 tags: jeu, jeu de pêche
 editor: markdown
 dateCreated: 2021-04-08T16:10:34.610Z
@@ -12,7 +12,9 @@ Le **Hachi-Hachi** [八八 - はちはち], également connu sous le nom de "88"
 * des combinaisons de mains : [Teyaku](/fr/hanafuda/games/hachi-hachi#teyaku) 
 * des combinaisons de capture : [Dekiyaku](/fr/hanafuda/games/hachi-hachi#dekiyaku) 
 
-Étant l'un des jeux hanafuda les plus joués au Japon, avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), il jouit pourtant d'une faible popularité dans le reste du monde. Des ensembles pour jouer au Hachi-Hachi existent, contenant généralement deux jeux de cartes et plusieurs outils pour aider au comptage des points et des manches. Il est probable que le modèle de paquet de cartes standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
+Étant l'un des jeux hanafuda les plus joués au Japon, avec le [Koi-Koi](/fr/hanafuda/games/koi-koi), il jouit pourtant d'une faible popularité dans le reste du monde. Il est probable que le modèle de paquet de cartes standard actuel, [Hachi-hachi-bana](/en/hanafuda/patterns/hachihachibana), tire son nom de ce jeu. 
+
+Des ensembles pour jouer au Hachi-Hachi existent, contenant généralement deux jeux de cartes et plusieurs marqueurs pour aider au comptage des points et des manches, mais un simple jeu de cartes Hanafuda, papier et crayon peut suffire pour jouer. 
 
 > Ce jeu, étant ancien et très populaire, il connaît beaucoup de variantes et de règles maison possibles. Les règles présentées ici sont un exemple répandu. 
 {.is-warning}
