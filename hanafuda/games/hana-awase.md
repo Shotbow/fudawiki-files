@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T10:30:44.178Z
+date: 2021-04-12T10:33:21.742Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -132,7 +132,7 @@ Some additional rules for yaku may be used as well:
 # Bibliography
 *(section needs reworking)*
 
-- The IndianWolf book
-- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X)
+- [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
+- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications
 - https://web.archive.org/web/20050728142537/http://hana.kirisame.org/hanaawase.html
 
