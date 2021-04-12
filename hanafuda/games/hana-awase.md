@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T05:26:00.937Z
+date: 2021-04-12T05:27:05.617Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -46,7 +46,7 @@ In each round, the dealer is the first to play, and turn to play passes anti-clo
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table. If it belongs to the same month as another card on the table, then the cards *match*, and this matching pair is moved to the player's score pile.
 
-If the played card matches with two cards on the table, then the player may choose which one they capture. 
+If the played card matches with two cards on the table, then the player may choose which one they capture. If the played card matches *three* cards on the table, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and un-captureable).
 
 
 
