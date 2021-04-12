@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T06:13:58.088Z
+date: 2021-04-12T06:20:28.501Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -59,7 +59,7 @@ After both cards have been played- one from the player's hand, and one from the 
 ## End of Round and Scoring
 The round ends when all players run out of cards in their hand. In a three-player game, this should also coincide with the draw pile being exhausted. In a two-player game, there will be 8 cards remaining in the draw pile. In this case, some versions of the game allow the players to keep taking turns to play a card from the draw pile until it is exhausted.
 
-The three-player version of the game uses a zero-sum scoring system. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
+The three-player version of the game uses a zero-sum scoring system common to many other such hanafuda games. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
 
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
@@ -70,7 +70,11 @@ The three-player version of the game uses a zero-sum scoring system. First, each
 
 The total point value of the entire deck is 264. Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the actual score each player earns is their total number of card points, minus 88.
 
-Then, yaku are handled. Each player adds up the total value of all their captured yaku, and they recieve this value from each of the other players. For example, if player A has 40 points worth of yaku, then they score 80 points in total- 40 from player B, and 40 from player C- while players B and C will each *lose* 40 points.
+Then, yaku are handled. Each player adds up the total value of their captured yaku, and they recieve this value from each of the other players. For example, if player A has 40 points' worth of yaku, then they score 80 points in total- 40 from player B, and 40 from player C- while players B and C will each *lose* 40 points.
+
+In short, the total amount of points gained or lost by each player at the end of the round is given by the following:
+
+`Player's Score = (Player's Total Card Points - 88) + (Total Value of Player's Yaku x 2) - Total Value of All Opponent's Yaku`
 
 
 
