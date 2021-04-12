@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T07:42:55.188Z
+date: 2021-04-12T07:53:10.213Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -76,7 +76,7 @@ In short, the total amount of points gained or lost by each player at the end of
 
 `Player's Score = (Player's Total Card Points - 88) + (Total Value of Player's Yaku x 2) - Total Value of All Opponent's Yaku`
 
-For two players, this zero-sum system could be adjusted by using a 'par value' of 132 instead of 88, and requiring the players to empty the discard pile at the end of the round as previously mentioned. In practice, however, it is probably *much* less painful to use the following, sraightforward system (which could also be used with three players):
+For two players, this zero-sum system could be adjusted by using a 'par value' of 132 instead of 88, and requiring the players to empty the discard pile at the end of the round as previously mentioned. In practice, however, it is probably *much* less painful to use the following, straightforward system (which could also be used with three players):
 
 `Player's Score = Player's Total Card Points + Total Value of Player's Yaku`
 
