@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T04:50:03.322Z
+date: 2021-04-12T05:04:22.956Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -25,7 +25,20 @@ There is no required order for dealing the cards, though certain traditional con
 
 With three players, the usual process is for the dealer to give 4 cards to each player in an anti-clockwise order, 3 to the table, 3 to each player, then 3 to the table again.
 
-
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
+
+## Misdeals and *Teyaku*
+If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
+
+Whether or not 4 cards of the same month *in a player's hand* constitutes a misdeal appears to vary by source - the specific answer to this question should probably be agreed upon as a house rule.
+
+In the version of the game described on the [Hana Kirisame](https://web.archive.org/web/20050825184125/http://hana.kirisame.org/rules.html) website,
+
+
+
+
+
+
+hghg
 
