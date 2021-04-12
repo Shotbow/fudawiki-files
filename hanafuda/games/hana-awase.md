@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T05:15:48.041Z
+date: 2021-04-12T05:18:30.619Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -38,6 +38,10 @@ In some versions of the game, two special *teyaku* or 'hand combinations' [æ‰‹å½
 To declare these combinations and receive points for them, the player must place all the relevant Chaff cards face-up on the table in front of them. Curiously, they remain on the table for the duration of the round, though they are still considered part of that player's hand and can be played on their turn as normal. Other players, on their turn, may capture these face-up cards in the usual manner. A player cannot, however, capture their own face-up hand cards in this way.
 
 Whether or not a player *must* declare these teyaku if they have them is unspecified - more scope for house rules.
+
+# Gameplay
+
+In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table.
 
 
 
