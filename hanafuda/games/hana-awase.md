@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T06:36:05.539Z
+date: 2021-04-12T06:37:27.650Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -83,7 +83,7 @@ For two players, this zero-sum system could be adjusted by using a 'par value' o
 The player with the highest score at the end of the round becomes the dealer for the next round. (What should happen in the event of a tie here is, once again, unspecified.) After the desired number of rounds have been played, the player with the highest score at the end of all the rounds is the winner.
 
 # Yaku
-As with all hanafuda games, there is variation in the set of allowed yaku. However, the sources used for this page are remarkably consistent in the following list. 
+As with all hanafuda games, there is variation in the set of allowed yaku. However, the sources used for this page are remarkably consistent in the following list. Many of these are classic yaku, found in several other games. 
 
 
 
