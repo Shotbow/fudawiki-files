@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T04:49:17.185Z
+date: 2021-04-12T04:50:03.322Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -23,7 +23,7 @@ In the three-player version of the game, 7 cards are dealt to each player, and 6
 
 There is no required order for dealing the cards, though certain traditional conventions exist. With two players, the dealer typically deals 4 cards to the opponent, 4 to the table, 4 to themselves, then repeats. Sometimes this is done in packets of two instead of four.
 
-With three players, the usual order is for the dealer to give 4 cards to each player in an anti-clockwise order, 3 to the table, 3 to each player, then 3 to the table again.
+With three players, the usual process is for the dealer to give 4 cards to each player in an anti-clockwise order, 3 to the table, 3 to each player, then 3 to the table again.
 
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
