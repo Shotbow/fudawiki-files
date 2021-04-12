@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T09:50:03.811Z
+date: 2021-04-12T09:57:36.513Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -36,6 +36,8 @@ Whether or not 4 cards of the same month *in a player's hand* constitutes a misd
 In some versions of the game, two special *teyaku* or 'hand combinations' [手役 - てやく, *teyaku*] are given. These are both fairly simple - if a player has 6 Chaff cards in their opening hand, they are paid 20 points by each other player; and if they have 7 Chaff, they are paid 30 points by each other player.
 
 To declare these combinations and receive points for them, the player must place all the relevant Chaff cards face-up on the table in front of them. Curiously, they remain on the table for the duration of the round, though they are still considered part of that player's hand and can be played on their turn as normal. Other players, on their turn, may capture these face-up cards in the usual manner. A player cannot, however, capture their own face-up hand cards in this way.
+
+When playing with this rule, it is possible that one player may run out of cards before the others. If this is the case, they continue to play, but only using cards played from the draw pile. 
 
 Whether or not a player *must* declare these teyaku if they have them is unspecified - more scope for house rules.
 
