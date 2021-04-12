@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T06:01:34.455Z
+date: 2021-04-12T06:02:53.609Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -59,13 +59,11 @@ After both cards have been played- one from the player's hand, and one from the 
 ## End of Round and Scoring
 The round ends when all players run out of cards in their hand. In a three-player game, this should also coincide with the draw pile being exhausted. In a two-player game, there will be 8 cards remaining in the draw pile. In this case, some versions of the game allow the players to keep taking turns to play a card from the draw pile until it is exhausted.
 
-The three-player version of the game uses a zero-sum scoring system.
-
-
+The three-player version of the game uses a zero-sum scoring system. First, each player adds up the total points of all their captured cards. 
 
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
-|Brights|50|5|
+|Brights|20|5|
 |Animals|10|9|
 |Ribbons|5|10|
 |Chaff|1|24|
