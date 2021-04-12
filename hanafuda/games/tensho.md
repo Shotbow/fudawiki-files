@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-12T19:42:23.474Z
+date: 2021-04-12T19:47:32.814Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -16,9 +16,17 @@ Player should first agree on the duration of the game - some common options are 
 
 # Gameplay
 # Yaku
+As described in "Setup" above, players choose only one of two sets of yaku to count each round. This decision should be made prior to the deal, before either player has any information. If the players cannot agree on a set to use, the choice defaults to the dealer's preference.
 ## Both Sets
+The first 12 yaku in Tensho are common to both sets of yaku, and thus are always valid.
+|Point Value|Name of Yaku|Composition|
+|:---:|:---:|:---:|
 ## Set 1 Only
+|Point Value|Name of Yaku|Composition|
+|:---:|:---:|:---:|
 ## Set 2 Only
+|Point Value|Name of Yaku|Composition|
+|:---:|:---:|:---:|
 # Card Values
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
