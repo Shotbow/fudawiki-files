@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T06:03:40.550Z
+date: 2021-04-12T06:04:23.719Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -68,6 +68,7 @@ The three-player version of the game uses a zero-sum scoring system. First, each
 |Ribbons|5|10|
 |Chaff|1|24|
 
+The total point value of the entire deck is 264. 
 
 
 
