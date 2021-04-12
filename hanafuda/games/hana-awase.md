@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T09:47:22.756Z
+date: 2021-04-12T09:48:43.641Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -125,7 +125,7 @@ Sometimes, at the end of the round, a compensation for poor performance is given
 
 Some additional rules for yaku may be used as well:
 - If any player has captured the *Willow Row* yaku, then all points for yaku are cancelled for the round. Each player only scores points based on their captured cards. Alternatively, the owner of the *Willow Row* scores fully as usual, while their opponents score nothing at all.
-- If a player has captured the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man)
+- If a player has captured the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), then they cannot score points for any of the *Viewing Yaku*, since the foul weather ruins the festivities.
 
 # Bibliography
 *(section needs reworking)*
