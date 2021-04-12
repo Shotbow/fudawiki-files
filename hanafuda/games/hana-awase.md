@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T10:36:37.455Z
+date: 2021-04-12T10:47:45.311Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -80,7 +80,7 @@ In short, the total amount of points gained or lost by each player at the end of
 
 A 'Low Man Out' rule is commonly used in scoring; if the total value of any player's card points is 20 or less, then the round is considered a draw, and no players score any points. Some versions require a player to announce at the beginning of the round that they intend to go for 'Low Man Out' in order for it to apply. This rule allows players with an extremely poor hand to attempt to force a draw, and prevent their opponents from scoring.
 
-For two players, this zero-sum system could be adjusted by using a 'par value' of 132 instead of 88, and requiring the players to empty the draw pile at the end of the round as previously mentioned (the scoring will not remain zero-sum unless *all* cards in the deck are played and captured). In practice, however, it is probably *much* less painful to use the following, straightforward system (which could also be used with three players):
+For two players, this zero-sum system could be adjusted by using a 'par value' of 132 instead of 88, and requiring the players to empty the draw pile at the end of the round as previously mentioned (the scoring will not remain zero-sum unless *all* cards in the deck are played and captured). In practice, however, it is probably *much* less painful to use the following, straightforward system (which could also be used with three players in a non-gambling game):
 
 `Player's Score = Player's Total Card Points + Total Value of Player's Yaku`
 
