@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T10:47:45.311Z
+date: 2021-04-12T23:18:20.865Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -46,7 +46,7 @@ Whether or not a player *must* declare these teyaku if they have them is unspeci
 In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure of Hana-Awase is utterly typical of hanafuda fishing games; if you're already familiar with [Koi-Koi](/en/hanafuda/games/koi-koi) and its ilk, then this section will be nothing new. 
 
 ## Turns
-On their turn, a player chooses a single card from their hand and plays it to the table. If it belongs to the same month as another card on the table, then the cards *match*, and this matching pair is moved to the player's score pile.
+On their turn, a player chooses a single card from their hand and plays it to the table. If it belongs to the same month as another card on the table, then the cards *match*, and this matching pair is moved to the player's score pile. As is typical of hanafuda games, these score piles are kept face-up with their contents fully displayed.
 
 If the played card matches with two cards on the table, then the player may choose which one they capture. If the played card matches *three* cards on the table, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured).
 
