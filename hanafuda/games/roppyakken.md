@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2020-11-04T04:49:43.223Z
+date: 2021-04-12T19:16:08.256Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -63,7 +63,7 @@ Once one or more players' cumulative scores have reached or exceeded 600 points,
 
 # Typical Yaku
 Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
-|Value|Name of Yaku|Description|
+|Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
 |600|Four Brights - 四光 [しこ, *shiko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>In most rule sets, Four Brights is considered an instant win, even if another player had a greater final score.|
