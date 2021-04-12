@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T04:40:58.661Z
+date: 2021-04-12T04:43:09.089Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -17,6 +17,9 @@ Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck,
 
 ## Choosing the Dealer
 No method is stipulated for choosing the dealer. A hanafuda-specific method involves each player drawing a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
+
+## Distributing the Initial Cards
+In the three-player version of the game, 7 cards are dealt to each player, and 6 cards face-up to the table. In the two-player version, 8 cards are dealt to each player, and a further 8 cards face-up to the table.
 
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
