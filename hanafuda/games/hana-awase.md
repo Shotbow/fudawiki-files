@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T05:04:22.956Z
+date: 2021-04-12T05:08:28.160Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -33,7 +33,7 @@ If 4 cards of the same month are dealt to the table, then a misdeal is declared 
 
 Whether or not 4 cards of the same month *in a player's hand* constitutes a misdeal appears to vary by source - the specific answer to this question should probably be agreed upon as a house rule.
 
-In the version of the game described on the [Hana Kirisame](https://web.archive.org/web/20050825184125/http://hana.kirisame.org/rules.html) website,
+In some versions of the game, two special *teyaku* or 'hand combinations' [手役 - てやく, *teyaku*] are given. 
 
 
 
