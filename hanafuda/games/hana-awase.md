@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T07:53:10.213Z
+date: 2021-04-12T07:53:19.933Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -72,7 +72,7 @@ The total point value of the entire deck is 264. Since there are three players, 
 
 Then, yaku are handled. Each player adds up the total value of their captured yaku, and they recieve this value from each of the other players. For example, if player A has 40 points' worth of yaku, then they score 80 points in total- 40 from player B, and 40 from player C- while players B and C will each *lose* 40 points.
 
-In short, the total amount of points gained or lost by each player at the end of the round is given by the following:
+In short, the total amount of points gained or lost by each player at the end of the round will be given by the following:
 
 `Player's Score = (Player's Total Card Points - 88) + (Total Value of Player's Yaku x 2) - Total Value of All Opponent's Yaku`
 
