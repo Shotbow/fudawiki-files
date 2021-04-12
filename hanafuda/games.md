@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-03-28T20:51:20.110Z
+date: 2021-04-12T06:31:50.307Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -39,25 +39,25 @@ These games, while not as widespread today as those listed above, are variously 
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
 |Echobo|2+|Banking|Japan|
 |Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
-|Gomai-Kabu|8|Showdown|Japan|
+|[Gomai Kabu](/en/hanafuda/games/gomai-kabu)|8|Showdown|Japan|
 |[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
 |[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
-|Hiki-Kabu|2-10|Showdown|Japan|
-|Hiyoko (Chick)|2-4|Sequence|Japan|
+|[Hiki-Kabu](/en/hanafuda/games/hiki-kabu)Hiki-Kabu|2-10|Showdown|Japan|
+|[Hiyoko](/en/hanafuda/games/hiyoko)Hiyoko (Chick)|2-4|Sequence|Japan|
 |[Hon-Bana (Original Flowers)](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |Hyaku-Otoshi|-|-|-|
 |Ichi-Ni-San (One-Two-Three)|3|Fishing|Japan|
-|Ino-Shika-Cho|2+|Banking|Japan|
-|Isuri|2-3|Sequence|Japan|
-|Issoku Iki (One Bunch Goes)|2|Fishing|Japan|
+|[Ino-Shika-Cho](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
+|[Isuri](/en/hanafuda/games/isuriIsuri|2-3|Sequence|Japan|
+|Issoku Iki|2|Fishing|Japan|
 |Jū-Mai (Ten Cards)|2|Fishing|Japan|
 |Junishi-Awase|-|-|-|
-|Kachi-Kachi|-|-|-|
+|[Kachi-Kachi](/en/hanafuda/games/kachi-kachi)|-|-|-|
 |Kaga|2|Fishing|Kaga Province, Japan|
-|Kekoro|Fishing|2|-|
-|Kingo|2-10|Showdown|-|
+|[Kekoro](/en/hanafuda/games/kekoro)|Fishing|2|-|
+|[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
-|Kyo-Kabu|2-10|Banking|Japan|
+|[Kyo-Kabu](/en/hanafuda/games/kyo-kabu)|2-10|Banking|Japan|
 |Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-3|Fishing|Korea|
@@ -66,7 +66,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
 |Oni Koi-Koi|2|Fishing|Gifu, Japan|
 |Oto-Roku|5-6|Showdown|Tōkai region, Japan|
-|Poka|2|Sequence|-|
+|[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
 |Roku-Tan (Six Scrolls)|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
 |Saburokku (Three-Six-Nine), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
@@ -77,13 +77,13 @@ These games, while not as widespread today as those listed above, are variously 
 |Sashikomi|2|Showdown|Japan|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū (One Thousand Sixty), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
-|Seotda|2-10|Showdown|Korea|
+|[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |Suhara-Bana|-|-|-|
-|Sutda|2-10|Showdown|-|
+|[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
 |Takame|-|-|-|
-|Tehonbiki|2+|Banking|Japan|
-|Tensho|2|Fishing|Nagoya region, Japan|
+|[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
+|[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
 |Tokotoko|2|Showdown|Nagoya region, Japan|
 |Towashi|-|-|-|
 |Yamayaku|2|Fishing|Japan|
