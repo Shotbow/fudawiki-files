@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T10:33:21.742Z
+date: 2021-04-12T10:36:37.455Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -121,7 +121,7 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 |10|Paulownia Row - 桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)<br>This yaku is missing in the version of the game from the IndianWolf book.|
 
 # Variations
-Sometimes, at the end of the round, a compensation for poor performance is given, as follows:
+Optionally, at the end of the round, compensation for poor performance is given, as follows:
 - If either the dealer or the player to their right have captured 8 cards or fewer, then they receive 30 points from each of the other players.
 - If the player to the left of the dealer has captured 10 cards or fewer, then they receive 30 points from each of the other players.
 
