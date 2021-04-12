@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T06:28:21.471Z
+date: 2021-04-12T06:31:26.267Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -59,7 +59,7 @@ After both cards have been played- one from the player's hand, and one from the 
 ## End of Round and Scoring
 The round ends when all players run out of cards in their hand. In a three-player game, this should also coincide with the draw pile being exhausted. In a two-player game, there will be 8 cards remaining in the draw pile. In this case, some versions of the game allow the players to keep taking turns to play a card from the draw pile until it is exhausted.
 
-The three-player version of the game uses a zero-sum scoring system common to many other such hanafuda games. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
+The three-player version of the game uses a zero-sum scoring system common to many other such hanafuda games - all the better to facilitate gambling. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
 
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
@@ -76,11 +76,14 @@ In short, the total amount of points gained or lost by each player at the end of
 
 `Player's Score = (Player's Total Card Points - 88) + (Total Value of Player's Yaku x 2) - Total Value of All Opponent's Yaku`
 
-For two players, this zero-sum system could be adjusted by using a 'par value' of 132 instead of 88, and requiring the players to empty the discard pile at the end of the round as previously mentioned. In practice, however, it is probably *much* less painful to use the following, sraightforward system:
+For two players, this zero-sum system could be adjusted by using a 'par value' of 132 instead of 88, and requiring the players to empty the discard pile at the end of the round as previously mentioned. In practice, however, it is probably *much* less painful to use the following, sraightforward system (which could also be used with three players):
 
 `Player's Score = Player's Total Card Points + Total Value of Player's Yaku`
 
 The player with the highest score at the end of the round becomes the dealer for the next round. (What should happen in the event of a tie here is, once again, unspecified.) After the desired number of rounds have been played, the player with the highest score at the end of all the rounds is the winner.
+
+# Yaku
+
 
 
 
