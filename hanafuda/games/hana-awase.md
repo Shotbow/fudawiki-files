@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-12T07:34:24.608Z
+date: 2021-04-12T07:36:01.122Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -106,7 +106,7 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 |40|Blue Ribbons - 青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |20|Grass Ribbons- 草短 [くさたん, *kusatan*]|The three Plain Ribbons, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon):<br>[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 |<h2 align="center">Animal Yaku</h2>|||
-|20|Boar, Deer, Butterflies - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
+|20|Boar, Deer, Butterflies - 猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
 |<h2 align="center">Viewing Yaku</h2>|||
 |40|Drinking - 飲み [のみ, *nomi*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)<br> Note that this yaku replaces the other two Viewing Yaku; you do not score for all three individually.|
 |20|Flower Viewing - 花見 [はなみ, *hanami*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
