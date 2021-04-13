@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T06:00:12.624Z
+date: 2021-04-13T06:13:09.798Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -241,10 +241,20 @@ The winner of the round is the player with the highest total captured card point
 ## Special Achievements
 Once the scoring is completed- regardless of which method was used, or whether any dekiyaku were made- and the winner of the round determined, there is a final exchange of points for certain special achievements the players may have accomplished during the round.
 
-These special achievements do *not* apply if any of *All Eights*, *Double Eights*, or *Sixteen Chaff* occured, since these rare circumstances cancel all other forms of scoring.
+Special achievements do *not* apply if any of *All Eights*, *Double Eights*, or *Sixteen Chaff* occured, since these rare circumstances cancel all other forms of scoring.
 
 > Remember, the field multiplier applies to special achievements, too! It applies to *everything!*
 {.is-warning}
+
+### Diving
+*Diving* [飛び込み - あそびこみ, *asobikomi*], sometimes known as *Catching the Triplet*, is attainable by any player who declared a Group A teyaku that includes a Triplet or Standing Triplet, but *not* a Four of a Kind.
+
+If this player, by the end of the round, has managed to capture all four cards of the Triplet's month, then they are paid 1 *kan* by each opponent.
+
+### Escape
+*Escape* [抜け役 - ぬけやく, *nukeyaku*] is available to any player who claimed a Group B teyaku other than *One Bright*.
+
+If this player, by the end of the round, has managed to capture 89 or more total card points, then they are paid 1 *kan* by each opponent.
 
 
 # Card Values
