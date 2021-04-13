@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T02:44:17.844Z
+date: 2021-04-13T02:52:05.737Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -100,8 +100,13 @@ The teyaku are as follows:
 |Value (in *kan*)|Name|Description|
 |:---:|:---:|:---:|
 |<h2 align="center">Group A: Set Teyaku</h2>|||
-|2|Three of a Kind|Any three cards of the same month.|
-|3|Standing Three of a Kind|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
+|2|Triplet/Three of a Kind|Any three cards of the same month.|
+|3|Standing Triplet|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
+|6|Two Triplets|A Triplet, and another Triplet.|
+|7|Triplet and Standing Triplet|A Triplet, and a Standing Triplet|
+|8|Two Standing Triplets|A Standing Triplet, and another Standing Triplet.|
+|4|Three Pairs|Three pairs of cards, a pair being two cards from the same month.|
+|6|Four of a Kind|Four cards from the same month.|
 
 |<h2 align="center">Group B: Chaff Teyaku</h2>|||
 
