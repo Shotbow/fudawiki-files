@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:47:56.639Z
+date: 2021-04-13T04:50:45.469Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -167,7 +167,9 @@ If a player has previously called *sage* to continue, then they may, at the begi
 
 The round ends either when a player forms a dekiyaku then calls to *end* or *cancel*, or when all players have run out of cards in their hands.
 
-Scoring is handled differently depending on whether any player managed to form a dekiyaku.
+Scoring is handled differently depending on whether or not any player managed to form a dekiyaku. In they have, then only the dekiyaku are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). If no dekiyaku have been made, then card points are totalled and used to determine the winner.
+
+
 
 
 
