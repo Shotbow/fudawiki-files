@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T02:16:35.712Z
+date: 2021-04-13T02:43:14.287Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -89,7 +89,23 @@ If the current round already has a multiplier that was carried over from some pr
 Alternatively, some play with a simpler, higher-stakes rule in which all field multipliers stack. So, in the example above, the field multiplier for the round will be a hefty 32 (4 x 4 x 2)!
 
 # Teyaku
-One the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*]. 
+Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and earn points based on them. These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.
+
+Hachi-Hachi stands out among other other games of the *Hana-Awase* family for its exceptionally large repertoire of teyaku, which is understandably daunting to new players.
+
+However, the basic teyaku fall into two categories, with all the others being simple combinations of one from each category.
+
+The teyaku are as follows:
+
+|Value (in *kan*)|Name|Description|
+|:---:|:---:|:---:|
+|<h2 align="center">Group A: Set Teyaku</h2>|||
+|2|Three of a Kind|Any three cards of the same month.|
+|3|Standing Three of a Kind|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover),|
+
+|<h2 align="center">Group B: Chaff Teyaku</h2>|||
+
+
 
 # Card Values
 |Card Type|Value|Number in Deck|
