@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T03:04:27.722Z
+date: 2021-04-13T03:28:26.994Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -19,7 +19,11 @@ Player should first agree on the duration of the game - some common options are 
 ## Turns
 ## Capturing the Phoenix
 ## End of Round
+**The round ends as soon as a player has captured one of the "Instant Win" yaku.** Otherwise, players continue taking turns until they have both exhausted their hands, at which point they add up the points for all yaku they have collected. **The player who has earned the most points from yaku is declared the winner of the round.**
 ### Breaking Ties
+If, however, neither player has completed any yaku, or otherwise their yaku **scores are the same**, then **the player who has captured the most Chaff cards wins**.
+
+If players are tied with regards to both yaku **and** number of Chaff captured, 
 # Yaku
 As described in "Setup" above, players choose only one of two sets of yaku to count each round. This decision should be made prior to the deal, before either player has any information. If the players cannot agree on a set to use, the choice defaults to the dealer's preference.
 
