@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:03:58.015Z
+date: 2021-04-13T04:04:32.049Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -146,7 +146,6 @@ If a card is played that matches something on the table, then the player *must* 
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 
-After both cards have been played- one from the player's hand, and one from the draw pile- the turn ends, and the next player takes their turn.
 
 # Card Values
 |Card Type|Value|Number in Deck|
