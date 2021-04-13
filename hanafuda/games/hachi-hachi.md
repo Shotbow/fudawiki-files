@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T10:20:20.004Z
+date: 2021-04-13T10:24:55.702Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -21,7 +21,7 @@ Hachi-Hachi is, naturally, played with a standard hanafuda deck. Typically, two 
 
 A supply of poker chips, go stones, or other tokens- preferably in a large quantity, and with at least two denominations- will also be immensely helpful for keeping track of scores. Scores can be kept on paper if required, but this is more cumbersome.
 
-Hachi-Hachi sets will include additional tokens for tracking things such as the field multiplier, *mizuten*, and *ginmi*, along with pots for holding payments. Again, none of these items are strictly necessary.
+Hachi-Hachi sets will include additional tokens for tracking things such as the field multiplier and *mizuten*, along with pots for holding payments. Again, none of these items are strictly necessary.
 
 ## Number of Players
 As with other hanafuda fishing games, Hachi-Hachi only supports having two or three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out.
