@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T01:17:15.143Z
+date: 2021-04-13T01:23:48.453Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -54,7 +54,9 @@ No method is stipulated for choosing the initial dealer. A hanafuda-specific met
 The winner of each round becomes the dealer for the next round.
 
 ## Dealing the Cards
+The player to the left of the dealer shuffles the deck, and the player to the right of the dealer cuts. Then, starting with the player to their right and moving anti-clockwise, the dealer deals 4 cards to each player in turn, followed by 3 card face-up to the table. They then give a further 3 cards to each player, and an addition 3 cards face-up to the table.
 
+In total, 7 cards are dealt to each player, and 6 cards to the table face-up to form the field.
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
