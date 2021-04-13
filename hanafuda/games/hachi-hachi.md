@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T06:13:09.798Z
+date: 2021-04-13T06:18:45.867Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -251,10 +251,18 @@ Special achievements do *not* apply if any of *All Eights*, *Double Eights*, or 
 
 If this player, by the end of the round, has managed to capture all four cards of the Triplet's month, then they are paid 1 *kan* by each opponent.
 
+> Sometimes, a *liability* rule is applied: If one of the opponents willingly placed the final month card on the field to be captured, then that opponent pays 2 *kan*, and the other pays nothing.
+{.is-info}
+
 ### Escape
 *Escape* [抜け役 - ぬけやく, *nukeyaku*] is available to any player who claimed a Group B teyaku other than *One Bright*.
 
 If this player, by the end of the round, has managed to capture 89 or more total card points, then they are paid 1 *kan* by each opponent.
+
+# End of the Game
+The game proceeds for as many rounds as were agreed upon- typically 12. Once all the rounds have been played, the player with the highest total score is the winner.
+
+# Dekiyaku
 
 
 # Card Values
