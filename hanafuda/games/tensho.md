@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T02:38:24.446Z
+date: 2021-04-13T02:40:28.498Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -39,6 +39,7 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 |50|Back Nine Horse Three|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 \* Some English sources give these yaku as "Ten Nine Twelve" with ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum cards replacing the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony shown here.
 ## Set 1 Only
+Set 1 contains 5 more yaku than Set 2.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |100|Front Seven Five Three|[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
