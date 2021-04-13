@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T06:46:22.799Z
+date: 2021-04-13T06:57:19.804Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -29,18 +29,20 @@ The dealer shuffles the deck. There is a specific method of dealing the cards as
 
 If this is too convoluted, the important thing is to ensure that **each player has a 6-card hand,** and that there are **9 cards face up on the field**, **6 "dead cards"** set aside, and an **18-card draw pile.**
 # Gameplay
-Gameplay proceeds in much the same manner as other fishing games, with the dealer going first. On your turn, add one card from your hand to the field, followed by the top card of the draw pile, matching each of them by suit with a card on the field if possible. If a pair is made, capture those cards and add them to your scoring area.
+Gameplay proceeds in much the same manner as other fishing games, with the dealer playing first. However, if there are three cards of the same suit on the field at the beginning of the game, the dealer will instead play second.
 
-Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, neither player can capture it.
+On your turn, add one card from your hand to the field, followed by the top card of the draw pile, matching each of them by suit with a card on the field if possible. If a pair is made, capture those cards and add them to your scoring area.
 
-Play continues back and forth with each player repeating the above steps in turn, until either one player has collected an instant-win yaku, or both players have run out of cards.
+Note that since the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)[Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. **If the ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix is dealt to the field at the beginning of the game, neither player can capture it.**
+
+Play continues back and forth with each player repeating the above steps in turn, until either one player has collected an **instant-win yaku**, or both players have **run out of cards**.
 
 ## End of Round
 **The round ends as soon as a player has captured one of the "Instant Win" yaku.** Otherwise, players continue taking turns until they have both exhausted their hands, at which point they add up the points for all yaku they have collected. **The player who has earned the most points from yaku is declared the winner of the round.**
 ### Breaking Ties
 If, however, neither player has completed any yaku, or otherwise their **yaku scores are the same**, then **the player who has captured the most Chaff cards wins**.
 
-If players are tied with regards to both yaku **and** number of Chaff captured, each player totals the sum of card points for their respective captured cards, according to the Card Values chart below. 
+If players are tied with regards to both yaku **and** number of Chaff captured, each player totals the sum of points for their respective captured cards, according to the Card Values chart below. 
 # Yaku
 As described in "Setup" above, players choose only one of two sets of yaku to count each round. This decision should be made prior to the deal, before either player has any information. If the players cannot agree on a set to use, the choice defaults to the dealer's preference.
 
