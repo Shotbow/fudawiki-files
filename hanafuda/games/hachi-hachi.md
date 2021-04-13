@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T01:53:05.359Z
+date: 2021-04-13T02:01:55.090Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -78,6 +78,11 @@ A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for mo
 
 ### Grand Field
 A *grand field* [絶場 - ぜつば, *zetsuba*] occurs if either the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) is on the field. All point exchanges will be quadrupled this round.
+
+### Multiple Brights
+If more than one Bright card is on the field, then there are two methods of handling the situation. The most typical method is to apply the largest multiplier to the current round, and carry over the other multipliers into subsequent rounds, with the quadruples coming first. 
+
+For example, if the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) and the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun) are all on the field, then the current round will be a grand field, the next round will also be a grand field, and the round after that will be a large field. 
 
 # Teyaku
 
