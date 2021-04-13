@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T09:20:39.272Z
+date: 2021-04-13T09:32:44.435Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -222,6 +222,9 @@ Before scoring is calculated, however, there are three special circumstances tha
 ### *Sixteen Chaff*
 As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards. This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. This player is the winner of the round, and becomes the dealer for the next.
 
+> If this situation occurs together with either *All Eights* or *Double Eights*, then the latter take precedence.
+{.is-info}
+
 ### Totalling Scores
 Assuming that none of *All Eights*, *Double Eights* or *Sixteen Chaff* have occured, then points are awarded as follows.
 
@@ -365,6 +368,14 @@ After the cards are dealt, but before the players look at their hands, any playe
 
 > Note that you are swapping *for the dealer's hand*, not *with the dealer*. For example, if Player A calls to swap with the dealer, then other players must now call to swap with Player A, since they hold the dealer's hand.
 {.is-info}
+
+### Special Achievement: *Dealer's Hand*
+If, at the end of the round, the player who held the dealer's hand has scored above par- i.e. captured at least 89 total card points- then they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
+
+> As a special achievement, these payments are cancelled
+
+## *Mizuten*
+
 
 
 
