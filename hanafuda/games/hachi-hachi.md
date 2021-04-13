@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:12:30.215Z
+date: 2021-04-13T05:18:01.114Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -196,6 +196,17 @@ If dekiyaku have been formed, but players kept calling *sage* until they all ran
 The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
 
 ## Scoring With No *Dekiyaku*
+If no player has managed to form any dekiyaku, then the points values of the cards are counted to determine the winner.
+
+The values of the cards are standard, as follows:
+|Card Type|Value|Number in Deck|
+|:---:|:---:|:---:|
+|Bright|20|5|
+|Animal|10|9|
+|Ribbon|5|10|
+|Chaff|1|24|
+The total point value of the entire deck is 264. Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
+
 
 # Card Values
 |Card Type|Value|Number in Deck|
