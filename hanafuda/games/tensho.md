@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T02:13:24.087Z
+date: 2021-04-13T02:33:54.096Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -47,15 +47,16 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 |50|Back Eight Islands|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
 |100|Front Four Horse King|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)|
 |50|Back Four Horse King|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)|
-|100|||
-|50|||
-|300|||
-|150|||
-|100|||
-|50|||
+|100|Front Eight Four King||
+|50|Back Eight Four King||
+|300|Front Eight Islands King||
+|150|Back Eight Islands King||
+|100|Front Nine Horse Three||
+|50|Back Nine Horse Three||
 |Instant Win|Front Elder|[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |100|Back Elder|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
 ## Set 2 Only
+Set two has fewer yaku total, but has one more yaku that grants an instant victory.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |100|Front Young Woman|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
@@ -72,3 +73,4 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
 - *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 52-58.
+- https://web.archive.org/web/20050219222956/http://hana.kirisame.org/tensho.html
