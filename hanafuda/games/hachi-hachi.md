@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T03:25:07.883Z
+date: 2021-04-13T03:28:42.745Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -111,12 +111,12 @@ The teyaku are as follows:
 |8|One-Two-Four - 一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
 |20|Four-Three - 四三 [しそう, *shisou*]|Four of a kind and a triplet.|
 
-|<h2 align="center">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow)||| cards are considered Chaff!
+|<h2 align="center">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
 |2|Red|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, *all* Ribbon cards count- not just the red ones!|
 |3|One Ribbon|One Ribbon card, six Chaff.|
 |3|One Animal|One Animal card, six Chaff.|
 |4|One Bright|One Bright card, six Chaff.|
-|4|||
+|4|Empty Hand|Seven Chaff cards.|
 
 
 
