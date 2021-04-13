@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T09:14:21.732Z
+date: 2021-04-13T09:15:28.214Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -356,9 +356,11 @@ This tweak makes use of the additional blank card included with many hanafuda de
 
 Whichever player holds the blank card must announce this fact. This player drops out, and takes no further part in the current round. They are not paid anything, nor do they pay anything to the other players.
 
-The 6 non-blank cards in this player's hand are placed face-up on the table to become the field. Play then proceeds as in 6 player Hachi-Hachi. The blank card is set aside and plays no further part in the round (I suggest using it as a dealer marker).
+The 6 non-blank cards in this player's hand are placed face-up on the table to become the field. Play then proceeds as in 6 player Hachi-Hachi. The blank card is set aside and plays no further part in the round. (I suggest using it as a dealer marker.)
 
 # Variations and Additional Rules
+
+## Dealer Hand Swap
 
 
 
