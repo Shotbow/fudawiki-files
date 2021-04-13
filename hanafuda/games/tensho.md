@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T04:46:07.502Z
+date: 2021-04-13T05:14:29.262Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -16,9 +16,16 @@ First, **prepare the deck by removing the three [![Icon for month 12](/hanafuda/
 
 ## Distributing the Cards
 The dealer shuffles the deck. There is a specific method of dealing the cards associated with this game:
-1. The dealer places 3 cards face down next to each other on the field.
-2. The dealer then places 4 stacks of 3 cards each, face down in the four corners around the field.
-3. 
+1. Place **3 cards** face down next to each other **on the field**.
+2. Deal **4 stacks of 3 cards each,** face down in the four corners around the field.
+3. Place **another 3 cards face down on the field** in a row below the first 3.
+4. Add **another 3 cards to each of the existing stacks** in the corners of the field.
+5. Put **3 final cards face down onto the field** in a third row, for **a total of 9 cards** face down on the field in a 3 by 3 grid.
+6. Finally, add **3 more cards each to 2 of the stacks** in the corners of the field.
+7. The remaining 6 cards are set aside as "dead cards" this round and will not be used to play Tensho, but may be used to play [Tokotoko](/en/hanafuda/games/tokotoko).
+8. The dealer chooses one of the stacks of 6 cards to become his hand; the other becomes the opponent's hand.
+9. The stacks of 9 cards are combined to become the draw pile for the game.
+10. Play [Shoniban](/en/hanafuda/games/shoniban) if desired, and reveal the nine cards on the field.
 # Gameplay
 ## Turns
 ## Capturing the Phoenix
