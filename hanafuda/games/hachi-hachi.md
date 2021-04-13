@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T08:27:16.855Z
+date: 2021-04-13T08:57:52.842Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -322,8 +322,32 @@ If only one player wishes to play, then obviously no game can occur. This sole r
 
 If nobody wishes to play, then a misdeal is declared; the cards are thrown in and re-dealt.
 
-> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round.
+> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round. Sometimes this restriction is only imposed in the later rounds of the game.
 {.is-info}
+
+As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out*. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
+
+The total compensation is the sum of the following:
+- Half the value of the hand's teyaku score.
+- Half the value of any complete dekiyaku in the hand.
+- 3 points for every card in the hand that belongs to the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku.
+
+This compensation is paid to the player by each of the two *non-dealer* active players.
+
+> Note that the field multiplier is determined before the dropout phase begins. Because, yes, it applies to dropout penalties and hand compensation as well.
+{.is-warning}
+
+> Since the dropout phase is a kind of prelude before the round 'officially' begins, note that dropout penalties and hand compensation are *not* cancelled by the exceptional circumstances of *All Eights*, *Double Eights*, or *Sixteen Chaff*.
+{.is-warning}
+
+If the dealer chooses to drop out, then the player to their right becomes the dealer for the round. If this player then drops out, the player to *their* right becomes the dealer, and so on.
+
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile, without showing them to any other players. The draw pile should then probably be shuffled by one of the non-active players before play begins.
+
+## Gameplay
+Once the three active players are determined, the round is played exactly as described in the main bulk of this page. Teyaku are claimed, the hands are played, and scores are determined.
+
+The winner of the round will claim the pot of dropout penalties, then the next round begins with a new dropout phase.
 
 
 
