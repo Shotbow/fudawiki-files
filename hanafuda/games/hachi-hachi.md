@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:18:01.114Z
+date: 2021-04-13T05:22:33.918Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -169,6 +169,9 @@ The round ends either when a player forms a dekiyaku then calls to *end* or *can
 
 Scoring is handled differently depending on whether or not any player managed to form a dekiyaku. In they have, then only the dekiyaku are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). If no dekiyaku have been made, then card points are totalled and used to determine the winner. The following sections outline each of these two methods.
 
+> Remember that all exchanges of points between players are affected by the field multiplier!
+{.is-warning}
+
 ## Scoring When *Dekiyaku* Are Present
 If any player possesses at least one dekiyaku in their score pile, then points are scored in the following manner.
 
@@ -196,7 +199,7 @@ If dekiyaku have been formed, but players kept calling *sage* until they all ran
 The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
 
 ## Scoring With No *Dekiyaku*
-If no player has managed to form any dekiyaku, then the points values of the cards are counted to determine the winner.
+If no player has managed to form any dekiyaku, then the players count the point values of the cards in their score pile to determine the winner.
 
 The values of the cards are standard, as follows:
 |Card Type|Value|Number in Deck|
@@ -206,6 +209,8 @@ The values of the cards are standard, as follows:
 |Ribbon|5|10|
 |Chaff|1|24|
 The total point value of the entire deck is 264. Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
+
+Before scoring is calculated, however, there are three special circumstances that need to be checked for. 
 
 
 # Card Values
