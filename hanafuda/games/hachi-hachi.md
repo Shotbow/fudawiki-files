@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T09:52:33.878Z
+date: 2021-04-13T09:54:13.428Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -402,6 +402,7 @@ The player with the most total points at the end of the campaign is the winner.
 - https://web.archive.org/web/20051125014841/http://hana.kirisame.org/hachihachi.html
 - https://www.notion.so/Curriculum-eaa9ca175b1b4cff903db2dcc426b485
 - http://kzpn200.blogspot.com/2015/02/rules-of-hachi-hachi-or-eighty-eight.html
+- Nintendo's Hachi-Hachi leaflet
 
 
 
