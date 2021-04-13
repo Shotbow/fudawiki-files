@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:43:29.792Z
+date: 2021-04-13T05:46:08.448Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -223,7 +223,14 @@ Before scoring is calculated, however, there are three special circumstances tha
 As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards. This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. This player is the winner of the round, and becomes the dealer for the next.
 
 ### Totalling Scores
-Assuming that none of *All Eights*, *Double Eights* or *Sixteen Chaff* have occured, 
+Assuming that none of *All Eights*, *Double Eights* or *Sixteen Chaff* have not occured, then points are awarded as follows.
+
+First, the teyaku payments from the beginning of the round are made.
+
+Then, each player determines their score as follows:
+
+`Player's Score = (Total of Player's Captured Card Points - 88) x Field Multiplier`
+
 
 
 # Card Values
