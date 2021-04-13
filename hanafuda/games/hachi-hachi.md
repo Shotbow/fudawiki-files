@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T11:44:13.753Z
+date: 2021-04-13T11:49:35.869Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -397,7 +397,9 @@ Play as many years (sets of 12 rounds) as there are players at the table. At the
 
 This pot is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
 
-The player with the most total points at the end of the campaign is the winner.
+Should a player run out of chips, they may borrow more from the bank. These loans come in fixed units of 50 *kan*, and each is accompanied by a token indicating the debt.
+
+The player with the most total points at the end of the campaign is the winner [吟味 - ぎんみ, *ginmi*].
 
 # Bibliography
 *(todo: rework this)*
