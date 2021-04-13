@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T07:12:46.196Z
+date: 2021-04-13T07:15:58.412Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -282,7 +282,8 @@ Hachi-Hachi is notably slim on dekiyaku compared to other *Hana-Awase* fishing g
 |<h2 align="center">Animal Yaku</h2>|||
 |7|Boar, Deer, Butterflies - 猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
 
-
+# Hachi-Hachi for Two Players
+Hachi-Hachi works best with a minimum of three players, 
 
 # Card Values
 |Card Type|Value|Number in Deck|
