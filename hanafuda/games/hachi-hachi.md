@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:11:27.523Z
+date: 2021-04-13T04:12:41.091Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -147,7 +147,7 @@ If a card is played that matches something on the table, then the player *must* 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 
 ## *Dekiyaku*, *Sage* and *Shoubu*
-One a player has played their two cards- one from their hand, and one from the draw pile- they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*].
+One a player has played their two cards- one from their hand, and one from the draw pile- they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. Similar to the yaku in other games, dekiyaku are certain valuable combinations of cards that the players seek to assemble in their scoring piles.
 
 # Card Values
 |Card Type|Value|Number in Deck|
