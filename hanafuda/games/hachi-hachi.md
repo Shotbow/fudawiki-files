@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T00:58:55.513Z
+date: 2021-04-13T01:03:15.404Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -37,7 +37,7 @@ Since points are almost always scored in whole numbers of *kan*, the choice of s
 
 Since the value of individual cards is also measured in points, this can likewise affect how card points are converted into scores. For example, a single Bright card is worth 20 points, which is 2 *kan* in the decimal system and 1 *kan* 8 points in the dozenal.
 
-For uniformity, this page gives all scores in *kan*. 
+For uniformity, this page gives all scores in *kan*. Pick whichever system of scoring you prefer, then multiply these *kan* values by either 12 or 10 to obtain their equivalent in points.
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
