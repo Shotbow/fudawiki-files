@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T06:25:29.798Z
+date: 2021-04-13T06:27:34.701Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -147,14 +147,14 @@ If a card is played that matches something on the table, then the player *must* 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 
 ## *Dekiyaku*, *Sage* and *Shoubu*
-One a player has played their two cards- one from their hand, and one from the draw pile- they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. Similar to the yaku in other games, dekiyaku are certain valuable combinations of cards that the players seek to assemble in their scoring piles.
+One a player has played their two cards- one from their hand, and one from the draw pile- they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. Similar to the yaku in other games, dekiyaku are certain valuable combinations of cards that the players seek to assemble in their scoring piles. A list of dekiyaku and their point values are given further down the page.
 
 If a player has either formed a new dekiyaku or improved an existing one, then they must choose whether to call *sage* to continue the round, or *shoubu* to conclude it, as detailed below. If not, then their turn ends, and the next player takes their turn.
 
 ### *Sage*
 If the player calls to continue [下げ - さげ, *sage*], then the round continues. Their turn ends, and play passes to the next player. This affords the player an opportunity to either form a second dekiyaku or improve their current one for more points- although they suffer penalties if they fail to accomplish this before another player forms their own dekiyaku, or before the round ends.
 
-> Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue as many times as they choose.
+> Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue the round as many times as they choose.
 {.is-info}
 
 ### *Shoubu*
@@ -263,7 +263,7 @@ If this player, by the end of the round, has managed to capture 89 or more total
 The game proceeds for as many rounds as were agreed upon- typically 12. Once all the rounds have been played, the player with the highest total score is the winner.
 
 # Dekiyaku
-
+Hachi-Hachi is notably slim on dekiyaku compared to other *Hana-Awase* fishing games. 
 
 |Value (in *kan*)|Name of Yaku|Description|
 |:---:|:---:|:---:|
