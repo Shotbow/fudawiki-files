@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T09:15:28.214Z
+date: 2021-04-13T09:20:39.272Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -361,7 +361,10 @@ The 6 non-blank cards in this player's hand are placed face-up on the table to b
 # Variations and Additional Rules
 
 ## Dealer Hand Swap
+After the cards are dealt, but before the players look at their hands, any player may ask to swap their hand for the dealer's hand. Accounts vary as to whether each player can do this only once, or as many times as desired.
 
+> Note that you are swapping *for the dealer's hand*, not *with the dealer*. For example, if Player A calls to swap with the dealer, then other players must now call to swap with Player A, since they hold the dealer's hand.
+{.is-info}
 
 
 
