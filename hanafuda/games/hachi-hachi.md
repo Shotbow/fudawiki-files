@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T03:06:34.573Z
+date: 2021-04-13T03:07:23.850Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -105,7 +105,7 @@ The teyaku are as follows:
 |6|Two Triplets - 二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
 |7|Triplet and Standing Triplet - 三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
 |8|Two Standing Triplets - 二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
-|4|Three Pairs - 喰付 [くっつき, *kuttsuki*]|Three pairs of cards, a pair being two cards from the same month.|
+|4|Three Pairs - 喰付 [くっつき, *kuttsuki*] (lit. *nibble?*)|Three pairs of cards- a pair being two cards from the same month.|
 |6|Four of a Kind|Four cards from the same month.|
 |7|Triplet and Two Pairs|A Triplet and two pairs.|
 |8|One-Two-Four|Four of a kind, a pair, and a singleton.|
