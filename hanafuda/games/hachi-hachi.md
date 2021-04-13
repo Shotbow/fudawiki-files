@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:57:49.798Z
+date: 2021-04-13T05:10:43.430Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -174,11 +174,26 @@ If any player possesses at least one dekiyaku in their score pile, then points a
 
 First, the teyaku payments from the beginning of the round are made.
 
-Then, the dekiyaku are scored based on how the round ended.
+Then, the dekiyaku are scored based on how the round ended, as follows.
 
 ### If a Player Called *Shoubu*
+The player who called *shoubu* is paid the total value of their dekiyaku by each of their opponents. If one of the opponents has previously called *sage* while the other one has not, then the one who called *sage* pays double, while the one who did not pays nothing.
 
+Only the player who called *shoubu* scores in this fashion. The opponents do not score anything for any dekiyaku they might possess.
 
+The player who called *shoubu* will be the winner of the round, and becomes the dealer for the next.
+
+### If a Player Elected to Cancel
+The player who cancelled is paid *half* the total value of their dekiyaku by each opponent.
+
+Only the player who cancelled scores in this fashion. The opponents do not score anything for any dekiyaku they might possess.
+
+The player who cancelled will be the winner of the round, and becomes the dealer for the next.
+
+### If the Hands Are Exhausted
+If dekiyaku have been formed, but players kept calling *sage* until they all ran out of cards, then every player is paid *half* the total value of their dekiyaku by each of their opponents.
+
+The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
 
 # Card Values
 |Card Type|Value|Number in Deck|
