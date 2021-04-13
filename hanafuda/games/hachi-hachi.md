@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:50:45.469Z
+date: 2021-04-13T04:57:49.798Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -120,7 +120,7 @@ The teyaku are as follows:
 
 The teyaku in each group are mutually exclusive; each player scores for their single most valuable teyaku in each of Groups A and B. In order to claim their teyaku, a player must reveal all the relevant cards from their hand. For teyaku in Group A, this is all cards that are part of the combination. For teyaku in Group B, only the Chaff cards need to be shown.
 
-The points earned for teyaku are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. Thus, it seems more sensible to simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.
+The points earned for teyaku are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. Thus, the players should simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.
 
 Once teyaku are claimed, the players hide their cards again, and the round begins.
 
@@ -167,9 +167,16 @@ If a player has previously called *sage* to continue, then they may, at the begi
 
 The round ends either when a player forms a dekiyaku then calls to *end* or *cancel*, or when all players have run out of cards in their hands.
 
-Scoring is handled differently depending on whether or not any player managed to form a dekiyaku. In they have, then only the dekiyaku are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). If no dekiyaku have been made, then card points are totalled and used to determine the winner.
+Scoring is handled differently depending on whether or not any player managed to form a dekiyaku. In they have, then only the dekiyaku are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). If no dekiyaku have been made, then card points are totalled and used to determine the winner. The following sections outline each of these two methods.
 
+## Scoring When *Dekiyaku* Are Present
+If any player possesses at least one dekiyaku in their score pile, then points are scored in the following manner.
 
+First, the teyaku payments from the beginning of the round are made.
+
+Then, the dekiyaku are scored based on how the round ended.
+
+### If a Player Called *Shoubu*
 
 
 
