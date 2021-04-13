@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T03:33:29.072Z
+date: 2021-04-13T04:00:13.450Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -89,7 +89,7 @@ If the current round already has a multiplier that was carried over from some pr
 Alternatively, some play with a simpler, higher-stakes rule in which all field multipliers stack. So, in the example above, the field multiplier for the round will be a hefty 32 (4 x 4 x 2)!
 
 # Teyaku
-Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and earn points based on them. These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.
+Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.
 
 Hachi-Hachi stands out among other other games of the *Hana-Awase* family for its exceptionally large repertoire of teyaku, which is understandably daunting to new players.
 
@@ -118,7 +118,19 @@ The teyaku are as follows:
 |4|One Bright - 光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
 |4|Empty Hand - 空素 [からす, *karasu*]|Seven Chaff cards.|
 
+The teyaku in each group are mutually exclusive; each player scores for their single most valuable teyaku in each of Groups A and B. In order to claim their teyaku, a player must reveal all the relevant cards from their hand. For teyaku in Group A, this is all cards that are part of the combination. For teyaku in Group B, only the Chaff cards need to be shown.
 
+The points earned for teyaku are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. Thus, it seems more sensible to simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.
+
+Once teyaku are claimed, the players hide their cards again, and the round begins.
+
+Should a player overlook certain teyaku, or otherwise forget to claim them, they have until the dealer takes the first card from the draw pile in order to do so. After this point, any unclaimed teyaku are void.
+
+> Remember that the field multiplier affects *all* exchanges of points between players, including teyaku payments!
+{.is-warning}
+
+> Many rulesets for Hachi-Hachi list each possible combination of teyaku from Group A and Group B separately. There are 66 such possible combinations, which naturally makes the teyaku look overwhelming! The most valuable combination is *Four-Three* plus *Empty Hand*. It's *incredibly* rare, and there's only one possible way to form it. As an exercise, see if you can work out how.
+{.is-info}
 
 
 # Card Values
