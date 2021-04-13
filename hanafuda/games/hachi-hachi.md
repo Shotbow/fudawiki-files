@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T09:32:44.435Z
+date: 2021-04-13T09:43:10.096Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -370,12 +370,21 @@ After the cards are dealt, but before the players look at their hands, any playe
 {.is-info}
 
 ### Special Achievement: *Dealer's Hand*
-If, at the end of the round, the player who held the dealer's hand has scored above par- i.e. captured at least 89 total card points- then they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
+If, at the end of the round, the player who held the dealer's hand has captured at least 89 total card points, then they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
 
-> As a special achievement, these payments are cancelled
+> As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
+{.is-info}
 
 ## *Mizuten*
+After the cards are dealt, but before the players look at their hands, the dealer may declare their intent to play blind [不見転 - むずてん, *mizuten*]. Once this is declared, the dealer is committed to playing the round and may not drop out.
 
+### Special Achievement: *Mizuten*
+If the dealer, having declared their intent to play blind, manages to capture at least 89 card points by the end of the round, they are paid 1 *kan* by *all* other players, including the inactive ones (though not including the 7th player who was forced out by the blank card).
+
+Conversely, if they fail to capture at least 89 card points, they must pay 1 *kan* to each of the other two active players.
+
+> As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
+{.is-info}
 
 
 
