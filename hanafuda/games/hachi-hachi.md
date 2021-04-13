@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T01:35:10.655Z
+date: 2021-04-13T01:43:54.768Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -68,7 +68,13 @@ If 4 cards of the same month are dealt to the table, then a misdeal is declared 
 {.is-success}
 
 ## The Field Multiplier
+Next, the number of Bright cards in the field is counted to determine the *field multiplier*. This multiplier applies to *all* exchanges of points between players, for the entire duration of the round.
 
+### Small Field
+A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.
+
+### Large Field
+A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun)
 
 # Teyaku
 
