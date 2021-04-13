@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T07:28:25.424Z
+date: 2021-04-13T08:27:16.855Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -297,7 +297,34 @@ Secondly, if the round ends without any teyaku being formed, then the scoring is
 
 This amount is then paid to the winner by the loser.
 
-# Hachi-Hachi for 4-6 players
+# Hachi-Hachi for 4-6 Players
+While only three players take part in any given round- using the rules as described above- it is entirely possible for 4-6 players to participate in the game as a whole. Indeed, many accounts consider it preferable to have a minimum of 4 players, since this introduces an additional drop-out phase at the beginning of each round and adds to the depth of the game.
+
+## Initial Setup
+The dealer is chosen as usual, and the cards are dealt to each player as previously described- 7 cards to each player and 6 to the field, with the remainder as the draw pile.
+
+If 6 people are playing, then there will be nothing left of the deck to serve as a draw pile, but this will be remedied shortly.
+
+Misdeals are checked for, and the field multiplier is determined as usual.
+
+Then, the players pick up their cards, and the dropout phase begins.
+
+## The Dropout Phase
+Each player then evaluates their hand to decide if they would like to play this round, or sit out.
+
+Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
+
+To discourage needless dropping out, a *dropout penalty* is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
+
+If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
+
+If only one player wishes to play, then obviously no game can occur. This sole remaining player is the *de facto* winner of the round, and claims the entire contents of the pot.
+
+If nobody wishes to play, then a misdeal is declared; the cards are thrown in and re-dealt.
+
+> Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round.
+{.is-info}
+
 
 
 # Card Values
