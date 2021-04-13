@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T06:31:31.350Z
+date: 2021-04-13T06:32:22.188Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -264,6 +264,8 @@ The game proceeds for as many rounds as were agreed upon- typically 12. Once all
 
 # Dekiyaku
 Hachi-Hachi is notably slim on dekiyaku compared to other *Hana-Awase* fishing games. The ones it does have are all common to multiple other games.
+
+*Five Brights* and *Four Brights* are mutually exclusive, but outside of that, all points earned from dekiyaku are cumulative.
 
 |Value (in *kan*)|Name of Yaku|Description|
 |:---:|:---:|:---:|
