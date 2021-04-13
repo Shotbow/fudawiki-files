@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T01:43:54.768Z
+date: 2021-04-13T01:50:47.452Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -74,7 +74,10 @@ Next, the number of Bright cards in the field is counted to determine the *field
 A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.
 
 ### Large Field
-A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun)
+A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Flower Viewing Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), or [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) Brights are on the field. All point exchanges will be doubled for this round.
+
+### Grand Field
+A *grand field* [絶場 - ぜつば, *zetsuba*]
 
 # Teyaku
 
