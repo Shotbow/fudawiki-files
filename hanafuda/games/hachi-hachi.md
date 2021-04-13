@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:54:42.822Z
+date: 2021-04-13T06:00:12.624Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -239,6 +239,12 @@ The winner of the round is the player with the highest total captured card point
 {.is-info}
 
 ## Special Achievements
+Once the scoring is completed- regardless of which method was used, or whether any dekiyaku were made- and the winner of the round determined, there is a final exchange of points for certain special achievements the players may have accomplished during the round.
+
+These special achievements do *not* apply if any of *All Eights*, *Double Eights*, or *Sixteen Chaff* occured, since these rare circumstances cancel all other forms of scoring.
+
+> Remember, the field multiplier applies to special achievements, too! It applies to *everything!*
+{.is-warning}
 
 
 # Card Values
