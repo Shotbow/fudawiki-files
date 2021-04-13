@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T09:52:14.736Z
+date: 2021-04-13T09:52:33.878Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -405,13 +405,3 @@ The player with the most total points at the end of the campaign is the winner.
 
 
 
-# Card Values
-|Card Type|Value|Number in Deck|
-|:---:|:---:|:---:|
-|Bright|20|5|
-|Animal|10|9|
-|Ribbon|5|10|
-|Chaff|1|24|
-The total value of cards in the deck is 264.
-
-# Dekiyaku
