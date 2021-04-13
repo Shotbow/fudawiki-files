@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T10:57:12.828Z
+date: 2021-04-13T11:00:24.949Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -306,7 +306,7 @@ While only three players take part in any given round- using the rules as descri
 ## Initial Setup
 The dealer is chosen as usual, and the cards are dealt to each player as previously described- 7 cards to each player and 6 to the field, with the remainder as the draw pile.
 
-If 6 people are playing, then there will be nothing left of the deck to serve as a draw pile, but this will be remedied shortly.
+If 6 people are playing, then there will be nothing left of the deck to serve as a draw pile, but this will be remedied at the end of the dropout phase.
 
 Misdeals are checked for, and the field multiplier is determined as usual.
 
