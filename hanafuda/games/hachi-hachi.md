@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:22:33.918Z
+date: 2021-04-13T05:43:29.792Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -210,7 +210,20 @@ The values of the cards are standard, as follows:
 |Chaff|1|24|
 The total point value of the entire deck is 264. Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
 
-Before scoring is calculated, however, there are three special circumstances that need to be checked for. 
+Before scoring is calculated, however, there are three special circumstances that need to be checked for. These unique situations cancel all other forms of scoring, including teyaku payments.
+
+### *All Eights*
+*All Eights* [総八 - そうはち, *souhachi*] occurs when every player has captured exactly 88 card points. In this situation, the dealer claims 10 *kan* from each opponent. The dealer is the winner of the round, and remains dealer for the next.
+
+### *Double Eights*
+
+*Double Eights* [二八 - ふたはち, *futahachi*] occurs when a single player scores at least 80 above the par value, i.e. when they capture 168 or more total card points. This player takes 10 *kan* from each opponent, plus 1 additional *kan* for every point above 168. This player is the winner of the round, and becomes the dealer for the next.
+
+### *Sixteen Chaff*
+As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards. This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. This player is the winner of the round, and becomes the dealer for the next.
+
+### Totalling Scores
+Assuming that none of *All Eights*, *Double Eights* or *Sixteen Chaff* have occured, 
 
 
 # Card Values
