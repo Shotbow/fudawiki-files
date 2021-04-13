@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T03:28:26.994Z
+date: 2021-04-13T04:06:10.420Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -21,9 +21,9 @@ Player should first agree on the duration of the game - some common options are 
 ## End of Round
 **The round ends as soon as a player has captured one of the "Instant Win" yaku.** Otherwise, players continue taking turns until they have both exhausted their hands, at which point they add up the points for all yaku they have collected. **The player who has earned the most points from yaku is declared the winner of the round.**
 ### Breaking Ties
-If, however, neither player has completed any yaku, or otherwise their yaku **scores are the same**, then **the player who has captured the most Chaff cards wins**.
+If, however, neither player has completed any yaku, or otherwise their **yaku scores are the same**, then **the player who has captured the most Chaff cards wins**.
 
-If players are tied with regards to both yaku **and** number of Chaff captured, 
+If players are tied with regards to both yaku **and** number of Chaff captured, each player totals the sum of card points for their respective captured cards, according to the Card Values chart below. 
 # Yaku
 As described in "Setup" above, players choose only one of two sets of yaku to count each round. This decision should be made prior to the deal, before either player has any information. If the players cannot agree on a set to use, the choice defaults to the dealer's preference.
 
@@ -80,6 +80,8 @@ Set two has fewer yaku total, but has one more yaku that grants an instant victo
 |Instant Win|Red Four|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)|
 
 # Card Values
+
+
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
 - *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 52-58.
