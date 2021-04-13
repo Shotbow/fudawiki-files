@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T02:09:54.551Z
+date: 2021-04-13T02:16:35.712Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -89,7 +89,7 @@ If the current round already has a multiplier that was carried over from some pr
 Alternatively, some play with a simpler, higher-stakes rule in which all field multipliers stack. So, in the example above, the field multiplier for the round will be a hefty 32 (4 x 4 x 2)!
 
 # Teyaku
-
+One the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*]. 
 
 # Card Values
 |Card Type|Value|Number in Deck|
