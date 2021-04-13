@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T12:02:05.603Z
+date: 2021-04-13T12:36:39.837Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -333,7 +333,7 @@ As soon as three people decide to play, then any players who have not yet had th
 The total compensation is the sum of the following:
 - Half the value of the hand's teyaku score.
 - Half the value of any complete dekiyaku in the hand.
-- 3 points for every card in the hand that belongs to the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku.
+- 3 points for every card in the hand that contributes to either the *Five Brights*, *Poetry Ribbons*, *Blue Ribbons*, or *Boar, Deer, Butterflies* (if used) dekiyaku, and which are not already included in a teyaku or dekiyaku.
 
 This compensation is paid to the player by each of the two *non-dealer* active players.
 
