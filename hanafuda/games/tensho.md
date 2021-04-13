@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T03:00:48.134Z
+date: 2021-04-13T03:04:27.722Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -23,7 +23,7 @@ Player should first agree on the duration of the game - some common options are 
 # Yaku
 As described in "Setup" above, players choose only one of two sets of yaku to count each round. This decision should be made prior to the deal, before either player has any information. If the players cannot agree on a set to use, the choice defaults to the dealer's preference.
 
-Note that many of the yaku names only make sense in the context of the Nagoya [suit order](/en/hanafuda/suits#arrangement-of-suits), with "Horse" representing the value "11" and "King" representing "12" - these terms likely indicate that the game was originally played with a deck of karuta containing these "court" cards, and only later was it adapted to hanafuda.
+Note that many of the yaku names only make sense in the context of the Nagoya [suit order](/en/hanafuda/suits#arrangement-of-suits), with "Horse" representing the value "11" and "King" representing "12" - these terms likely indicate that the game was originally played with a deck of tensho or mekuri karuta containing these "court" cards, and only later was it adapted to hanafuda.
 
 Many of the non-numeric yaku names may also be numeric puns - for instance, *yashima* may be interpreted as *ya shima*, "eight islands," or as *ya-shi-ma* "eight-four-horse."
 ## Both Sets
