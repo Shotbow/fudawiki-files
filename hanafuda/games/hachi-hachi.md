@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T00:48:59.262Z
+date: 2021-04-13T00:51:19.926Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -31,7 +31,7 @@ This is done via a kind of 'auction' vaguely reminscient of the bidding phases f
 For simplicity, these rules will describe the three-player version of the game first. However, this is not to imply that Hachi-Hachi is fundamentally *only* a three-player game, or that it works best with three players. The choice of whether to stay or drop out is an interesting and strategic one, and it is commonly claimed the game is more exciting with larger groups.
 
 ## A Note on Scoring
-Scores in Hachi-Hachi are measured in two units, *kan* [貫 - かん, *kan*] and points.
+Scores in Hachi-Hachi are measured in two units, *kan* [貫 - かん, *kan*] and points. Traditionally, the game uses a dozenal system, where 1 *kan* equals 12 points.
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
