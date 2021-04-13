@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T07:02:56.991Z
+date: 2021-04-13T07:12:46.196Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -267,7 +267,7 @@ Hachi-Hachi is notably slim on dekiyaku compared to other *Hana-Awase* fishing g
 
 *Five Brights* and *Four Brights* are mutually exclusive, but outside of that, all points earned from dekiyaku are cumulative.
 
-> A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included. If a player holds all but one of the cards needed for one of these dekiyaku, and one of their opponents deliberately leaves the remaining card on the table to be captured, then that opponent pays *double* what they otherwise would for that dekiyaku at scoring time, while the other opponent pays nothing.
+> A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included. If a player holds all but one of the cards needed for one of these dekiyaku, and one of their opponents deliberately leaves the remaining card on the table to be captured, then that opponent pays *double* what they otherwise would for that dekiyaku at scoring time, while the other opponent pays nothing for it.
 {.is-info}
 
 |Value (in *kan*)|Name of Yaku|Description|
