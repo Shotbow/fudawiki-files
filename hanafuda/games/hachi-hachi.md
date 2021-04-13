@@ -1,8 +1,8 @@
 ---
 title: Hachi-Hachi
-description: A popular hanafuda game, usually for 3 players. Also known as “88”
+description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T07:15:58.412Z
+date: 2021-04-13T07:27:40.731Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -283,7 +283,19 @@ Hachi-Hachi is notably slim on dekiyaku compared to other *Hana-Awase* fishing g
 |7|Boar, Deer, Butterflies - 猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
 
 # Hachi-Hachi for Two Players
-Hachi-Hachi works best with a minimum of three players, 
+While Hachi-Hachi works best with a minimum of three players, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
+
+The deal is the same as for three players- 7 cards in each player's hand, 6 on the field, and the remainder of the deck as a draw pile.
+
+The game then proceeds as in the three player version. The field multiplaier is determined, teyaku are claimed, the round is played, and scores are determined at the end. There are only two differences:
+
+Firstly, special achievements are not recognised, and neither are *All Eights*, *Double Eights*, or *Sixteen Chaff*.
+
+Secondly, if the round ends without any teyaku being formed, then the scoring is slightly different. While each player still counts their captured card points to determine the winner, comparing against the par value of 88 only makes sense with three players. Instead, the players calculate the following:
+
+`Payment = (Winner's Total Card Points - Loser's Total Card Points) x Field Multiplier`
+
+This amount is then paid to the winner by the loser.
 
 # Card Values
 |Card Type|Value|Number in Deck|
