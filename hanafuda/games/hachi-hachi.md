@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T14:12:35.071Z
+date: 2021-04-13T14:26:45.337Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -118,7 +118,7 @@ The teyaku are as follows:
 |4|One Bright - 光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
 |4|Empty Hand - 空素 [からす, *karasu*]|Seven Chaff cards.|
 
-The teyaku in each group are mutually exclusive; each player scores for their single most valuable teyaku in each of Groups A and B. In order to claim their teyaku, a player must reveal all the relevant cards from their hand. For teyaku in Group A, this is all cards that are part of the combination. For teyaku in Group B, only the Chaff cards need to be shown.
+The teyaku within each group are mutually exclusive; each player scores for their single most valuable teyaku in each of Groups A and B. In order to claim their teyaku, a player must reveal all the relevant cards from their hand. For teyaku in Group A, this is all cards that are part of the combination. For teyaku in Group B, only the Chaff cards need to be shown.
 
 The points earned for teyaku are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. Thus, the players should simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.
 
