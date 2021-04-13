@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:10:43.430Z
+date: 2021-04-13T05:12:30.215Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -194,6 +194,8 @@ The player who cancelled will be the winner of the round, and becomes the dealer
 If dekiyaku have been formed, but players kept calling *sage* until they all ran out of cards, then every player is paid *half* the total value of their dekiyaku by each of their opponents.
 
 The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
+
+## Scoring With No *Dekiyaku*
 
 # Card Values
 |Card Type|Value|Number in Deck|
