@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T11:31:02.991Z
+date: 2021-04-13T11:44:13.753Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -386,7 +386,13 @@ Conversely, if they fail to capture at least 89 card points, they must pay 1 *ka
 > As a special achievement, these payments are cancelled if any of *All Eights*, *Double Eights* or *Sixteen Chaff* occur.
 {.is-info}
 
-## Campaign
+## The Full Campaign
+At the beginning of the game, each player receives a starting number of points- for example, 25 *kan*- from the bank, which represents their *buy-in*.
+
+Each player then immediately pays a pre-determined amount- for example, 5 *kan*- into a *prize pot*, which will be claimed by the final winner.
+
+Hence, each player begins the game with an amount of chips equal to their buy-in, minus the pot payment- in this example, 20 *kan*.
+
 Play as many years (sets of 12 rounds) as there are players at the table. At the end of each round, the winner of the round puts 1 point in a dedicated pot, so that by the end of the year there will be 12 points (1 *kan*, in the dozenal system) to the pot.
 
 This pot is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
