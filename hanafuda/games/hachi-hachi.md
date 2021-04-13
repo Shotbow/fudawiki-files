@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:24:06.942Z
+date: 2021-04-13T04:27:39.825Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -156,6 +156,12 @@ If the player calls to continue [下げ - さげ, *sage*], then the round contin
 
 > Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue as many times as they choose.
 {.is-info}
+
+### *Shoubu*
+If the player calls to end [勝負 - しょうぶ, *shoubu*], then the round ends, and scores are calculated. This is a safe option, but denies the opportunity to form additional dekiyaku.
+
+### Cancelling a *Sage*
+
 
 # Card Values
 |Card Type|Value|Number in Deck|
