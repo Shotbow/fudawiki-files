@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T01:22:47.089Z
+date: 2021-04-13T01:51:21.438Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -20,7 +20,7 @@ As described in "Setup" above, players choose only one of two sets of yaku to co
 
 Note that many of the yaku names only make sense in the context of the Nagoya [suit order](/en/hanafuda/suits#arrangement-of-suits), with "Horse" representing the value "11" and "King" representing "12" - these terms likely indicate that the game was originally played with a deck of karuta containing these "court" cards, and only later was it adapted to hanafuda.
 ## Both Sets
-The first 12 yaku in Tensho are common to both sets of yaku, and thus are always valid.
+The first 12 yaku in Tensho are common to both sets of yaku, and thus are always valid. There are two other yaku (Front Elder and Back Elder) that technically fall into this category, but they are listed separately since they change values depending on which yaku set is selected.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |100|Front One Two Three|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
@@ -66,9 +66,7 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 |100|Front Elder|[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |Instant Win|Back Elder|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
 |Instant Win|Red Four|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)|
-||||
-||||
-||||
+
 # Card Values
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
