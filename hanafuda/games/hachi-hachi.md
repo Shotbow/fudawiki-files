@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T08:57:52.842Z
+date: 2021-04-13T09:14:21.732Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -348,6 +348,19 @@ Once the active players have been determined, then the non-active players place 
 Once the three active players are determined, the round is played exactly as described in the main bulk of this page. Teyaku are claimed, the hands are played, and scores are determined.
 
 The winner of the round will claim the pot of dropout penalties, then the next round begins with a new dropout phase.
+
+# Hachi-Hachi for 7 Players
+While probably best with 4-6 people, Hachi-Hachi can be adjusted very simply to accommodate 7 players.
+
+This tweak makes use of the additional blank card included with many hanafuda decks. The blank card is shuffled into the deck, then the dealer gives each player 7 cards. No cards are dealt to the field.
+
+Whichever player holds the blank card must announce this fact. This player drops out, and takes no further part in the current round. They are not paid anything, nor do they pay anything to the other players.
+
+The 6 non-blank cards in this player's hand are placed face-up on the table to become the field. Play then proceeds as in 6 player Hachi-Hachi. The blank card is set aside and plays no further part in the round (I suggest using it as a dealer marker).
+
+# Variations and Additional Rules
+
+
 
 
 
