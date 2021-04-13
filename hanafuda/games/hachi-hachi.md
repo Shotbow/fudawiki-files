@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T00:23:40.124Z
+date: 2021-04-13T00:27:25.927Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -19,7 +19,9 @@ Despite being historically unrelated, the game is vaguely reminiscient of mahjon
 ## Equipment
 Hachi-Hachi is, naturally, played with a standard hanafuda deck. Typically, two decks are used- one red-backed, one black-backed- though this is not strictly necessary. While one deck is being played, the other can be shuffled by an inactive player in preparation for the next round. This saves time between rounds, and also means the back colour will alternate with each round, which aids in tracking the current month. (The old 'Hachi-ju-Hachi' book suggests using the red deck for odd-numbered months, and the black deck for even-numbered ones.)
 
-A supply of poker chips, go stones, or other tokens- preferably in a large quantity, and with at least two denominations- will also be immensely helpful for keeping track of scores.
+A supply of poker chips, go stones, or other tokens- preferably in a large quantity, and with at least two denominations- will also be immensely helpful for keeping track of scores. Scores can be kept on paper if required, but this is more cumbersome.
+
+Hachi-Hachi sets will include additional tokens for tracking things such as the field multiplier, *mizuten*, and *ginmi*, along with pots for holding payments. Again, none of these items are strictly necessary.
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
