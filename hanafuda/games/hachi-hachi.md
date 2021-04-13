@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T04:27:39.825Z
+date: 2021-04-13T04:32:08.315Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -161,7 +161,7 @@ If the player calls to continue [下げ - さげ, *sage*], then the round contin
 If the player calls to end [勝負 - しょうぶ, *shoubu*], then the round ends, and scores are calculated. This is a safe option, but denies the opportunity to form additional dekiyaku.
 
 ### Cancelling a *Sage*
-
+If a player has previously called *sage* to continue, then they may, at the beginning of their turn, call to *cancel*, which immediately ends the round. This results in a reduced score for the player in question, but serves as a useful emergency option if it looks like the player will no longer be able to form their second dekiyaku.
 
 # Card Values
 |Card Type|Value|Number in Deck|
