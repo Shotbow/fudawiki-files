@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T06:45:10.645Z
+date: 2021-04-13T06:46:22.799Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -31,7 +31,7 @@ If this is too convoluted, the important thing is to ensure that **each player h
 # Gameplay
 Gameplay proceeds in much the same manner as other fishing games, with the dealer going first. On your turn, add one card from your hand to the field, followed by the top card of the draw pile, matching each of them by suit with a card on the field if possible. If a pair is made, capture those cards and add them to your scoring area.
 
-Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, the dealer automatically captures it.
+Note that since the [Phoenix](/en/hanafuda/suits/paulownia#phoenix) is the only ![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia card used, the player who plays or draws this card simply places it directly to their own scoring area without first sending it to the field. If it is dealt to the field at the beginning of the game, neither player can capture it.
 
 Play continues back and forth with each player repeating the above steps in turn, until either one player has collected an instant-win yaku, or both players have run out of cards.
 
