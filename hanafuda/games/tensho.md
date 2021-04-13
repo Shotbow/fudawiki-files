@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T02:54:02.016Z
+date: 2021-04-13T03:00:48.134Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -12,9 +12,14 @@ dateCreated: 2021-04-12T07:36:24.707Z
 
 # Setup
 Player should first agree on the duration of the game - some common options are 3, 6, or 12 rounds. Choose the initial dealer in whatever manner preferred. In subsequent rounds, the winner of the previous round becomes the new dealer. 
-
+## Yaku Selection
+## Distributing the Cards
 
 # Gameplay
+## Turns
+## Capturing the Phoenix
+## End of Round
+### Breaking Ties
 # Yaku
 As described in "Setup" above, players choose only one of two sets of yaku to count each round. This decision should be made prior to the deal, before either player has any information. If the players cannot agree on a set to use, the choice defaults to the dealer's preference.
 
