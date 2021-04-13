@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3 players. Also known as “88”
 published: true
-date: 2021-04-13T05:46:08.448Z
+date: 2021-04-13T05:47:51.435Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -231,7 +231,7 @@ Then, each player determines their score as follows:
 
 `Player's Score = (Total of Player's Captured Card Points - 88) x Field Multiplier`
 
-
+This will be the total amount of points won or lost by each player. When playing with chips or tokens, players with a negative score pay chips to those with a positive score.
 
 # Card Values
 |Card Type|Value|Number in Deck|
