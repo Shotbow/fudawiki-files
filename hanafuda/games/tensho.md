@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-13T05:14:29.262Z
+date: 2021-04-13T05:25:24.043Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -26,6 +26,8 @@ The dealer shuffles the deck. There is a specific method of dealing the cards as
 8. The dealer chooses one of the stacks of 6 cards to become his hand; the other becomes the opponent's hand.
 9. The stacks of 9 cards are combined to become the draw pile for the game.
 10. Play [Shoniban](/en/hanafuda/games/shoniban) if desired, and reveal the nine cards on the field.
+
+If this is too convoluted, the important thing is to ensure that **each player has a 6-card hand,** and that there are **9 cards face up on the field**, **6 "dead cards"** set aside, and an **18-card draw pile.**
 # Gameplay
 ## Turns
 ## Capturing the Phoenix
