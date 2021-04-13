@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-13T07:27:40.731Z
+date: 2021-04-13T07:28:25.424Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -296,6 +296,9 @@ Secondly, if the round ends without any teyaku being formed, then the scoring is
 `Payment = (Winner's Total Card Points - Loser's Total Card Points) x Field Multiplier`
 
 This amount is then paid to the winner by the loser.
+
+# Hachi-Hachi for 4-6 players
+
 
 # Card Values
 |Card Type|Value|Number in Deck|
