@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-14T17:41:46.576Z
+date: 2021-04-14T17:53:31.382Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -65,7 +65,7 @@ The remainder of the deck is placed face-down next to the field to form the draw
 {.is-success}
 
 ## Field Multiplier
-Next, the number of Bright cards in the field is counted to determine the *field multiplier*. This multiplier applies to *all* exchanges of points between players, for the entire duration of the round.
+Next, the number of Bright cards in the field is counted to determine the *field multiplier*. This multiplier will apply to *all* exchanges of points between players, for the entire duration of the round.
 
 |Name|Description|
 |:---:|:---|
@@ -82,36 +82,36 @@ If the current round already has a multiplier that was carried over from some pr
 * Alternatively, some play with a simpler, higher-stakes rule in which **all field multipliers stack**. *So, in the example above, the field multiplier for the round will be a hefty `32`! (4 x 4 x 2)*
 
 # Teyaku
-Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.
+Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. *These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.*
 
-Hachi-Hachi stands out among other other games of the *Hana-Awase* family for its exceptionally large repertoire of teyaku, which is understandably daunting to new players.
+Hachi-Hachi stands out among other other games of the *Hana-Awase* family for its **exceptionally large repertoire of *teyaku***, which is understandably daunting to new players.
 
-However, the basic teyaku fall into two categories, with all the others being simple combinations of one from each category.
-
-The teyaku are as follows:
+However, the basic teyaku fall into two categories, with all the others being simple combinations of one from each category:
 
 |Value (in *kan*)|Name|Description|
-|:---:|:---:|:---:|
-|<h2 align="center">Group A: Set Teyaku</h2>|||
-|2|Triplet/Three of a Kind - 三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
-|3|Standing Triplet - 立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
-|6|Two Triplets - 二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
-|7|Triplet and Standing Triplet - 三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
-|8|Two Standing Triplets - 二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
-|4|Three Pairs - 喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
-|6|Four of a Kind - 手四 [てし, *teshi*]|Four cards from the same month.|
-|7|Triplet and Two Pairs - 跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet and two pairs.|
-|8|One-Two-Four - 一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
-|20|Four-Three - 四三 [しそう, *shisou*]|Four of a kind and a triplet.|
+|:---:|:---:|:---|
+|<h2 align="left">Group A: Set Teyaku</h2>|||
+|2|Triplet/Three of a Kind<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
+|3|Standing Triplet<br/>立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
+|6|Two Triplets<br/>二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
+|7|Triplet and Standing Triplet<br/>三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
+|8|Two Standing Triplets<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
+|4|Three Pairs<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
+|6|Four of a Kind<br/>手四 [てし, *teshi*]|Four cards from the same month.|
+|7|Triplet and Two Pairs<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet and two pairs.|
+|8|One-Two-Four<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
+|20|Four-Three<br/>四三 [しそう, *shisou*]|Four of a kind and a triplet.|
 
-|<h2 align="center">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
-|2|Red - 赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
-|3|One Ribbon - 短一 [たんいち, *tan'ichi*]|One Ribbon card, six Chaff.|
-|3|One Animal - 十一 [といち, *toichi*]|One Animal card, six Chaff.|
-|4|One Bright - 光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
-|4|Empty Hand - 空素 [からす, *karasu*]|Seven Chaff cards.|
+|<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
+|2|Red<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
+|3|One Ribbon<br/>短一 [たんいち, *tan'ichi*]|One Ribbon card, six Chaff.|
+|3|One Animal<br/>十一 [といち, *toichi*]|One Animal card, six Chaff.|
+|4|One Bright<br/>光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
+|4|Empty Hand<br/>空素 [からす, *karasu*]|Seven Chaff cards.|
 
-The teyaku within each group are mutually exclusive; each player scores for their single most valuable teyaku in each of Groups A and B. In order to claim their teyaku, a player must reveal all the relevant cards from their hand. For teyaku in Group A, this is all cards that are part of the combination. For teyaku in Group B, only the Chaff cards need to be shown.
+The teyaku within each group are mutually exclusive, meaning that **each player scores for their single most valuable teyaku in each of Groups A and B.** In order to claim their *teyaku*, a player must reveal all the relevant cards from their hand: 
+* For teyaku in Group A, show all cards that are part of the combination. 
+* For teyaku in Group B, only the Chaff cards need to be shown.
 
 The points earned for teyaku are paid to a player by each of their two opponents, in typical zero-sum fashion. However, certain situations at the end of the round can sometimes cause these teyaku payments to be cancelled. Thus, the players should simply make a note of these transactions at this point, then make good on them at the end of the round if they are still applicable.
 
