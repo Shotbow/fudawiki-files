@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-14T10:54:54.604Z
+date: 2021-04-14T10:55:33.309Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -27,7 +27,7 @@ Hachi-Hachi sets will include additional tokens for tracking things such as the 
 As with other hanafuda fishing games, Hachi-Hachi only supports having two or three active players in each round. Other players may participate in the game, but at the beginning of each round, it must be determined who will play, and who will drop out. This is done via a kind of 'auction' vaguely reminscient of both the bidding phases found in western trick-taking games like Bridge, and the betting of Poker.
 
 **For simplicity, these rules will describe the three-player version of the game first.** However, this is not to imply that Hachi-Hachi is fundamentally *only* a three-player game, or that it works best with three players. The choice of whether to stay or drop out is an interesting and strategic one, and it is commonly claimed the game is more exciting with larger groups.
-* **See [2 players adaptation](#hachi-hachi-for-two-Players)**
+* **See [2 players adaptation](#hachi-hachi-for-two-players)**
 * **See [4 to 6 players added mechanics](#hachi-hachi-for-4-6-players)**
 * **See [7 players adaptation](#hachi-hachi-for-7-players)**
 
