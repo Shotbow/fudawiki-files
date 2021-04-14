@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-14T17:31:59.231Z
+date: 2021-04-14T17:35:10.672Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -59,7 +59,7 @@ In total, 7 cards are dealt to each player, and 6 cards to the table face-up to 
 
 The remainder of the deck is placed face-down next to the field to form the draw pile.
 
-If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
+* If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
