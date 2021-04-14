@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-14T17:58:03.831Z
+date: 2021-04-14T18:16:48.786Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -140,14 +140,17 @@ On their turn, a player chooses a single card from their hand and plays it to th
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 
 ## *Dekiyaku*, *Sage* and *Shoubu*
-One a player has played their two cards- one from their hand, and one from the draw pile- they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. Similar to the yaku in other games, dekiyaku are certain valuable combinations of cards that the players seek to assemble in their scoring piles. A list of dekiyaku and their point values are given further down the page.
+One a player has played their two cards—one from their hand, and one from the draw pile—they check the contents of their score pile to see if they have formed any *dekiyaku*, or 'built combinations' [出来役 - できやく, *dekiyaku*]. 
 
-If a player has either formed a new dekiyaku or improved an existing one, then they must choose whether to call *sage* to continue the round, or *shoubu* to end it, as detailed below. If this is not the case, then their turn ends, and the next player takes their turn.
+Similar to the *yaku* in other games, *dekiyaku* are certain valuable combinations of cards that the players seek to assemble in their scoring piles. A list of dekiyaku and their point values are given [further down the page](#dekiyaku).
+
+* If a player has either formed a new dekiyaku or improved an existing one, then they must choose whether to call *sage* to continue the round, or *shoubu* to end it, as detailed below. 
+* If this is not the case, then their turn ends, and the next player takes their turn.
 
 ### *Sage*
-If the player calls to continue [下げ - さげ, *sage*], then the round continues. Their turn ends, and play passes to the next player. This affords the player an opportunity to either form a second dekiyaku or improve their current one for more points- although they suffer penalties if they fail to accomplish this before another player forms their own dekiyaku, or before the round ends.
+If the player calls to continue [下げ - さげ, *sage*], then the round continues. Their turn ends, and play passes to the next player. This affords the player an opportunity to either form a second dekiyaku or improve their current one for more points—although they suffer penalties if they fail to accomplish this before another player forms their own dekiyaku, or before the round ends.
 
-> Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue the round as many times as they choose.
+> Unlike in certain versions of [Koi-Koi](/en/hanafuda/games/koi-koi), a player may call to continue the round **as many times as they choose**.
 {.is-info}
 
 ### *Shoubu*
@@ -160,62 +163,45 @@ If a player has previously called *sage* to continue, then they may, at the begi
 
 The round ends either when a player forms a dekiyaku then calls to *end* or *cancel*, or when all players have run out of cards in their hands.
 
-Scoring is handled differently depending on whether or not any player managed to form a dekiyaku. If they have, then only the dekiyaku are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). If no dekiyaku have been made, then card points are totalled and used to determine the winner. The following sections outline each of these two methods.
+Scoring is handled differently depending on whether or not any player managed to form a [*dekiyaku*](#dekiyaku). 
+* If they have, then only the *dekiyaku* are scored for and the point values of the cards are ignored, similarly to [Koi-Koi](/en/hanafuda/games/koi-koi). 
+* If no *dekiyaku* have been made, then card points are totalled and used to determine the winner. 
+
+The following sections will outline each of these two methods.
 
 > Remember that all exchanges of points between players are affected by the field multiplier!
 {.is-warning}
 
 ## Scoring When *Dekiyaku* Are Present
-If any player possesses at least one dekiyaku in their score pile, then points are scored in the following manner.
+If any player possesses at least one dekiyaku in their score pile, then points are scored in the following manner: 
+* First, the teyaku payments from the beginning of the round are made.
+* Then, the dekiyaku are scored based on how the round ended, as follows.
 
-First, the teyaku payments from the beginning of the round are made.
-
-Then, the dekiyaku are scored based on how the round ended, as follows.
-
-### If a Player Called *Shoubu*
-The player who called *shoubu* is paid the total value of their dekiyaku by each of their opponents. If one of the opponents has previously called *sage* while the other one has not, then the one who called *sage* pays double, while the one who did not pays nothing.
-
-Only the player who called *shoubu* scores in this fashion. The opponents do not score anything for any dekiyaku they might possess.
-
-The player who called *shoubu* will be the winner of the round, and becomes the dealer for the next.
-
-### If a Player Elected to Cancel
-The player who cancelled is paid *half* the total value of their dekiyaku by each opponent.
-
-Only the player who cancelled scores in this fashion. The opponents do not score anything for any dekiyaku they might possess.
-
-The player who cancelled will be the winner of the round, and becomes the dealer for the next.
-
-### If the Hands Are Exhausted
-If dekiyaku have been formed, but players kept calling *sage* until they all ran out of cards, then every player is paid *half* the total value of their dekiyaku by each of their opponents.
-
-The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
+|Case|Handling|
+|:---|:---|
+|**If a Player Called *Shoubu***|**The player who called *shoubu* is paid the total value of their dekiyaku by each of their opponents.** Only this player scores in this fashion, the opponents do not score anything for any dekiyaku they might possess. The player who called *shoubu* will be the winner of the round, and becomes the dealer for the next.<br/>⚠️ *If one of the opponents has previously called **sage** while the other one has not, then the one who called **sage** pays double, while the one who did not pays nothing.*|
+|**If a Player Elected to Cancel**|**The player who cancelled is paid *half* the total value of their dekiyaku by each opponent.** Only the player who cancelled scores in this fashion, the opponents do not score anything for any dekiyaku they might possess. The player who cancelled will be the winner of the round, and becomes the dealer for the next.|
+|**If the Hands Are Exhausted**|If dekiyaku have been formed, but players kept calling *sage* until they all ran out of cards, then **every player is paid *half* the total value of their dekiyaku by each of their opponents**. The winner of the round is the player who first called *sage*, and they will be the dealer for the next round.
 
 ## Scoring With No *Dekiyaku*
-If no player has managed to form any dekiyaku, then the players count the point values of the cards in their score pile to determine the winner.
-
-The values of the cards are standard, as follows:
+If no player has managed to form any *dekiyaku*, then the players count the point values of the cards in their score pile to determine the winner. The values of the cards are standard, as follows:
 |Card Type|Value (in points, not *kan!*)|Number in Deck|
 |:---:|:---:|:---:|
 |Bright|20|5|
 |Animal|10|9|
 |Ribbon|5|10|
 |Chaff|1|24|
-The total point value of the entire deck is 264. Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
+**The total point value of the entire deck is `264`.** Since there are three players, and each player could conceivably earn exactly 88 points (one third of 264), the players are only awarded for card points earned *in excess* of the par value of 88.
 
-Before scoring is calculated, however, there are three special circumstances that need to be checked for. These unique situations cancel all other forms of scoring, including teyaku payments. (Remember that the field multiplier still applies!)
+Before scoring is calculated, however, there are three special circumstances that need to be checked for. These unique situations **cancel all other forms of scoring**, including *teyaku* payments. *(Remember that the field multiplier still applies!)*
 
-### *All Eights*
-*All Eights* [総八 - そうはち, *souhachi*] occurs when every player has captured exactly 88 card points. In this situation, the dealer claims 10 *kan* from each opponent. The dealer is the winner of the round, and remains dealer for the next.
+|Case|Description|
+|:---|:---|
+|***All Eights***|*All Eights* [総八 - そうはち, *souhachi*] occurs when every player has captured exactly 88 card points. In this situation, the dealer claims 10 *kan* from each opponent. The dealer is the winner of the round, and remains dealer for the next.|
+|***Double Eights***|*Double Eights* [二八 - ふたはち, *futahachi*] occurs when a single player scores at least 80 above the par value, i.e. when they capture 168 or more total card points. This player takes 10 *kan* from each opponent, plus 1 additional *kan* for every point above 168. This player is the winner of the round, and becomes the dealer for the next.|
+|***Sixteen Chaff***|As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards. This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. They will be the winner of the round, and becomes the dealer for the next.|
 
-### *Double Eights*
-
-*Double Eights* [二八 - ふたはち, *futahachi*] occurs when a single player scores at least 80 above the par value, i.e. when they capture 168 or more total card points. This player takes 10 *kan* from each opponent, plus 1 additional *kan* for every point above 168. This player is the winner of the round, and becomes the dealer for the next.
-
-### *Sixteen Chaff*
-As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards. This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. This player is the winner of the round, and becomes the dealer for the next.
-
-> If this situation occurs together with either *All Eights* or *Double Eights*, then the latter take precedence.
+> If the *Sixteen Chaff* situation occurs together with either *All Eights* or *Double Eights*, then the latter take precedence.
 {.is-info}
 
 ### Totalling Scores
