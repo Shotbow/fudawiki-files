@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-14T10:55:33.309Z
+date: 2021-04-14T17:21:46.939Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -32,13 +32,15 @@ As with other hanafuda fishing games, Hachi-Hachi only supports having two or th
 * **See [7 players adaptation](#hachi-hachi-for-7-players)**
 
 ## A Note on Scoring
-Hachi-Hachi, as a popular gambling game, employs a zero-sum scoring system. Scores are measured in two units, *kan* [貫 - かん, *kan*] and points. Traditionally, the game uses a dozenal system, where 1 *kan* equals 12 points. Modern accounts prefer to use a more conventional decimal system, wherein 1 *kan* equals 10 points.
+**Hachi-Hachi, as a popular gambling game, employs a zero-sum scoring system.** Scores are measured in two units, *kan* [貫 - かん, *kan*] and points. Traditionally, the game uses a dozenal system, where 1 *kan* equals 12 points. Modern accounts prefer to use a more conventional decimal system, wherein 1 *kan* equals 10 points.
 
 Since points are almost always scored in whole numbers of *kan*, the choice of system does not matter for most purposes. However, there are a few curcumstances which call for scores to be halved, which can produce values involving half a *kan*. In dozenal, half a *kan* will be 6 points, whereas in decimal it will be 5 points.
 
 Since the value of individual cards is also measured in points, this can likewise affect how card points are converted into scores. For example, a single Bright card is worth 20 points, which is 2 *kan* in the decimal system and 1 *kan* 8 points in the dozenal.
 
-For uniformity, this page gives all scores in *kan*. Pick whichever system of scoring you prefer, then multiply these *kan* values by either 12 or 10 to obtain their equivalent in points.
+> For uniformity, this page gives all scores in *kan*. Pick whichever system of scoring you prefer, then multiply these *kan* values by either 12 or 10 to obtain their equivalent in points.
+{.is-warning}
+
 
 # Setup (3 Players)
 Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards.
