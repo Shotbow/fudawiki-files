@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-14T17:35:10.672Z
+date: 2021-04-14T17:41:46.576Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -64,26 +64,22 @@ The remainder of the deck is placed face-down next to the field to form the draw
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 
-## The Field Multiplier
+## Field Multiplier
 Next, the number of Bright cards in the field is counted to determine the *field multiplier*. This multiplier applies to *all* exchanges of points between players, for the entire duration of the round.
 
-### Small Field
-A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.
+|Name|Description|
+|:---:|:---|
+|Small Field|A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.|
+|Large Field|A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Flower Viewing Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), or [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) Brights are on the field. All point exchanges will be **doubled** for this round.|
+|Grand Field|A *grand field* [絶場 - ぜつば, *zetsuba*] occurs if either the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) is on the field. All point exchanges will be **quadrupled** for this round.
 
-### Large Field
-A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Flower Viewing Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), or [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) Brights are on the field. All point exchanges will be doubled for this round.
-
-### Grand Field
-A *grand field* [絶場 - ぜつば, *zetsuba*] occurs if either the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) is on the field. All point exchanges will be quadrupled for this round.
-
-### Multiple Brights
-If more than one Bright card is on the field, then there are two methods of handling the situation. The most typical is to apply the largest multiplier to the current round, and carry over the other multipliers into subsequent rounds, with the quadruples coming first.
-
-For example, if the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) and the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun) are all on the field, then the current round will be a grand field, the next round will also be a grand field, and the round after that will be a large field.
-
+### Multiple Brights Case
+If more than one Bright card is on the field, then there are two methods of handling the situation :
+* The most typical is to **apply the largest multiplier** to the current round, and carry over the other multipliers into subsequent rounds, with the quadruples coming first.
+*For example, if the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) and the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun) are all on the field, then the current round will be a grand field, the next round will also be a grand field, and the round after that will be a large field.*
 If the current round already has a multiplier that was carried over from some previous round, then any field multipliers that turn up are carried over into future rounds in the same way.
 
-Alternatively, some play with a simpler, higher-stakes rule in which all field multipliers stack. So, in the example above, the field multiplier for the round will be a hefty 32 (4 x 4 x 2)!
+* Alternatively, some play with a simpler, higher-stakes rule in which **all field multipliers stack**. *So, in the example above, the field multiplier for the round will be a hefty `32`! (4 x 4 x 2)*
 
 # Teyaku
 Once the field multiplier is determined, the players check their hands for *teyaku*, or 'hand combinations' [手役 - てやく, *teyaku*], and score points based on them. These are hands that are considered quite poor when it comes to capturing cards, and the points earned for them are a form of compensation.
