@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T06:09:16.407Z
+date: 2021-04-15T06:11:05.240Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -372,6 +372,8 @@ Conversely, if they fail to capture at least 89 card points, they must pay 1 *ka
 {.is-info}
 
 ## The Full Campaign
+A full-length 'campaign' of Hachi-Hachi is typically played in the following manner, facilitated by the items found in a Hachi-Hachi play set.
+
 At the beginning of the game, each player receives a starting number of points- for example, 25 *kan*- from the bank, which represents their *buy-in*.
 
 Each player then immediately pays a pre-determined amount- for example, 5 *kan*- into a *prize pot*, which will be claimed by the final winner.
