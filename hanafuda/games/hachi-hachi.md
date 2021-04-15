@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T06:26:54.681Z
+date: 2021-04-15T06:29:49.342Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -388,13 +388,13 @@ At the end of each round, the winner of the round puts 1 point in a dedicated po
 
 This 'pot' [番個板 - ばんこいた, *bankoita* (lit. 'round-counting board')] is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
 
-Should a player run out of chips, they may borrow more from the bank. These loans come in fixed units, for example of 50 *kan*, and each is accompanied by a token indicating the debt.
+Should a player run out of chips, they may borrow more from the bank. These loans come in fixed units, for example of 50 *kan*, and each is accompanied by a token indicating the debt. (In Nintendo play sets, these debt tokens are shaped like *daruma* dolls.)
 
-The player with the highest total score at any point is known as *ginmi* [吟味 - ぎんみ, *ginmi*]. If a player is *ginmi* for three rounds in a row, they earn a 10 *kan* bonus from each other player.
+The player with the highest total score at any point is known as *ginmi* [吟味 - ぎんみ, *ginmi*]. The play set includes a medal token, which is held by whichever player is currently *ginmi*. If a player is *ginmi* for three rounds in a row, they earn an additional bonus - typically 5 or 10 *kan* - from each other player.
 
 The player with the most total points at the end of the campaign is the winner. This player receives the contents of the prize pot.
 
-Lastly, each player subtracts their 25 *kan* buy-in (with an additional 50 *kan* subtracted for every debt token) to obtain their final scores.
+Lastly, debts must be settled. Each player subtracts their 25 *kan* buy-in (with an additional 50 *kan* subtracted for every debt token) to obtain their final scores.
 
 
 
