@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T06:24:47.861Z
+date: 2021-04-15T06:26:54.681Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -374,7 +374,7 @@ Conversely, if they fail to capture at least 89 card points, they must pay 1 *ka
 ## The Full Campaign
 A full-length 'campaign' of Hachi-Hachi is typically played in the following manner, facilitated by the items found in a Hachi-Hachi play set.
 
-These sets include go stones to serve as score tokens - black being 1 point, and white being 1 *kan* - along with baskets for each player to store them in.
+These sets include go stones to serve as score tokens - black being 1 point, and white being 1 *kan* - along with baskets for each player to store them in. It also includes a number of *kanfuda*, or *kan* cards, which are small tokens bearing numbers - 5, 10, 25, 50, and 100 being common ones - which are each worth their face value in *kan*.
 
 At the beginning of the game, each player receives a starting number of points- for example, 25 *kan*- from the bank, which represents their *buy-in*.
 
