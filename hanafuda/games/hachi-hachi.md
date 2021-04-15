@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T01:55:28.699Z
+date: 2021-04-15T02:02:10.414Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -329,7 +329,7 @@ If the dealer chooses to drop out, then the player to their right becomes the de
 > Some versions of the game allow a player who is *forced out* to barter with one of the players who decided to play, in order to buy them out of the game and play in their place. The minimum amount to be offered when trying to buy a player out should be at least the *hand compensation* value of that player's hand, though room for negotiation is possible.
 {.is-info}
 
-Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile, without showing them to any other players. The draw pile should then probably be shuffled by one of the non-active players before play begins.
+Once the active players have been determined, then the non-active players place their hands face-down on top of the draw pile. The draw pile should then probably be shuffled by one of the non-active players before play begins.
 
 ## Gameplay
 Once the three active players are determined, the round is played exactly as described in the main bulk of this page. Teyaku are claimed, the hands are played, and scores are determined.
