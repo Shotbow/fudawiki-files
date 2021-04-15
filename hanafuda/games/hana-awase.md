@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-15T03:05:17.856Z
+date: 2021-04-15T03:23:20.724Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -33,13 +33,10 @@ The remainder of the deck is placed face-down to form the draw pile.
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
 
-## Misdeals and *Teyaku*
+## Misdeals
 If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 
 Whether or not 4 cards of the same month *in a player's hand* constitutes a misdeal appears to vary by source - the specific answer to this question should probably be agreed upon as a house rule.
-
-> In some versions of the game, two special *teyaku* or 'hand combinations' [手役 - てやく, *teyaku*] are given. These are both fairly simple - if a player has 6 Chaff cards in their opening hand, they are paid 20 points by each other player; and if they have 7 Chaff, they are paid 30 points by each other player.<br><br>To declare these combinations and receive points for them, the player must place all the relevant Chaff cards face-up on the table in front of them. Curiously, they remain on the table for the duration of the round, though they are still considered part of that player's hand and can be played on their turn as normal. Other players, on their turn, may capture these face-up cards in the usual manner. A player cannot, however, capture their own face-up hand cards in this way.<br><br>When playing with this rule, it is possible that one player may run out of cards before the others. If this is the case, they continue to play, but only using cards played from the draw pile.<br><br>Whether or not a player *must* declare these teyaku if they have them is unspecified - more scope for house rules.
-{.is-info}
 
 # Gameplay
 
@@ -136,15 +133,28 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 |10|Paulownia Row - 桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)<br>This yaku is missing in the version of the game from the IndianWolf book.|
 
 # Variations
+
+## Compensation
 Optionally, at the end of the round, compensation for poor performance is given, as follows:
 - If either the dealer or the player to their right have captured 8 cards or fewer, then they receive 30 points from each of the other players.
 - If the player to the left of the dealer has captured 10 cards or fewer, then they receive 30 points from each of the other players.
 
+## Extra *Yaku* Interactions
 Some additional rules for yaku may be used as well:
 - If any player has captured the *Willow Row* yaku, then all points for yaku are cancelled for that round. Each player only scores points based on their captured cards. Alternatively, the owner of the *Willow Row* scores fully as usual, while their opponents score nothing at all.
 - If a player has captured the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), then they cannot score points for any of the *Viewing Yaku*, since the foul weather ruins the festivities.
 
+## Variant Scoring
 In some descriptions, the Chaff cards are worth 0 points, as opposed to 1 point. With this change, the total point value of the deck is 240 points. The par values then become 60 for four players, 8 for three players, and 120 for two players, which simplifies the arithmetic for zero-sum scoring.
+
+## *Teyaku*
+In some versions of the game, two special *teyaku* or 'hand combinations' [手役 - てやく, *teyaku*] are given. These are both fairly simple - if a player has 6 Chaff cards in their opening hand, they are paid 20 points by each other player; and if they have 7 Chaff, they are paid 30 points by each other player.
+
+To declare these combinations and receive points for them, the player must place all the relevant Chaff cards face-up on the table in front of them. Curiously, they remain on the table for the duration of the round, though they are still considered part of that player's hand and can be played on their turn as normal. Other players, on their turn, may capture these face-up cards in the usual manner. A player cannot, however, capture their own face-up hand cards in this way.
+
+When playing with this rule, it is possible that one player may run out of cards before the others. If this is the case, they continue to play, but only using cards played from the draw pile.
+
+Whether or not a player *must* declare these teyaku if they have them is unspecified - more scope for house rules.
 
 # Bibliography
 *(section needs reworking)*
