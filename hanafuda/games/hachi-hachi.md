@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T06:01:40.556Z
+date: 2021-04-15T06:09:16.407Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -299,7 +299,7 @@ Each player then evaluates their hand to decide if they would like to play this 
 
 Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
 
-To discourage needless dropping out, a *dropout penalty* is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
+To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
 
 If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
 
@@ -310,7 +310,7 @@ If nobody wishes to play, then a misdeal is declared; the cards are thrown in an
 > Some versions of the game require that three people play, no matter what. As soon as all but three players have dropped out, the remainder must participate in the round. Sometimes this restriction is only imposed in the later rounds of the game.
 {.is-info}
 
-As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out*. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
+As soon as three people decide to play, then any players who have not yet had their turn to decide are *forced out* [追い込み - おいこみ, *oikomi*]. Since these players may well have valuable hands that they were eager to play, they are paid *hand compensation* based on the value of their hand.
 
 The total compensation is the sum of the following:
 - Half the value of the hand's teyaku score.
