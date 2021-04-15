@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-15T02:58:30.840Z
+date: 2021-04-15T03:01:24.026Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -143,6 +143,8 @@ Optionally, at the end of the round, compensation for poor performance is given,
 Some additional rules for yaku may be used as well:
 - If any player has captured the *Willow Row* yaku, then all points for yaku are cancelled for that round. Each player only scores points based on their captured cards. Alternatively, the owner of the *Willow Row* scores fully as usual, while their opponents score nothing at all.
 - If a player has captured the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), then they cannot score points for any of the *Viewing Yaku*, since the foul weather ruins the festivities.
+
+In some descriptions, the Chaff cards are worth 0 points, as opposed to 1 point. With this change, the total point value of the deck is 240 points. The par values then become 60 for four players, 8 for three players, and 120 for two players, which simplifies the arithmetic for zero-sum scoring.
 
 # Bibliography
 *(section needs reworking)*
