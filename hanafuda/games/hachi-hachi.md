@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T06:19:05.633Z
+date: 2021-04-15T06:24:47.861Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -382,9 +382,11 @@ Each player then immediately pays a pre-determined amount - for example, 5 *kan*
 
 Hence, each player begins the game with an amount of go stones equal to their buy-in, minus the pot payment- in this example, 20 *kan*.
 
-Play as many years (sets of 12 rounds) as there are players at the table. At the end of each round, the winner of the round puts 1 point in a dedicated pot, so that by the end of the year it will contain 12 points (1 *kan*, in the dozenal system).
+Play as many years (sets of 12 rounds) as there are players at the table. The play set includes a token shaped like a *war fan* to track the field multiplier, and a *mizuten* token to track when the dealer has gone in blind.
 
-This pot is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
+At the end of each round, the winner of the round puts 1 point in a dedicated pot, so that by the end of the year it will contain 12 points (1 *kan*, in the dozenal system). Often, this 'pot' is the lid of the box in which the play set is packaged, and possesses 12 small labelled intendations in which the stones are placed.
+
+This 'pot' [番個板 - ばんこいた, *bankoita* (lit. 'round-counting board')] is used to help track the months, and at the end of the year its contents are given to the player with the fewest (or most, depending on source) total points.
 
 Should a player run out of chips, they may borrow more from the bank. These loans come in fixed units, for example of 50 *kan*, and each is accompanied by a token indicating the debt.
 
