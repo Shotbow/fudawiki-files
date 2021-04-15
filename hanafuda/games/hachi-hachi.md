@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T06:30:48.744Z
+date: 2021-04-15T06:32:38.672Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -392,7 +392,7 @@ Should a player run out of chips, they may borrow more from the bank. These loan
 
 The player with the highest total score at any point is known as *ginmi* [吟味 - ぎんみ, *ginmi*]. The play set includes a medal token, which is held by whichever player is currently *ginmi*. If a player is *ginmi* for three rounds in a row, they earn an additional bonus - typically 5 or 10 *kan* - from each other player.
 
-The player with the most total points at the end of the campaign is the winner. This player receives the contents of the prize pot.
+The player with the most total points at the end of the campaign is the winner. This player receives the contents of the prize pot. (in the event of a tie, this pot can be split.)
 
 Lastly, debts must be settled. Each player subtracts their 25 *kan* buy-in (with an additional 50 *kan* subtracted for every debt token) to obtain their final scores.
 
