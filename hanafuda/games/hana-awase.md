@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-15T02:54:36.215Z
+date: 2021-04-15T02:55:25.002Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -99,7 +99,7 @@ This system works strightforwardly for any number of players. In particular, the
 > A 'Low Man Out' rule is commonly used in scoring; if the total value of any player's card points is 20 or less, then the round is considered a draw, and no players score any points. Some versions require a player to announce at the beginning of the round that they intend to go for 'Low Man Out' in order for it to apply. This rule allows players with an extremely poor hand to attempt to force a draw, and prevent their opponents from scoring.
 {.is-info}
 
-The player with the highest score at the end of the round becomes the dealer for the next round. (What should happen in the event of a tie here is, once again, unspecified.) After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
+**The player with the highest score at the end of the round becomes the dealer for the next round**. (What should happen in the event of a tie here is, once again, unspecified.) After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
 
 # Yaku
 As with all hanafuda games, there is variation in the set of allowed yaku. However, while point allotments differ, the sources used for this page are remarkably consistent in the following list. Many of these are classic yaku, found in several other games.
