@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-15T03:23:20.724Z
+date: 2021-04-15T03:26:37.815Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -156,10 +156,13 @@ When playing with this rule, it is possible that one player may run out of cards
 
 Whether or not a player *must* declare these teyaku if they have them is unspecified - more scope for house rules.
 
+> These strange, capture-able teyaku- unlike those found in any other game- are only attested in one source (Graham Leonard's archived hanafuda page). So we know very little about them, other than that they're most likely some weird local variant.
+{.is-info}
+
 # Bibliography
 *(section needs reworking)*
 
 - [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
 - [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications
-- https://web.archive.org/web/20050728142537/http://hana.kirisame.org/hanaawase.html
+- Graham Leonard's archived hanafuda pages: https://web.archive.org/web/20050728142537/http://hana.kirisame.org/hanaawase.html
 
