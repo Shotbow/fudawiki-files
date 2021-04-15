@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T05:38:34.471Z
+date: 2021-04-15T05:44:06.866Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -404,6 +404,7 @@ Lastly, each player subtracts their 25 *kan* buy-in (with an additional 50 *kan*
 - Nintendo's Hachi-Hachi leaflet
 - Nintendo's *Kosai no Tomo* leaflet
 - *Book of American Hachi-ju-Hachi*, by Kiku Ohata
+- *Hana-Awase, The Game of Japanese Cards*, by Rossetsu Uchiyama (despite the title, the game described in this book is undeniably Hachi-Hachi)
 
 
 
