@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-15T03:26:37.815Z
+date: 2021-04-15T03:29:31.560Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -135,12 +135,14 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 # Variations
 
 ## Compensation
-Optionally, at the end of the round, compensation for poor performance is given, as follows:
+At the end of the round, compensation for poor performance is given, as follows:
 - If either the dealer or the player to their right have captured 8 cards or fewer, then they receive 30 points from each of the other players.
 - If the player to the left of the dealer has captured 10 cards or fewer, then they receive 30 points from each of the other players.
 
+These rules are specified in Graham Leonard's account for the three-player version of the game; I don't know how they'd work for other numbers of players.
+
 ## Extra *Yaku* Interactions
-Some additional rules for yaku may be used as well:
+Some additional rules for yaku are sometimes given:
 - If any player has captured the *Willow Row* yaku, then all points for yaku are cancelled for that round. Each player only scores points based on their captured cards. Alternatively, the owner of the *Willow Row* scores fully as usual, while their opponents score nothing at all.
 - If a player has captured the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), then they cannot score points for any of the *Viewing Yaku*, since the foul weather ruins the festivities.
 
