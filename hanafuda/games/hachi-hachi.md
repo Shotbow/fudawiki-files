@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-15T02:29:24.238Z
+date: 2021-04-15T04:42:09.339Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -200,7 +200,7 @@ Before scoring is calculated, however, there are three special circumstances tha
 |:---|:---|
 |***All Eights***|*All Eights* [総八 - そうはち, *souhachi*] occurs when every player has captured exactly 88 card points. In this situation, the dealer claims 10 *kan* from each opponent. The dealer is the winner of the round, and remains dealer for the next.|
 |***Double Eights***|*Double Eights* [二八 - ふたはち, *futahachi*] occurs when a single player scores at least 80 above the par value, i.e. when they capture 168 or more total card points. This player takes 10 *kan* from each opponent, plus 1 additional *kan* for every point above 168. This player is the winner of the round, and becomes the dealer for the next.|
-|***Sixteen Chaff***|As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards. This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. They will be the winner of the round, and become the dealer for the next.|
+|***Sixteen Chaff***|As its name implies, *Sixteen Chaff* [素十六 - すじゅうろく, *sujuuroku*] occurs when a player has managed to capture at least 16 Chaff cards (for this purpose, all [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards count as Chaff). This player takes 12 *kan* from each opponent, plus an additional 2 *kan* for every Chaff card in excess of 16. They will be the winner of the round, and become the dealer for the next.|
 
 > If the *Sixteen Chaff* situation occurs together with either *All Eights* or *Double Eights*, then the latter take precedence.
 {.is-info}
