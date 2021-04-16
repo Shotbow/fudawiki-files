@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-16T15:06:19.173Z
+date: 2021-04-16T15:08:40.010Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -92,7 +92,7 @@ When using this zero-sum scoring method in **a two-player game**, it is importan
 
 Alternatively, groups less inclined to gambling (and mental arithmetic) may prefer the following, much simpler additive scoring system:
 
-`Player's Score = Player's Total Card Points + Total Value of Player's Yaku`
+`Player's Score = Player's Total Card Points + Total Value of Player's Yaku`.
 
 This system works strightforwardly for any number of players. In particular, there is no requirement for *every* card to be played, and two-player games with this scoring system may sometimes specify that the round ends when both players empty their hands, leaving the 8 cards in the draw pile untouched.
 
