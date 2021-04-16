@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-16T15:13:45.031Z
+date: 2021-04-16T16:43:05.528Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -152,6 +152,9 @@ Some additional rules for yaku are sometimes given:
 
 ## Variant Scoring
 In some descriptions, the Chaff cards are worth 0 points, as opposed to 1 point. With this change, the total point value of the deck is 240 points. The par values then become 60 for four players, 80 for three players, and 120 for two players, which simplifies the arithmetic for zero-sum scoring.
+
+## 10-Card Hand
+For two players, the option exists to deal 10 cards to each player at the beginning of the round. This way, the draw pile will be fully exhausted once the players run out of cards, eliminating the need to empty it manually.
 
 ## *Teyaku*
 In some versions of the game, two special *teyaku* or 'hand combinations' [手役 - てやく, *teyaku*] are given. These are both fairly simple - if a player has 6 Chaff cards in their opening hand, they are paid 20 points by each other player; and if they have 7 Chaff, they are paid 30 points by each other player.
