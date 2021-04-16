@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-15T03:30:13.303Z
+date: 2021-04-16T08:08:00.491Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -45,12 +45,15 @@ In each round, the dealer is the first to play, and turn to play passes anti-clo
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table.
 
-* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile. As is typical of hanafuda games, these score piles should be kept face-up with their contents fully displayed.
+* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
 * **If the played card matches with two cards on the table**, then the player may choose which one they capture.
 * **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured).
 * **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
 
 > If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
 {.is-warning}
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
