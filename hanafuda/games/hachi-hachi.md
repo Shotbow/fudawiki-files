@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-16T08:11:57.487Z
+date: 2021-04-16T09:38:13.316Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -237,7 +237,7 @@ Once the scoring is completed—regardless of which method was used, or whether 
 
 If this player, by the end of the round, has managed to capture all four cards of the Triplet's month, then they are paid 1 *kan* by each opponent.
 
-> Sometimes, a *liability* rule is applied: If one of the opponents willingly placed the final month card on the field to be captured, then that opponent pays 2 *kan*, and the other pays nothing.
+> Sometimes, a *liability* rule is applied: If one of the opponents willingly placed the final month card on the field to be captured, and the player aiming for the *diving* bonus captures it on their very next turn, then that opponent pays 2 *kan*, and the other pays nothing.<br><br>This does not apply if the opponent played that card on their final turn (since they have no choice in the matter).
 {.is-info}
 
 ### Escape
