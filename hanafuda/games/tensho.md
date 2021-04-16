@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-15T23:15:59.446Z
+date: 2021-04-16T18:02:28.702Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -75,7 +75,7 @@ Set 1 contains 5 more yaku than Set 2, and emphasizes cards in the ![Icon for mo
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
 |100|Front Seven Five Three|[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|50|Back Seven Five Three|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)|
+|50|Back Seven Five Three|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |100|Front Eight Islands|[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
 |50|Back Eight Islands|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
 |100|Front Four Horse King|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)|
@@ -120,5 +120,5 @@ Set two has fewer yaku total, but has one more yaku that grants an instant victo
 
 # Bibliography
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
-- *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 52-58.
+- *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 52-58.
 - https://web.archive.org/web/20050219222956/http://hana.kirisame.org/tensho.html
