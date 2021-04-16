@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2021-04-16T14:58:58.488Z
+date: 2021-04-16T15:03:51.595Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-20T22:31:01.682Z
@@ -63,7 +63,7 @@ After a card has been played from their hand, the player takes the top card of t
 After both cards have been played- one from the player's hand, and one from the draw pile- the turn ends, and the next player takes their turn.
 
 ## End of Round and Scoring
-The round ends when all players run out of cards in their hand. In a three- or four-player game, this should also coincide with the draw pile being exhausted. In a two-player game, there will be 8 cards remaining in the draw pile.
+The round ends when all players run out of cards in their hand, and when the draw pile is exhausted. In a three- or four-player game, these events should occur together. In a two-player game, there will be 8 cards remaining in the draw pile, and the plays continue to take turns playing a card from it until the draw pile is exhausted.
 
 Traditionally, the game uses a zero-sum scoring system common to many other such hanafuda games - all the better to facilitate gambling. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
 
@@ -88,13 +88,13 @@ In short, the total amount of points gained or lost by each player at the end of
 
 where the *par value* is equal to 264 divided by the number of players - 66 for four players, 88 for three, and 132 for two.
 
-When using this zero-sum scoring method in **a two-player game**, the players should **empty the draw pile** at the end of the round by continuing to take turns playing a card from it until it is exhausted. **The scores will not remain zero-sum unless *all* cards are played and captured!**
+When using this zero-sum scoring method in **a two-player game**, it is important to **empty the draw pile** as described above. **The scores will not remain zero-sum unless *all* cards are played and captured!**
 
 Alternatively, groups less inclined to gambling (and mental arithmetic) may prefer the following, much simpler additive scoring system:
 
 `Player's Score = Player's Total Card Points`
 
-This system works strightforwardly for any number of players. In particular, there is no requirement to empty the draw pile at the end of the round, and two-player games with this scoring system may sometimes specify that the 8 remaining cards in the pile are not played.
+This system works strightforwardly for any number of players. In particular, there is no requirement for *every* card to be played, and two-player games with this scoring system may sometimes specify that the round ends when both players empty their hands, leaving the 8 cards in the draw pile untouched.
 
 **The player with the highest score at the end of the round becomes the dealer for the next round**. (What should happen in the event of a tie here is frequently unspecified, and best agreed upon as a house rule.) After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
 
