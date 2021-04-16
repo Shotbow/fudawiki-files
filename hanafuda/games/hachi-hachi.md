@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-16T08:08:46.405Z
+date: 2021-04-16T08:11:03.088Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -286,7 +286,7 @@ This amount is then paid to the winner by the loser.
 # Hachi-Hachi for 4-6 Players
 While only three players take part in any given round—using the rules as described above—it is entirely possible for 4-6 players to participate in the game as a whole. Indeed, many accounts consider it preferable to have a minimum of 4 players, since this introduces an additional drop-out phase at the beginning of each round and adds to the depth of the game.
 
-*However, when playing with 4 or more people, not every player will participate in every round, so Hachi-Hachi tends to be played for a full 12-round year at minimum. Campaign games are also seen, in which one full year is played for every person at the table! Whatever the case, the length of the game should be decided beforehand.*
+*When playing with 4 or more people, not every player will participate in every round, so Hachi-Hachi with more than 3 people tends to be played for a full 12-round year at minimum. Campaign games are also seen, in which one full year is played for every person at the table! Whatever the case, the length of the game should be decided beforehand.*
 
 ## Initial Setup
 The dealer is chosen as usual, and the cards are dealt to each player as previously described- 7 cards to each player and 6 to the field, with the remainder as the draw pile.
