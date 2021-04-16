@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-15T03:05:56.711Z
+date: 2021-04-16T01:45:19.697Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -84,9 +84,9 @@ These games, while not as widespread today as those listed above, are variously 
 |Takame|-|-|-|
 |[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
 |[Tensho](/en/hanafuda/games/tensho)|2|Fishing|Nagoya region, Japan|
-|Tokotoko|2|Showdown|Nagoya region, Japan|
+|[Tokotoko](/en/hanafuda/games/tokotoko)|2|Showdown|Nagoya region, Japan|
 |Towashi|-|-|-|
-|Yamayaku|2|Fishing|Japan|
+|[Yamayaku](/en/hanafuda/games/yamayaku)|2|Fishing|Japan|
 |Yatchaba|4-6|-|-|
 |Yaku-Bana|-|-|-|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
