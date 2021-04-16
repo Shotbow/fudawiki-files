@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2021-04-16T15:03:51.595Z
+date: 2021-04-16T15:04:16.235Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-20T22:31:01.682Z
@@ -63,7 +63,7 @@ After a card has been played from their hand, the player takes the top card of t
 After both cards have been played- one from the player's hand, and one from the draw pile- the turn ends, and the next player takes their turn.
 
 ## End of Round and Scoring
-The round ends when all players run out of cards in their hand, and when the draw pile is exhausted. In a three- or four-player game, these events should occur together. In a two-player game, there will be 8 cards remaining in the draw pile, and the plays continue to take turns playing a card from it until the draw pile is exhausted.
+The round ends when all players run out of cards in their hand *and* when the draw pile is exhausted. In a three- or four-player game, these events should occur together. In a two-player game, there will be 8 cards remaining in the draw pile, and the plays continue to take turns playing a card from it until the draw pile is exhausted.
 
 Traditionally, the game uses a zero-sum scoring system common to many other such hanafuda games - all the better to facilitate gambling. First, each player adds up the total points of all their captured cards. The values of the cards are completely standard, as follows:
 
