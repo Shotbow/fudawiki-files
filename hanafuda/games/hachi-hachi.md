@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-16T08:11:03.088Z
+date: 2021-04-16T08:11:57.487Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -302,7 +302,7 @@ Each player then evaluates their hand to decide if they would like to play this 
 
 Beginning with the dealer and moving anti-clockwise, each player announces if they would like to play, or drop out. This proceeds until three players have announced their intent to play, or until everyone has had their turn, whichever comes first.
 
-To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
+To discourage needless dropping out, a *dropout penalty* [逃げ料 - にげりょう, *nige-ryou*] is imposed. The first player who chooses to drop out pays 1 *kan*. The second pays 1 and a half *kan*, the third pays 2 *kan*, and so on, with the fee increasing by half a *kan* each time. These payments are held in a pot, which will be claimed by the player who wins the round.
 
 If fewer than three players wish to play, then the situation can be handled in various ways. If only two players wish to play, then they may either agree to split the pot evenly (in which case the round is considered over before it began, and the next round begins, presumably with the same dealer), or they may compete for its contents by playing a round of 2 player Hachi-Hachi.
 
