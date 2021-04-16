@@ -2,7 +2,7 @@
 title: Tokotoko
 description: A quick kabu-style gambling game for two players
 published: true
-date: 2021-04-16T01:28:07.803Z
+date: 2021-04-16T01:37:42.065Z
 tags: alternate suit order, hanafuda games, kabu games, stripped deck
 editor: markdown
 dateCreated: 2021-04-16T00:30:58.973Z
@@ -19,18 +19,22 @@ Then, **2 cards are dealt to each player**, and the **remaining 2 cards are kept
 # Gameplay
 Once all players have looked at their hands, players come to an agreement as to how much money to bet; **all players must put up the same amount before the game can progress.**
 
-Once all players have put up the appropriate amount of money, the **2 field cards are flipped face-up** for all to see. These cards are communal and are able to be used by any and all players.
+Once all players have put up the appropriate amount of money, the **2 field cards are flipped face-up** for all to see. **These cards are communal** and are able to be used by any and all players.
 
 Then, **each player in turn chooses any 3 of the 4 cards available to them to create a *kabu* hand**; this may consist of both hand cards and one field card, or both field cards and one hand card.
 
 **The winner is the player whose selected 3-card hand has the highest value in the ones digit when the 3 card values are summed.** That player earns all the money that was wagered. In the case of a tie, the pot may be split evenly among the winners.
 
-Note that **the card values follow the [Nagoya suit order](/en/hanafuda/suits#arrangement-of-suits)** used in such games as [Hiyoko](/en/hanafuda/games/hiyoko) and [Isuri](/en/hanafuda/games/isuri). For instance, [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards have a value of 1, while the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia) counts as a 6, and [![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony) cards each count as 11.
+Note that **the card values follow the [Nagoya suit order](/en/hanafuda/suits#arrangement-of-suits)** used in such games as [Hiyoko](/en/hanafuda/games/hiyoko) and [Isuri](/en/hanafuda/games/isuri). For instance, [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) cards have a value of 1, while the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia) counts as a 6, and [![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony](/en/hanafuda/suits/peony) cards each count as 11. **Only the suit order matters, not any other characteristics of the card.**
 # Example Round
-Player 1 is dealt the [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon) and  a [![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum Chaff](/en/hanafuda/suits/chrysanthemum#chaff). Player 2 is dealt a [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine Chaff](/en/hanafuda/suits/pine#chaff) and the [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria Ribbon](/en/hanafuda/suits/wisteria#plain-ribbon). They agree to wager $5 apiece.
+**Player 1** is dealt the [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom Ribbon](/en/hanafuda/suits/plum-blossom#poetry-ribbon) and  a [![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum Chaff](/en/hanafuda/suits/chrysanthemum#chaff). **Player 2** is dealt a [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine Chaff](/en/hanafuda/suits/pine#chaff) and the [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria Ribbon](/en/hanafuda/suits/wisteria#plain-ribbon). They agree to wager **$5 apiece.**
 
-The field cards are then revealed to be another [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine Chaff](/en/hanafuda/suits/pine#chaff) and the [![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer).
+The **field cards** are then revealed to be another [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine Chaff](/en/hanafuda/suits/pine#chaff) and the [![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer).
 
+**Player 1** selects the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine), [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Plum Blossom](/en/hanafuda/suits/plum-blossom), and [![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple) cards to make up their hand, for a total value of 1+12+10 = 23. The ones' digit is 3, so their ultimate **hand value is 3.**
 
+**Player 2** selects the 2 [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pines](/en/hanafuda/suits/pine) and the [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards to make up their hand, for a total value of 1+1+4 = 6. The ones' digit is 6, so their ultimate **hand value is 6.**
+
+**Player 2 thus wins this round of Tokotoko, and collects both their own wagered $5 and the $5 wagered by their opponent.**
 # Bibliography
 - *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 66-67.
