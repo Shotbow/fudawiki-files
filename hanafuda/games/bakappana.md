@@ -2,13 +2,17 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2020-11-26T04:03:48.359Z
+date: 2021-04-16T14:40:11.475Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-20T22:31:01.682Z
 ---
 
 *Bakappana* [馬鹿っ花 - ばかっぱな, lit. "foolish flowers"] is a name applied to simplified hanafuda fishing games. As with the name "[Hana-Awase](/en/hanafuda/games/hana-awase)," it may refer to a number of different games, depending on the source and time period in question.
+
+The source of Bakappana's simplicity is its complete lack of *yaku*, or *scoring combinations*. Only raw card points are counted when determining scores, which makes it exceptionally straightforward.
+
+
 # Variations
 ## General Scoring
 Traditionally, this game featured zero-sum scoring each round, meaning that any points gained by one player would be lost by another, resulting in the sum of all players' scores equalling zero. This is especially useful when played as a gambling game, as it makes it clear who is up or down what amount of money.
