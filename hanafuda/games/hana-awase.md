@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-16T13:19:13.542Z
+date: 2021-04-16T13:22:45.526Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -136,6 +136,7 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 |10|Paulownia Row - 桐島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)<br>This yaku is missing in the version of the game from the IndianWolf book.|
 
 # Variations
+Like all card games - and especially hanafuda games - Hana-Awase exists in many variations. Some of these are described below. Consider them optional rules, to add or remove as you please.
 
 ## Compensation
 At the end of the round, compensation for poor performance is given, as follows:
