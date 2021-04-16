@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2021-04-16T15:14:03.128Z
+date: 2021-04-16T16:42:06.381Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-20T22:31:01.682Z
@@ -110,6 +110,10 @@ Many older books refer to two broad varieties of Bakappana, differing only by th
 The result is that scoring is considerably easier to calculate in *80 no bakappana*, with comparison scores of 120, 80, or 60 points for each player in the 2-, 3-, or 4-player versions, as opposed to 132, 88, or 66 points in *88 no bakappana*.
 
 See also [Hachi-Juu-Hana](/en/hanafuda/games/hachi-juu-hana).
+
+## 10-Card Hand
+For two players, the option exists to deal 10 cards to each player at the beginning of the round. This way, the draw pile will be fully exhausted once the players run out of cards, eliminating the need to empty it manually.
+
 ## Yaku
 Originally, Bakappana featured no yaku, and only card values played any role in scoring. This is the version of the game recorded in the 1921 Department of Justice report on gambling, and the version playable in the 2019 MocoGame iOS application.
 
