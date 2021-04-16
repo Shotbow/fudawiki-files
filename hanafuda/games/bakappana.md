@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2021-04-16T15:08:55.495Z
+date: 2021-04-16T15:14:03.128Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-20T22:31:01.682Z
@@ -114,7 +114,10 @@ See also [Hachi-Juu-Hana](/en/hanafuda/games/hachi-juu-hana).
 Originally, Bakappana featured no yaku, and only card values played any role in scoring. This is the version of the game recorded in the 1921 Department of Justice report on gambling, and the version playable in the 2019 MocoGame iOS application.
 
 However, later on, this name was applied to games featuring yaku, making the term "Bakappana" synonymous with "Hana-Awase." This is the game described in the 1948 Gambling Criminal Arrest Summary.
+
+See [Hana-Awase](/en/hanafuda/games/hana-awase) for a game extremely similar to Bakappana, but involving yaku.
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
 - Mitsufuji, Naoto. *Tobakuhan Kenkyo yōsetsu.* Keisatsu Jihōsha, 1948, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1439111.
-- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761. 
+- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
+- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
