@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:45:48.246Z
+date: 2021-04-17T05:47:00.792Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -91,6 +91,9 @@ In many rulesets, each player may call *koi-koi* as many times as they desire du
 
 ### Calling *“Shōbu”*
 If the player declares *shōbu*, then the round immediately ends, and scores are calculated. This is a safe bet, which allows the player to immediately cash in on their yaku.
+
+# End of Round and Scoring
+The round ends when either a player calls *shōbu*, or when both players run out of cards in their hands.
 
 ## Exhaustive Draw
 If both players run out of cards in hand without calling *shōbu*, the round ends in an *exhaustive draw*, and neither player earns any points. Note that caputed yaku **are not scored for**; if a player called *koi-koi* but did not subsequently improve their yaku and call *shōbu* before the cards ran out, then **their points are forfeit.**
