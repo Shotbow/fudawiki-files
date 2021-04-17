@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:11:00.883Z
+date: 2021-04-17T07:30:11.545Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -207,6 +207,29 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The November [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card always functions as a wild card. See the rules for [Mushi](/en/hanafuda/games/mushi) for details on how this works.
 - The [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card only functions as a wild card if any August [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards are dealt to the field at the beginning of the round, as the warm summer weather presages a gathering storm.
 - The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning), and/or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) each count as 2 Chaff cards.
+
+## Turn Structure Variations
+
+- Once both players have run out of cards, they may continue the round by taking turns to play a card from the draw pile, until the draw pile is exhausted as well.
+- The players draw a card from the draw pile at the beginning of their turn, then play *two* cards from their hand.
+- If the card turned up from the draw pile does not match anything on the field, then the player takes it into their hand, and plays a second card from their hand in its stead.
+
+## Calling *Koi-Koi*
+
+- Borrowing from [Go-Stop](/en/hanafuda/games/go-stop), a player may be required to possess at least 3 points' worth of yaku before they can call *koi-koi*. If they do not, then they automatically call *shōbu*. This minimum may vary at the players' discretion.
+- A player may only call *koi-koi* if they have formed a *new* yaku; improving an existing one does not count.
+
+## Scoring Variations
+
+- The scoring player earns a `x2` multiplier if *they* called *koi-koi*, not if their opponent did.
+- The scoring player earns a `x2` multiplier if *anyone* called *koi-koi* during the round.
+- The scoring player earns a multiplier equal to the number of times *koi-koi* was called, plus 1. If their opponent called *koi-koi* once, they earn a `x2` multiplier. If the opponent called *koi-koi* twice, they earn a `x3` multiplier, and so on.
+- The `x2` multiplier earned for having a base score of at least 7 originated as a house rule before it was widely incorporated into the game, and some tables may still prefer to play without it.
+- The scoring player only scores for their single most valuable yaku.
+- The scoring player scores not only for their own yaku, but also their opponent's.
+
+## Dealer's Privilege
+
 
 
 
