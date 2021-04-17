@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-16T16:43:05.528Z
+date: 2021-04-17T09:08:35.934Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -96,9 +96,6 @@ Alternatively, groups less inclined to gambling (and mental arithmetic) may pref
 
 This system works strightforwardly for any number of players. In particular, there is no requirement for *every* card to be played, and two-player games with this scoring system may sometimes specify that the round ends when both players empty their hands, leaving the 8 cards in the draw pile untouched.
 
-> A 'Low Man Out' rule is commonly used in scoring; if the total value of any player's card points is 20 or less, then the round is considered a draw, and no players score any points. Some versions require a player to announce at the beginning of the round that they intend to go for 'Low Man Out' in order for it to apply. This rule allows players with an extremely poor hand to attempt to force a draw, and prevent their opponents from scoring.
-{.is-info}
-
 **The player with the highest score at the end of the round becomes the dealer for the next round**. (What should happen in the event of a tie here is, once again, unspecified.) After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
 
 # Yaku
@@ -137,6 +134,15 @@ In these cases, the player claims the most valuable of the mutually exclusive ya
 
 # Variations
 Like all card games - and especially hanafuda games - Hana-Awase exists in many variations. Some of these are described below. Consider them optional rules, to add or remove as you please.
+
+## Dandruff
+A 'Low Man Out' rule is commonly used in scoring; if the total value of any player's card points is 20 or less, then the round is considered a draw, and no players score any points.
+
+Some versions require a player to announce at the beginning of the round that they intend to go for 'Low Man Out' in order for it to apply.
+
+This rule allows players with an extremely poor hand to attempt to force a draw, and prevent their opponents from scoring.
+
+In Japanese, this cancellation of scoring is known as *fuke* [頭垢 - ふけ], literally 'dandruff'.
 
 ## Compensation
 At the end of the round, compensation for poor performance is given, as follows:
