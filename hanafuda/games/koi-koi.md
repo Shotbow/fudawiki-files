@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:59:00.911Z
+date: 2021-04-17T07:01:12.754Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -196,7 +196,7 @@ Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with
 ## Taming the *Sake Cup*
 Anyone who's played Koi-Koi for any length of time will quickly pick up on how overpowered the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) is. This humble card contributes to no fewer than *four* different yaku! Unsurprisingly, many house rules exist with an eye to curbing its power.
 
-- The *Moon Viewing* and *Flower Viewing* yaku are simply not recognised.
+- The *Moon Viewing* and *Flower Viewing* yaku are simply not recognised. (Many video game adaptations will give the option to toggle these yaku on or off.)
 - *Moon Viewing* and *Flower Viewing* are only recognised if the player additionally owns at least one non-viewing yaku.
 - If any November [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are on the field, then the *Flower Viewing* is rained off and is not valid. If any December [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards are on the field, then the chilly weather leads to fog, which ruins the *Moon Viewing*. These cards must be captured and cleared off the table in order for the relevant yaku to count.
 - The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) can count as an Animal card *or* a Chaff card, but not both.
