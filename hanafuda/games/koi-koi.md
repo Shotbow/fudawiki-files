@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:54:43.874Z
+date: 2021-04-17T08:02:45.646Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -191,6 +191,9 @@ Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
 |1|Chaff - カス [かす, *kasu*]|Any 10 Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of this yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Chaff!|
 
+> Older sources still tend to lack many of the typical yaku. Nintendo's 1960's Koi-Koi leaflet lacks *Boar Deer Butterflies*, *Rainy Four Brights*, and both the viewing yaku, while *Hanafuda - The Flower Card Game* additionally lacks *Three Brights*. Point values also differ drastically in these old sources.
+{.is-info}
+
 ## Taming the *Sake Cup*
 Anyone who's played Koi-Koi for any length of time will quickly pick up on how overpowered the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) is. This humble card contributes to no fewer than *four* different yaku! Unsurprisingly, many house rules exist with an eye to curbing its power.
 
@@ -250,3 +253,5 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
 - https://web.archive.org/web/20051125014910/http://hana.kirisame.org/koikoi.html
 - https://en.wikipedia.org/wiki/Koi-Koi
+- Nintendo's Koi-Koi rules leaflets (both the current one and the blue 1960's one)
+- Innumerable threads on the [Hanafuda Reddit](https://www.reddit.com/r/Hanafuda/) where people have discussed their own house rules!
