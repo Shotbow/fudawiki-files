@@ -2,29 +2,48 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2020-11-04T05:30:39.702Z
+date: 2021-04-17T05:14:03.420Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-Koi-Koi [こいこい] is among the best-known [hanafuda](/en/hanafuda) [games](/en/hanafuda/games) outside of Japan. It is a fishing-type game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
+Koi-Koi [こいこい] is a popular hanafuda fishing game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
+
+Koi-Koi is among the best-known [hanafuda](/en/hanafuda) [games](/en/hanafuda/games) outside of Japan, courtesy of its representation in numerous anime and video games.
 
 This game may have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic.
+
+A word of caution: As one of the most popular hanafuda games, Koi-Koi exists in a truly *huge* range of variations, above and beyond most of the other games on this site. Indeed, it may be no exaggeration to say that there are as many house rules as there are houses!
+
+As such, don't be surprised if the version here differs from what you may be used to. Many of these variations are collected at the end of the article.
+
 # Setup
-Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - common options are 6 rounds, 12 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+
 ## Choosing the Dealer
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
+
+**The winner of each round becomes the dealer for the next round.**
+
 ## Distributing the Initial Cards
-Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
+Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themselves, and then repeat. Sometimes this is done in packets of two instead of four.
 
 > ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
 {.is-success}
 
-
 Depending on the preferred rule set, if 4 cards of the same suit are dealt to the field at the beginning of a round, either a misdeal is declared and the same dealer shuffles and distributes cards once more, **or** the dealer automatically wins that round, usually receiving 6 points, and staying the dealer for the next round. The same may be true in the case that that 4 pairs of different suits are dealt to the field.
 
 Some rules also have a provision for "lucky hands," in which either of the above situations are dealt to a player's hand rather than the field. In this case, the player who received the lucky hand earns the 6 points and becomes the dealer for the next round. Other rule sets may allow the recipient of such a hand to declare a misdeal, or may simply continue the game as usual.
+
+## Checking for Lucky Hands
+After the cards are dealt, each player checks if they possess any *lucky hands*, or *teyaku* [手役 - てやく]. There are only two Lucky Hands in Koi-Koi:
+
+- **Four of a Kind** [手四 - てし, *teshi*]: All four cards of any given month.
+- **Four Pairs** [喰付 - くっつき, *kuttsuki*]: Four pairs, a pair being two cards of the same month.
+
+
+
 # Gameplay
 Each round, the dealer is the first to play.
 ## Turns
