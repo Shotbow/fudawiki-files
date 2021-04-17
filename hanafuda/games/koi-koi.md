@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:47:08.237Z
+date: 2021-04-17T07:49:11.361Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -18,7 +18,7 @@ This game may have developed as a simplification of the Korean game of [Go-Stop]
 
 A word of caution: As one of the most popular hanafuda games, Koi-Koi exists in a truly *huge* range of variations, above and beyond most of the other games on this site. Indeed, it may be no exaggeration to say that there are as many house rules as there are houses!
 
-As such, don't be surprised if the version here differs from what you may be used to. Many of these variations are collected at the end of the article.
+As such, don't be surprised if the version here differs from what you may be used to. Many of these variations are collected at the end of the page.
 
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards.
