@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T08:02:45.646Z
+date: 2021-04-17T12:18:27.665Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -191,7 +191,7 @@ Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
 |1|Chaff - カス [かす, *kasu*]|Any 10 Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of this yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Chaff!|
 
-> Older sources still tend to lack many of the typical yaku. Nintendo's 1960's Koi-Koi leaflet lacks *Boar Deer Butterflies*, *Rainy Four Brights*, and both the viewing yaku, while *Hanafuda - The Flower Card Game* additionally lacks *Three Brights*. Point values also differ drastically in these old sources.
+> Even older sources tend to lack many of the typical yaku. Nintendo's 1960's Koi-Koi leaflet lacks *Boar Deer Butterflies*, *Rainy Four Brights*, and both the viewing yaku, while *Hanafuda - The Flower Card Game* additionally lacks *Three Brights*. Point values also differ drastically in these old sources.
 {.is-info}
 
 ## Taming the *Sake Cup*
