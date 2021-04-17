@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:01:12.754Z
+date: 2021-04-17T07:08:04.178Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -202,7 +202,10 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) can count as an Animal card *or* a Chaff card, but not both.
 - The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) only counts as an Animal card, and not Chaff.
 
+## Additional Card Properties
 
+- The November [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card always functions as a wild card. See the rules for [Mushi](/en/hanafuda/games/mushi) for details on how this works.
+- The [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card only functions as a wild card if any August [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) cards are dealt to the field at the beginning of the round.
 
 
 
