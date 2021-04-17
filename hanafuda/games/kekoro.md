@@ -2,7 +2,7 @@
 title: Kekoro
 description: A hanafuda game with unique card values and many yaku
 published: true
-date: 2021-04-17T05:42:23.100Z
+date: 2021-04-17T06:31:28.837Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -18,7 +18,7 @@ Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has signi
 |Animal|5|9|
 |Ribbon|1|10|
 |Chaff|8|24|
-Thus, 
+Thus, there are 272 points in a complete deck.
 # Yaku
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---:|
