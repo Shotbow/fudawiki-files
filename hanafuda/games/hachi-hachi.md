@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-16T14:33:27.453Z
+date: 2021-04-17T07:54:27.805Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -403,7 +403,7 @@ Lastly, debts must be settled. Each player subtracts their 25 *kan* buy-in (with
 *(todo: rework this)*
 
 - [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
-- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications
+- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
 - https://vingel8.neocities.org/hachihachi.html
 - https://web.archive.org/web/20051125014841/http://hana.kirisame.org/hachihachi.html
 - https://www.notion.so/Curriculum-eaa9ca175b1b4cff903db2dcc426b485
