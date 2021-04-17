@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:30:11.545Z
+date: 2021-04-17T07:32:13.332Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -228,8 +228,9 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The scoring player only scores for their single most valuable yaku.
 - The scoring player scores not only for their own yaku, but also their opponent's.
 
-## Dealer's Privilege
+## Draws
 
+- 
 
 
 
