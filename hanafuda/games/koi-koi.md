@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:47:00.792Z
+date: 2021-04-17T05:56:02.542Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -21,7 +21,11 @@ A word of caution: As one of the most popular hanafuda games, Koi-Koi exists in 
 As such, don't be surprised if the version here differs from what you may be used to. Many of these variations are collected at the end of the article.
 
 # Setup
-Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or as many rounds as it takes for one player to reach 50 points total. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards.
+
+A decision must also be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or as many rounds as it takes for one player to reach 50 points total. Conventionally, each round corresponds to a month of the year; the first round is January, the second February, and so on. 12 rounds is thus a *year*, 6 rounds a *half-year*, and 3 rounds a *season*.
+
+Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
 
 ## Choosing the Dealer
 There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
@@ -100,16 +104,14 @@ If both players run out of cards in hand without calling *shōbu*, the round end
 
 The round is considered over, and the next round begins with the same dealer.
 
+## Scoring for *Yaku*
+Otherwise, the player who called *shōbu* calculates the total point value of all the yaku in their score pile. This total is their *base score*. Two multipliers are then applied:
 
+- If the player's *base score* is greater than or equal to 7, then their score is doubled.
 
-## Score Multipliers
-Depending on the preferred rule set, there are two commonly applied score multipliers that may take effect. Some people play with no multipliers, while others may even utilize more than are described here.
+- If their opponent called *koi-koi* at any previous point during the round, then the player's score is doubled. (The exact number of times the opponent called *koi-koi* has no effect.)
 
-### Over 7 Points
-If the combined value of your captured yaku is greater than 7, the score you earn upon calling “shōbu” will be doubled. This multiplier should be applied before the following one, in the case that both apply.
-
-### Opponent Koi-Koi
-If your opponent calls "koi-koi" but you manage to declare “shōbu” before them, the score you earn for your captured yaku will be doubled. In some rule sets, if "koi-koi" was declared twice, the score is tripled, while in other sets, it remains only doubled.
+The player's total score is then their base score, times any multipliers they may have earned.
 
 ## End of Game
 Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
