@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:49:11.361Z
+date: 2021-04-17T07:49:41.579Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -23,7 +23,10 @@ As such, don't be surprised if the version here differs from what you may be use
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards.
 
-A decision must also be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or as many rounds as it takes for one player to reach 50 points total. Conventionally, each round corresponds to a month of the year; the first round is January, the second February, and so on. 12 rounds is thus a *year*, 6 rounds a *half-year*, and 3 rounds a *season*.
+A decision must also be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or as many rounds as it takes for one player to reach 50 points total.
+
+> Conventionally, each round corresponds to a month of the year; the first round is January, the second February, and so on. 12 rounds is thus a *year*, 6 rounds a *half-year*, and 3 rounds a *season*.
+{.is-info}
 
 Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
 
