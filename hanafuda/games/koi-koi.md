@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:17:50.122Z
+date: 2021-04-17T06:19:34.661Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -147,4 +147,11 @@ For example, if a player has all five Bright cards, they only earn points for *F
 |5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)
 |
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
-|1|Chaff - カス [かす, *kasu*]|Any ten Chaff cards. This yaku is worth 1 extra point for each additional Chaff card.|
+|1|Chaff - カス [かす, *kasu*]|Any ten Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of the yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Cheff!|
+
+# Variations
+As previously mentioned, Koi-Koi is utterly *abundant* with rules variations. There are most likely far more than we could ever 
+
+
+
+hjgdvnfndnv
