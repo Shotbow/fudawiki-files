@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:01:45.462Z
+date: 2021-04-17T06:07:53.558Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -119,11 +119,11 @@ Note that only **the player who called *shōbu*** earns any points. Their oppone
 Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
 
 # Common Yaku
-There are many possible sets of yaku in Koi-Koi. Some may be house-rules while others are popular throughout. In many cases, the point values of these yaku will change depending on the provided rules.
+There is great variation in the possible sets of yaku in Koi-Koi. Some yaku may be house rules, while others are common to nearly all rule sets. In many cases, the point values of these yaku will change depending on source.
 
-The 
+The yaku given here are fairly typical of modern forms of the game, as seen in video games and Nintendo's current Koi-Koi rules leaflet. They are sorted into groups. All of the yaku within each group (except “Ungrouped”) are *mutually exclusive*; a player only scores for their most valuable yaku in each group.
 
-Yaku listed below are sorted into groups.  For each of these groups (except “Ungrouped”), only one point value is valid for a set.  For example, if you have all five Bright cards, you get the points for “Five Brights”.  You do not get the points for “Five Brights and Four Brights and Rainy Four Brights." This goes for each grouping. You receive the highest points you're allowed based on the cards captured.
+For example, if a player have all five Bright cards, they only earn points for *Five Brights*.  They do not earn points for *Four Brights*, *Rainy Four Brights*, or *Three Brights*. This goes for each grouping.
 |Points|Yaku Name|Description|
 |:---:|:---:|:---:|
 |<h2 align="center">Bright Yaku</h2>|||
