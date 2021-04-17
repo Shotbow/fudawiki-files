@@ -2,13 +2,15 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:20:02.711Z
+date: 2021-04-17T05:24:03.180Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-Koi-Koi [こいこい] is a popular hanafuda fishing game for two players. Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
+Koi-Koi [こいこい] is a popular hanafuda fishing game for two players, in which players compete to capture cards from the table and form scoring combinations known as *yaku*.
+
+Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” [勝負 - しょうぶ], lit. "game" or "match") and keep the points they currently have.
 
 Koi-Koi is among the best-known [hanafuda](/en/hanafuda) [games](/en/hanafuda/games) outside of Japan, courtesy of its representation in numerous anime and video games.
 
@@ -32,9 +34,9 @@ Eight cards are distributed to each player, and eight to the table. While there 
 > ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
 {.is-success}
 
-Depending on the preferred rule set, if 4 cards of the same suit are dealt to the field at the beginning of a round, either a misdeal is declared and the same dealer shuffles and distributes cards once more, **or** the dealer automatically wins that round, usually receiving 6 points, and staying the dealer for the next round. The same may be true in the case that that 4 pairs of different suits are dealt to the field.
+*(Depending on the preferred rule set, if 4 cards of the same suit are dealt to the field at the beginning of a round, either a misdeal is declared and the same dealer shuffles and distributes cards once more, **or** the dealer automatically wins that round, usually receiving 6 points, and staying the dealer for the next round. The same may be true in the case that that 4 pairs of different suits are dealt to the field.*
 
-Some rules also have a provision for "lucky hands," in which either of the above situations are dealt to a player's hand rather than the field. In this case, the player who received the lucky hand earns the 6 points and becomes the dealer for the next round. Other rule sets may allow the recipient of such a hand to declare a misdeal, or may simply continue the game as usual.
+*Some rules also have a provision for "lucky hands," in which either of the above situations are dealt to a player's hand rather than the field. In this case, the player who received the lucky hand earns the 6 points and becomes the dealer for the next round. Other rule sets may allow the recipient of such a hand to declare a misdeal, or may simply continue the game as usual.)*
 
 ## Checking for Lucky Hands
 After the cards are dealt, each player checks if they possess any *lucky hands*, or *teyaku* [手役 - てやく]. There are only two Lucky Hands in Koi-Koi:
@@ -51,8 +53,12 @@ If either of these lucky hands are **dealt to the table**, then a **misdeal** is
 > Sources are vague on what should happen if a player holds *both* of the lucky hands. In some descriptions, they only score 6 points, but in others, the hands stack, and they score 12 points. Decide on this as a house rule before playing!
 {.is-info}
 
+> Despite the name, these 'lucky hands' are actually very poor when it comes to capturing cards. The points earned from them are compensation for bad luck!
+{.is-info}
+
 # Gameplay
-Each round, the dealer is the first to play.
+Each round, the dealer is the first to play. Turn to play alternates.
+
 ## Turns
 On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
