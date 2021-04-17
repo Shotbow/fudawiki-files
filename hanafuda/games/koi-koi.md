@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:40:12.257Z
+date: 2021-04-17T07:45:54.468Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -235,7 +235,14 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The `x2` multiplier earned for having a base score of at least 7 originated as a house rule before it was widely incorporated into the game, and some tables may still prefer to play without it.
 
 ### Zero-Sum Scoring
-Some play with a *zero-sum* scoring system
+- Some play with a *zero-sum* scoring system, in which any points earned by the winner are subtracted from the loser's score. This helps to facilitate gambling.
+
+### Field Multipliers
+
+- Similarly to [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), if a Bright card is dealt to the field at the beginning of the round, then the score for that round is doubled.
+- As an extension of this, if *two* Brights are dealt to the field, then the score is tripled. Three Brights, quadrupled, and so on. (The multiplier is equal to the number of Brights, plus 1).
+
+### *Yaku* Counting
 
 - The scoring player only scores for their single most valuable yaku.
 - The scoring player scores not only for their own yaku, but also their opponent's.
