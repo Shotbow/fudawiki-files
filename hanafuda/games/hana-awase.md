@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-17T09:21:06.845Z
+date: 2021-04-17T09:24:27.597Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -184,4 +184,5 @@ Whether or not a player *must* declare these teyaku if they have them is unspeci
 - [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
 - [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
 - Graham Leonard's archived hanafuda pages: https://web.archive.org/web/20050728142537/http://hana.kirisame.org/hanaawase.html
+- This [Reddit thread](https://www.reddit.com/r/Hanafuda/comments/kljafs/broadening_horizons_beyond_koi_koi_what_do_you/), where the rules of Hana-Awase from the app [ザ・花札](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.hf&hl=en&gl=US) are described.
 
