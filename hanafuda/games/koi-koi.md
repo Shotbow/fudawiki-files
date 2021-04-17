@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:49:41.579Z
+date: 2021-04-17T07:54:43.874Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -243,9 +243,10 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The scoring player only scores for their single most valuable yaku.
 - The scoring player scores not only for their own yaku, but also their opponent's.
 
+# Bibliography
+*(todo: pretty this up)*
 
-
-
-
-
-hjgdvnfndnv
+- [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
+- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
+- https://web.archive.org/web/20051125014910/http://hana.kirisame.org/koikoi.html
+- https://en.wikipedia.org/wiki/Koi-Koi
