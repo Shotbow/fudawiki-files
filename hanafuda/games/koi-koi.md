@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:58:21.357Z
+date: 2021-04-17T06:01:45.462Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -119,7 +119,9 @@ Note that only **the player who called *shōbu*** earns any points. Their oppone
 Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
 
 # Common Yaku
-There are many variations of yaku [役, やく] in Koi-Koi.  Some may be house-rules while others are popular throughout.  In many cases, the point values of these yaku will change depending on the provided rules.
+There are many possible sets of yaku in Koi-Koi. Some may be house-rules while others are popular throughout. In many cases, the point values of these yaku will change depending on the provided rules.
+
+The 
 
 Yaku listed below are sorted into groups.  For each of these groups (except “Ungrouped”), only one point value is valid for a set.  For example, if you have all five Bright cards, you get the points for “Five Brights”.  You do not get the points for “Five Brights and Four Brights and Rainy Four Brights." This goes for each grouping. You receive the highest points you're allowed based on the cards captured.
 |Points|Yaku Name|Description|
