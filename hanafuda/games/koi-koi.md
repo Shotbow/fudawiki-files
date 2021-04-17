@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:23:17.900Z
+date: 2021-04-17T06:32:31.177Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -118,7 +118,7 @@ Note that only **the player who called *shōbu*** earns any points. Their oppone
 ## End of Game
 Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
 
-# Common Yaku
+# Yaku
 There is great variation in the possible sets of yaku in Koi-Koi. Some yaku may be house rules, while others are common to nearly all rule sets. In many cases, the point values of these yaku will change depending on source.
 
 The yaku given here are fairly typical of modern forms of the game, as seen in video games and Nintendo's current Koi-Koi rules leaflet. They are sorted into groups. All of the yaku within each group (except “Ungrouped”) are *mutually exclusive*; a player only scores for their most valuable yaku in each group.
@@ -152,7 +152,15 @@ For example, if a player has all five Bright cards, they only earn points for *F
 # Variations
 As previously mentioned, Koi-Koi is utterly *abundant* with rules variations; every table has their own way of playing the game. There are most likely far more than we could ever hope to list here, although that isn't going to stop us from trying!
 
-All of the following rules can be applied, or not, depending on your tastes. See which ones you like, and blend them together to make your *own* version of Koi-Koi.
+All of the following rules can be applied or not, depending on your tastes. See which ones you like, and blend them together to make your *own* version of Koi-Koi.
+
+## Setup Variations
+
+- *Four of a Kind* are *Four Pairs* are not lucky hands for a player, but instead constitute a misdeal, the same as if they were dealt to the table.
+
+- *Four Pairs* on the table is not considered a misdeal.
+
+- *Four of a Kind* on the table is not considered a misdeal. Instead, the dealer immediately captures these four cards, and deals four more to the table to replace them. Alternatively, the dealer immediately wins the round and scores 6 points.
 
 
 
