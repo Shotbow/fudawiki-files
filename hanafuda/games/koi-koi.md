@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:24:03.180Z
+date: 2021-04-17T05:28:47.544Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -60,9 +60,20 @@ If either of these lucky hands are **dealt to the table**, then a **misdeal** is
 Each round, the dealer is the first to play. Turn to play alternates.
 
 ## Turns
-On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
+On their turn, a player chooses a single card from their hand and plays it to the table.
+* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
+* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
+* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
+* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
 
-After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea to keep your scoring area categorized by card type.
+> If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
+{.is-warning}
+
+After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
+
 ## Checking for Yaku
 At this point, evaluate your scoring area to see if you have formed any yaku. If not, the game proceeds to your opponent's turn, who will repeat the same steps described above. If you *have* formed a yaku or improved a yaku that you have already captured, you are given the choice whether to continue the round or not. 
 > Note that in many versions of the game, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) may count towards both the Animals category **and** the Chaff category for making yaku.
@@ -72,6 +83,7 @@ At this point, evaluate your scoring area to see if you have formed any yaku. If
 To call "koi-koi" is to choose to continue the round - a calculated risk that will either lead to increasing your score, or to you forfeiting the points you would have earned that round. If declaring "koi-koi," the game simply continues to the opponent's turn. In most rule sets, "koi-koi" may be called as many times as desired by either player.
 ## Calling “Shōbu”
 To declare “shōbu” is to choose to end the round and earn points according to the yaku you have captured, applying any applicable multipliers. The player who calls “shōbu” is the only one who earns any points that round, and becomes the dealer for the next round.
+
 ## Draw Hand
 If both players run out of cards in hand without calling “shōbu”, the round ends in a draw and neither player earns any points. Note that if you captured yaku and called "koi-koi" but did not subsequently improve your yaku and call “shōbu”, before your cards ran out, **your points are forfeit.** In the case of a draw hand, the dealer will either change or stay the same depending on the rule set used, though changing dealers at a draw may decrease the effect of dealer privelege.
 ## Score Multipliers
