@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:36:25.951Z
+date: 2021-04-17T07:38:18.972Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -214,6 +214,11 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The players draw a card from the draw pile at the beginning of their turn, then play *two* cards from their hand.
 - If the card turned up from the draw pile does not match anything on the field, then the player takes it into their hand, and plays a second card from their hand in its stead.
 
+## Draws
+
+- When the game ends in a draw - either an exhaustive draw, or due to both players holding lucky hands - the dealer scores a number of points (typically 1 or 6) and remains dealer for the next round. This is known as *dealer's privilege* [親権 - おやけん, *oya-ken*].
+- When the game ends in a draw, the role of dealer passes to the other player for the next round, as opposed to staying with the current dealer.
+
 ## Calling *Koi-Koi*
 
 - Borrowing from [Go-Stop](/en/hanafuda/games/go-stop), a player may be required to possess at least 3 points' worth of yaku before they can call *koi-koi*. If they do not, then they automatically call *shōbu*. This minimum may vary at the players' discretion.
@@ -228,10 +233,7 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - The scoring player only scores for their single most valuable yaku.
 - The scoring player scores not only for their own yaku, but also their opponent's.
 
-## Draws
 
-- When the game ends in a draw - either an exhaustive draw, or due to both players holding lucky hands - the dealer scores a number of points (typically 1 or 6) and remains dealer for the next round. This is known as *dealer's privilege* [親権 - おやけん, *oya-ken*].
-- When the game ends in a draw, the role of dealer passes to the other player for the next round, as opposed to staying with the current dealer.
 
 
 
