@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:45:54.468Z
+date: 2021-04-17T07:47:08.237Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -37,10 +37,6 @@ Eight cards are distributed to each player, and eight to the table. While there 
 
 > ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
 {.is-success}
-
-*(Depending on the preferred rule set, if 4 cards of the same suit are dealt to the field at the beginning of a round, either a misdeal is declared and the same dealer shuffles and distributes cards once more, **or** the dealer automatically wins that round, usually receiving 6 points, and staying the dealer for the next round. The same may be true in the case that that 4 pairs of different suits are dealt to the field.*
-
-*Some rules also have a provision for "lucky hands," in which either of the above situations are dealt to a player's hand rather than the field. In this case, the player who received the lucky hand earns the 6 points and becomes the dealer for the next round. Other rule sets may allow the recipient of such a hand to declare a misdeal, or may simply continue the game as usual.)*
 
 ## Checking for Lucky Hands
 After the cards are dealt, each player checks if they possess any *lucky hands*, or *teyaku* [手役 - てやく]. There are only two Lucky Hands in Koi-Koi:
@@ -84,9 +80,6 @@ After playing both their cards - one from their hand,and one from the draw pile 
 - If the player has either formed a new *yaku*, or improved an existing one, then they have the choice to either end the round by calling *shōbu*, or to continue in pursuit of a higher score by calling *koi-koi*.
 
 - If they have not, then their turn simply ends, and turn to play passes to the opponent. 
-
-> Note that in many versions of the game, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) may count towards both the Animals category **and** the Chaff category for making yaku.
-{.is-info}
 
 ### Calling *"Koi-Koi"*
 If the player declares *koi-koi*, then the round continues. Their turn ends, and turn to play passes to the opponent. This is a calculated risk; continuing the round allows the opportunity to capture more yaku, but forfeits all points should the opponent win first.
