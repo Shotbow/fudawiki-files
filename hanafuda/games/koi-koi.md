@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:10:57.287Z
+date: 2021-04-17T06:12:33.640Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -133,8 +133,8 @@ For example, if a player has all five Bright cards, they only earn points for *F
 |6|Three Brights - 三光 [さんこう, *sankō*]|Any 3 of:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>6 is the most common value of this yaku, but Nintendo's rules list it at 5 points.|
 |<h2 align="center">Animal Yaku</h2>|||
 |Points|Yaku Name|Description|
-|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>Players are awarded an additional point for each other Animal card.|
-|1|Animals - タネ [たね, *tane*]|Any five Animal cards. One additional point is awarded for every additional Animal card.|
+|5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is worth 1 extra point for each additional Animal card.|
+|1|Animals - タネ [たね, *tane*]|Any five Animal cards. This yaku is worth 1 extra point for each additional Animal card.|
 |<h2 align="center">Ribbon Yaku</h2>|||
 |Points|Yaku Name|Description|
 |10|Poetry+Blue Ribbons - 赤短・青短の重複 [あかたん・あおたんのちょうふく, akatan - *aotan no chōfuku*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>Players are awarded an additional point for each other Ribbon card.|
