@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:14:03.420Z
+date: 2021-04-17T05:20:02.711Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -42,7 +42,14 @@ After the cards are dealt, each player checks if they possess any *lucky hands*,
 - **Four of a Kind** [手四 - てし, *teshi*]: All four cards of any given month.
 - **Four Pairs** [喰付 - くっつき, *kuttsuki*]: Four pairs, a pair being two cards of the same month.
 
+If a player holds one of these lucky hands, then they declare it. That player immediately wins the round, scoring 6 points and becoming dealer for the next round.
 
+If both players hold a lucky hand, then the round is a draw. Nobody scores anything, and the next round begins with the same dealer.
+
+If either of these lucky hands are **dealt to the table**, then a **misdeal** is declared. The cards are thrown in, re-shuffled, and re-dealt.
+
+> Sources are vague on what should happen if a player holds *both* of the lucky hands. In some descriptions, they only score 6 points, but in others, the hands stack, and they score 12 points. Decide on this as a house rule before playing!
+{.is-info}
 
 # Gameplay
 Each round, the dealer is the first to play.
