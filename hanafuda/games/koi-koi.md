@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T05:56:02.542Z
+date: 2021-04-17T05:58:21.357Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -113,8 +113,11 @@ Otherwise, the player who called *shōbu* calculates the total point value of al
 
 The player's total score is then their base score, times any multipliers they may have earned.
 
+Note that only **the player who called *shōbu*** earns any points. Their opponent **scores nothing** for this round.
+
 ## End of Game
 Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
+
 # Common Yaku
 There are many variations of yaku [役, やく] in Koi-Koi.  Some may be house-rules while others are popular throughout.  In many cases, the point values of these yaku will change depending on the provided rules.
 
