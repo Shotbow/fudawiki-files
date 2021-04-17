@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:21:10.615Z
+date: 2021-04-17T06:23:17.900Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -150,7 +150,9 @@ For example, if a player has all five Bright cards, they only earn points for *F
 |1|Chaff - カス [かす, *kasu*]|Any 10 Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of the yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Chaff!|
 
 # Variations
-As previously mentioned, Koi-Koi is utterly *abundant* with rules variations. There are most likely far more than we could ever hope to list here
+As previously mentioned, Koi-Koi is utterly *abundant* with rules variations; every table has their own way of playing the game. There are most likely far more than we could ever hope to list here, although that isn't going to stop us from trying!
+
+All of the following rules can be applied, or not, depending on your tastes. See which ones you like, and blend them together to make your *own* version of Koi-Koi.
 
 
 
