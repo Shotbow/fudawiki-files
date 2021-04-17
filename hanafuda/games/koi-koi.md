@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T07:38:18.972Z
+date: 2021-04-17T07:40:12.257Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -115,6 +115,8 @@ The player's total score is then their base score, times any multipliers they ma
 
 Note that only **the player who called *shōbu*** earns any points. Their opponent **scores nothing** for this round.
 
+The player who called *shōbu* is **the winner of the round**, and **becomes the dealer** for the next.
+
 ## End of Game
 Depending on the terms agreed upon during setup, the game ends after a certain number of rounds, or once a target score has been reached. If playing a certain number of rounds, the player with the greater score at the end of the last round is declared the winner. If playing to a target point total, the first to reach that score is the winner.
 
@@ -226,10 +228,15 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 
 ## Scoring Variations
 
+### Multipliers
 - The scoring player earns a `x2` multiplier if *they* called *koi-koi*, not if their opponent did.
 - The scoring player earns a `x2` multiplier if *anyone* called *koi-koi* during the round.
 - The scoring player earns a multiplier equal to the number of times *koi-koi* was called, plus 1. If their opponent called *koi-koi* once, they earn a `x2` multiplier. If the opponent called *koi-koi* twice, they earn a `x3` multiplier, and so on.
 - The `x2` multiplier earned for having a base score of at least 7 originated as a house rule before it was widely incorporated into the game, and some tables may still prefer to play without it.
+
+### Zero-Sum Scoring
+Some play with a *zero-sum* scoring system
+
 - The scoring player only scores for their single most valuable yaku.
 - The scoring player scores not only for their own yaku, but also their opponent's.
 
