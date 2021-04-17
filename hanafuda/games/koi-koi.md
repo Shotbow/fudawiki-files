@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T06:43:31.010Z
+date: 2021-04-17T06:50:07.838Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -192,6 +192,11 @@ Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with
 |
 |4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
 |1|Chaff - カス [かす, *kasu*]|Any 10 Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of this yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Chaff!|
+
+## Taming the *Sake Cup*
+Anyone who's played Koi-Koi for any length of time will quickly pick up on how overpowered the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) is. This humble card contributes to no fewer than *four* different yaku! Unsurprisingly, many house rules exist with an eye to curbing its power.
+
+- 
 
 
 
