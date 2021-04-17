@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-17T09:08:35.934Z
+date: 2021-04-17T09:21:06.845Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -96,7 +96,9 @@ Alternatively, groups less inclined to gambling (and mental arithmetic) may pref
 
 This system works strightforwardly for any number of players. In particular, there is no requirement for *every* card to be played, and two-player games with this scoring system may sometimes specify that the round ends when both players empty their hands, leaving the 8 cards in the draw pile untouched.
 
-**The player with the highest score at the end of the round becomes the dealer for the next round**. (What should happen in the event of a tie here is, once again, unspecified.) After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
+**The player with the highest score at the end of the round becomes the dealer for the next round**. In the event of a tie, the player who was *earliest* in the turn order becomes the dealer.
+
+After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
 
 # Yaku
 As with all hanafuda games, there is variation in the set of allowed yaku. However, while point allotments differ, the modern sources used for this page are remarkably consistent in the following list. Many of these are classic yaku, found in several other games. Nevetheless, it is likely that older games of the *Hana-Awase* name varied greatly in their yaku.
@@ -149,7 +151,9 @@ At the end of the round, compensation for poor performance is given, as follows:
 - If either the dealer or the player to their right have captured 8 cards or fewer, then they receive 30 points from each of the other players.
 - If the player to the left of the dealer has captured 10 cards or fewer, then they receive 30 points from each of the other players.
 
-These rules are specified in Graham Leonard's account for the three-player version of the game; I don't know how they'd work for other numbers of players.
+These rules are only given in accounts describing the three-player version of the game; I'm unsure how they'd work with other numbers of players.
+
+In Japanese, the term for this rule is *oya naka hatchou biki jutchou* [親仲八丁ビキ十丁 - おやなかはっちょうびきじゅっちょう], roughly 'ten for dealer and second, eight for third'.
 
 ## Extra *Yaku* Interactions
 Some additional rules for yaku are sometimes given:
