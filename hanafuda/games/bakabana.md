@@ -2,7 +2,7 @@
 title: Bakabana
 description: A 4-player fishing games from Oita Prefecture with asymmetric gameplay
 published: true
-date: 2021-04-08T21:17:20.857Z
+date: 2021-04-18T20:16:06.105Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-03-28T20:59:37.442Z
@@ -76,11 +76,11 @@ In total, the **Dealer**'s score for the round is 1+4-3-10=**(-8)**; **Child 1**
 A player may earn points for any and all of the following yaku whose cards they have captured.
 
 Due to the asymmetrical gameplay, yaku are calculated differently for the last player (Kan). For the first three players, all three cards of a given yaku must be captured to earn its points. But because Kan has fewer chances to capture cards, they qualify as completing a yaku if they have obtained two of the three required cards. If Kan has all three cards for a yaku, it counts as two yaku, so 20 points, instead.
-|Value|Name|Composition
-|:---:|:---:|:---:|
-|10|Great Yaku - 大役 [おおやく *ōyaku*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
-|10|Small Three - 小三個 [こざんこ *kozanko*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|10|Blue Ribbons - 青短冊 [あおたん *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|10|Red Ribbons - 赤短冊 [あかたん *akatan*]|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
+|Value|Name|Composition|
+|:---:|:---:|:---|
+|10|**Great Yaku**<br>大役 [おおやく *ōyaku*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
+|10|**Small Three**<br>小三個 [こざんこ *kozanko*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|10|**Blue Ribbons**<br>青短冊 [あおたん *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|10|**Red Ribbons**<br>赤短冊 [あかたん *akatan*]|[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)|
 # Bibliography
 - https://web.archive.org/web/20040810024856/http://homepage3.nifty.com/noguta/karuta/usuki.html
