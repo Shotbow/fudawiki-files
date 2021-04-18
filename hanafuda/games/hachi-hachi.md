@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-18T07:59:35.758Z
+date: 2021-04-18T19:28:15.754Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -94,7 +94,7 @@ However, the basic teyaku fall into two categories, with all the others being si
 |2|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
 |3|**Standing Triplet**<br/>立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
 |6|**Two Triplets**<br/>二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
-|7|Triplet and Standing Triplet<br/>三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
+|7|**Triplet and Standing Triplet**<br/>三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
 |8|**Two Standing Triplets**<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
 |4|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
 |6|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
