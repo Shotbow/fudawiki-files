@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-18T20:51:02.614Z
+date: 2021-04-18T22:54:48.438Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -69,7 +69,7 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 |100|**Front Nine Horse Three**<br>表クマザン [おもてくまざん, *omote kumazan*]|[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |50|**Back Nine Horse Three**<br>裏クマザン [うらくまざん, *ura kumazan*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 \* Some sources use the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man instead of the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Swallow in these two yaku.
-\** Some English sources give these yaku as "Ten Nine Twelve" with ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum cards replacing the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony shown here.
+\** Some sources give these yaku as "Ten Nine Twelve" with ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum cards replacing the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony shown here.
 ## Set 1 Only
 Set 1 contains 3 more yaku than Set 2, and emphasizes cards in the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) Cherry Blossom, and ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria suits, in that order.
 |Value|Name of Yaku|Composition|
@@ -117,6 +117,7 @@ Set two has fewer yaku total, but has one more yaku that grants an instant victo
 |1|The [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese) card, all Ribbons besides [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Pine](/en/hanafuda/suits/pine) and [![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple](/en/hanafuda/suits/maple), and all Chaff.|
 
 # Bibliography
+- "Tensyo" *Hanafuda Tenkomori for Dad,* Unbalance, 2010.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
 - *Tobaku Ni Kansuru Chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696. pp. 8-13, 52-58.
 - https://web.archive.org/web/20050219222956/http://hana.kirisame.org/tensho.html
