@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-18T19:38:17.546Z
+date: 2021-04-18T19:48:05.405Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -139,7 +139,7 @@ For example, if a player has all five Bright cards, they only earn points for *F
 |5|**Poetry Ribbons**<br>赤短 [あかたん, *akatan*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)<br>This yaku is worth 1 extra point for each additional Ribbon card.|
 |5|**Blue Ribbons**<br>青短 [あおたん, *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)<br>This yaku is worth 1 extra point for each additional Ribbon card.|
 |1|**Ribbons**<br>短冊 [たんざく, *tanzaku*]|Any 5 Ribbon cards.<br>This yaku is worth 1 extra point for each additional Ribbon card.|
-|<h2 align="center">Ungrouped Yaku</h2><br>Note: This group is **not** mutually exclusive. All these yaku stack with each other!|||
+|<h2 align="center">Other Yaku</h2><br>Note: This group is **not** mutually exclusive. All these yaku stack with each other!|||
 |Points|Yaku Name|Composition|
 |5|**Flower Viewing Sake**<br>花見酒 [はなみざけ, *hanami-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |5|**Moon Viewing Sake**<br>月見酒 [つきみざけ, *tsukimi-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
@@ -162,17 +162,14 @@ All of the following rules can be applied or not, depending on your tastes. See 
 - Each player is dealt 10 cards to their hand, instead of 8.
 
 ## Older *Yaku*
-The yaku given in the body of the page are typical of modern sources. Slightly older descriptions instead give the following mildly different list, which some may find easier to work with.
+The yaku given in the body of the page are typical of modern sources. Slightly older descriptions instead give the following, very mildly different Ribbon and Animal yaku, which some may find easier to work with.
 
-Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with each other**.
+The *Bright Yaku* and *Other Yaku* remain the same in this system, and have been omitted for brevity. The changes in the *Ribbon Yaku* and *Animal Yaku* are given below.
+
+Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with each other**, including *Ribbon Yaku* and *Animal Yaku!*
 
 |Points|Yaku Name|Composition|
 |:---:|:---:|:---|
-|<h3 align="center">Bright Yaku</h3>|||
-|15|Five Brights - 五光 [ごこう, *gokō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|7|Rainy Four Brights - 雨四光 [あめしこう, *ameshikō*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man) plus 3 of:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|6|Three Brights - 三光 [さんこう, *sankō*]|Any 3 of:<br>[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |<h3 align="center">Animal Yaku</h3>|||
 |Points|Yaku Name|Description|
 |5|Boar-Deer-Butterfly - 猪鹿蝶 [いのしかちょう, *inoshikachō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)|
@@ -182,13 +179,6 @@ Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with
 |5|Poetry Ribbons - 赤短 [あかたん, *akatan*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |5|Blue Ribbons - 青短 [あおたん, *aotan*]|[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |1|Ribbons - 短冊 [たんざく, *tanzaku*]|Any 5 Ribbon cards.<br>This yaku is worth 1 extra point for each additional Ribbon card.|
-|<h3 align="center">Ungrouped Yaku</h3>|||
-|Points|Yaku Name|Description|
-|5|Flower Viewing Sake - 花見酒 [はなみざけ, *hanami-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
-|5|Moon Viewing Sake - 月見酒 [つきみざけ, *tsukimi-zake*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)
-|
-|4|Cards of the Month - 月札 [つきふだ, *tsukifuda*]|All 4 cards belonging to the month of the current round.<br>For example, all four January cards in the first round, all four February cards in the second round, etc.<br>This yaku is typically only used in full 12 round games.|
-|1|Chaff - カス [かす, *kasu*]|Any 10 Chaff cards.<br>This yaku is worth 1 extra point for each additional Chaff card.<br>For the purposes of this yaku, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) also counts as Chaff!|
 
 > Even older sources tend to lack many of the typical yaku. Nintendo's 1960's Koi-Koi leaflet lacks *Boar Deer Butterflies*, *Rainy Four Brights*, and both the viewing yaku, while *Hanafuda - The Flower Card Game* additionally lacks *Three Brights*. Point values also differ drastically in these old sources.
 {.is-info}
