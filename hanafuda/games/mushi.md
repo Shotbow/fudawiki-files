@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2021-04-18T19:20:14.784Z
+date: 2021-04-18T19:22:43.951Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -47,8 +47,7 @@ This means that the total number of card points to be split by the players each 
 There are typically only 4 yaku used in Mushi. Players earn points for each of these that they capture, and subtract the same number of points from their opponents' score. Some variants only have 3 yaku, excluding "Five Brights".
 |Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
-|30|**Five Brights**<br>五光 [ごうこ, *gōko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
-|
+|30|**Five Brights**<br>五光 [ごうこ, *gōko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |25|**Three Brights**<br>三光 [さんこ, *sanko*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)<br>Not to be confused with the yaku of the same name in [Koi-Koi](/en/hanafuda/games/koi-koi).|
 |10|**Four Wisterias**<br>藤シマ [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.<br>[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
 |10|**Four Paulownias**<br>桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.<br>[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
