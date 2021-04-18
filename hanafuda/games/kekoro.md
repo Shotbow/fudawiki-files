@@ -2,7 +2,7 @@
 title: Kekoro
 description: A hanafuda game with unique card values and many yaku
 published: true
-date: 2021-04-18T04:33:55.079Z
+date: 2021-04-18T04:38:32.284Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -48,7 +48,7 @@ Thus, there are 272 points in a complete deck.
 |**Shellfish Ribbons** 短の海老 [たんのえび,*tan no ebi*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
 |**Low Three** - 下三 [しもざん, *shimozan*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 |**Low Three Ribbons** - 短の下三 [たんのしもざん, *tan no shimozan*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|**Downpour** - 出雨 [*de-u*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
-|**Downpour Ribbons** - 短の出雨 [*tan no de-u*]|[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
+|**Downpour** - 出雨 [でう, *de-u*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
+|**Downpour Ribbons** - 短の出雨 [たんのでう, *tan no de-u*]|[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
