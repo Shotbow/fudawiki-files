@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-18T22:59:40.490Z
+date: 2021-04-18T23:05:31.753Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -52,6 +52,8 @@ If players are tied with regards to both yaku **and** number of Chaff captured, 
 Note that many of the yaku names only make sense in the context of the **Nagoya [suit order](/en/hanafuda/suits#arrangement-of-suits),** with 馬 (*ma*, "horse") representing the value "11" and キリ(*kiri*, "king") representing "12" - these terms likely indicate that the game was originally played with a deck of tensho or mekuri karuta containing these "court" cards, and only later was it adapted to hanafuda.
 
 Many of the non-numeric yaku names may also be numeric puns - for instance, *yashima* may be interpreted as *ya shima*, "eight islands," or as *ya-shi-ma* "eight-four-horse."
+
+As in many other hanafuda games, the point values for each yaku may differ from source to source; the values demonstrated here reflect those used in the 1927 gambling book.
 ## Both Sets
 The first 12 yaku in Tensho are common to both sets of yaku, and thus are always valid. There are two other yaku (Front Elder and Back Elder) that technically fall into this category, but they are listed separately since they change values depending on which yaku set is selected.
 |Value|Name of Yaku|Composition|
