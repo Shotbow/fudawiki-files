@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-18T20:10:25.604Z
+date: 2021-04-18T20:10:44.943Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -164,7 +164,7 @@ All of the following rules can be applied or not, depending on your tastes. See 
 ## Older *Yaku*
 The yaku given in the body of the page are typical of modern sources. Slightly older descriptions instead give the following, mildly different treatment of Ribbon and Animal yaku, which some may find easier to work with.
 
-The *Bright Yaku* and *Other Yaku* remain the same in this system, and have been omitted for brevity. The changes in the *Ribbon Yaku* and *Animal Yaku* are as follows:
+The *Bright Yaku* and *Other Yaku* remain the same in this system. The changes in the *Ribbon Yaku* and *Animal Yaku* are as follows:
 
 - *Boar, Deer, Butterflies* is not worth extra points for additional cards. Instead, it can stack with the generic 'Any 5 Animals' yaku.
 - *Poetry Ribbons* and *Blue Ribbons* are not worth extra points for additional cards. Instead, they can stack both with each other, and with the generic 'Any 5 Ribbons' yaku. *Poetry+Blue Ribbons* is not a separate yaku, but instead exists as the combination of *Poetry Ribbons* and *Blue Ribbons*. 
