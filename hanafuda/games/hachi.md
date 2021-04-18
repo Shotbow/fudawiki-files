@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-18T08:10:52.291Z
+date: 2021-04-18T20:18:54.293Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -28,7 +28,7 @@ On your turn, choose one card from your hand to play to the field. If it matches
 After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match according to the Capture Chart if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. Captured cards are public knowledge, and should be arranged in such a way that both players can see them. It then becomes the next player's turn.
 
 ## Capture Chart
-Two cards are considered a match in Hachi if the numeric value of their suits add up to a number whose last digit is 3 or 8, according to the [standard ordering of suits](/en/hanafuda/suits#arrangement-of-suits). In practice, this means that cards marked as Group A in the table below capture cards in Group B, and vice versa; cards in Group C capture those in Group E, and vice versa. Group D cards capture other Group D cards.
+**Two cards are considered a match in Hachi if the numeric value of their suits add up to a number whose last digit is 3 or 8**, according to the [standard ordering of suits](/en/hanafuda/suits#arrangement-of-suits). In practice, this means that cards marked as Group A in the table below capture cards in Group B, and vice versa; cards in Group C capture those in Group E, and vice versa. Group D cards capture other Group D cards.
 |Group|Given Suit|Possible Captures|
 |:---:|:---:|:---:|
 |A|![Icon for month 1](/hanafuda/icons/monthicon_1.png =40x)![Icon for month 6](/hanafuda/icons/monthicon_6.png =40x)![Icon for month 11](/hanafuda/icons/monthicon_11.png =40x)|![Icon for month 2](/hanafuda/icons/monthicon_2.png =40x)![Icon for month 7](/hanafuda/icons/monthicon_7.png =40x)![Icon for month 12](/hanafuda/icons/monthicon_12.png =40x)|
@@ -37,14 +37,14 @@ Two cards are considered a match in Hachi if the numeric value of their suits ad
 |D|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)|![Icon for month 4](/hanafuda/icons/monthicon_4.png =40x)![Icon for month 9](/hanafuda/icons/monthicon_9.png =40x)
 |E|![Icon for month 5](/hanafuda/icons/monthicon_5.png =40x)![Icon for month 10](/hanafuda/icons/monthicon_10.png =40x)|![Icon for month 3](/hanafuda/icons/monthicon_3.png =40x)![Icon for month 8](/hanafuda/icons/monthicon_8.png =40x)
 ## End of Round
-The round ends when both players have exhausted their hands. At this point in time, each player calculates their score taking the sum of their cards' individual values and adding it to the total points for any yaku they have completed, according to the tables in the following sections. The winner of the round is the player with the greater number of points.
+**The round ends when both players have exhausted their hands.** At this point in time, each player calculates their score taking the sum of their cards' individual values and adding it to the total points for any yaku they have completed, according to the tables in the following sections. **The winner of the round is the player with the greater number of points.**
 # Card Values
 |Point Value|Type of Card|Number in Deck|
 |:---:|:---:|:---:|
 |1|Ribbons|10|
 |10|All Other Cards|38|
 # Yaku
-There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone yaku with no partner. Note that the [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese) and [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Colored Paulownia chaff](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) stand in for Ribbons in the yaku in which they appear, despite their individual point values being higher than proper Ribbons.
+There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone Ribbon yaku with no partner. Note that the [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese) and [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Colored Paulownia chaff](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) stand in for Ribbons in the yaku in which they appear, despite their individual point values being higher than proper Ribbons.
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |10|**Mist Island**<br>霧島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
