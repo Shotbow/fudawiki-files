@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-18T22:54:48.438Z
+date: 2021-04-18T22:58:12.520Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -71,7 +71,7 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 \* Some sources use the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man instead of the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Swallow in these two yaku.
 \** Some sources give these yaku as "Ten Nine Twelve" with ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum cards replacing the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony shown here.
 ## Set 1 Only
-Set 1 contains 3 more yaku than Set 2, and emphasizes cards in the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) Cherry Blossom, and ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria suits, in that order.
+Set 1 - 七分役 [しちぶやく, *shichi-bu yaku*] contains 3 more yaku than Set 2, and emphasizes cards in the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) Cherry Blossom, and ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria suits, in that order.
 |Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |100|**Front Seven Five Three**<br>表七五三 [おもてしちごさん, *omote shichi-go-san*] |[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
@@ -87,7 +87,7 @@ Set 1 contains 3 more yaku than Set 2, and emphasizes cards in the ![Icon for mo
 |**Instant Win**|**Front Elder**<br>表御老中 [おもてごろうじゅう, *omote gorōjū*]|[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
 |100|**Back Elder**<br>裏御老中 [うらごろうじゅう, *ura gorōjū*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
 ## Set 2 Only
-Set two has fewer yaku total, but has one more yaku that grants an instant victory. It has many yaku featuring cards of the ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple suit, followed by ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass and ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum.
+Set 2 - 半役 [はんやく, *han yaku*] has fewer yaku total, but has one more yaku that grants an instant victory. It has many yaku featuring cards of the ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple suit, followed by ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass and ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum.
 |Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |100|**Front Young Woman**<br>表娘 [おもてむすめ, *omote musume*]|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
