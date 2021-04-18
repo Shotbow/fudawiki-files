@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-17T12:18:27.665Z
+date: 2021-04-18T07:42:01.049Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -122,8 +122,8 @@ There is great variation in the possible sets of yaku in Koi-Koi. Some yaku may 
 The yaku given here are fairly typical of modern forms of the game, as seen in video games and Nintendo's current Koi-Koi rules leaflet. They are sorted into groups. All of the yaku within each group (except “Ungrouped”) are *mutually exclusive*; a player only scores for their most valuable yaku in each group.
 
 For example, if a player has all five Bright cards, they only earn points for *Five Brights*.  They do not earn points for *Four Brights*, *Rainy Four Brights*, or *Three Brights*. This goes for each grouping.
-|Points|Yaku Name|Description|
-|:---:|:---:|:---:|
+|Points|Yaku Name|Composition|
+|:---:|:---:|:---|
 |<h2 align="center">Bright Yaku</h2>|||
 |15|Five Brights - 五光 [ごこう, *gokō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)<br>15 is the most common value of this yaku, though Nintendo's rules list it at only 10 points.|
 |8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
@@ -167,8 +167,8 @@ The yaku given in the body of the page are typical of modern sources. Slightly o
 
 Here, only the *Bright Yaku* are mutually exclusive; **all other yaku stack with each other**.
 
-|Points|Yaku Name|Description|
-|:---:|:---:|:---:|
+|Points|Yaku Name|Composition|
+|:---:|:---:|:---|
 |<h3 align="center">Bright Yaku</h3>|||
 |15|Five Brights - 五光 [ごこう, *gokō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |8|Four Brights (Dry 4) - 四光 [しこう, *shikō*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
