@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-18T19:48:05.405Z
+date: 2021-04-18T19:48:33.706Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -162,7 +162,7 @@ All of the following rules can be applied or not, depending on your tastes. See 
 - Each player is dealt 10 cards to their hand, instead of 8.
 
 ## Older *Yaku*
-The yaku given in the body of the page are typical of modern sources. Slightly older descriptions instead give the following, very mildly different Ribbon and Animal yaku, which some may find easier to work with.
+The yaku given in the body of the page are typical of modern sources. Slightly older descriptions instead give the following, mildly different treatment of Ribbon and Animal yaku, which some may find easier to work with.
 
 The *Bright Yaku* and *Other Yaku* remain the same in this system, and have been omitted for brevity. The changes in the *Ribbon Yaku* and *Animal Yaku* are given below.
 
