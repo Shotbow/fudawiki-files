@@ -2,7 +2,7 @@
 title: Hachi
 description: A 2-player hanafuda game with a unique capture mechanic
 published: true
-date: 2021-04-18T05:39:15.125Z
+date: 2021-04-18T08:10:52.291Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-08T23:17:59.824Z
@@ -46,7 +46,7 @@ The round ends when both players have exhausted their hands. At this point in ti
 # Yaku
 There are 21 yaku in the game of Hachi, which exist as 10 pairs of Ribbon and non-Ribbon variants, and one lone yaku with no partner. Note that the [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Geese](/en/hanafuda/suits/susuki-grass#geese) and [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Colored Paulownia chaff](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) stand in for Ribbons in the yaku in which they appear, despite their individual point values being higher than proper Ribbons.
 |Point Value|Name of Yaku|Composition|
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 |10|**Mist Island**<br>霧島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
 |20|**Mist Island Ribbons**<br>短の霧島 [たんのきりしま, *tan no kirishima*]|[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
 |10|**Elder**<br>御老中 [ごろうじゅう, *gorōjū*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
