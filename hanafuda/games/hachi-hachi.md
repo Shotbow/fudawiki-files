@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-17T07:54:27.805Z
+date: 2021-04-18T07:59:35.758Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -91,23 +91,23 @@ However, the basic teyaku fall into two categories, with all the others being si
 |Value (in *kan*)|Name|Description|
 |:---:|:---:|:---|
 |<h2 align="left">Group A: Set Teyaku</h2>|||
-|2|Triplet/Three of a Kind<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
-|3|Standing Triplet<br/>立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
-|6|Two Triplets<br/>二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
+|2|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
+|3|**Standing Triplet**<br/>立三本 [たてさんぼん, *tatesanbon*]|Three of a kind from the months of [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria), [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Iris](/en/hanafuda/suits/iris), or [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Bush Clover](/en/hanafuda/suits/bush-clover), or the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) Chaff cards.|
+|6|**Two Triplets**<br/>二三本 [ふたさんぼん, *futasanbon*]|A Triplet, and another Triplet.|
 |7|Triplet and Standing Triplet<br/>三本立三本 [さんぼんたてさんぼん, *sanbon tatesanbon*]|A Triplet, and a Standing Triplet|
-|8|Two Standing Triplets<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
-|4|Three Pairs<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
-|6|Four of a Kind<br/>手四 [てし, *teshi*]|Four cards from the same month.|
-|7|Triplet and Two Pairs<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet and two pairs.|
-|8|One-Two-Four<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
-|20|Four-Three<br/>四三 [しそう, *shisou*]|Four of a kind and a triplet.|
+|8|**Two Standing Triplets**<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
+|4|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
+|6|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
+|7|**Triplet and Two Pairs**<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet and two pairs.|
+|8|**One-Two-Four**<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
+|20|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a triplet.|
 
 |<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
-|2|Red<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
-|3|One Ribbon<br/>短一 [たんいち, *tan'ichi*]|One Ribbon card, six Chaff.|
-|3|One Animal<br/>十一 [といち, *toichi*]|One Animal card, six Chaff.|
-|4|One Bright<br/>光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
-|4|Empty Hand<br/>空素 [からす, *karasu*]|Seven Chaff cards.|
+|2|**Red**<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
+|3|**One Ribbon**<br/>短一 [たんいち, *tan'ichi*]|One Ribbon card, six Chaff.|
+|3|**One Animal**<br/>十一 [といち, *toichi*]|One Animal card, six Chaff.|
+|4|**One Bright**<br/>光一 [ぴかいち, *pikaichi*]|One Bright card, six Chaff.|
+|4|**Empty Hand**<br/>空素 [からす, *karasu*]|Seven Chaff cards.|
 
 The teyaku within each group are mutually exclusive, meaning that **each player scores for their single most valuable teyaku in each of Groups A and B.** In order to claim their *teyaku*, a player must reveal all the relevant cards from their hand: 
 * For teyaku in Group A, show all cards that are part of the combination. 
@@ -256,17 +256,14 @@ Hachi-Hachi is notably slim on *dekiyaku* compared to other *Hana-Awase* fishing
 > A *liability* rule is sometimes applied to the *Four Brights*, *Poetry Ribbons* and *Blue Ribbons* dekiyaku, along with *Boar, Deer, Butterflies* if included.<br><br>If a player is one card short of possessing one of these dekiyaku, an opponent deliberately leaves the remaining card on the table to be captured, and the player captures it on their very next turn, then the discarding opponent pays *double* what they otherwise would for that dekiyaku at scoring time, while the other opponent pays nothing for it.<br><br>This does not apply if the opponent plays that card during their very last turn (since they have no choice in the matter).
 {.is-info}
 
-|Value (in *kan*)|Name of Yaku|Description|
-|:---:|:---:|:---:|
-|<h2 align="left">Bright Yaku</h2>|||
-|12|Five Brights<br/>五光 [ごこう, *gokou*] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|10|Four Brights<br/>四光 [しこう, *shikou*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
-|<h2 align="left">Ribbon Yaku</h2>|||
-|10|Seven Ribbons<br/>七短 [ななたん, *nanatan*]|Any 7 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).<br>This yaku is worth an extra +1 *kan* for each additional Ribbon, *including* the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon)!|
-|7|Poetry Ribbons<br/>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|7|Blue Ribbons<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
-|<h2 align="left">Animal Yaku</h2>|||
-|7|Boar, Deer, Butterflies<br/>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
+|Value (in *kan*)|Name of Yaku|Composition|
+|:---:|:---:|:---|
+|12|**Five Brights**<br/>五光 [ごこう, *gokou*] |[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|10|**Four Brights**<br/>四光 [しこう, *shikou*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
+|10|**Seven Ribbons**<br/>七短 [ななたん, *nanatan*]|Any 7 Ribbon cards, excluding the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon).<br>This yaku is worth an extra +1 *kan* for each additional Ribbon, *including* the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon)!|
+|7|**Poetry Ribbons**<br/>赤短 [あかたん, *akatan*]| The three Poetry Ribbons:<br>[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|7|**Blue Ribbons**<br/>青短 [あおたん, *aotan*]|The three Blue Ribbons:<br> [![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)|
+|7|**Boar, Deer, Butterflies**<br/>猪鹿蝶 [いのしかちょう, *inoshikachou*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)<br>This yaku is not present in most versions, but appears in Nintendo's Hachi-Hachi leaflet included with their hanafuda decks.|
 
 # Hachi-Hachi for Two Players
 While Hachi-Hachi works best with a minimum of three players, it can be adapted for two players with a few adjustments. It may occasionally occur during a game with 4+ players if, during the drop-out phase, all but two players drop out.
