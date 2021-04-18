@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-18T04:58:40.175Z
+date: 2021-04-18T20:47:47.071Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -31,14 +31,14 @@ The yaku in Sudaoshi fall into two categories. While any player may score points
 Note that only one yaku may be captured within each category.
 
 As usual, these yaku may be known by different names depending on the source.
-|Value|Name of Yaku|Description|
-|:---:|:---:|:---:|
+|Value|Name of Yaku|Composition|
+|:---:|:---:|:---|
 |<h2 align="center">Susuki Grass Yaku</h2>|||
-|10|**Top Baldies** - 坊主頭 [ぼうずかぶり, *bōzu-kaburi*]|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
-|20|**Set of Baldies** - 坊主ぞろ [ぼうずぞろ, *bōzu-zoro*]|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)|
+|10|**Top Baldies**<br>坊主頭 [ぼうずかぶり, *bōzu-kaburi*]|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
+|20|**Set of Baldies**<br>坊主ぞろ [ぼうずぞろ, *bōzu-zoro*]|[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Susuki Grass Chaff 1](/sheldonchen-cards/82.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)[![Susuki Grass Chaff 2](/sheldonchen-cards/83.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#chaff)|
 |<h2 align="center">Willow Yaku</h2>|||
-|10|**Top Rains** - 雨頭 [あめかぶり, *ame-kaburi*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
-|20|**Set of Rains** - 雨ぞろ [あめぞろ, *ame-zoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
+|10|**Top Rains**<br>雨頭 [あめかぶり, *ame-kaburi*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
+|20|**Set of Rains**<br>雨ぞろ [あめぞろ, *ame-zoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103
