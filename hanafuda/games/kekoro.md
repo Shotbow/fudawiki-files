@@ -2,7 +2,7 @@
 title: Kekoro
 description: A hanafuda game with unique card values and many yaku
 published: true
-date: 2021-04-18T04:45:22.764Z
+date: 2021-04-18T05:02:48.346Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -26,8 +26,8 @@ Thus, there are 272 points in a complete deck.
 Most yaku in this game come in pairs of Ribbon and non-Ribbon variants; however, Four Seven Eight and Ten Seven Eight only have Ribbon forms.
 |Name of Yaku|Composition|
 |:---:|:---:|
-|**Mist Island** - 霧島 [きりしま, *kirishima*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)|
-|**Mist Island Ribbons** - 短の霧島 [たんのきりしま, *tan no kirishima*]|[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)|
+|**Mist Island** - 霧島 [きりしま, *kirishima*]|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)|
+|**Mist Island Ribbons** - 短の霧島 [たんのきりしま, *tan no kirishima*]|[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)|
 |**Gundari** - グンダリ [ぐんだり, *gundari*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)|
 |**Gundari Ribbons** - 短のグンダリ [たんのぐんだり, *tan no gundari*]|[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)|
 |**Elder** - 御老中 [ごろうじゅう, *gorōjū*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
