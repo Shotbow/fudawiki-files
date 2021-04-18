@@ -2,7 +2,7 @@
 title: Kekoro
 description: A hanafuda game with unique card values and many yaku
 published: true
-date: 2021-04-18T04:42:48.258Z
+date: 2021-04-18T04:45:22.764Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -22,6 +22,8 @@ Thus, there are 272 points in a complete deck.
 # Yaku
 
 **For each yaku completed in Kekoro, take 15 points from each opponent**, i.e. you gain 15 points and they each lose 15 points.
+
+Most yaku in this game come in pairs of Ribbon and non-Ribbon variants; however, Four Seven Eight and Ten Seven Eight only have Ribbon forms.
 |Name of Yaku|Composition|
 |:---:|:---:|
 |**Mist Island** - 霧島 [きりしま, *kirishima*]|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)|
