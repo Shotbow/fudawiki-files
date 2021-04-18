@@ -2,15 +2,15 @@
 title: Hon-Bana
 description: A 45-card hana-awase variant typical to the Nagoya region in the 1920s
 published: true
-date: 2021-04-18T07:31:07.403Z
+date: 2021-04-18T07:37:15.843Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2020-10-26T03:11:27.576Z
 ---
 
-Hon-Bana [本花, ほんばな] is a [Hana Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 Department of Justice document as being the most typical hana-awase game of the region. As with other games originating in the region, it uses an alternate [suit](/en/hanafuda/suits) ordering from what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
+**Hon-Bana** - 本花 [ほんばな] is a [Hana-Awase](/en/hanafuda/games/hana-awase) variant originating in the Nagoya region of Japan. It is described in a 1927 Department of Justice document as being the most typical hana-awase game of the region. As with other games from Nagoya, it uses an alternate [suit](/en/hanafuda/suits) ordering from what is typically considered standard today, along with a different distribution of card points compared to popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) and [Mushi](/en/hanafuda/games/mushi). It is most often played with 3 participants; as such, this page describes the 3-player version of the game.
 # Setup
-First, prepare the deck by removing the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaff](/en/hanafuda/suits/paulownia)  from a standard [hanafuda](/en/hanafuda) deck, leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
+First, **prepare the deck by removing the three [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia Chaff](/en/hanafuda/suits/paulownia)  from a standard [hanafuda](/en/hanafuda) deck,** leaving a 45-card deck. Then, choose the first dealer by whatever method the players prefer. (In subsequent games, the dealer is the player who scored the greatest number of card points). If the game is to be played for money, determine collectively what each Point is worth.
 
 The dealer shuffles the deck, and places it before the player to their left, who then cuts the deck and returns it to the dealer.
 
