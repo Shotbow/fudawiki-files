@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-18T21:31:20.443Z
+date: 2021-04-18T21:32:05.214Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -40,4 +40,4 @@ Note that the Bright Yaku are mutually exclusive with one another, but all other
 # Variations
 
 # Bibliography
-McLeod, John. “Go Stop.” Rules of Card Games: Go Stop, 6 Sept. 2017, www.pagat.com/fishing/gostop.html. 
+- McLeod, John. “Go Stop.” *Rules of Card Games,* 6 Sept. 2017, www.pagat.com/fishing/gostop.html. 
