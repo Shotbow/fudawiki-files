@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-18T05:59:46.280Z
+date: 2021-04-18T06:05:48.070Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -66,8 +66,8 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 |50|**Back Nakazō**<br>裏ナカゾウ [うらなかぞう, *ura nakazō*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)|
 |100|**Front Ten Horse King**\*\*<br>表十馬キリ [おもてじゅううまきり, *omote jū-uma-kiri*]|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)|
 |50|**Back Ten Horse King**\*\*<br>裏十馬キリ [うらじゅううまきり, *ura jū-uma-kiri*]|[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)|
-|100|**Front Nine Horse Three**<br>表クマザン|[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
-|50|**Back Nine Horse Three**<br>裏クマザン|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
+|100|**Front Nine Horse Three**<br>表クマザン [おもてくまざん, *omote kumazan*]|[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
+|50|**Back Nine Horse Three**<br>裏クマザン [うらくまざん, *ura kumazan*]|[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
 \* Some sources use the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man instead of the ![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Swallow in these two yaku.
 \** Some English sources give these yaku as "Ten Nine Twelve" with ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum cards replacing the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony shown here.
 ## Set 1 Only
