@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2021-04-18T19:22:43.951Z
+date: 2021-04-18T19:24:53.199Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -52,7 +52,7 @@ There are typically only 4 yaku used in Mushi. Players earn points for each of t
 |10|**Four Wisterias**<br>藤シマ [ふじしま, *fujishima*]|All 4 [![monthicon_4.png](/hanafuda/icons/monthicon_4.png =20x)Wisteria](/en/hanafuda/suits/wisteria) cards.<br>[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Wisteria Chaff 1](/sheldonchen-cards/42.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)[![Wisteria Chaff 2](/sheldonchen-cards/43.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#chaff)|
 |10|**Four Paulownias**<br>桐シマ [きりしま, *kirishima*]|All 4 [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) cards.<br>[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 # Scoring Example
-If "Player A" captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while "Player B" captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, "Player A" would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). "Player B"'s score for the round would thus be 5, as the sum of scores in a given round always equals 0.
+If **Player A** captured 2 Brights, 3 Animals, 3 Ribbons, and 10 Chaff, and made the "Three Brights" yaku, while **Player B** captured the rest of the cards in the deck and made the "Wisteria Stripe" yaku, **Player A** would calculate their score as 2(20) + 3(10) + 3(5) +10(1) - 115 + 25 - 10 = (-5). **Player B**'s score for the round would thus be 5, as **the sum of scores in a given round always equals 0.**
 
 # External resources
 > 📺 ["How to play Mushi"](https://youtu.be/Kws5lvlN-QQ), YouTube tutorial by **suryong**.
