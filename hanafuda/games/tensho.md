@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-18T07:52:13.778Z
+date: 2021-04-18T20:50:16.524Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -54,7 +54,7 @@ Note that many of the yaku names only make sense in the context of the **Nagoya 
 Many of the non-numeric yaku names may also be numeric puns - for instance, *yashima* may be interpreted as *ya shima*, "eight islands," or as *ya-shi-ma* "eight-four-horse."
 ## Both Sets
 The first 12 yaku in Tensho are common to both sets of yaku, and thus are always valid. There are two other yaku (Front Elder and Back Elder) that technically fall into this category, but they are listed separately since they change values depending on which yaku set is selected.
-|Point Value|Name of Yaku|Composition|
+|Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |100|**Front One Two Three**<br>表一二三 [おもていちにさん, *omote ichi-ni-san*]|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |50|**Back One Two Three**\*<br>裏一二三 [うらいちにさん, *ura ichi-ni-san*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
@@ -72,7 +72,7 @@ The first 12 yaku in Tensho are common to both sets of yaku, and thus are always
 \** Some English sources give these yaku as "Ten Nine Twelve" with ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum cards replacing the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony shown here.
 ## Set 1 Only
 Set 1 contains 3 more yaku than Set 2, and emphasizes cards in the ![Icon for month 6](/hanafuda/icons/monthicon_6.png =20x)Peony, ![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x) Cherry Blossom, and ![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)Wisteria suits, in that order.
-|Point Value|Name of Yaku|Composition|
+|Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |100|**Front Seven Five Three**<br>表七五三 [おもてしちごさん, *omote shichi-go-san*] |[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |50|**Back Seven Five Three**<br>裏七五三 [うらしちごさん, *ura shichi-go-san*]|[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)|
@@ -88,7 +88,7 @@ Set 1 contains 3 more yaku than Set 2, and emphasizes cards in the ![Icon for mo
 |100|**Back Elder**<br>裏御老中 [うらごろうじゅう, *ura gorōjū*]|[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)|
 ## Set 2 Only
 Set two has fewer yaku total, but has one more yaku that grants an instant victory. It has many yaku featuring cards of the ![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Maple suit, followed by ![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass and ![Icon for month 9](/hanafuda/icons/monthicon_9.png =20x)Chrysanthemum.
-|Point Value|Name of Yaku|Composition|
+|Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |100|**Front Young Woman**<br>表娘 [おもてむすめ, *omote musume*]|[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
 |50|**Back Young Woman**<br>裏娘 [うらむすめ, *ura musume*]|[![Maple with Deer](/sheldonchen-cards/100.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#deer)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
