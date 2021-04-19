@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-19T06:10:21.629Z
+date: 2021-04-19T06:17:08.003Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -16,12 +16,13 @@ Sudaoshi is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of se
 ## Lucky Hands
 The **Lucky Hands** - 手役 [てやく, *teyaku*] in this game are generally the same as those used in Hachi-Hachi. See [here](/en/hanafuda/games/hachi-hachi#teyaku) for more information.
 
-A variant of Sudaoshi from 1921 only included 3 Lucky Hands, which may be used if a simpler game is desired:
+A variant of Sudaoshi from 1921 only included 4 Lucky Hands, which may be used if a simpler game is desired:
 |Points|Name|Description|
 |:---:|:---:|:---|
 |10|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
 |20|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards of different months.|
 |30|**Four-Three**<br/>四三 [しそう, *shisou*]|Four cards of one suit and a triplet of another.|
+|10|**Three Ribbons**<br>短三枚 [のなさけ, *nonasake*]|Any 3 Ribbons. Note that only the second player, i.e. the one to the right of the dealer, may claim this particular Lucky Hand!|
 
 # Gameplay
 # Card Values
