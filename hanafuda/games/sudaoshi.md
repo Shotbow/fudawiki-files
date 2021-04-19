@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-19T06:05:44.679Z
+date: 2021-04-19T06:06:45.938Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -20,8 +20,8 @@ A variant of Sudaoshi from 1921 only included 3 Lucky Hands, which may be used i
 |Points|Name|Description|
 |:---:|:---:|:---|
 |10|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
-|20|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
-|30|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a triplet.|
+|20|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards of different months.|
+|30|**Four-Three**<br/>四三 [しそう, *shisou*]|Four cards of one suit and a triplet of another.|
 
 # Gameplay
 # Card Values
