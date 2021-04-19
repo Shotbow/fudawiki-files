@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-19T06:06:45.938Z
+date: 2021-04-19T06:10:21.629Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -33,6 +33,8 @@ A variant of Sudaoshi from 1921 only included 3 Lucky Hands, which may be used i
 |Animals|5|9|
 |Ribbons|1|10|
 The total value of cards in the deck is 330.
+
+In an earlier variant of Sudaoshi, the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) were worth 5 points rather than 10, and Chaff were worth 8 points rather than 10, which matches with the card values used in [Kekoro](/en/hanafuda/games/kekoro).
 # Yaku
 The yaku in Sudaoshi fall into two categories. While any player may score points for the two [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) yaku, only the last player (the one sitting to the left of the dealer) may score for either [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) yaku.
 
@@ -47,7 +49,6 @@ As usual, these yaku may be known by different names depending on the source.
 |<h2 align="center">Willow Yaku</h2>|||
 |10|**Top Rains**<br>雨頭 [あめかぶり, *ame-kaburi*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
 |20|**Set of Rains**<br>雨ぞろ [あめぞろ, *ame-zoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
-# Variations
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103
