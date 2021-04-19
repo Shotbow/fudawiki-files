@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-19T06:29:30.515Z
+date: 2021-04-19T06:48:07.970Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -33,7 +33,7 @@ A variant of Sudaoshi from 1921 only included 4 Lucky Hands, which may be used i
 |[![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man)|5|3|
 |Animals|5|9|
 |Ribbons|1|10|
-The total value of cards in the deck is 330.
+The total value of all cards in the deck is 330. The **point burden is different for each player,** however: The **dealer subtracts 100 points from their captured card points**, the **player to their right subtracts 110**, and the **last player subtracts 120**.
 
 In an earlier variant of Sudaoshi, the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) were worth 5 points rather than 10, and Chaff were worth 8 points rather than 10, which matches with the card values used in [Kekoro](/en/hanafuda/games/kekoro).
 # Yaku
