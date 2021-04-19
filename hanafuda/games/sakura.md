@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2021-04-18T20:27:43.891Z
+date: 2021-04-19T12:01:53.558Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -19,14 +19,14 @@ Next, determine who will be the first dealer. Any method may be used, but a trad
 ## The Deal
 Once the cards have been shuffled and cut, the dealer passes out cards face down to each player and face up to the field according to the following chart.
 
-|Number of Players|Cards to each Player|Cards to the Field|
-|:---:|:---:|:---:|
-|2|8|8|
-|3|7|6|
-|4|5|8|
-|5|4|8|
-|6|3|12|
-|7|3|6|
+|Number of Players||Cards to each Player|Cards to the Field|
+|---:|:---|:---:|:---:|
+|**2**|🧍🧍‍|8|8|
+|**3**|🧍‍♂️🧍‍♂️🧍‍♂️|7|6|
+|**4**|🧍‍🧍‍🧍‍🧍‍|5|8|
+|**5**|🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️|4|8|
+|**6**|🧍‍🧍‍🧍‍🧍‍🧍‍<br>🧍‍|3|12|
+|**7**|🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️🧍‍♂️<br>🧍‍♂️🧍‍♂️|3|6|
 
 Any remaining cards form the draw pile for the round and are to be placed in a single face down stack beside the field cards.
 
