@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-19T05:53:17.979Z
+date: 2021-04-19T06:05:44.679Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -14,7 +14,15 @@ Sudaoshi is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of se
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 ## Lucky Hands
-The Lucky Hands in this game are generally the same as those used in Hachi-Hachi. They are quite numerous, but can be broken into two categories: Chaff combinations and Suit combinations. Only one Lucky Hand may be scored from each category per player, but two hands from different categories may both be scored together.
+The **Lucky Hands** - 手役 [てやく, *teyaku*] in this game are generally the same as those used in Hachi-Hachi. See [here](/en/hanafuda/games/hachi-hachi#teyaku) for more information.
+
+A variant of Sudaoshi from 1921 only included 3 Lucky Hands, which may be used if a simpler game is desired:
+|Points|Name|Description|
+|:---:|:---:|:---|
+|10|**Triplet/Three of a Kind**<br/>三本 [さんぼん, *sanbon*]|Any three cards of the same month.|
+|20|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
+|30|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a triplet.|
+
 # Gameplay
 # Card Values
 |Card Type|Value|Number in Deck|
@@ -40,7 +48,6 @@ As usual, these yaku may be known by different names depending on the source.
 |10|**Top Rains**<br>雨頭 [あめかぶり, *ame-kaburi*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
 |20|**Set of Rains**<br>雨ぞろ [あめぞろ, *ame-zoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 # Variations
-
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103
