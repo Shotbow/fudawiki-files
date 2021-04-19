@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-18T20:47:47.071Z
+date: 2021-04-19T05:52:50.236Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -39,7 +39,9 @@ As usual, these yaku may be known by different names depending on the source.
 |<h2 align="center">Willow Yaku</h2>|||
 |10|**Top Rains**<br>雨頭 [あめかぶり, *ame-kaburi*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)|
 |20|**Set of Rains**<br>雨ぞろ [あめぞろ, *ame-zoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
+# Variations
+
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103
-
+- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761. 
