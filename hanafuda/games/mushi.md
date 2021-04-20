@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2021-04-20T20:55:44.387Z
+date: 2021-04-20T21:02:39.048Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -24,7 +24,7 @@ Eight cards are distributed to each player, and eight to the table. While there 
 If 4 cards of the same suit are dealt to the field at the beginning of a round, generally a misdeal is declared and the same dealer shuffles and distributes cards once more. The same may or may not be true in the case that that 4 pairs of different suits are dealt to the field; be sure to agree on this as a house rule before play begins.
 
 # Gameplay
-Each round, the dealer is the first to play.
+Each round, the dealer is the first to play, and turn to play alternates. The turn structure of Mushi is entirely typical of [Hana-Awase](/en/hanafuda/games/hana-awase)-derived games such as [Koi-Koi](/en/hanafuda/games/koi-koi).
 
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table.
