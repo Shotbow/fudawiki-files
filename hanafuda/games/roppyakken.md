@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2021-04-20T21:22:48.005Z
+date: 2021-04-20T21:26:07.346Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -104,6 +104,9 @@ In the unlikely event of a tie, a further round may be played if desired.
 
 # Typical Yaku
 Note that as with most [Hana Awase](/en/hanafuda/games/hana-awase)-style games, there is some variation in the repertoire of yaku and their scores, depending on who you ask. The following table therefore may include yaku not present in other sources, or may be missing yaku that are included in other sources.
+
+The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack**: players score for *all* the yaku they possess at the end of the round.
+
 |Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |<h2 align="center">Bright Yaku</h2>|||
