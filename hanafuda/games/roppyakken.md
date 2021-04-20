@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2021-04-20T21:20:29.045Z
+date: 2021-04-20T21:22:48.005Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -80,7 +80,10 @@ Should multiple players have a score of 600 or greater, then the winner is:
 - Failing that, the player who captured the *Seven Ribbons* yaku;
 - Or, failing that, whichever player has the highest total score.
 
+In the unlikely event of a tie, a further round may be played if desired.
 
+> Some rule sets many not recognise *Four Brights* or *Seven Ribbons* as instant wins. In these versions of the game, victory simply goes to whichever player has the highest score.
+{.is-info}
 
 # Card Values
 |Card Type|Value|Number in Deck|
