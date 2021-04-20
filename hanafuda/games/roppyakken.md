@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2021-04-20T21:16:29.477Z
+date: 2021-04-20T21:20:29.045Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -72,9 +72,15 @@ If no player has reached 600 points, then the current scores are recorded, and a
 If any player has only scored 30 points or fewer, not counting ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow and ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) Paulownia cards, during a round, all players' scores for the round, including those for Lucky Hands, are invalidated. This negation of scoring is called *fuke* [ふけ, lit. "dandruff"].
 
 ### End of Game
-The game ends once some player reaches at least 600 points; this player is then the winner of the game.
+The game ends once some player reaches at least 600 points, after playing as many rounds as necessary. This player is then the winner of the game.
 
-The possible exception to this is if one of the instant win yaku have been formed.
+Should multiple players have a score of 600 or greater, then the winner is:
+
+- The player who captured the *Four Brights* yaku;
+- Failing that, the player who captured the *Seven Ribbons* yaku;
+- Or, failing that, whichever player has the highest total score.
+
+
 
 # Card Values
 |Card Type|Value|Number in Deck|
