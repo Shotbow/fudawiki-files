@@ -2,15 +2,17 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2021-04-18T19:51:12.483Z
+date: 2021-04-20T21:16:29.477Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
 ---
 
 Six Hundred - 六百間 [ろっぴゃっけん, *roppyakken*] is a [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) for 2 or 3 players. Unlike many games, which may last a dozen rounds, Six Hundred tends to be over in less than 3 hands due to its scoring system. Some unique characteristics of the game include its usage of the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) as a wild card and its treatment of the [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler) card as a de-facto Bright card.
+
 # Setup
 Game setup involves choosing a dealer - 親 [おや, oya], shuffling the deck, and distributing the initial cards. Any other house rules (such as which yaku to use and their values) should also be established at this point in order to keep gameplay smooth and fair.
+
 ## The Deal
 Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. If there are two participants, the dealer sends 8 cards face up to the table and 8 cards face down to each player. If three people are playing, the field will instead receive 6 cards and each player will receive 7. Any remaining cards in the deck will make up the draw pile.
 
@@ -19,31 +21,61 @@ If a complete suit of 4 cards was dealt to the field, a misdeal is declared and 
 If 3 cards of a suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
 
 Players then check their hands for any of the combinations described in the following section before the typical [Hana Awase](/en/hanafuda/games/hana-awase)-style gameplay begins.
+
 ## Lucky Hands
-There are three "Lucky Hands" - 手役 [てやく, *teyaku*] that one might be dealt in Six Hundred. If you receive any of these combinations in your hand, reveal all cards that are part of that combination at the beginning of the round to earn points, according to the following chart.
+There are three "Lucky Hands" - 手役 [てやく, *teyaku*] that one might be dealt in Six Hundred. If a player receives any of these combinations in their hand, they may reveal all cards that are part of that combination at the beginning of the round to earn points, according to the following chart.
 |Value|Name of Lucky Hand|Description|
 |:---:|:---:|:---|
 |400|**All Chaff**<br>総ガス [そうがす, *sōgasu*]|All cards in hand are 0-point cards. Note that this excludes the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), which is worth 10 points in this game.
 |200|**Hand Three**<br>手三 [てさん, *tesan*]|Hand contains at least three cards of one suit.|
 |400|**Double Hand Three**<br>二手三 [ふたてさん, *futatesan*]|Hand contains at least three of a kind in two different suits. Overrides Hand Three.
+
+> While *Hand Three* and *Double Hand Three* are mutually exclusive, either of them can **stack** with *All Chaff*.
+{.is-info}
+
 # Gameplay
 Once any Lucky Hands have been revealed and scored, players re-conceal their hands and begin the round. The dealer is the first to play, after which play moves counterclockwise until each player has exhausted their hands.
-## Turns
-On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
 
-After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area. It is a good idea (or in some rule sets, required) to keep your captured cards clearly organized by card type.
+## Turns
+On their turn, a player chooses a single card from their hand and plays it to the table.
+
+* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
+* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
+* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
+* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
+
+> If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
+{.is-warning}
+
+After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
+
+After both cards have been played- one from the player's hand, and one from the draw pile- the turn ends, and the next player takes their turn.
+
 ## Wild Card
 The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man card functions as a (limited) wild card in Six Hundred. This means that it can be used to match any card **other** than 0-point cards or other [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. The exception is when the other three ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow cards are all on the field; then it will capture all of them. In addition, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man **cannot** be used to capture sets of 3 of any other suit.
 
-If the wild card is on the field, you may capture it using any non-0-point card **or** using another ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card.
+If the wild card is on the field, it may be captured using any non-0-point card **or** using another ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card.
+
 ## End of Round
 The current round ends when all players have used up their cards. If there are any cards left on the field at this point, they simply stay there and do not play any role in scoring.
 
-At this point, all players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player’s score for the round is calculated as the sum of their captured card plus the value of any captured yaku. If no player has reached 600 points, the current scores are recorded, to be added to the results of the next round.
+At this point, all players tally the total value of their captured cards, as well as check for any yaku made, according to the charts in the following sections. A player’s score for the round is calculated as the sum of their captured cards plus the value of any captured yaku, as follows:
+
+`Player's Score = Player's Total Card Points + Total Value of Player's Yaku`.
+
+If no player has reached 600 points, then the current scores are recorded, and a further round is played. **Whoever scored the most points in the previous round becomes the dealer for the next round**.
+
 ### Dandruff
 If any player has only scored 30 points or fewer, not counting ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow and ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x) Paulownia cards, during a round, all players' scores for the round, including those for Lucky Hands, are invalidated. This negation of scoring is called *fuke* [ふけ, lit. "dandruff"].
+
 ### End of Game
-Once one or more players' cumulative scores have reached or exceeded 600 points, the player with the greatest number of points is declared the winner. (The possible exception to this is if one of the instant win yaku have been formed.)
+The game ends once some player reaches at least 600 points; this player is then the winner of the game.
+
+The possible exception to this is if one of the instant win yaku have been formed.
+
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
