@@ -2,13 +2,13 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-21T19:17:46.908Z
+date: 2021-04-21T19:23:53.100Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
 ---
 
-Sudaoshi is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of secondary popularity, appearing alongside more popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) in many [video games](/en/hanafuda/video-games) and rule books. It has two major distinguishing features: an unusual distribution of card values, with Chaff cards being the most valuable rather than the least; and the relative paucity of yaku: only 2 that are capturable by any player, and 2 more that can only be captured by the player to the left of the dealer.
+Sudaoshi - 素倒し [すだおし, lit. "knocking down Chaff"] is a 3-player [hanafuda](/en/hanafuda) [game](/en/hanafuda/games) of secondary popularity, appearing alongside more popular games like [Hachi-Hachi](/en/hanafuda/games/hachi-hachi) in many [video games](/en/hanafuda/video-games) and rule books. It has two major distinguishing features: an unusual distribution of card values, with Chaff cards being the most valuable rather than the least; and the relative paucity of yaku: only 2 that are capturable by any player, and 2 more that can only be captured by the player to the left of the dealer.
 # Setup (3 Players)
 Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. Like many hanafuda games, **Sudaoshi is usually played for 12 rounds**, one for each month of the year, although 6 round games (half a year) or even 3 round games (a season) may be played. Naturally, house rules should also be established at this point in order to keep gameplay smooth and fair.
 
