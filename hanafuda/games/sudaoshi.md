@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-21T19:17:25.227Z
+date: 2021-04-21T19:17:36.242Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -101,7 +101,7 @@ As usual, these yaku may be known by different names depending on the source.
 # Variants
 - In some variants, only the 2 "Set" yaku are used, not the "Top" ones.
 - Since Sudaoshi is often treated as a modification of Hachi-Hachi, the *kan* - 貫　[かん] system is sometimes used, with a rate of either 10 or 12 points per *kan*. In this case, the yaku are set to 1 and 2 *kan* apiece.
-- Other gameplay elements of Hachi-Hachi may also show up, such as field multipliers or 
+- Other gameplay elements of Hachi-Hachi may also show up, such as field multipliers.
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103.
