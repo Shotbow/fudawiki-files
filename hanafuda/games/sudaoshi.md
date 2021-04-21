@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-21T19:17:36.242Z
+date: 2021-04-21T19:17:46.908Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -100,7 +100,7 @@ As usual, these yaku may be known by different names depending on the source.
 |20|**Set of Rains**<br>雨ぞろ [あめぞろ, *ame-zoro*]|[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)[![Willow with Lightning](/sheldonchen-cards/113.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#lightning)|
 # Variants
 - In some variants, only the 2 "Set" yaku are used, not the "Top" ones.
-- Since Sudaoshi is often treated as a modification of Hachi-Hachi, the *kan* - 貫　[かん] system is sometimes used, with a rate of either 10 or 12 points per *kan*. In this case, the yaku are set to 1 and 2 *kan* apiece.
+- Since Sudaoshi is often treated as a modification of Hachi-Hachi, the *kan* - 貫 [かん] system is sometimes used, with a rate of either 10 or 12 points per *kan*. In this case, the yaku are set to 1 and 2 *kan* apiece.
 - Other gameplay elements of Hachi-Hachi may also show up, such as field multipliers.
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
