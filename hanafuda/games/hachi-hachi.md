@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-04-18T19:28:15.754Z
+date: 2021-04-21T18:49:23.392Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -45,7 +45,7 @@ Since the value of individual cards is also measured in points, this can likewis
 # Setup (3 Players)
 Game setup involves **choosing a dealer** [親 - おや, oya], **shuffling the deck**, and **distributing the initial cards**. Like many hanafuda games, Hachi-Hachi is usually played for 12 rounds, one for each month of the year, although 6 round games (half a year) or even 3 round games (a season) may be played. Naturally, house rules should also be established at this point in order to keep gameplay smooth and fair.
 
-This section describes game setup for three players, for more players please see the ["number of players" section](#number-of-players).
+This section describes game setup for three players; for more players, please see the ["number of players" section](#number-of-players).
 
 ## Choosing the Dealer
 No method is stipulated for choosing the initial dealer. A hanafuda-specific method involves each player drawing a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
@@ -55,7 +55,7 @@ No method is stipulated for choosing the initial dealer. A hanafuda-specific met
 ## Dealing the Cards
 The player to the left of the dealer [尾季 - びき, *biki*] shuffles the deck, and the player to the right of the dealer [胴二 - どうに, *douni*] cuts. Then, starting with the player to their right and moving anti-clockwise (↺), the dealer deals 4 cards to each player in turn, followed by 3 card face-up to the table. They then give a further 3 cards to each player, and an additional 3 cards face-up to the table.
 
-In total, 7 cards are dealt to each player, and 6 cards to the table face-up to form the field.
+**In total, 7 cards are dealt to each player, and 6 cards to the table face-up to form the field.**
 
 The remainder of the deck is placed face-down next to the field to form the draw pile.
 
