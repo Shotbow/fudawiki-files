@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-21T19:17:07.082Z
+date: 2021-04-21T19:17:25.227Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -104,5 +104,5 @@ As usual, these yaku may be known by different names depending on the source.
 - Other gameplay elements of Hachi-Hachi may also show up, such as field multipliers or 
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
-- Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103
+- Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103.
 - Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761. pp 72-74.
