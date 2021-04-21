@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-19T07:00:00.879Z
+date: 2021-04-21T18:42:23.126Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -25,6 +25,7 @@ A variant of Sudaoshi from 1921 only included 4 Lucky Hands, which may be used i
 |10|**Three Ribbons**<br>短三枚 [なさけ, *nasake*]|Any 3 Ribbons and/or [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. Note that only the second player, i.e. the one to the right of the dealer, may claim this particular Lucky Hand!|
 
 # Gameplay
+Unlike in Hachi-Hachi, there are no field multipliers for Bright cards appearing on the opening field. There is also no *sage* or *shoubu* call; ratger, all hands are fully played out, and any point exchanges for yaku are calculated in conjuction with the points for captured cards.
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
@@ -53,6 +54,7 @@ As usual, these yaku may be known by different names depending on the source.
 # Variants
 - For greater or fewer than 3 players, the same [accommodations](/en/hanafuda/games/hachi-hachi#number-of-players) may be used as in Hachi-Hachi.
 - In some variants, only the 2 "Set" yaku are used, not the "Top" ones.
+- Since Sudaoshi is often treated as a modification of Hachi-Hachi, the *kan* - 貫　[かん] system is sometimes used, with a rate of either 10 or 12 points per *kan*. In this case, the yaku are set to 1 and 2 *kan* apiece.
 # Bibliography
 - Hanafuda Geemu Dai Shōgō. iOS version, MocoGame, 2019.
 - Johnson, Jason, and Antonietta Fazio-Johnson. Hanafuda Games, Hanami ed., IndianWolf Studios, 2017. pp. 98-103
