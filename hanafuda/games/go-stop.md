@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:06:19.997Z
+date: 2021-04-22T16:11:13.182Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -113,6 +113,17 @@ Finally, the player checks their score pile for *yaku* [役 - やく], or *scori
 - If they have not, then their turn simply ends, and turn to play passes to the opponent.
 
 Typically, a *stop minimum* is imposed; if the total value of a player's yaku is less than some agreed-upon limit, then the player cannot call *go* or *stop*. Instead, their turn simply ends, and the round continues. Typical values for the *stop minimum* are 3 points in three-player games, and 5 or 7 points in two-player games.
+
+### Calling *Go*
+If the player declares *go*, then the round continues. Their turn ends, and turn to play passes to the opponent. This is a calculated risk; continuing the round allows the opportunity to capture more yaku and earn valuable score bonuses, but forfeits all points should the opponent win first.
+
+Note that each player may call *go* as many times as they desire during the round, with increasing bonuses for each.
+
+### Calling *Stop*
+If the player declares *stop*, then the round immediately ends, and scores are calculated. This is a safe bet, which allows the player to immediately cash in on their yaku.
+
+## Bombing the Field
+
 
 
 
