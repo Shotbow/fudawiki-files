@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-22T14:34:47.503Z
+date: 2021-04-22T14:42:34.284Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -37,6 +37,8 @@ There is no required method for selecting who is the first dealer, though a typi
 
 ## Distributing the Initial Cards
 The dealer shuffles the deck, and their opponent cuts. Then, eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themselves, and then repeat. Sometimes this is done in packets of two instead of four.
+
+The remainder of the deck is placed face-down to form the draw pile.
 
 > ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
 {.is-success}
