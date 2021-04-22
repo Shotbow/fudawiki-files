@@ -2,7 +2,7 @@
 title: Kekoro
 description: A 2-player hanafuda game with card values like Sudaoshi and yaku similar to Hachi.
 published: true
-date: 2021-04-22T04:07:37.909Z
+date: 2021-04-22T04:09:52.324Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -51,7 +51,7 @@ If neither player's cumulative total score is at least 90 points greater than th
 
 There is one other condition that ends the round: If at any point in a round **one player has scored 3 more yaku than the other, they may declare an instant victory**, ending not just the round but the whole game.
 # End of Game
-**Under normal circumstances, the game does not end until the cumulative score of one player is greater than the other's by at least 90 points.** 
+**Under normal circumstances, the game continues until the cumulative score of one player is greater than the other's by at least 90 points, at which point the player with the greater score is declared the winner.** 
 
 The game also ends immediately when a player claims victory by scoring 3 more yaku than the opponent in a given round, as stated above.
 
