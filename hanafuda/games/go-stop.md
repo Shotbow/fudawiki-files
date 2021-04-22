@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:34:00.159Z
+date: 2021-04-22T18:39:06.198Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -255,6 +255,12 @@ Sometimes, a variant rule when drawing jokers is applied:
 ## Bombs
 - After bombing the field, the player does not get the option to skip Phase 1 for two subsequent turns. Instead, they draw 3 cards in Phase 2 and play all of them. With this rule in place, the player who bombed will run out of cards before the others; when this happens, they skip all subsequent turns.
 - Sometimes, as a variation of the above, the player only draws 2 cards in Phase 2.
+
+## Multipliers for Calling *Go*
+The following different scheme for *go* bonuses is sometimes used:
+- If the winner called *go* once, they earn 1 bonus point.
+- If the winner called *go* twice, they earn a `x2` multiplier.
+- If the winner called *go* three times, they earn a `x3` multiplier. If they called *go* four times, they earn a `x4` multiplier, and so on, with the multiplier being equal to the number of times the player called *go*.
 
 
 
