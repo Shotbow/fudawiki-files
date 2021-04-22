@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T21:52:32.246Z
+date: 2021-04-22T21:58:28.462Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -247,7 +247,14 @@ The deal is the same as for the three-player variation - 7 cards to each player,
 ## The Dropout Phase
 The dealer is obliged to participate in the coming round. Starting from the player to the dealer's right and moving anti-clockwise, the remaining players announce whether they intend to stay in, or drop out.
 
-This process ends **as soon as there are three active players**, i.e. when two people (not including the dealer) have elected to stay, or when *all but three* players have dropped out.
+This process ends **as soon as there are three active players**, i.e. when two people (not including the dealer) have elected to stay, or when *all but three* players have dropped out. Once this happens, any players who have not yet had their turn to decide will be either forced to play, or forced *not* to play, as appropriate.
+
+Players who are *forced not to play* may claim compensation for their hand. This is to ensure that players with good hands who were eager to play will still earn some points.
+
+A player earns 2 points of compensation for each of the following cards in their hand:
+- Brights
+- Jokers
+- The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) cards
 
 # Variations
 Much like its sibling, [Koi-Koi](/en/hanafuda/games/koi-koi), Go-Stop has a great number of variations and optional rules, which we will try our best to collect here. Feel free to add or remove these rules as you like!
