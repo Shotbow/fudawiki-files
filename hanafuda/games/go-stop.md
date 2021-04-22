@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T17:58:33.054Z
+date: 2021-04-22T18:07:49.950Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -201,6 +201,13 @@ If both players accept, then the round ends in a draw. Nobody scores anything, a
 Otherwise, play continues as usual. However, for the **next three turns** (i.e. one turn from each player), the player who offered the draw is exempt from all liability, while the player who refused the draw will be considered liable if either of the other players wins.
 
 After this period, the effects expire, and the player will have to offer a draw again if they wish to continue being exempt.
+
+## Scoring in Summary
+The scoring in Go-Stop is surprisingly complex, especially when three players are involved! To break it down:
+
+- First, the winner calculates their score, as given by the formula above.
+- Then, check for double penalties, and determine what each opponent owes to the winner.
+- Finally, check for liability, and make payments as required.
 
 
 # Yaku
