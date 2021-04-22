@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T17:06:51.457Z
+date: 2021-04-22T17:12:16.668Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -174,6 +174,11 @@ The winner earns a `x2` multiplier for each of the following:
 - Capturing 7 or more Animal cards.
 - Bombing the field.
 - If the previous round had no winner.
+
+## Double Penalties
+There are certain situations in which an opponent must pay *double* the score as calculated above. These are:
+- If the winner captured a *Bright Yaku*, then any opponent who has not captured any Bright cards must pay double.
+- If the winner captured the *Chaff* generic yaku, then any opponent who has not captured at least 5 Chaff cards must pay double.
 
 
 # Yaku
