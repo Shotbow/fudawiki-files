@@ -2,15 +2,20 @@
 title: Kekoro
 description: A hanafuda game with unique card values and many yaku
 published: true
-date: 2021-04-22T02:48:43.525Z
+date: 2021-04-22T02:55:37.437Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
 ---
 
 Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are unique but bear a resemblance to those used in [Sudaoshi](/en/hanafuda/games/sudaoshi).
-
-
+# Setup
+## Choosing the Dealer
+## Distributing the Cards
+# Gameplay
+## Turns
+## End of Round
+# End of Game
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
