@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T14:33:27.404Z
+date: 2021-04-22T14:45:16.481Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -44,10 +44,15 @@ There is no required method for selecting who is the first dealer, though a typi
 {.is-warning}
 
 ## Distributing the Initial Cards
+In a two-player game, the dealer shuffles, and their opponent cuts. Then, 10 cards are dealt to each player, and 8 to the table. Typically, this is 4 to the table, 5 to the opponent, 5 to themselves, and repeat.
 
+In a three-player game, the dealer shuffles, and the player to their left cuts. Then, 7 cards are dealt to each player, and 6 to the field. Usually this is done as for other 3-player hanafuda games; 3 to the table, 4 to each player (starting with the player to the dealer's right and moving anti-clockwise), another 3 to the table, then 3 to each player in the same order.
 
-> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
+The remainder of the deck is placed face-down to form the draw pile.
+
+> ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x)<br>or<br>![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
+
 # Gameplay
 
 # End of Round and Scoring
