@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:29:46.119Z
+date: 2021-04-22T18:34:00.159Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -248,6 +248,9 @@ The jokers included with *hwatu* decks vary tremendously in their design, and ar
 - The player who holds the joker is exempt from double penalties and/or liability.
 
 Every joker can behave the same way, or each joker can have a unique special ability, whatever the players agree on at the beginning of the game.
+
+Sometimes, a variant rule when drawing jokers is applied:
+- If a player makes a matching pair in Phase 1, then draws a joker in Phase 2, the joker is placed on top of the pair. The player then draws and plays a substitute card from the draw pile as usual. If that substitute card makes a triplet with the pair (as per the usual rules), then the joker is left with the triplet, and is claimed by whichever player subsequently captures the triplet.
 
 ## Bombs
 - After bombing the field, the player does not get the option to skip Phase 1 for two subsequent turns. Instead, they draw 3 cards in Phase 2 and play all of them. With this rule in place, the player who bombed will run out of cards before the others; when this happens, they skip all subsequent turns.
