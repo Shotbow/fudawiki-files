@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:11:13.182Z
+date: 2021-04-22T16:20:01.869Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -123,7 +123,9 @@ Note that each player may call *go* as many times as they desire during the roun
 If the player declares *stop*, then the round immediately ends, and scores are calculated. This is a safe bet, which allows the player to immediately cash in on their yaku.
 
 ## Bombing the Field
+If a player holds three cards of a given month, and the fourth card is in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a move known as *bombing the field*.
 
+Note that bombing counts as Phase 1 of the player's turn. After playing the bomb, the player continues their turn from Phase 2.
 
 
 
