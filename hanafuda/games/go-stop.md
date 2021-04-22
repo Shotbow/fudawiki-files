@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T17:12:16.668Z
+date: 2021-04-22T17:43:32.618Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -166,19 +166,37 @@ Bonus points and extra multipliers come from a variety of sources, as listed bel
 ### Calling *Go*
 - If the winner called *go* once, they earn 1 bonus point.
 - If the winner called *go* twice, they earn 2 bonus points.
-- If the winner called *go* three times, they earn a `x2` multiplier. If they called *go* four times, they earn a `x3` multiplier, and so on.
+- If the winner called *go* three times, they earn a `x2` multiplier. If they called *go* four times, they earn a `x4` multiplier, and so on, with an additional `x2` multiplier for every call of *go*.
 
 ### Doubles
 The winner earns a `x2` multiplier for each of the following:
 - Every triplet they revealed at the beginning of the round.
 - Capturing 7 or more Animal cards.
-- Bombing the field.
+- Bombing the field at least once.
 - If the previous round had no winner.
 
 ## Double Penalties
 There are certain situations in which an opponent must pay *double* the score as calculated above. These are:
+
 - If the winner captured a *Bright Yaku*, then any opponent who has not captured any Bright cards must pay double.
 - If the winner captured the *Chaff* generic yaku, then any opponent who has not captured at least 5 Chaff cards must pay double.
+
+## Liability & Offering a Draw
+There are some situations in which a opponent is considered *liable* for the winner's victory. In these situations, the liable opponent pays for *both* opponents, while the other opponent pays nothing. These are most typically used in the three-player version of the game.
+
+1. If one of the opponents has previously called *go* while the other has not, then the opponent who called *go* is liable.
+2. If an opponent plays a card from their hand that does not match anything in the field, then the winner wins by capturing that card on their very next turn, then the opponent who played that card is liable. This does not apply if the opponent had no choice in the matter, for example if it was the last card in their hand. It also does not apply if the opponent offered a draw (see below).
+
+> In some versions of the game, case 2 also does not apply if the winner has scored only for the *Chaff* generic yaku *and* has not previously called *go*.
+{.is-info}
+
+In order to protect from case 2 above, a player who feels they have no safe play may, at the start of their turn, expose their hand and offer a draw. Each of the other players must then, in turn, decide whether to accept or refuse.
+
+This decision is made in turn order; if the player to the right accepts, then the player to the left must decide to accept or refuse. If the player to the right refuses, then the player to the left automatically accepts.
+
+If both players accept, then the round ends in a draw. Nobody scores anything, and the next round begins with the same dealer.
+
+Otherwise, play continues as usual. 
 
 
 # Yaku
