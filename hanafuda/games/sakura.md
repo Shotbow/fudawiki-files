@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2021-04-22T13:21:58.876Z
+date: 2021-04-22T13:26:30.057Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -43,12 +43,12 @@ When playing with teams, each team shares a common score pile. Note that teammat
 **The winner of the round becomes dealer for the next round.**
 
 ## Turns
-On their turn, a player chooses a single card from their hand and plays it to the table.
+On their turn, a player chooses a single card from their hand and plays it to the field.
 
-* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
-* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
-* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
-* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
+* **If it belongs to the same month as another card on the field**, then the cards *match*, and this matching pair is moved to the player's score pile.
+* **If the played card matches with two cards on the field**, then the player may choose which one they capture.
+* **If the played card matches *three* cards on the field**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the field are often collected into a small pile at the beginning of the round.
+* **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
 
 > If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
@@ -71,6 +71,9 @@ The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/ha
 Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
 
 However, the Gaji cannot be used to capture a card that would complete another player's *hiki*. In this circumstance, the owner of the *hiki* must announce it when the Gaji's user tries to capture one of the *hiki* cards. The player of the Gaji must then target a different card, or simply leave the Gaji on the field.
+
+> In some variants of the game, if the Gaji is dealt to the field at the beginning of the round, then it is simply discarded.
+{.is-info}
 
 # End of Round and Scoring
 The round ends once all players run out of cards **and** the draw pile has been exhausted; the existence of the *hiki* rule means that these events may not be simultaneous.
