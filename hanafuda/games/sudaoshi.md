@@ -2,7 +2,7 @@
 title: Sudaoshi
 description: A 3-player game with unusual card values
 published: true
-date: 2021-04-21T19:23:53.100Z
+date: 2021-04-22T04:58:41.803Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-11-16T22:17:27.610Z
@@ -83,7 +83,7 @@ The total value of all cards in the deck is 330. However, the **point burden is 
 |Ribbons|1|10|
 
 
-In an earlier variant of Sudaoshi, the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) were worth 5 points rather than 10, and Chaff were worth 8 points rather than 10, which matches with the card values used in [Kekoro](/en/hanafuda/games/kekoro).
+In an earlier variant of Sudaoshi, the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) were worth 5 points rather than 10, and Chaff were worth 8 points rather than 10, which matches with the card values Jun Kusaba gives for [Kekoro](/en/hanafuda/games/kekoro).
 # Yaku
 The yaku in Sudaoshi fall into two categories. While any player may score points for the two [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Susuki Grass](/en/hanafuda/suits/susuki-grass) yaku, only the last player (the one sitting to the left of the dealer) may score for either [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) yaku.
 
