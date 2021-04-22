@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-19T02:56:58.825Z
+date: 2021-04-22T12:40:57.868Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -39,7 +39,6 @@ If 4 cards of the same month are dealt to the table, then a misdeal is declared 
 Whether or not 4 cards of the same month *in a player's hand* constitutes a misdeal appears to vary by source - the specific answer to this question should probably be agreed upon as a house rule.
 
 # Gameplay
-
 In each round, the dealer is the first to play, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure of Hana-Awase is utterly typical of hanafuda fishing games; if you're already familiar with [Koi-Koi](/en/hanafuda/games/koi-koi) and its ilk, then this section will be nothing new. 
 
 ## Turns
