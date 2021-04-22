@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:42:14.087Z
+date: 2021-04-22T18:45:04.551Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -270,4 +270,9 @@ The following different scheme for *go* bonuses is sometimes used:
 
 
 # Bibliography
-- McLeod, John. “Go Stop.” *Pagat: Card Game Rules,* 6 Sept. 2017, www.pagat.com/fishing/gostop.html. 
+*(todo: make pretty!)*
+
+- McLeod, John. “Go Stop.” *Pagat: Card Game Rules,* 6 Sept. 2017, www.pagat.com/fishing/gostop.html.
+- [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
+- Graham Leonard's archived hanafuda pages: https://web.archive.org/web/20050204131223/http://hana.kirisame.org/godori.html
+- https://en.wikipedia.org/wiki/Go-Stop
