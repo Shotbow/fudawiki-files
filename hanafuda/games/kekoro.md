@@ -1,16 +1,16 @@
 ---
 title: Kekoro
-description: A 2-player hanafuda game with unique card values and many yaku.
+description: A 2-player hanafuda game with card values like Sudaoshi and yaku similar to Hachi.
 published: true
-date: 2021-04-22T03:26:26.131Z
+date: 2021-04-22T03:52:53.021Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
 ---
 
-Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are unique but bear a resemblance to those used in [Sudaoshi](/en/hanafuda/games/sudaoshi). The game is played for an indeterminate amount of time - as many rounds as it takes for one player to exceed their opponent's cumulative score by 90 points.
+Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are the same as those used in [Sudaoshi](/en/hanafuda/games/sudaoshi). The game is played for an indeterminate amount of time - generally as many rounds as it takes for one player to exceed their opponent's cumulative score by 90 points.
 # Setup
-If gambling, the two players come to an agreement over how much to wager on the game. Each player puts up this amount; the winner will take both shares.
+If gambling, the two players come to an agreement over how much to wager on the game. Each player puts up the same amount; the winner will take both shares.
 
 Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
 
@@ -57,11 +57,14 @@ At this point, **the victor claims the sum of money wagered at setup.**
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
-|Bright|5|5|
-|Animal|5|9|
-|Ribbon|1|10|
-|Chaff|8|24|
-Thus, there are 272 points in a complete deck.
+|Chaff|10|24|
+|[![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix)|10|2|
+|[![monthicon_1.png](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![monthicon_8.png](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), and [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man)|5|3|
+|Animals|5|9|
+|Ribbons|1|10|
+The total number of points doled out will be different each round due to each round ending before the draw pile has been exhausted.
+
+Note that Jun Kusaba instead gives 8 points for each Chaff card and 5 points for the the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix).
 # Yaku
 Each yaku scored in a round is worth 30 points. The same card may be used in as many yaku as possible.
 
@@ -96,4 +99,4 @@ Most yaku in this game come in pairs of Ribbon and non-Ribbon variants; however,
 |**Downpour Ribbons**<br>短の出雨 [たんのでう, *tan no de-u*]|[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)|
 # Bibliography
 - Kusaba, Jun. “In Search of Old Hanafuda Games.” Jun Kusaba's Game Research Site, Jan.-Feb. 1995, https://sites.google.com/a/banjoyugi.net/kusabazyun/Home/reproductioned/history/kohanafuda.
-- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library*, dl.ndl.go.jp/info:ndljp/pid/1878761. 
+- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library*, dl.ndl.go.jp/info:ndljp/pid/1878761. pp. 75-80.
