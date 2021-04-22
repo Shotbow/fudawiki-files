@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T22:00:57.905Z
+date: 2021-04-22T22:07:28.966Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -259,6 +259,15 @@ A player earns 2 points of compensation for each of the following cards in their
 If the player holds 3 cards of the same month, the compensation is doubled.
 
 To claim compensation, the player must reveal all relevant cards (including the 3 of a kind, for double compensation). The compensation value of their hand is then paid to them by each of the two *non-dealer* active players.
+
+> In a 4-player game, if a player holds only the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) and no other Brights, then they may not claim compensation for the Rain Man. This fiddly exception applies only to the 4-player version of the game.
+{.is-info}
+
+## Finishing Up
+Once the active players are determined, the non-active players return their hands to the dealer, who shuffles them into the draw pile. The field cards are turned face-up, misdeals are checked for, and play proceeds as in the 3-player version of the game.
+
+> If the round ends in a draw of any kind, then the cards are re-dealt amongst **the same three active players**. A fresh dropout phase only occurs once the current round has been definitively won!
+{.is-warning}
 
 # Variations
 Much like its sibling, [Koi-Koi](/en/hanafuda/games/koi-koi), Go-Stop has a great number of variations and optional rules, which we will try our best to collect here. Feel free to add or remove these rules as you like!
