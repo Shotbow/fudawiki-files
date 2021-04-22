@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:20:01.869Z
+date: 2021-04-22T16:26:23.318Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -100,7 +100,7 @@ After playing a card from hand, the player then takes a card from the draw pile 
 ### Phase 3
 After playing both their cards - one from their hand, and one from the draw pile - the player takes any captured cards into their score pile. As a rule of thumb, the captures will be stacks of either 2 or 4 cards (but *not* 3 cards).
 
-Any points earned for *special achievements* should also be handled at this time.
+Any *special events* should also be checked for and handled at this time.
 
 > As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
 {.is-warning}
@@ -125,7 +125,12 @@ If the player declares *stop*, then the round immediately ends, and scores are c
 ## Bombing the Field
 If a player holds three cards of a given month, and the fourth card is in the field, then the player may, during their turn, announce this fact and immediately capture all four cards, in a move known as *bombing the field*.
 
-Note that bombing counts as Phase 1 of the player's turn. After playing the bomb, the player continues their turn from Phase 2.
+Bombing counts as Phase 1 of the player's turn. After playing the bomb, the player continues their turn from Phase 2.
+
+After bombing the field, a player's hand will be two cards short (they played 3 cards on one turn). To compensate for this, *on any two subsequent turns* of the current round, the player may elect to skip Phase 1 of their turn.
+
+## Special Events
+Certain events that occur during the turn may allow the player to steal points or even cards from their opponents.
 
 
 
