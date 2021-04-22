@@ -2,7 +2,7 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2021-04-22T13:03:09.580Z
+date: 2021-04-22T13:21:58.876Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
@@ -85,8 +85,16 @@ Thus, each player's (or team's) score at the end of the round will be:
 
 `Total Score = Total Value of Captured Cards - (50 x Total Number of Yaku Held by All Opponents)`.
 
+**The player with the highest score at the end of the round becomes dealer for the next round**. In the event of a tie, the player who was earliest in the turn order becomes the dealer.
 
-## Card Values
+> What happens here when playing in teams? Does the winning team decide among themselves who will be the dealer next round?
+{.is-info}
+
+# End of Game
+The game ends after the agreed-upon number of rounds has been played. At this point, the player (or team) with the highest total score is the winner.
+
+
+# Card Values
 Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) is treated as an Animal rather than a Bright. Note as well the reversal from the usual values for Animals and Ribbons, and that the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) has the value of a Ribbon.
 |Value|Cards|
 |:---:|:---|
@@ -113,6 +121,11 @@ The yaku in this game also seem to lack specific names; instead, each is typical
 
 # Notable Variations
 There are two main variations in overall scoring: the one which counts points cumulatively across rounds, used by Hanafuda Hawaii Style, and the one which instead counts round victories, used by Paradise Factors.
+
+The cumulative points system is the one described in the main part of this page. The round-counting system works as follows:
+
+Whenever a player wins a round, they receive a single token. If they win by at least 50 points, they instead receive two tokens, and if by at least 100 points, three tokens. Once the agreed-upon number of rounds has been played, the player with the greatent number of tokens is the winner.
+
 # Strategy
 There are four cards that contribute to 2 yaku each; thus, these should be considered more valuable than others and priority should be given to their capture. These are the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![monthicon_7.png](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar), [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), and [![monthicon_10.png](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer). Among these, the ![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain is worth 20 points on its own as well, making it the most valuable card in the game.
 
