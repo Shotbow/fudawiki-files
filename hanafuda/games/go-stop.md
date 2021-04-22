@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T22:27:27.674Z
+date: 2021-04-22T22:29:41.519Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -297,6 +297,7 @@ Sometimes, a variant rule when drawing jokers is applied:
 ## Bombs
 - After bombing the field, the player does not get the option to skip Phase 1 for two subsequent turns. Instead, they draw 3 cards in Phase 2 and play all of them. With this rule in place, the player who bombed will run out of cards before the others; when this happens, they skip all subsequent turns.
 - Sometimes, as a variation of the above, the player only draws 2 cards in Phase 2.
+- In some descriptions of the game, any triplets that a player revealed at the beginning of the round can *not* subsequently be used to bomb the field.
 
 ## Multipliers for Calling *Go*
 The following different scheme for *go* bonuses is sometimes used:
