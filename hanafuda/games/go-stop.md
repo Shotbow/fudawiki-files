@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T22:29:41.519Z
+date: 2021-04-22T22:37:53.719Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -311,6 +311,12 @@ The following different scheme for *go* bonuses is sometimes used:
 
 ## Calling a Draw
 - In some descriptions of the game, the effects of calling a draw are *not* limited to the next three turns, and instead persist indefinitely.
+
+## The Dropout Phase
+- Compensation for being forced to drop out is not paid immediately. Instead, it is paid at the end of the round, by the two losers.
+- In the event of a draw, the cards are re-dealt to *all* players, and a fresh dropout phase begins. When playing with the delayed compensation rule above, there will be no dropout compensation that round.
+- Compensation is 3 points per valuable card, not 2 points.
+
 
 
 
