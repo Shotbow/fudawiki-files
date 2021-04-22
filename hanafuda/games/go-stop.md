@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T22:56:06.269Z
+date: 2021-04-22T22:59:33.833Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -321,6 +321,10 @@ The following different scheme for *go* bonuses is sometimes used:
 - If, on the player's first turn, they manage to capture one card of each type - Bright, Animal, Ribbon, and Chaff - then they steal 1 Chaff from each opponent.
 - At the beginning of the round, each player contributes an agreed-upon amount to a pot. At the end of the round, whichever player has managed to capture the [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar) claims the contents of the pot.
 - Alternatively, there is no pot. If a player captures the [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar) on their first turn, they steal a set amount of points from each other player.
+
+## Alternative Double Penalties
+- If the winner captured a *Bright Yaku*, then any opponent who has not captured any Bright cards must pay 2 extra points..
+- If the winner captured the *Chaff* generic yaku, then any opponent who has not captured at least 7 Chaff cards must pay double.
 
 ## The Dropout Phase
 - Compensation for being forced to drop out is not paid immediately. Instead, it is paid at the end of the round, by the two losers.
