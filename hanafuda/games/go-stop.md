@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T14:26:57.185Z
+date: 2021-04-22T14:33:27.404Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -21,7 +21,7 @@ A decision must be made as to how long the game will last - 12 rounds is traditi
 > Conventionally, each round corresponds to a month of the year; the first round is January, the second February, and so on. 12 rounds is thus a *year*, 6 rounds a *half-year*, and 3 rounds a *season*.
 {.is-info}
 
-Furthermore, the exact number of jokers in the deck, and their unique properties (if any), should be agreed upon.
+Furthermore, the exact number of jokers in the deck, and their unique properties (if any), should be agreed upon, as should the required *stop minimum*.
 
 Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
 
@@ -34,6 +34,17 @@ A Korean *hwatu* deck is structurally almost identical to a typical Japanese *ha
 The number of jokers and the properties thereof should be agreed upon before the game begins. The presence of jokers is not important in itself - the game can just as well be played without them - but they are often included to add variety and an extra element of luck to the game.
 
 When playing with a Japanese hanafuda deck, the blank white card included in most decks can be used as a joker if desired.
+
+## Choosing the Dealer
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
+
+**The winner of each round becomes the dealer for the next round.**
+
+> Remember that **the order of November and December is swapped** in Korean decks!
+{.is-warning}
+
+## Distributing the Initial Cards
+
 
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
