@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:12:30.032Z
+date: 2021-04-22T18:16:17.616Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -209,6 +209,8 @@ The scoring in Go-Stop is surprisingly complex, especially when three players ar
 - Then, check for double penalties, and determine what each opponent owes to the winner.
 - Finally, check for liability, and make payments as required.
 
+## End of Game
+After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
 
 # Yaku
 Go-Stop possesses a fairly typical repertoire of yaku. Note that the *Bright Yaku* are mutually exclusive with one another, but all other yaku may be combined freely.
@@ -232,8 +234,10 @@ Furthermore, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake C
 |Points|Yaku Name|Composition|
 |1+|**Animals**|**Any 5 Animal cards.** This yaku is worth 1 extra point for each additional Animal card.|
 |1+|**Ribbons**|**Any 5 Ribbon cards.** This yaku is worth 1 extra point for each additional Ribbon card.|
-|1+|**Chaff**|**Any 10 Chaff cards.** This yaku is worth 1 extra point for each additional Chaff card.<br>Note that the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) (if treated as a Chaff), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Shaded Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) count as two Chaff each!|
+|1+|**Chaff**|**Any 10 Chaff cards.** This yaku is worth 1 extra point for each additional Chaff card.<br>Note that the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) (if treated as a Chaff), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) count as two Chaff each!|
+
 # Variations
+
 
 # Bibliography
 - McLeod, John. “Go Stop.” *Pagat: Card Game Rules,* 6 Sept. 2017, www.pagat.com/fishing/gostop.html. 
