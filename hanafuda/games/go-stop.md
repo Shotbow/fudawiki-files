@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T14:17:28.732Z
+date: 2021-04-22T14:26:57.185Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -24,6 +24,16 @@ A decision must be made as to how long the game will last - 12 rounds is traditi
 Furthermore, the exact number of jokers in the deck, and their unique properties (if any), should be agreed upon.
 
 Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
+
+## The Deck
+A Korean *hwatu* deck is structurally almost identical to a typical Japanese *hanafuda* deck. There are only two differences:
+
+- Firstly, the suits of [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) and [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Paulownia](/en/hanafuda/suits/paulownia) are swapped; Paulownia is associated with November, and Willow with December.
+- Secondly, *hwatu* decks come packaged with up to six additional joker cards, specifically for playing Go-Stop. The design of these jokers varies dramatically between manufacturers.
+
+The number of jokers and the properties thereof should be agreed upon before the game begins. The presence of jokers is not important in itself - the game can just as well be played without them - but they are often included to add variety and an extra element of luck to the game.
+
+When playing with a Japanese hanafuda deck, the blank white card included in most decks can be used as a joker if desired.
 
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
