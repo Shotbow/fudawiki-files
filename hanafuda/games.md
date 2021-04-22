@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-16T16:39:37.065Z
+date: 2021-04-22T05:25:10.097Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -47,7 +47,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hon-Bana (Original Flowers)](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |Hyaku-Otoshi|-|-|-|
 |[Ichi-Ni-San (One-Two-Three)](/en/hanafuda/games/ichi-ni-san)|3|Fishing|Japan|
-|[Ino-Shika-Cho](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
+|[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
 |Issoku Iki|2|Fishing|Japan|
 |[Jū-Mai (Ten Cards)](/en/hanafuda/games/jumai)|2|Fishing|Japan|
