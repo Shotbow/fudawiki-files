@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T21:35:23.960Z
+date: 2021-04-22T21:36:48.497Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -189,7 +189,7 @@ There are some situations in which a opponent is considered *liable* for the win
 1. If one of the opponents has previously called *go* while the other has not, then the opponent who called *go* is liable.
 2. If an opponent plays a card from their hand that does not match anything in the field, and the winner wins by capturing that card on their very next turn, then the opponent who played that card is liable. This does not apply if the opponent had no choice in the matter, for example if it was the last card in their hand. It also does not apply if the opponent offered a draw (see below).
 
-*(What happens if **both** opponents are liable in different ways? My gut inclination is that case 2 takes priority, but none of the sources say explicitly.)*
+(None of the available rulesets specify what should happen if *both* opponents are liable in different ways.)
 
 > In some versions of the game, case 2 also does not apply if the winner has scored only for the *Chaff* generic yaku *and* has not previously called *go*.
 {.is-info}
