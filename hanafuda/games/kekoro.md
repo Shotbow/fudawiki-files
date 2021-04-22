@@ -2,7 +2,7 @@
 title: Kekoro
 description: A 2-player hanafuda game with unique card values and many yaku.
 published: true
-date: 2021-04-22T03:13:25.682Z
+date: 2021-04-22T03:26:26.131Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -45,7 +45,15 @@ On their turn, a player chooses a single card from their hand and plays it to th
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 ## End of Round
+**The round ends when each player's hand has run out of cards.**
+
+However, there is one other condition that ends the round: If at any point in a round **one player has scored 3 more yaku than the other, they may declare an instant victory**, ending not just the round but the whole game.
 # End of Game
+**Under normal circumstances, the game does not end until the cumulative score of one player is greater than the other's by at least 90 points.** 
+
+The game also ends immediately when a player claims victory by scoring 3 more yaku than the opponent in a given round, as stated above.
+
+At this point, **the victor claims the sum of money wagered at setup.**
 # Card Values
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
