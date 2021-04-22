@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:41:11.621Z
+date: 2021-04-22T16:53:09.086Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -148,12 +148,17 @@ The opponents may choose which Chaff card to give. If they possess no regular Ch
 1. If the player creates a triplet (stack of 3) on their very first turn, they steal 3 points from each opponent.
 2. If any player, of the course of the round, creates three triplets, then they *immediately* win the round and steal 5 points from each opponent.
 
-
-
-
-
-
 # End of Round and Scoring
+The round ends when either a player calls *stop*, or when all players run out of cards in their hands.
+
+If the cards run out, then the round is a draw. All players score nothing, **regardless of any yaku they hold**, and the next round begins with the same dealer.
+
+Otherwise, the player who called *stop* is the winner of the round.
+
+The winning player calculates their score as follows:
+
+`Winner's Score = (Total Value of Winner's Yaku + Bonus Points) x Multipliers`.
+
 
 # Yaku
 Note that the Bright Yaku are mutually exclusive with one another, but all other yaku may be combined freely.
