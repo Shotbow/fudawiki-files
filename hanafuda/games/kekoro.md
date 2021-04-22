@@ -2,13 +2,13 @@
 title: Kekoro
 description: A 2-player hanafuda game with card values like Sudaoshi and yaku similar to Hachi.
 published: true
-date: 2021-04-22T04:01:07.610Z
+date: 2021-04-22T04:07:37.909Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
 ---
 
-Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are the same as those used in [Sudaoshi](/en/hanafuda/games/sudaoshi). The game is played for an indeterminate amount of time - generally as many rounds as it takes for one player to exceed their opponent's cumulative score by 90 points.
+**Kekoro** [けころ] is a 2-player fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are the same as those used in [Sudaoshi](/en/hanafuda/games/sudaoshi). The game is played for an indeterminate amount of time - generally as many rounds as it takes for one player to exceed their opponent's cumulative score by 90 points.
 # Setup
 If gambling, the two players come to an agreement over how much to wager on the game. Each player puts up the same amount; the winner will take both shares.
 
@@ -57,6 +57,7 @@ The game also ends immediately when a player claims victory by scoring 3 more ya
 
 At this point, **the victor claims the sum of money wagered at setup.**
 # Card Values
+The card values in this game are the same as those used in Sudaoshi, which as in many hanafuda games, have varied over time.
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
 |Chaff|10|24|
@@ -66,7 +67,7 @@ At this point, **the victor claims the sum of money wagered at setup.**
 |Ribbons|1|10|
 The total number of points doled out will be different each round due to each round ending before the draw pile has been exhausted.
 
-Note that Jun Kusaba instead gives 8 points for each Chaff card and 5 points for the the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix).
+Note that Jun Kusaba instead gives 8 points for each Chaff card and 5 points for the the [![monthicon_3.png](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain) and [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix), while keeping all other values the same.
 # Yaku
 Each yaku scored in a round is worth 30 points. The same card may be used in as many yaku as possible.
 
