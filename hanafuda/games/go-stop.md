@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T23:15:10.325Z
+date: 2021-04-22T23:20:08.638Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -340,6 +340,8 @@ The following different scheme for *go* bonuses is sometimes used:
 - *Five Birds* is worth only 3 points instead of 5.
 - There is an additional *Six Birds* yaku, worth 6 points:<br>[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
 - There is an additional *Three Birds* yaku, worth 4 points:<br>[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
+- The three 2-Chaff cards - [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) - are a yaku worth 3 points. However, these 3 points do not count towards the *stop minimum*.
+- All four [![Icon for month 4](/hanafuda/icons/monthicon_4.png =20x)April](/en/hanafuda/suits/wisteria) and all four [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)July](/en/hanafuda/suits/bush-clover) cards together are a yaku, worth 8 points. However, these 8 points do not count towards the *stop minimum*.
 
 
 
