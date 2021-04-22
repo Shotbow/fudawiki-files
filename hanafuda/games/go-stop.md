@@ -2,13 +2,13 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:47:13.326Z
+date: 2021-04-22T21:29:22.610Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
 ---
 
-# Overview
+
 **Go-Stop** is the most popular hanafuda game in the Korean-speaking world, most often played using plastic hanafuda known as *hwatu*. **It is named for its characteristic gameplay mechanic** that allows a player to stop the round after collecting a yaku, or to continue the round to attempt to increase their score further, at the risk of their opponent scoring in their stead. It is usually played with 2-3 players, and may involve gambling for small sums of money. **Go-stop is also known as Godori, meaning “5 birds,”** which is the name of a yaku used in this and some other games.
 
 In many ways, Go-Stop resembles a more complex version of [Koi-Koi](/en/hanafuda/games/koi-koi), and undoubtedly both games are related, although the precise nature of this relationship is a topic of some debate.
