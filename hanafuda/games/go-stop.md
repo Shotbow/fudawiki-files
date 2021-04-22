@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T15:41:25.002Z
+date: 2021-04-22T15:59:21.803Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -86,6 +86,21 @@ Firstly, a player chooses a single card from their hand and plays it to the tabl
 
 > If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
+
+### Phase 2
+After playing a card from hand, the player then takes a card from the draw pile and plays it to the table in a similar fashion.
+- **If it belongs to the same month as another card in the field**, then the cards *match*, and this matching pair is stacked together to indicate that it will be captured.
+- **If the card matches with two cards in the field**, then the player may choose which one they capture.
+- **If the card matches a triplet (stack of three cards) in the field**, then it is stacked atop them, to indicate that all three will be captured along with the played card.
+- **If the played card does not match any card**, then it remains on the field, and may subsequently be captured by other played cards.
+- **If the card matches with a pair created in Phase 1 *and nothing else***, then the card is stacked atop that pair to form a triplet. This triplet is not captured by the player, and remains on the field.
+- **If the card matches with a pair created in Phase 1 *and some other card***, then it is stacked atop the other card to indicate its capture. No triplet is formed.
+- **If the card is a joker**, then the player immediately captures it. They then take another card from the draw pile and play it in lieu of the joker.
+
+### Phase 3
+After playing both their cards - one from their hand, and one from the draw pile - the player takes any captured cards into their score pile. As a rule of thumb, the captures will be stacks of either 2 or 4 cards (but *not* 3 cards).
+
+Any points earned for *special achievements* should also be handled at this time.
 
 > As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
 {.is-warning}
