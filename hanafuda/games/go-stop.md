@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T14:45:16.481Z
+date: 2021-04-22T15:10:41.118Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -52,6 +52,20 @@ The remainder of the deck is placed face-down to form the draw pile.
 
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x)<br>or<br>![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
+
+## Misdeals
+If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
+
+## Checking the Hands
+After the deal, players check their hands to see if they hold any triplets (3 cards of the same month), or a four of a kind (4 cards of the same month).
+
+If a player holds a triplet, then they may choose to reveal it to the other players before the round begins. This is a grave disadvantage, but if that player manages to win the round, their score will be doubled.
+
+
+
+
+
+
 
 # Gameplay
 
