@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T17:43:32.618Z
+date: 2021-04-22T17:53:15.699Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -61,7 +61,7 @@ After the deal, players check their hands to see if they hold any triplets (3 ca
 
 If a player holds a triplet, then they may choose to reveal it to the other players before the round begins. This is a grave disadvantage, but if that player manages to win the round, their score will be doubled. This is known as *heundeum* (lit. 'shaking'). Should the player hold multiple triplets, they may reveal as many as they like, and the `x2` multipliers for each will stack.
 
-If a player holds 4 of a kind (known in Japanese as 'president' [大統領 - だいとうりょう, *daitouryou*]), then they immediately win the round and steal 5 points from each opponent. In a three-player game, it is possible that two players may hold 4 of a kind, in which case they each steal 5 points from the third player. (Who becomes dealer for the next round, in this case?)
+If a player holds 4 of a kind (known in Japanese as 'president' [大統領 - だいとうりょう, *daitouryou*]), then they immediately win the round and steal 5 points from each opponent. In a three-player game, it is possible that two players may hold 4 of a kind, in which case they each steal 5 points from the third player. *(Who becomes dealer for the next round, in this case?)*
 
 If *all* players hold 4 of a kind, then a misdeal is declared (see above).
 
@@ -185,7 +185,9 @@ There are certain situations in which an opponent must pay *double* the score as
 There are some situations in which a opponent is considered *liable* for the winner's victory. In these situations, the liable opponent pays for *both* opponents, while the other opponent pays nothing. These are most typically used in the three-player version of the game.
 
 1. If one of the opponents has previously called *go* while the other has not, then the opponent who called *go* is liable.
-2. If an opponent plays a card from their hand that does not match anything in the field, then the winner wins by capturing that card on their very next turn, then the opponent who played that card is liable. This does not apply if the opponent had no choice in the matter, for example if it was the last card in their hand. It also does not apply if the opponent offered a draw (see below).
+2. If an opponent plays a card from their hand that does not match anything in the field, and the winner wins by capturing that card on their very next turn, then the opponent who played that card is liable. This does not apply if the opponent had no choice in the matter, for example if it was the last card in their hand. It also does not apply if the opponent offered a draw (see below).
+
+*(What happens if **both** opponents are liable in different ways? My gut inclination is that case 2 takes priority, but none of the sources say explicitly.)*
 
 > In some versions of the game, case 2 also does not apply if the winner has scored only for the *Chaff* generic yaku *and* has not previously called *go*.
 {.is-info}
