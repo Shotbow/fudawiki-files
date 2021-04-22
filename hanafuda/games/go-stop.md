@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T17:53:15.699Z
+date: 2021-04-22T17:56:59.598Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -192,13 +192,15 @@ There are some situations in which a opponent is considered *liable* for the win
 > In some versions of the game, case 2 also does not apply if the winner has scored only for the *Chaff* generic yaku *and* has not previously called *go*.
 {.is-info}
 
-In order to protect from case 2 above, a player who feels they have no safe play may, at the start of their turn, expose their hand and offer a draw. Each of the other players must then, in turn, decide whether to accept or refuse.
+In order to protect from case 2 above, a player who feels they have no safe play may, at the start of their turn, expose their hand and offer a draw. Each of the other players must then decide whether to accept or refuse.
 
 This decision is made in turn order; if the player to the right accepts, then the player to the left must decide to accept or refuse. If the player to the right refuses, then the player to the left automatically accepts.
 
 If both players accept, then the round ends in a draw. Nobody scores anything, and the next round begins with the same dealer.
 
-Otherwise, play continues as usual. 
+Otherwise, play continues as usual. However, for the **next three turns** (i.e. one turn from each player), the player who offered the draw is exempt from all liability, while the player who refused the draw will be considered liable if either of the other players wins.
+
+After this period, the effects expire, and the 
 
 
 # Yaku
