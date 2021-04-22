@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:16:17.616Z
+date: 2021-04-22T18:29:22.383Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -237,6 +237,21 @@ Furthermore, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake C
 |1+|**Chaff**|**Any 10 Chaff cards.** This yaku is worth 1 extra point for each additional Chaff card.<br>Note that the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) (if treated as a Chaff), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) count as two Chaff each!|
 
 # Variations
+Much like its sibling, [Koi-Koi](/en/hanafuda/games/koi-koi), Go-Stop has a great number of variations and optional rules, which we will try our best to collect here. Feel free to add or remove these rules as you like!
+
+## Jokers
+The jokers included with *hwatu* decks vary tremendously in their design, and are often intended to fulfil various special roles (which are just as often ignored by the players themselves). Common functions of joker cards are:
+
+- The joker, when captured, counts as some number of Chaff cards, typically 2 or 3.
+- The player who captures the joker steals a Chaff from each opponent.
+- The player who holds the joker doubles their score if they win.
+- The player who holds the joker is exempt from double penalties and/or liability.
+
+Every joker can behave the same way, or each joker can have a unique special ability, whatever the players agree on at the beginning of the game.
+
+## Bombs
+- After bombing the field, the player does not get the option to skip Phase 1 for two subsequent turns. Instead, they draw 3 cards in Phase 2 and play all of them. With this rule in place, the player who bombed will run out of cards before the others; when this happens, they skip their turn.
+- Sometimes, as a variation of the above, the player only draws 2 cards in Phase 2.
 
 
 # Bibliography
