@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:53:09.086Z
+date: 2021-04-22T16:55:54.817Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -158,6 +158,8 @@ Otherwise, the player who called *stop* is the winner of the round.
 The winning player calculates their score as follows:
 
 `Winner's Score = (Total Value of Winner's Yaku + Bonus Points) x Multipliers`.
+
+This amount is then paid to the winner by their opponents, **in zero-sum fashion**. Note that only the player who called *stop* earns points; the other players **earn nothing**, even if they hold yaku.
 
 
 # Yaku
