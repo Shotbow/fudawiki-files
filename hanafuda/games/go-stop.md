@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:55:54.817Z
+date: 2021-04-22T17:04:23.473Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -160,6 +160,20 @@ The winning player calculates their score as follows:
 `Winner's Score = (Total Value of Winner's Yaku + Bonus Points) x Multipliers`.
 
 This amount is then paid to the winner by their opponents, **in zero-sum fashion**. Note that only the player who called *stop* earns points; the other players **earn nothing**, even if they hold yaku.
+
+Bonus points and extra multipliers come from a variety of sources, as listed below.
+
+### Calling *Go*
+- If the winner called *go* once, they earn 1 bonus point.
+- If the winner called *go* twice, they earn 2 bonus points.
+- If the winner called *go* three times, they earn a `x2` multiplier. If they called *go* four times, they earn a `x3` multiplier, and so on.
+
+### Doubles
+The winner earns a `x2` multiplier for each of the following:
+- Every triplet they revealed at the beginning of the round.
+- Capturing 7 or more Animal cards.
+- Bombing the field.
+- If the previous round had no winner.
 
 
 # Yaku
