@@ -2,15 +2,29 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-18T21:33:19.544Z
+date: 2021-04-22T14:17:28.732Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
 ---
 
 # Overview
-**Go-Stop** is the most popular hanafuda game in the Korean-speaking world, most often played using plastic hanafuda known as hwatu. **It is named for its characteristic gameplay mechanic** that allows a player to stop the round after collecting a yaku, or to continue the round to attempt to increase their score further, at the risk of their opponent scoring in their stead. It is usually played with 2-3 players, and may involve gambling for small sums of money. **Go-stop is also known as Godori, meaning “5 birds,”** which is the name of a yaku used in this and some other games.
+**Go-Stop** is the most popular hanafuda game in the Korean-speaking world, most often played using plastic hanafuda known as *hwatu*. **It is named for its characteristic gameplay mechanic** that allows a player to stop the round after collecting a yaku, or to continue the round to attempt to increase their score further, at the risk of their opponent scoring in their stead. It is usually played with 2-3 players, and may involve gambling for small sums of money. **Go-stop is also known as Godori, meaning “5 birds,”** which is the name of a yaku used in this and some other games.
+
+In many ways, Go-Stop resembles a more complex version of [Koi-Koi](/en/hanafuda/games/koi-koi), and undoubtedly both games are related, although the precise nature of this relationship is a topic of some debate.
+
 # Setup
+Game setup involves choosing a dealer - 親 [おや, *oya*], shuffling the deck, and distributing the initial cards.
+
+A decision must be made as to how long the game will last - 12 rounds is traditional, though other common options are 6 rounds, 3 rounds, or as many rounds as it takes for one player to reach 50 points total.
+
+> Conventionally, each round corresponds to a month of the year; the first round is January, the second February, and so on. 12 rounds is thus a *year*, 6 rounds a *half-year*, and 3 rounds a *season*.
+{.is-info}
+
+Furthermore, the exact number of jokers in the deck, and their unique properties (if any), should be agreed upon.
+
+Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
+
 > ![go-stop_setup.png](/hanafuda/8field10hand_setup.png =400x) or ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x)
 {.is-success}
 # Gameplay
