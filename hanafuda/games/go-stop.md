@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T18:45:04.551Z
+date: 2021-04-22T18:47:13.326Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -265,6 +265,9 @@ The following different scheme for *go* bonuses is sometimes used:
 ## Card Properties
 - Sometimes the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) is permitted to count as both an Animal *and* 2 Chaff cards simultaneously.
 - Sometimes the [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Eight-Plank Bridge](/en/hanafuda/suits/iris#eight-plank-bridge) takes the role of the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), with the latter counting as a regular Animal card.
+
+## Calling a Draw
+- In some descriptions of the game, the effects of calling a draw are *not* limited to the next three turns, and instead persist indefinitely.
 
 
 
