@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T23:20:08.638Z
+date: 2021-04-22T23:40:42.636Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -62,6 +62,9 @@ If 4 cards of the same month are dealt to the table, then a misdeal is declared 
 After the deal, players check their hands to see if they hold any triplets (3 cards of the same month), or a four of a kind (4 cards of the same month).
 
 If a player holds a triplet, then they may choose to reveal it to the other players before the round begins. This is a grave disadvantage, but if that player manages to win the round, their score will be doubled. This is known as *heundeum* (lit. 'shaking'). Should the player hold multiple triplets, they may reveal as many as they like, and the `x2` multipliers for each will stack.
+
+> In some variations, a triplet of November or December cards may *quadruple* the score!
+{.is-info}
 
 If a player holds 4 of a kind (known in Japanese as 'president' [大統領 - だいとうりょう, *daitouryou*]), then they immediately win the round and steal 5 points from each opponent.
 
