@@ -2,15 +2,18 @@
 title: Sakura
 description: A hanafuda game, also known as Higo-Bana or Hawaiian Koi-Koi
 published: true
-date: 2021-04-19T12:01:53.558Z
+date: 2021-04-22T12:57:22.072Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-10-01T09:09:21.547Z
 ---
 
-Sakura is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique Hiki rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
+Sakura is a popular hanafuda game in Hawaii for 2-7 players (though said to be best for 2-4). It is also known as Higo-Bana, Hawaiian Koi-Koi, or even just Hanafuda. It uses unique point values for the cards, with Ribbons and Animals switching their usual points with the other. It also features unique *Hiki* rules and uses the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) as a wild card.
+
+While most hanafuda games allow a maximum of three active players (with the remainder needing to drop out for the round), Sakura is unusual in being seemingly designed for large numbers of players. There are even options for team play!
+
 # Setup
-First, determine how many are to play and who will make up each team. For 2, 3, 5, or 7 players, each participant plays on their own. For a 4-player game, each team will consist of 2 players. For a 6-player game, the teams may consist of 2 or 3 players apiece. If playing in teams of 2, teammates should sit opposite one another; for teams of 3, players from each team should be seated alternately around the table.
+First, determine how many are to play and who will make up each team. For 2, 3, 5, or 7 players, each participant plays on their own. A 4-player game may be either played individually, or in teams teams consisting of 2 players each. A 6-player game can likewise be played individually, in 3 teams of 2, or 2 teams of 3. If playing in teams of 2, teammates should sit opposite one another; for teams of 3, players from each team should be seated alternately around the table.
 
 It is also a good idea to establish house rules and come to an agreement over scoring and how long the game shall last at this point in time.
 
@@ -31,27 +34,53 @@ Once the cards have been shuffled and cut, the dealer passes out cards face down
 Any remaining cards form the draw pile for the round and are to be placed in a single face down stack beside the field cards.
 
 If four cards of the same suit have been dealt to the table, the dealer automatically captures them.
+
 # Gameplay
 As in most Hanafuda games, the dealer takes the first turn, followed by each player around the table in counter-clockwise order.
+
+When playing with teams, each team shares a common score pile. Note that teammates are **not** allowed to reveal the contents of their hands to each other.
+
+**The winner of the round becomes dealer for the next round.**
+
 ## Turns
-On your turn, choose one card from your hand to play to the field. If it matches suits with one card on the field, overlap the two, indicating that you will capture those cards. If it matches suits with two cards on the field, choose one of those two to capture with your card. If your played card matches 3 cards on the field, all 4 will be captured. If your played card does not have any matches on the field, it will simply become a field card.
+On their turn, a player chooses a single card from their hand and plays it to the table.
 
-After playing a card from your hand and making a match as is appropriate, flip over the top card from the deck and play it to the field in the same manner as above, again making a match by suit if possible. Once you have played a card both from your hand and the deck, collect any cards captured into your scoring area.
+* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
+* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
+* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
+* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
 
-Scoring areas should be kept organized by point value, with each card visible. Unlike in other games though, captured Chaff cards are simply discarded into one central pile rather than arranged in the scoring area. (This does not affect scoring since Chaff are not worth any points on their own and do not have any role in yaku.)
+> If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type to make detecting yaku easier.<br><br>However, since Chaff are worth 0 points and play no role in any yaku, it is common in Sakura to **discard all Chaff cards** to a common junk pile. 
+{.is-warning}
+
 ## Hiki (Four of a Kind)
-If a player sees all 4 cards of a suit among the cards in their hand and those on the field (in any combination), this is considered a Hiki. A player may on their turn declare this and capture the entire suit at once.
+If a player sees all 4 cards of a given suit among the cards in their hand and those on the field (in any combination), this is known as a *hiki*. On their turn, the player may, instead of playing a card from their hand, declare the *hiki* and immediately capture all 4 cards. They then play a card from the draw pile as normal. 
 
-A player is not required to reveal a Hiki unless another player attempts to capture a card that belongs to that Hiki using the Gaji (which will force the player of the Gaji to target a different card).
+A player is not required to reveal a *hiki* unless another player attempts to capture a card that belongs to that *hiki* using the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card (which will force the player of the Lightning to target a different card).
 
-Note that the concept of Hiki in the game of Sakura does not have an exact equivalent in other hanafuda games, and overlaps with those games' concepts of dealer privelege, [lucky hands](/en/hanafuda/games/roppyakken#lucky-hands), capturing stacked cards on the field with one from the hand, and [bombing the field](/en/hanafuda/games/go-stop#bombing-the-field).
+> Note that the concept of *hiki* in the game of Sakura does not have an exact equivalent in other hanafuda games, and overlaps with those games' concepts of dealer's privilege, [lucky hands](/en/hanafuda/games/roppyakken#lucky-hands), capturing stacked cards on the field with one from the hand, and [bombing the field](/en/hanafuda/games/go-stop#bombing-the-field).
+{.is-info}
+
 ## Gaji (Wild Card)
+
 The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) card is known as Gaji in this game, and acts as a wild card. When played from the hand, it may pair with and thus capture any card on the field. However, if the Gaji is already on the field, it can only be captured by another [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) card.
 
 Once captured, keep the Gaji with the card it was paired with. At the end of the round, if any other cards of the paired card's suit are present on the field, they are automatically captured by the player who used the Gaji.
 
-However, the Gaji cannot be used to capture a card that would complete another player's Hiki. In this circumstance, the owner of the Hiki would announce it when the Gaji's user tried to capture one of the Hiki cards. Then the Gaji's user would have to target a different card on the field for capture or simply leave the Gaji on the field.
-# Card Values
+However, the Gaji cannot be used to capture a card that would complete another player's *hiki*. In this circumstance, the owner of the *hiki* must announce it when the Gaji's user tries to capture one of the *hiki* cards. The player of the Gaji must then target a different card, or simply leave the Gaji on the field.
+
+# End of Round and Scoring
+The round ends once all players run out of cards **and** the draw pile has been exhausted; the existence of the *hiki* rule means that these events may not be simultaneous.
+
+Due to the usage of a wild card, most rounds will end with two unpaired cards - one ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow, and one that matches the suit of whatever card was captured by the Gaji (![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning).
+
+In this case, the last ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow will be added to the scoring area of the player who captured the other two non-wild ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willows, and the remaining card is added to the scoring area of the player who used the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Lightning to capture its mate.
+
+
+## Card Values
 Note that in this game, the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) is treated as an Animal rather than a Bright. Note as well the reversal from the usual values for Animals and Ribbons, and that the [![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff) has the value of a Ribbon.
 |Value|Cards|
 |:---:|:---|
