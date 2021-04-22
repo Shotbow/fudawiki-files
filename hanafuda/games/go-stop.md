@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T21:45:29.886Z
+date: 2021-04-22T21:52:32.246Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -240,6 +240,14 @@ Furthermore, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake C
 
 # Go-Stop for 4-6 Players
 While at most three players can participate in each round, up to six may participate in the game as a whole. At the beginning of each round, the players decide whether they will *stay in* or *drop out*, in a process similar to [Hachi-Hachi](/en/hanafuda/games/hachi-hachi#hachi-hachi-for-4-6-players).
+
+## The Deal
+The deal is the same as for the three-player variation - 7 cards to each player, and 6 cards to the field. The difference here is that the field cards are dealt **face-down**. The remaining cards (if there are any) from the draw pile, as usual.
+
+## The Dropout Phase
+The dealer is obliged to participate in the coming round. Starting from the player to the dealer's right and moving anti-clockwise, the remaining players announce whether they intend to stay in, or drop out.
+
+This process ends **as soon as there are three active players**, i.e. when two people (not including the dealer) have elected to stay, or when *all but three* players have dropped out.
 
 # Variations
 Much like its sibling, [Koi-Koi](/en/hanafuda/games/koi-koi), Go-Stop has a great number of variations and optional rules, which we will try our best to collect here. Feel free to add or remove these rules as you like!
