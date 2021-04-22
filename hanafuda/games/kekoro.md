@@ -2,7 +2,7 @@
 title: Kekoro
 description: A 2-player hanafuda game with unique card values and many yaku.
 published: true
-date: 2021-04-22T03:04:41.908Z
+date: 2021-04-22T03:07:49.608Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -11,8 +11,19 @@ dateCreated: 2021-04-17T05:18:37.680Z
 Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has significant overlap with [Tensho](/en/hanafuda/games/tensho) and [Hachi](/en/hanafuda/games/hachi), and its card values are unique but bear a resemblance to those used in [Sudaoshi](/en/hanafuda/games/sudaoshi). The game is played for an indeterminate amount of time - as many rounds as it takes for one player to exceed their opponent's cumulative score by 90 points.
 # Setup
 If gambling, the two players come to an agreement over how much to wager on the game. Each player puts up this amount; the winner will take both shares.
+
+Any other house rules should also be established at this point, in order to keep gameplay smooth and fair.
+
 ## Choosing the Dealer
-## Distributing the Cards
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. The player who drew a suit for the earliest month becomes the dealer. If both players drew from the same suit, the player drawing the higher point card becomes the dealer. In cases where there is a tie, this process can be repeated.
+
+**The winner of each round becomes the dealer for the next round.**
+
+## Distributing the Initial Cards
+Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themselves, and then repeat. Sometimes this is done in packets of two instead of four.
+
+> ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
+{.is-success}
 # Gameplay
 ## Turns
 ## End of Round
