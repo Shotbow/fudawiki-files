@@ -2,7 +2,7 @@
 title: Kekoro
 description: A hanafuda game with unique card values and many yaku
 published: true
-date: 2021-04-22T02:48:30.731Z
+date: 2021-04-22T02:48:43.525Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -20,7 +20,7 @@ Kekoro is a fishing-type game played with Hanafuda. Its yaku inventory has signi
 |Chaff|8|24|
 Thus, there are 272 points in a complete deck.
 # Yaku
-Each yaku scored in a round is worth 30 points. The same card may be used in as many yaku as applicable.
+Each yaku scored in a round is worth 30 points. The same card may be used in as many yaku as possible.
 
 Most yaku in this game come in pairs of Ribbon and non-Ribbon variants; however, Four Seven Eight and Ten Seven Eight only have Ribbon forms.
 |Name of Yaku|Composition|
