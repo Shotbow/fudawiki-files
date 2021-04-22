@@ -2,7 +2,7 @@
 title: Kekoro
 description: A 2-player hanafuda game with unique card values and many yaku.
 published: true
-date: 2021-04-22T03:07:49.608Z
+date: 2021-04-22T03:13:25.682Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-17T05:18:37.680Z
@@ -24,8 +24,26 @@ Eight cards are distributed to each player, and eight to the table. While there 
 
 > ![koikoi_setup.png](/hanafuda/koikoi_setup.png =400x)
 {.is-success}
+
+Note that there are no Lucky Hands - 手役  [てやく, *teyaku*] in Kekoro.
+
 # Gameplay
+Each round, the dealer is the first to play, with players taking alternate turns.
+
 ## Turns
+On their turn, a player chooses a single card from their hand and plays it to the table.
+* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
+* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
+* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
+* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
+
+> If a card is played that matches something on the table, then the player ***must*** capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
+{.is-warning}
+
+After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 ## End of Round
 # End of Game
 # Card Values
