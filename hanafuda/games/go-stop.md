@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T17:04:23.473Z
+date: 2021-04-22T17:06:51.457Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -153,7 +153,7 @@ The round ends when either a player calls *stop*, or when all players run out of
 
 If the cards run out, then the round is a draw. All players score nothing, **regardless of any yaku they hold**, and the next round begins with the same dealer.
 
-Otherwise, the player who called *stop* is the winner of the round.
+Otherwise, the player who called *stop* is **the winner of the round**, and **becomes dealer for the next round**.
 
 The winning player calculates their score as follows:
 
