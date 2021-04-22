@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T22:37:53.719Z
+date: 2021-04-22T22:53:14.100Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -312,10 +312,22 @@ The following different scheme for *go* bonuses is sometimes used:
 ## Calling a Draw
 - In some descriptions of the game, the effects of calling a draw are *not* limited to the next three turns, and instead persist indefinitely.
 
+## Special Events
+- If a player captures all four cards of a given month on their first turn, then the player steals 3 points from each opponent.
+- Alternatively, capturing all four cards of a given month on their first turn will quadruple the player's score if they win.
+- Capturing a triplet lets the player steal 2 Chaff from each other player, as opposed to just 1.
+- If a player captures 3 or more triplets over the course of a round, they steal 2 Chaff from each opponent.
+- Before the round, a month is chosen. If the winner of the round holds all four cards of that month, their score is quadrupled.
+- If, on the player's first turn, they manage to capture one card of each type - Bright, Animal, Ribbon, and Chaff - then they steal 1 Chaff from each opponent.
+- At the beginning of the round, each player contributes an agreed-upon amount to a pot. At the end of the round, whichever player has managed to capture the [![Icon for month 7](/hanafuda/icons/monthicon_7.png =20x)Boar](/en/hanafuda/suits/bush-clover#boar) claims the contents of the pot.
+
 ## The Dropout Phase
 - Compensation for being forced to drop out is not paid immediately. Instead, it is paid at the end of the round, by the two losers.
 - In the event of a draw, the cards are re-dealt to *all* players, and a fresh dropout phase begins. When playing with the delayed compensation rule above, there will be no dropout compensation that round.
 - Compensation is 3 points per valuable card, not 2 points.
+- In the 7-player version of the game, any player (other than the dealer) who receives the [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Eight-Plank Bridge](/en/hanafuda/suits/iris#eight-plank-bridge) *must* drop out, but may claim compensation as normal.
+
+
 
 
 
