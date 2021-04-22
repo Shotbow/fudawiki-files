@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:27:47.214Z
+date: 2021-04-22T16:41:11.621Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -131,6 +131,23 @@ After bombing the field, a player's hand will be two cards short (they played 3 
 
 ## Special Events
 Certain events that occur during the turn may allow the player to steal Chaff cards, or sometimes points, from their opponents. These should be checked for during Phase 3.
+
+### Stealing Chaff
+The player recives one Chaff card from each opponent for each of the following that occur:
+1. The player captures a triplet (stack of 3).
+1. There are only two cards left in the field, both of different months, and the player captures both of them during their turn.
+1. There are two cards in the field of the same month and the player captures both of them - one with the card from their hand, and the other with the card taken from the draw pile.
+1. The player plays a card in Phase 1 that has no match, then captures it using the card they draw in Phase 2.
+
+The opponents may choose which Chaff card to give. If they possess no regular Chaff cards, they must surrender a 2- or 3-Chaff card (such as [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), or a joker). If they have no Chaff cards, they do not have to give anything.
+
+> Items 2, 3 and 4 on this list **do not apply during the final turn** of the round.
+{.is-warning}
+
+### Stealing Points
+1. If the player creates a triplet (stack of 3) on their very first turn, they steal 3 points from each opponent.
+2. If any player, of the course of the round, creates three triplets, then they *immediately* win the round and steal 5 points from each opponent.
+
 
 
 
