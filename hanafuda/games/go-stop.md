@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T23:01:31.130Z
+date: 2021-04-22T23:15:10.325Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -326,6 +326,8 @@ The following different scheme for *go* bonuses is sometimes used:
 - If the winner captured a *Bright Yaku*, then any opponent who has not captured any Bright cards must pay 2 extra points.
 - The [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) does not count as a Bright for the purposes of protecting against the Bright double penalty.
 - If the winner captured the *Chaff* generic yaku, then any opponent who has not captured at least 7 Chaff cards must pay double.
+- If the winner captured at least 7 Animal cards, then any opponent who has not captured at least 1 Animal must pay double.
+- If the winner has captured a *Ribbon Yaku*, then any opponent who has not captured at least 1 Ribbon card must pay double.
 
 ## The Dropout Phase
 - Compensation for being forced to drop out is not paid immediately. Instead, it is paid at the end of the round, by the two losers.
@@ -333,7 +335,11 @@ The following different scheme for *go* bonuses is sometimes used:
 - Compensation is 3 points per valuable card, not 2 points.
 - In the 7-player version of the game, any player (other than the dealer) who receives the [![Icon for month 5](/hanafuda/icons/monthicon_5.png =20x)Eight-Plank Bridge](/en/hanafuda/suits/iris#eight-plank-bridge) *must* drop out, but may claim compensation as normal.
 
-
+## Yaku
+- If the *Four Brights* yaku includes the [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), then it is only worth 3 points.
+- *Five Birds* is worth only 3 points instead of 5.
+- There is an additional *Six Birds* yaku, worth 6 points:<br>[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
+- There is an additional *Three Birds* yaku, worth 4 points:<br>[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)
 
 
 
