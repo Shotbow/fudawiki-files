@@ -2,7 +2,7 @@
 title: Mushi
 description: A hanafuda game played without Peony and Bush Clover cards
 published: true
-date: 2021-04-20T21:02:39.048Z
+date: 2021-04-22T14:43:17.070Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:41:42.281Z
@@ -20,6 +20,8 @@ There is no required method for selecting who is the first dealer, though a typi
 
 ## Distributing the Initial Cards
 Eight cards are distributed to each player, and eight to the table. While there is no required method for this distribution, it is common for the dealer to give four to their opponent, four to the table, four to themself, and then repeat.
+
+The remainder of the deck is placed face-down to form the draw pile.
 
 If 4 cards of the same suit are dealt to the field at the beginning of a round, generally a misdeal is declared and the same dealer shuffles and distributes cards once more. The same may or may not be true in the case that that 4 pairs of different suits are dealt to the field; be sure to agree on this as a house rule before play begins.
 
