@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T16:26:23.318Z
+date: 2021-04-22T16:27:47.214Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -130,7 +130,7 @@ Bombing counts as Phase 1 of the player's turn. After playing the bomb, the play
 After bombing the field, a player's hand will be two cards short (they played 3 cards on one turn). To compensate for this, *on any two subsequent turns* of the current round, the player may elect to skip Phase 1 of their turn.
 
 ## Special Events
-Certain events that occur during the turn may allow the player to steal points or even cards from their opponents.
+Certain events that occur during the turn may allow the player to steal Chaff cards, or sometimes points, from their opponents. These should be checked for during Phase 3.
 
 
 
