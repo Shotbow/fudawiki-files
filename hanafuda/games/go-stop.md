@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T21:40:22.997Z
+date: 2021-04-22T21:44:52.239Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -237,6 +237,9 @@ Furthermore, the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake C
 |1+|**Animals**|**Any 5 Animal cards.** This yaku is worth 1 extra point for each additional Animal card.|
 |1+|**Ribbons**|**Any 5 Ribbon cards.** This yaku is worth 1 extra point for each additional Ribbon card.|
 |1+|**Chaff**|**Any 10 Chaff cards.** This yaku is worth 1 extra point for each additional Chaff card.<br>Note that the [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup) (if treated as a Chaff), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) count as two Chaff each!|
+
+# Go-Stop for 4-6 Players
+While at most three players can participate in each round, up to six may participate in the game as a whole. At the beginning of each round, the players decide whether they will *stay in* or *drop out*, in a process similar to [Hachi-Hachi](en/hanafuda/games/hachi-hachi#hachi-hachi-for-4-6-players).
 
 # Variations
 Much like its sibling, [Koi-Koi](/en/hanafuda/games/koi-koi), Go-Stop has a great number of variations and optional rules, which we will try our best to collect here. Feel free to add or remove these rules as you like!
