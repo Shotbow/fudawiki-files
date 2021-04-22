@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-22T14:42:34.284Z
+date: 2021-04-22T16:00:50.673Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -80,7 +80,7 @@ On their turn, a player chooses a single card from their hand and plays it to th
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
 
 ## Checking for Yaku
-After playing both their cards - one from their hand,and one from the draw pile - the player checks their score pile for *yaku* [役 - やく], or *scoring combinations*; a list of these is given further down the page.
+After playing both their cards - one from their hand, and one from the draw pile - the player checks their score pile for *yaku* [役 - やく], or *scoring combinations*; a list of these is given further down the page.
 
 - If the player has either formed a new *yaku*, or improved an existing one, then they have the choice to either end the round by calling *shōbu*, or to continue in pursuit of a higher score by calling *koi-koi*.
 
