@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T21:58:28.462Z
+date: 2021-04-22T22:00:57.905Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -255,6 +255,10 @@ A player earns 2 points of compensation for each of the following cards in their
 - Brights
 - Jokers
 - The [![monthicon_9.png](/hanafuda/icons/monthicon_9.png =20x)Sake Cup](/en/hanafuda/suits/chrysanthemum#sake-cup), [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff), and [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Lightning](/en/hanafuda/suits/willow#lightning) cards
+
+If the player holds 3 cards of the same month, the compensation is doubled.
+
+To claim compensation, the player must reveal all relevant cards (including the 3 of a kind, for double compensation). The compensation value of their hand is then paid to them by each of the two *non-dealer* active players.
 
 # Variations
 Much like its sibling, [Koi-Koi](/en/hanafuda/games/koi-koi), Go-Stop has a great number of variations and optional rules, which we will try our best to collect here. Feel free to add or remove these rules as you like!
