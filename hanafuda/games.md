@@ -2,14 +2,14 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-23T04:36:35.932Z
+date: 2021-04-23T04:39:02.983Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
 ---
 
 # Traditional Games
-This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
+This is a list of known [hanafuda](/en/hanafuda) games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
 **There are 3 major families to which hanafuda games tend to belong:**
 1. **Fishing** (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. 
