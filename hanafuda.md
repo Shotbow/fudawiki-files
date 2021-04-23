@@ -2,7 +2,7 @@
 title: Hanafuda
 description: 花札 (lit. flower cards)
 published: true
-date: 2021-03-02T17:46:16.597Z
+date: 2021-04-23T04:41:35.040Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T19:52:04.670Z
@@ -31,3 +31,6 @@ The following chart displays the cards in their standard order and categorizatio
 |11|November|![Icon for month 11](/hanafuda/icons/monthicon_11.png =50x)|[Willow](/en/hanafuda/suits/willow)|![110.svg](/sheldonchen-cards/110.svg#hanafuda-card =80x)|![111.svg](/sheldonchen-cards/111.svg#hanafuda-card =80x)|![112.svg](/sheldonchen-cards/112.svg#hanafuda-card =80x)|![113.svg](/sheldonchen-cards/113.svg#hanafuda-card =80x)|
 |12|December|![Icon for month 12](/hanafuda/icons/monthicon_12.png =50x)|[Paulownia](/en/hanafuda/suits/paulownia)|![120.svg](/sheldonchen-cards/120.svg#hanafuda-card =80x)|-|-|![121.svg](/sheldonchen-cards/121.svg#hanafuda-card =80x)![122.svg](/sheldonchen-cards/122.svg#hanafuda-card =80x)![123.svg](/sheldonchen-cards/123.svg#hanafuda-card =80x)|
 
+# See Also
+- [Kabufuda](/en/kabufuda)
+- [Mekuri Karuta](/en/mekurifuda)
