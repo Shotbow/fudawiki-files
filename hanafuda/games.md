@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-23T04:28:17.691Z
+date: 2021-04-23T04:36:01.532Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -11,7 +11,12 @@ dateCreated: 2020-09-17T04:23:39.577Z
 # Traditional Games
 This is a list of known hanafuda games, arranged alphabetically and with links to those games for which we can provide rules or enough details to warrant their own pages.
 
-There are three major families to which hanafuda games tend to belong. **Fishing** (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent. **Sequence** games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents. Other families of games are described [here](https://www.pagat.com/class/#mechanism).
+There are three major families to which hanafuda games tend to belong:
+1. **Fishing** (or "Capture") games are those such as Koi-Koi and Hachi-Hachi whose main gameplay mechanism revolves around playing cards from one's hand to capture cards of the same suit on the field. 
+2. **Showdown** games involve players comparing their hands to determine the winner, and include as a subcategory **Banking** games such as Oicho-Kabu in which each player competes against the bank rather than one another, usually with gambling intent.
+3. **Sequence** games are those which depend upon players playing their cards to the field in a particular order, generally based upon one of the traditional [suit arrangements](/en/hanafuda/suits#arrangement-of-suits), often with a goal of emptying one's hand before one's opponents.
+
+Other families of card games are described [here](https://www.pagat.com/class/#mechanism).
 ## Popular Games
 These games are relatively widely known, and quite frequently show up in rule books and video games.
 |Game|Players|Family|Origin|
