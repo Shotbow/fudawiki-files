@@ -2,13 +2,13 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-22T16:00:50.673Z
+date: 2021-04-26T04:49:12.751Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
 ---
 
-Koi-Koi [こいこい] is a popular [hanafuda](/en/hanafuda) fishing game for two players, who compete to capture cards from the table and form scoring combinations known as *yaku*.
+**Koi-Koi [こいこい]** is a popular [hanafuda](/en/hanafuda) fishing game for two players, who compete to capture cards from the table and form scoring combinations known as *yaku*.
 
 Its name comes from its gameplay element that allows players to decide whether to continue the round (by calling “*koi-koi*,” lit. "come on!") and risk their points for the chance to improve their score, or end the round (by calling “*shōbu*” - 勝負 [しょうぶ], lit. "game" or "match") and keep the points they currently have.
 
