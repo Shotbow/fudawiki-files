@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-23T04:39:02.983Z
+date: 2021-04-26T05:04:22.057Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -21,22 +21,22 @@ Other families of card games are described [here](https://www.pagat.com/class/#m
 These games are relatively widely known, and quite frequently show up in rule books and video games.
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
-|[Go-Stop, a.k.a. Godori (Five Birds)](/en/hanafuda/games/go-stop)|2-3 per round, max 7 per game|Fishing|Korea|
-|[Hachi-Hachi (Eighty-Eight), a.k.a. Yokohama-Bana](/en/hanafuda/games/hachi-hachi)|2-3 per round, max 7 per game|Fishing|Yokohama, Japan|
-|[Hana-Awase (Matching Flowers)](/en/hanafuda/games/hana-awase)|2-4|Fishing|Japan|
-|[Koi-Koi (Come On!)](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
-|[Mushi (Insect), a.k.a. Ochi (Punchline)](/en/hanafuda/games/mushi)|2 per round, max 4 per game|Fishing|Osaka, Japan|
-|[Oicho-Kabu (Eight-Nine)](/en/hanafuda/games/oicho-kabu), a.k.a. Toppa (Eighteen), Kaho, or Katori|2-10|Banking|Japan|
-|[Roppyakken (Six Hundred Spans), a.k.a. Roppyakuten (Six Hundred Points)](/en/hanafuda/games/roppyakken)|2-3|Fishing|Japan|
-|[Sakura, a.k.a. Higo-Bana or Hawaiian Hanafuda](/en/hanafuda/games/sakura)|2-7|Fishing|Higo Province, Japan|
+|[Go-Stop](/en/hanafuda/games/go-stop), a.k.a. Godori|2-3 per round, max 7 per game|Fishing|Korea|
+|[Hachi-Hachi](/en/hanafuda/games/hachi-hachi) ("Eighty-Eight"), a.k.a. Yokohama-Bana|2-3 per round, max 7 per game|Fishing|Yokohama, Japan|
+|[Hana-Awase](/en/hanafuda/games/hana-awase) ("Matching Flowers")|2-4|Fishing|Japan|
+|[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
+|[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Osaka, Japan|
+|[Oicho-Kabu](/en/hanafuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
+|[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Japan|
+|[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
 These games, while not as widespread today as those listed above, are variously attested and referenced in some rule books, video games, or other historical documents.
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |Akita-Bana|-|Fishing|Akita, Japan|
 |Ayame Katsugi|3|Fishing|Japan|
-|[Bakabana (Foolish Flowers)](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
-|[Bakappana (Foolish Flowers)](/en/hanafuda/games/bakappana)|2-4|Fishing|Japan|
+|[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
+|[Bakappana](/en/hanafuda/games/bakappana) ("Foolish Flowers")|2-4|Fishing|Japan|
 |Batta|-|-|Japan|
 |[Batta Maki](/en/hanafuda/games/battamaki), a.k.a. Shoniban or Atosaki|2+|Banking|Japan|
 |Bizen-Bana|-|Fishing|Bizen Province, Japan|
@@ -46,41 +46,41 @@ These games, while not as widespread today as those listed above, are variously 
 |Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
 |[Gomai Kabu](/en/hanafuda/games/gomai-kabu)|8|Showdown|Japan|
 |[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
-|[Hachi-Jū-Hana (Eighty Flowers)](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
+|[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu)|2-10|Showdown|Japan|
-|[Hiyoko (Chick)](/en/hanafuda/games/hiyoko)|2-4|Sequence|Japan|
-|[Hon-Bana (Original Flowers)](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
+|[Hiyoko ("Chick")](/en/hanafuda/games/hiyoko)|2-4|Sequence|Japan|
+|[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
 |Hyaku-Otoshi|-|-|-|
-|[Ichi-Ni-San (One-Two-Three)](/en/hanafuda/games/ichi-ni-san)|3|Fishing|Japan|
+|[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
 |Issoku Iki|2|Fishing|Japan|
-|[Jū-Mai (Ten Cards)](/en/hanafuda/games/jumai)|2|Fishing|Japan|
+|[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
 |[Kachi-Kachi](/en/hanafuda/games/kachi-kachi)|-|-|-|
 |Kaga|2|Fishing|Kaga Province, Japan|
 |[Kekoro](/en/hanafuda/games/kekoro)|Fishing|2|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
 |[Kyo-Kabu](/en/hanafuda/games/kyo-kabu)|2-10|Banking|Japan|
-|Kyū-Rei Hana (Ninety Flowers)|3 per round, max 7 per game|Fishing|San'yō region, Japan|
+|Kyū-Rei Hana|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Matsu-Kiri-Bōzu|2|Fishing|Japan|
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-3|Fishing|Korea|
-|Nana-Tan (Seven Scrolls)|2|Fishing|Japan|
+|Nana-Tan ("Seven Scrolls")|2|Fishing|Japan|
 |Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
-|Ni-Shi-Roku (Two-Four-Six)|3|Fishing|Japan|
+|Ni-Shi-Roku ("Two-Four-Six")|3|Fishing|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Gifu, Japan|
 |Oto-Roku|5-6|Showdown|Tōkai region, Japan|
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
-|Roku-Tan (Six Scrolls)|2|Fishing|Japan|
+|Roku-Tan ("Six Scrolls")|2|Fishing|Japan|
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
-|Saburokku (Three-Six-Nine), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
+|Saburokku ("Three-Six-Nine"), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
 |San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
 |Sanuki Mekuri|2|Fishing|Sanuki Province, Japan|
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
 |Sashikomi|2|Showdown|Japan|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
-|Sen-Roku-Jū (One Thousand Sixty), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
+|Sen-Roku-Jū ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |Suhara-Bana|-|-|-|
@@ -94,7 +94,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |Yaku-Bana|-|-|-|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
-|[Shippin (Four-Ace)](/en/hanafuda/games/shippin)|2+|Showdown|Japan|
+|[Shippin](/en/hanafuda/games/shippin) ("Four-Ace")|2+|Showdown|Japan|
 
 
 # Modern Games
