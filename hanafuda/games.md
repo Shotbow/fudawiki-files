@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-26T05:04:22.057Z
+date: 2021-04-26T06:03:48.836Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -67,7 +67,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Min-Hwatu](/en/hanafuda/games/minhwatu)|2-3|Fishing|Korea|
 |Nana-Tan ("Seven Scrolls")|2|Fishing|Japan|
 |Nanbu-Bana|-|Fishing|Nanbu (which?), Japan|
-|Ni-Shi-Roku ("Two-Four-Six")|3|Fishing|Japan|
+|[Ni-Shi-Roku](/en/hanafuda/games/ni-shi-roku) ("Two-Four-Six")|3|Fishing|Japan|
 |[Oni Koi-Koi](/en/hanafuda/games/oni-koi-koi)|2|Fishing|Gifu, Japan|
 |Oto-Roku|5-6|Showdown|Tōkai region, Japan|
 |[Poka](/en/hanafuda/games/poka)|2|Sequence|-|
@@ -75,10 +75,10 @@ These games, while not as widespread today as those listed above, are variously 
 |Roku-Wari|2+|Showdown|Tōkai region, Japan|
 |Saburokku ("Three-Six-Nine"), a.k.a. Bakananatan (Seven Stupid Scrolls)|3|Fishing|Japan|
 |San-Jū Tsuppari (Thirty Palm Thrust)|3|Fishing|Japan|
-|Sanuki Mekuri|2|Fishing|Sanuki Province, Japan|
+|[Sanuki Mekuri](/en/hanafuda/games/sanuki-mekuri)|2|Fishing|Sanuki Province, Japan|
 |San-Zoku Go-Jū (Three Bunches and Fifty)|3|Fishing|Japan|
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
-|Sashikomi|2|Showdown|Japan|
+|[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |Sen-Roku-Jū ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
