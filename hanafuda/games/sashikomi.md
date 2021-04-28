@@ -2,7 +2,7 @@
 title: Sashikomi
 description: A 3-card kabu game for 2 players.
 published: true
-date: 2021-04-28T02:51:19.367Z
+date: 2021-04-28T02:57:38.581Z
 tags: hanafuda games, kabu games, showdown games
 editor: markdown
 dateCreated: 2021-04-26T06:43:34.523Z
@@ -12,7 +12,7 @@ dateCreated: 2021-04-26T06:43:34.523Z
 # Setup
 First, the two players agree upon the amount of money to wager and each put up an identical amount.
 
-Select the dealer however you can agree.
+Players select the dealer for the round in whatever method is agreeable to both parties. 
 
 The dealer thoroughly shuffles a standard 48-card deck and sets it on the table.
 # Gameplay
