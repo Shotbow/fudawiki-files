@@ -2,13 +2,13 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-04-30T07:02:20.111Z
+date: 2021-04-30T07:05:43.335Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
 ---
 
-**Kyū-Rei Hana** [九十花 or 九〇花 - きゅうれいはな, lit "Ninety Flowers"] is a [Hana-Awase](/en/hanafuda/games/hana-awase)-type game for 3 players, using no *teyaku*, only 4 *dekiyaku*, and a unique distribution of card values.
+**Kyū-Rei Hana** [九十花 or 九〇花 - きゅうれいはな, lit "Ninety Flowers"] is a [Hana-Awase](/en/hanafuda/games/hana-awase)-type game for 3 players, using no *teyaku*, only 4 *dekiyaku* (the same as used in [Bakabana](/en/hanafuda/games/bakabana), though by slightly different names), and a unique distribution of card values.
 # Card Values
 |Value|Cards|
 |:---:|:---:|
@@ -16,6 +16,7 @@ dateCreated: 2021-04-30T06:47:47.659Z
 |10|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)<br>[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)
 |5|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)<br>[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)
 |0|All Chaff except ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)[Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff).
+Thus, there are 270 points in a complete deck. For this reason, **each of the 3 player's scores is compared to 90 points**, which is the average score that each player could be expected to make. This is most likely the source of this game's name.
 # Yaku
 A player may earn points for any and all of the following yaku whose cards they have captured.
 |Value|Name|Composition|
