@@ -2,13 +2,15 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-04-30T07:05:43.335Z
+date: 2021-04-30T07:14:00.657Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
 ---
 
-**Kyū-Rei Hana** [九十花 or 九〇花 - きゅうれいはな, lit "Ninety Flowers"] is a [Hana-Awase](/en/hanafuda/games/hana-awase)-type game for 3 players, using no *teyaku*, only 4 *dekiyaku* (the same as used in [Bakabana](/en/hanafuda/games/bakabana), though by slightly different names), and a unique distribution of card values.
+**Kyū-Rei Hana** [九十花 or 九〇花 - きゅうれいはな, lit "Ninety Flowers"] is a [Hana-Awase](/en/hanafuda/games/hana-awase)-type game for 3 players (though more may play using [the same modifications as in hachi-hachi](/en/hanafuda/games/hachi-hachi#number-of-players)). It has no *teyaku*, only 4 *dekiyaku* (the same as used in [Bakabana](/en/hanafuda/games/bakabana), though by slightly different names), and a unique distribution of card values. It likely originated near Okayama, in the Sanyo region of Japan.
+# Setup
+Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Like many hanafuda games, a decision must also be made as to how many rounds to play - 12 rounds is traditional, though 6 and 3 are options for shorter games. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
 # Card Values
 |Value|Cards|
 |:---:|:---:|
