@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-04-26T06:03:48.836Z
+date: 2021-04-30T03:45:28.133Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -34,11 +34,11 @@ These games, while not as widespread today as those listed above, are variously 
 |Game|Players|Family|Origin|
 |:---|:---:|:---:|---:|
 |Akita-Bana|-|Fishing|Akita, Japan|
-|Ayame Katsugi|3|Fishing|Japan|
+|[Ayame Katsugi](/en/hanafuda/games/ayamekatsugi)|3|Fishing|Japan|
 |[Bakabana](/en/hanafuda/games/bakabana)|4|Fishing|Ohama District, Usuki City, Oita Prefecture, Japan|
 |[Bakappana](/en/hanafuda/games/bakappana) ("Foolish Flowers")|2-4|Fishing|Japan|
-|Batta|-|-|Japan|
-|[Batta Maki](/en/hanafuda/games/battamaki), a.k.a. Shoniban or Atosaki|2+|Banking|Japan|
+|[Batta](/en/hanafuda/games/batta)|-|-|Japan|
+|[Batta Maki](/en/hanafuda/games/shoniban), a.k.a. Shoniban or Atosaki|2+|Banking|Japan|
 |Bizen-Bana|-|Fishing|Bizen Province, Japan|
 |Chunchun|3 per round, max 7 per game|Fishing|San'yō region, Japan|
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
@@ -50,14 +50,14 @@ These games, while not as widespread today as those listed above, are variously 
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu)|2-10|Showdown|Japan|
 |[Hiyoko ("Chick")](/en/hanafuda/games/hiyoko)|2-4|Sequence|Japan|
 |[Hon-Bana](/en/hanafuda/games/honbana)|3|Fishing|Nagoya region, Japan|
-|Hyaku-Otoshi|-|-|-|
+|[Hyaku-Otoshi](/en/hanafuda/games/hyaku-otoshi)|3|Fishing|Japan|
 |[Ichi-Ni-San](/en/hanafuda/games/ichi-ni-san) ("One-Two-Three")|3|Fishing|Japan|
 |[Ino-Shika-Chō](/en/hanafuda/games/ino-shika-cho)|2+|Banking|Japan|
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
-|Issoku Iki|2|Fishing|Japan|
+|[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
 |[Kachi-Kachi](/en/hanafuda/games/kachi-kachi)|-|-|-|
-|Kaga|2|Fishing|Kaga Province, Japan|
+|[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Japan|
 |[Kekoro](/en/hanafuda/games/kekoro)|Fishing|2|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
 |Koi-Koi no Ato-Saki|2+|Showdown(?)|Japan|
@@ -80,10 +80,10 @@ These games, while not as widespread today as those listed above, are variously 
 |San-Zoku Tsuppari (Three Bunches Palm Thrust)|3|Fishing|Japan|
 |[Sashikomi](/en/hanafuda/games/sashikomi)|2|Showdown|Japan|
 |Sendai-Hana|3|Fishing|Sendai, Japan|
-|Sen-Roku-Jū ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
+|[Sen-Roku-Jū](/en/hanafuda/games/senrokuju) ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
-|Suhara-Bana|-|-|-|
+|[Suhara-Bana](/en/hanafuda/games/suhara-bana)|-|-|-|
 |[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
 |[Takame](/en/hanafuda/games/takame)|2+|Showdown|Japan|
 |[Tehonbiki](/en/hanafuda/games/tehonbiki)|2+|Banking|Japan|
