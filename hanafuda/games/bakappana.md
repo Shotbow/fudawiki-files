@@ -2,7 +2,7 @@
 title: Bakappana
 description: 馬鹿っ花 - "Foolish Flowers," a highly simplified hanafuda game
 published: true
-date: 2021-04-16T16:42:06.381Z
+date: 2021-04-30T02:34:34.942Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-20T22:31:01.682Z
@@ -55,7 +55,7 @@ On their turn, a player chooses a single card from their hand and plays it to th
 > If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
 {.is-warning}
 
-> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make detecting yaku easier.
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make assessing the game state easier.
 {.is-warning}
 
 After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
