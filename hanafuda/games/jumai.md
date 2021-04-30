@@ -2,13 +2,13 @@
 title: Jū Mai
 description: A 2-player bakappana variant with an altered deal and altered card values.
 published: true
-date: 2021-04-30T02:50:57.942Z
+date: 2021-04-30T02:53:41.158Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T02:50:57.942Z
 ---
 
-**Jū Mai** is a 2-player [Hana-Awase](/en/hanafuda/games/hana-awase)-style game with no yaku, making it more or less a variant form of [bakappana](/en/hanafuda/games/bakappana). It uses a different number of cards dealt to the field than most 2-player fishing games, and uses slightly different values for the different [types](/en/hanafuda/types) of cards from most games. The first player to reach a score 30 points higher than their opponent's is the winner.
+**Jū Mai** is a 2-player [Hana-Awase](/en/hanafuda/games/hana-awase)-style game with no yaku, making it more or less a variant form of [bakappana](/en/hanafuda/games/bakappana). It uses a different number of cards dealt to the field than most 2-player fishing games, and uses slightly different values for the different [types](/en/hanafuda/types) of cards from most games. The winner is the first player to reach a cumulative score at least 30 points higher than their opponent's at the end of a round.
 
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. Any house rules should also be established to keep gameplay smooth and fair.
@@ -18,6 +18,8 @@ No method is stipulated for choosing the dealer. A hanafuda-specific method invo
 In subsequent rounds, the dealer position may alternate between players.
 ## Distributing the Cards
 The dealer shuffles the deck and passes out **10 cards face-down to each player**, which will become their hands, and **10 cards face-up on the field**. The remainder of the deck is placed face-down next to the field, and will act as a draw pile for the round.
+## Misdeals
+If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 # Gameplay
 In each round, **the dealer is the first to play**, with players taking alternating turns. General gameplay is identical to that of [Bakappana](/en/hanafuda/games/bakappana)
 ## Turns
@@ -37,7 +39,9 @@ After both cards have been played - one from the player's hand, and one from the
 ## End of Round and Scoring
 The round ends when both players have fully exhausted all cards in their hands; at this point, every card in the deck should have been captured by one player or the other.
 
-**Note that the draw pile will run out before players have played their last card**; on each player's final turn, they only play the card from their hand since the deck has already been emptied.
+> **Note that the draw pile will run out before players have played their last card**; on each player's final turn, they only play the card from their hand since the deck has already been emptied.
+{.is-warning}
+
 
 Each player then calculates their socres according to the following chart.
 
