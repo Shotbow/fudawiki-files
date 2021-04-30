@@ -2,7 +2,7 @@
 title: Jū Mai
 description: A 2-player bakappana variant with an altered deal and altered card values.
 published: true
-date: 2021-04-30T02:53:41.158Z
+date: 2021-04-30T02:54:05.178Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T02:50:57.942Z
@@ -21,7 +21,7 @@ The dealer shuffles the deck and passes out **10 cards face-down to each player*
 ## Misdeals
 If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
 # Gameplay
-In each round, **the dealer is the first to play**, with players taking alternating turns. General gameplay is identical to that of [Bakappana](/en/hanafuda/games/bakappana)
+In each round, **the dealer is the first to play**, with players taking alternating turns. General gameplay is identical to that of [Bakappana](/en/hanafuda/games/bakappana), though scoring differs.
 ## Turns
 On their turn, a player chooses a single card from their hand and plays it to the table.
 
