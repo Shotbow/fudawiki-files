@@ -2,7 +2,7 @@
 title: Tensho
 description: A 2-player hanafuda game using a stripped deck
 published: true
-date: 2021-04-18T23:05:31.753Z
+date: 2021-05-01T21:23:55.103Z
 tags: alternate suit order, fishing games, hanafuda games, stripped deck
 editor: markdown
 dateCreated: 2021-04-12T07:36:24.707Z
@@ -15,6 +15,8 @@ First, **prepare the deck by removing the three [![Icon for month 12](/hanafuda/
 ## Yaku Selection
 One unique characteristic of Tensho is that it has **two sets of yaku**, **only one of which is chosen** for use each round. This decision should be made **prior to the deal,** before either player has any information. If the players **cannot agree** on a set to use, the choice defaults to the **dealer's preference.**
 ## Distributing the Cards
+![tensho_distribution.gif](/hanafuda/tensho_distribution.gif =400x)
+
 The dealer shuffles the deck. There is a specific method of dealing the cards associated with this game:
 1. Place **3 cards** face down next to each other **on the field**.
 2. Deal **4 stacks of 3 cards each,** face down in the four corners around the field.
