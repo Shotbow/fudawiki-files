@@ -2,7 +2,7 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-05-17T23:12:24.272Z
+date: 2021-05-17T23:14:01.633Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
@@ -28,6 +28,7 @@ The remainder of the deck is placed face-down next to the field to form the draw
 > ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
 {.is-success}
 
+Note that there are no Lucky Hands - 手役  [てやく, *teyaku*] in Kyū-Rei Hana.
 # Gameplay
 
 In each round, **the dealer is the first to play**, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure of this game is typical to the genre.
