@@ -2,7 +2,7 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-05-06T15:55:10.491Z
+date: 2021-05-17T23:12:24.272Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
@@ -11,6 +11,46 @@ dateCreated: 2021-04-30T06:47:47.659Z
 **Kyū-Rei Hana** [九十花 or 九〇花 - きゅうれいはな, lit "Ninety Flowers"] is a [Hana-Awase](/en/hanafuda/games/hana-awase)-type game for 3 players (though more may play using [the same modifications as in hachi-hachi](/en/hanafuda/games/hachi-hachi#number-of-players)). It has no *teyaku*, only 4 *dekiyaku* (the same as used in [Bakabana](/en/hanafuda/games/bakabana), though by slightly different names), and a unique distribution of card values. It likely originated near Okayama, in the Sanyo region of Japan.
 # Setup
 Game setup involves choosing a dealer [親 - おや, oya], shuffling the deck, and distributing the initial cards. Like many hanafuda games, a decision must also be made as to how many rounds to play - 12 rounds is traditional, though 6 and 3 are options for shorter games. Any other house rules should also be established at this point in order to keep gameplay smooth and fair.
+## Choosing the Dealer
+No method is stipulated for choosing the initial dealer. A hanafuda-specific method involves each player drawing a card from the deck, and the player with the earliest month becomes the dealer. In the event of a tie, the highest-ranked card within the month is considered the earliest. If there is still a tie, then the players re-draw.
+
+**The winner of each round becomes the dealer for the next round.**
+
+## Dealing the Cards
+The player to the left of the dealer [尾季 - びき, *biki*] shuffles the deck, and the player to the right of the dealer [胴二 - どうに, *douni*] cuts. Then, starting with the player to their right and moving anti-clockwise (↺), the dealer deals 4 cards to each player in turn, followed by 3 card face-up to the table. They then give a further 3 cards to each player, and an additional 3 cards face-up to the table.
+
+**In total, 7 cards are dealt to each player, and 6 cards to the table face-up to form the field.**
+
+The remainder of the deck is placed face-down next to the field to form the draw pile.
+
+* If 4 cards of the same month are dealt to the table, then a misdeal is declared (since these 4 cards are impossible to capture). In this case, the cards are thrown in, shuffled again, and re-dealt.
+
+> ![6field7hand_3players_setup.png](/hanafuda/6field7hand_3players_setup.png =400x) 
+{.is-success}
+
+# Gameplay
+
+In each round, **the dealer is the first to play**, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure of this game is typical to the genre.
+
+## Turns
+On their turn, a player chooses a single card from their hand and plays it to the table.
+
+* **If it belongs to the same month as another card on the table**, then the cards *match*, and this matching pair is moved to the player's score pile.
+* **If the played card matches with two cards on the table**, then the player may choose which one they capture.
+* **If the played card matches *three* cards on the table**, then all three are captured along with the played card (this is to prevent cards from becoming 'stuck' on the table and unable to be captured). To help in recognising this case, three cards of the same month on the table are often collected into a small pile at the beginning of the round.
+* **If the played card does not match any card**, then it remains on the table, and may subsequently be captured by other played cards.
+
+> If a card is played that matches something on the table, then the player *must* capture, as described above. However, there is no obligation to play a card that matches something, even if the player has one in their hand; they may, if they wish, elect to play a card that matches nothing on the table.
+{.is-warning}
+
+> As is typical of hanafuda games, each player's score pile should **be kept face-up and laid out on the table**, so that its contents are fully visible to all players. Ideally, the cards should also be arranged by type (Brights, Animals, Ribbons, and Chaff) to make assessing the game state easier.
+{.is-warning}
+
+After a card has been played from their hand, the player takes the top card of the draw pile, turns it face-up, and immediately plays it to the table in the same fashion.
+
+After both cards have been played - one from the player's hand, and one from the draw pile - the turn ends, and the next player takes their turn.
+## End of Round and Scoring
+The round ends when all players run out of cards in their hand **and** when the draw pile is exhausted. At this point, each player should sum the values of their own captured cards and check for any yaku. A player's final score for the round is calculated as `(sum of one's card points) + (2 x sum of one's yaku points) - (sum of opponents' yaku points) - 90`. **Note that this calculation should result in the three players' scores adding together to zero each round.**
 # Card Values
 |Value|Cards|
 |:---:|:---:|
