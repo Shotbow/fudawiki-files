@@ -2,7 +2,7 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-05-18T04:08:07.842Z
+date: 2021-05-18T04:11:11.216Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
@@ -76,7 +76,7 @@ The round ends when all players run out of cards in their hand **and** when the 
 |0|All Chaff except ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)[Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff).
 Thus, there are 270 points in a complete deck. For this reason, each of the 3 player's scores is compared to 90 points, which is the average score that each player could be expected to make. This is most likely the source of this game's name.
 # Yaku
-A player may earn points for any and all of the following yaku whose cards they have captured.
+A player steals points from both opponents for any and all of the following yaku whose cards they have captured.
 |Value|Name|Composition|
 |:---:|:---:|:---|
 |30|**Big Three**<br>大三 [おおざん, *ōzan*]|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)|
