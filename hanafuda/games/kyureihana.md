@@ -2,7 +2,7 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-05-18T03:38:06.858Z
+date: 2021-05-18T04:08:07.842Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
@@ -36,7 +36,7 @@ Next, the number of [Bright](/en/hanafuda/types/brights) cards in the field is c
 |Name|Description|
 |:---:|:---|
 |Small Field|A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.|
-|Large Field|A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Flower Viewing Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), or [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) Brights are on the field. All point exchanges will be **doubled** for this round.|
+|Large Field|A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 2](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Moon](/en/hanafuda/suits/susuki-grass#full-moon), or [![Icon for month 10](/hanafuda/icons/monthicon_10.png =20x)Deer](/en/hanafuda/suits/maple#deer) cards are on the field. All point exchanges will be **doubled** for this round.|
 |Grand Field|A *grand field* [絶場 - ぜつば, *zetsuba*] occurs if either the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) is on the field. All point exchanges will be **quadrupled** for this round.
 
 ### Multiple Brights Case
@@ -66,7 +66,7 @@ After a card has been played from their hand, the player takes the top card of t
 
 After both cards have been played - one from the player's hand, and one from the draw pile - the turn ends, and the next player takes their turn.
 ## End of Round and Scoring
-The round ends when all players run out of cards in their hand **and** when the draw pile is exhausted. At this point, each player should sum the values of their own captured cards and check for any yaku. A player's final score for the round is calculated as `(sum of one's card points) + (2 x sum of one's yaku points) - (sum of opponents' yaku points) - 90`. **Note that this calculation should result in the three players' scores adding together to zero each round.**
+The round ends when all players run out of cards in their hand **and** when the draw pile is exhausted. At this point, each player should sum the values of their own captured cards and check for any yaku. A player's final score for the round is calculated as `[(sum of one's card points) + (2 x sum of one's yaku points) - (sum of opponents' yaku points) - 90] x (current round's field multiplier)`. **Note that this calculation should result in the three players' scores adding together to zero each round.**
 # Card Values
 |Value|Cards|
 |:---:|:---:|
@@ -74,7 +74,7 @@ The round ends when all players run out of cards in their hand **and** when the 
 |10|[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Iris with Bridge](/sheldonchen-cards/50.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#eight-plank-bridge)[![Peony with Butterflies](/sheldonchen-cards/60.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#butterflies)[![Bush Clover with Boar](/sheldonchen-cards/70.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#boar)<br>[![Chrysanthemum with Sake Cup](/sheldonchen-cards/90.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#sake-cup)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)[![Willow with Swallow](/sheldonchen-cards/111.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#swallow)[![Paulownia with Yellow Bottom](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)
 |5|[![Pine With Poetry Ribbon](/sheldonchen-cards/11.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#poetry-ribbon)[![Plum Blossom with Poetry Ribbon](/sheldonchen-cards/21.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#poetry-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Wisteria with Ribbon](/sheldonchen-cards/41.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#plain-ribbon)[![Iris with Ribbon](/sheldonchen-cards/51.svg#hanafuda-card =50x)](/en/hanafuda/suits/iris#plain-ribbon)<br>[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)[![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Willow with Ribbon](/sheldonchen-cards/112.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#plain-ribbon)
 |0|All Chaff except ![monthicon_12.png](/hanafuda/icons/monthicon_12.png =20x)[Yellow Paulownia](/en/hanafuda/suits/paulownia#yellow-bottom-chaff).
-Thus, there are 270 points in a complete deck. For this reason, **each of the 3 player's scores is compared to 90 points**, which is the average score that each player could be expected to make. This is most likely the source of this game's name.
+Thus, there are 270 points in a complete deck. For this reason, each of the 3 player's scores is compared to 90 points, which is the average score that each player could be expected to make. This is most likely the source of this game's name.
 # Yaku
 A player may earn points for any and all of the following yaku whose cards they have captured.
 |Value|Name|Composition|
