@@ -2,7 +2,7 @@
 title: Kyū-Rei Hana
 description: A Hana-Awase variant treating the Bush Warbler and Deer as Brights.
 published: true
-date: 2021-05-17T23:14:01.633Z
+date: 2021-05-18T03:38:06.858Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2021-04-30T06:47:47.659Z
@@ -29,6 +29,21 @@ The remainder of the deck is placed face-down next to the field to form the draw
 {.is-success}
 
 Note that there are no Lucky Hands - 手役  [てやく, *teyaku*] in Kyū-Rei Hana.
+
+## Field Multiplier
+Next, the number of [Bright](/en/hanafuda/types/brights) cards in the field is counted to determine the *field multiplier*. This multiplier will apply to *all* exchanges of points between players, for the entire duration of the round.
+
+|Name|Description|
+|:---:|:---|
+|Small Field|A *small field* [小場 - こば, *koba*] occurs if there are no Brights. Point exchanges are unaffected.|
+|Large Field|A *large field* [大場 - おおば, *ooba*] occurs if any of the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun), [![Icon for month 3](/hanafuda/icons/monthicon_3.png =20x)Flower Viewing Curtain](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain), or [![Icon for month 8](/hanafuda/icons/monthicon_8.png =20x)Full Moon](/en/hanafuda/suits/susuki-grass#full-moon) Brights are on the field. All point exchanges will be **doubled** for this round.|
+|Grand Field|A *grand field* [絶場 - ぜつば, *zetsuba*] occurs if either the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man) or [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) is on the field. All point exchanges will be **quadrupled** for this round.
+
+### Multiple Brights Case
+If more than one Bright card is on the field, the most typical resolution is to **apply the largest multiplier** to the current round, and carry over the other multipliers into subsequent rounds, with the quadruples coming first.
+*For example, if the [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Rain Man](/en/hanafuda/suits/willow#rain-man), the [![Icon for month 12](/hanafuda/icons/monthicon_12.png =20x)Phoenix](/en/hanafuda/suits/paulownia#phoenix) and the [![Icon for month 1](/hanafuda/icons/monthicon_1.png =20x)Crane with Sun](/en/hanafuda/suits/pine#crane-with-sun) are all on the field, then the current round will be a grand field, the next round will also be a grand field, and the round after that will be a large field.*
+If the current round already has a multiplier that was carried over from some previous round, then any field multipliers that turn up are carried over into future rounds in the same way.
+
 # Gameplay
 
 In each round, **the dealer is the first to play**, and turn to play passes anti-clockwise around the table. The core gameplay and turn structure of this game is typical to the genre.
