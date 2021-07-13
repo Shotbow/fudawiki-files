@@ -2,7 +2,7 @@
 title: Hana-Awase
 description: The standard hanafuda game, with many variants
 published: true
-date: 2021-04-22T18:15:54.737Z
+date: 2021-07-13T02:07:20.959Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-18T20:27:12.103Z
@@ -103,7 +103,7 @@ This system works strightforwardly for any number of players. In particular, the
 After the desired number of rounds have been played, the player with the highest total score at the end of all the rounds is the winner of the game.
 
 # Yaku
-As with all hanafuda games, there is variation in the set of allowed yaku. However, while point allotments differ, the modern sources used for this page are remarkably consistent in the following list. Many of these are classic yaku, found in several other games. Nevetheless, it is likely that older games of the *Hana-Awase* name varied greatly in their yaku.
+As with all hanafuda games, there is variation in the set of allowed yaku. However, while point allotments differ, the modern sources used for this page are remarkably consistent in the following list. Many of these are classic yaku, found in several other games. Nevertheless, it is likely that older games of the *Hana-Awase* name varied greatly in their yaku.
 
 Points from multiple yaku stack, with the following exceptions:
 - All the *Bright Yaku* are mutually exclusive.
