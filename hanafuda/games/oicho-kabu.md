@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:59:48.521Z
+date: 2021-08-16T18:08:11.949Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -122,16 +122,16 @@ In casual games, the dealer may either remain fixed, or lose their role whenever
 # Terminology
 Games played with kabufuda traditionally use special names for the numbers 1 through 10. While hardly essential, their use can add a little bit of extra flavour to the game. They are:
 
-- One: *pin*
-- Two: *nizo*
-- Three: *sanzun* or *santa*
-- Four: *yotsuya*
-- Five: *gosu*
-- Six: *roppo*
-- Seven: *nanaken* or *naki*
-- Eight: *oicho*
-- Nine: *kabu*
-- Ten: *buta*
+- One: *pin* [ぴん]
+- Two: *nizo* [にぞ]
+- Three: *sanzun* [さんずん] or *santa* [さんた]
+- Four: *yotsuya* [よつや]
+- Five: *gosu* [ごす]
+- Six: *roppo* [ろっぽ]
+- Seven: *nanaken* [ななけん] or *naki* [なき]
+- Eight: *oicho* [おいちょ]
+- Nine: *kabu* [かぶ]
+- Ten: *buta* [ぶた]
 
 # Bibliography
 *(todo: pretty this up)*
