@@ -1,8 +1,8 @@
 ---
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
-published: false
-date: 2021-08-16T18:23:45.995Z
+published: true
+date: 2021-08-16T18:24:34.684Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
