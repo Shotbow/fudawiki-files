@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:51:29.227Z
+date: 2021-08-16T16:59:02.596Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -74,6 +74,13 @@ Uniquely, the dealer may choose to draw this card from the top of the deck, the 
 The dealer now deals 4 cards face-down to the table, one below each of the cards in the first field. This row is the *second field*, and each card forms a hand with the one above it; that is to say, each column of cards on the table is a hand.
 
 Each player then looks at the face-down card for each of the hands that they have bet on, again without showing it to anyone else. Players *cannot* look at cards for hands they have *not* bet on.
+
+At this point, each player should know the total value of the hands they've placed bets on, and how close each one is to 9.
+
+## Third Cards
+Moving anti-clockwise, the dealer asks each player in turn if they would like a third card for any of their hands. If they say yes, then the dealer places a third card face-up below the hand in question, forming a *third field* of sorts. 
+
+If a player has bet on multiple hands, they may make this decision for each of them independently. If multiple players have bet on the same hand, then whichever of them is earliest in the turn order will get to make the decision.
 
 
 
