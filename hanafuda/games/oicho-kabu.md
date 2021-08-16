@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:35:49.142Z
+date: 2021-08-16T17:37:36.784Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -107,6 +107,13 @@ Three special rules are in effect here:
 
 Note that *dealer 4 and 1* or *dealer 9 and 1* take precedence over *three of a kind*, should they both occur together. The latter rules are also order-sensitive- the *first* card must be a 9 or 4, and the *second* card must be a 1. They do not apply if the order is reversed!
 
+
+# Bibliography
+*(todo: pretty this up)*
+
+- [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
+- [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
+- https://livecasino.io/en/blog/baccarat/how-to-play-traditional-japanese-baccarat-oicho-kabu
 
 
 gfhgfh
