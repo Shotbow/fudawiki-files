@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-08-16T18:32:13.465Z
+date: 2021-08-16T18:38:05.151Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -26,7 +26,7 @@ These games are relatively widely known, and quite frequently show up in rule bo
 |[Hana-Awase](/en/hanafuda/games/hana-awase) ("Matching Flowers")|2-4|Fishing|Japan|
 |[Koi-Koi](/en/hanafuda/games/koi-koi)|usually 2|Fishing|Disputed|
 |[Mushi](/en/hanafuda/games/mushi), a.k.a. Ochi|2 per round, max 4 per game|Fishing|Osaka, Japan|
-|[Oicho-Kabu](/en/hanafuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
+|[Oicho-Kabu](/en/kabufuda/games/oicho-kabu), a.k.a. Kaho or Katori|2-10|Banking|Japan|
 |[Roppyakken](/en/hanafuda/games/roppyakken), a.k.a. Roppyakkuken or Roppyakuten|2-3|Fishing|Japan|
 |[Sakura](/en/hanafuda/games/sakura), a.k.a. Higo-Bana or Hawaiian Hanafuda|2-7|Fishing|Higo Province, Japan|
 ## Other Traditional Games
