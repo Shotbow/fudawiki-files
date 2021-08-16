@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:05:23.047Z
+date: 2021-08-16T16:11:03.676Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -39,7 +39,9 @@ In the event of a tie, the players in question should draw a second card and com
 {.is-info}
 
 # Gameplay
-Over the course of the round, each player attempts to obtain a hand whose total value is as close as possible to 9. Totals that go over 9 'wrap around' by discarding the tens digit. So 10 is equivalent to 0, 11 is equivalent to 1, and so on, much like Baccarat. Similar to other banking games, the players are not competing against each other, but are only aiming to beat the dealer.
+Over the course of the round, each player attempts to form a hand whose total value is as close as possible to 9. Totals that go over 9 'wrap around' by discarding the tens digit. So 10 is equivalent to 0, 11 is equivalent to 1, and so on, much like Baccarat. Similar to other banking games, the players are not competing against each other, but are only aiming to beat the dealer.
+
+Only the dealer has a 'hand' in the traditional sense- the players hold no cards of their own. Instead, four hands are dealt to the table in a step-by-step process, and the players bet on the hands they consider most likely to win against the dealer's.
 
 
 
