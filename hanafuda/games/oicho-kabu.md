@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:53:23.537Z
+date: 2021-08-16T17:58:09.784Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -119,6 +119,19 @@ No particular setup is given for playing additional rounds. When playing at a ca
 
 In casual games, the dealer may either remain fixed, or lose their role whenever their hand loses against every hand on the table. In this case, the player to their right becomes the next dealer.
 
+# Terminology
+Games played with kabufuda traditionally use special names for the numbers 1 through 10. While hardly essential, their use can add a little bit of extra flavour to the game. They are:
+
+- One: 
+- Two:
+- Three:
+- Four:
+- Five:
+- Six:
+- Seven:
+- Eight:
+- Nine:
+- Ten:
 
 # Bibliography
 *(todo: pretty this up)*
@@ -126,6 +139,7 @@ In casual games, the dealer may either remain fixed, or lose their role whenever
 - [*Hanafuda Games*](http://www.indianwolfstudios.com/hanafuda-games-rulebook.html), from IndianWolf Studios
 - [*Hanafuda - The Flower Card Game*](https://www.amazon.com/Hanafuda-Flower-Card-Japan-Publications/dp/087040430X), compiled by Japan Publications, 1970
 - https://livecasino.io/en/blog/baccarat/how-to-play-traditional-japanese-baccarat-oicho-kabu
+- https://fr.wikipedia.org/wiki/Oicho-Kabu
 
 
 gfhgfh
