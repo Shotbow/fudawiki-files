@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T15:33:30.462Z
+date: 2021-08-16T15:41:24.727Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -24,3 +24,21 @@ Alternatively, one can take an international 52-card deck and remove all Kings, 
 
 In addition to the deck, a collection of chips to represent points will be highly useful.
 
+## Ground Rules
+Before play begins, the group should agree on the following:
+
+- What should happen in the event of a tie between a player and the dealer. There are two options: Either the result is a draw and the player's bet is returned, or the dealer wins.
+- The maximum total bet. This is a limit on the amount of points that can be wagered per round- the sum of all bets from all players cannot exceed it, and once it is reached, no further bets can be placed.
+
+## Choosing Dealer and Seating
+
+
+
+
+
+
+
+
+
+
+gfhgfh
