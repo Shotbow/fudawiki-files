@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T18:22:22.565Z
+date: 2021-08-16T18:23:45.995Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -144,5 +144,3 @@ Games played with kabufuda traditionally use special names for the numbers 1 thr
 - https://livecasino.io/en/blog/baccarat/how-to-play-traditional-japanese-baccarat-oicho-kabu
 - https://fr.wikipedia.org/wiki/Oicho-Kabu
 
-
-gfhgfh
