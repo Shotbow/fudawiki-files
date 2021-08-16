@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:36:13.682Z
+date: 2021-08-16T16:37:15.944Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -22,7 +22,7 @@ Since kabufuda decks are somewhat uncommon, they are often emulated with a hanaf
 
 Alternatively, one can take an international 52-card deck and remove all Kings, Queens, and Jacks, leaving only the pip cards. Ignoring suits (and counting the Aces as 1), the result is exactly equivalent to a kabufuda deck.
 
-In addition to the deck, a collection of chips to represent points will be highly useful.
+In addition to the deck, a collection of chips to represent points will be highly useful. Using different colours of chips for each player will help with tracking bets.
 
 ## Ground Rules
 Before play begins, the group should agree on the following:
