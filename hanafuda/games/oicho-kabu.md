@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:30:11.289Z
+date: 2021-08-16T16:33:03.134Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -58,7 +58,9 @@ Then, starting from the right of the dealer and working anti-clockwise, the play
 
 Note that the total amounts of points bet by all players **cannot exceed the agreed-upon maximum total bet**. Players cannot make bets that would push the total over this limit, and if it is reached, no further bets may be made.
 
-> Note that there are *always* 4 cards, regardless of the number of players!
+This means that, for example, if the total bet was 50, then the first player could immediately bet 50 points on their turn and prevent any of the other players from betting. This is, however, considered exceedingly rude.
+
+> Note that the first field is *always* 4 cards, regardless of the number of players!
 {.is-info}
 
 
