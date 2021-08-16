@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T18:08:11.949Z
+date: 2021-08-16T18:14:27.380Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -108,9 +108,9 @@ Finally, all cards are revealed. The second field cards are turned face-up, and 
 This comparison is performed independently for each of the four hands- it is entirely possible for the dealer to win against some hands while losing against others.
 
 Three special rules are in effect here:
-- **Three of a Kind:** If the cards in the first, second, and third field are all equal in value, then this hand automatically wins against the dealer. Any players who bet on this hand receive double their bet in addition to having the original bet returned, for a payout of 3:1.
-- **Dealer 4 and 1:** If the dealer's first card is a 4 and their second is a 1, then they automatically win against *all* the hands on the table.
-- **Dealer 9 and 1:** If the dealer's first card is a 9 and their second is a 1, then they likewise automatically win against all hands.
+- **Three of a Kind** [嵐 - あらし, *arashi*]: If the cards in the first, second, and third field are all equal in value, then this hand automatically wins against the dealer. Any players who bet on this hand receive double their bet in addition to having the original bet returned, for a payout of 3:1.
+- **Dealer 4 and 1** [四一 - しっぴん, *shippin*]: If the dealer's first card is a 4 and their second is a 1, then they automatically win against *all* the hands on the table.
+- **Dealer 9 and 1** [九一 - くっぴん, *kuppin*]: If the dealer's first card is a 9 and their second is a 1, then they likewise automatically win against all hands.
 
 Note that *dealer 4 and 1* or *dealer 9 and 1* take precedence over *three of a kind*, should they both occur together. The latter rules are also order-sensitive- the *first* card must be a 9 or 4, and the *second* card must be a 1. They do not apply if the order is reversed!
 
@@ -132,6 +132,8 @@ Games played with kabufuda traditionally use special names for the numbers 1 thr
 - Eight: *oicho* [おいちょ]
 - Nine: *kabu* [かぶ]
 - Ten: *buta* [ぶた]
+
+
 
 # Bibliography
 *(todo: pretty this up)*
