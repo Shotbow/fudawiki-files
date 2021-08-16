@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:11:03.676Z
+date: 2021-08-16T16:20:04.810Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -43,7 +43,13 @@ Over the course of the round, each player attempts to form a hand whose total va
 
 Only the dealer has a 'hand' in the traditional sense- the players hold no cards of their own. Instead, four hands are dealt to the table in a step-by-step process, and the players bet on the hands they consider most likely to win against the dealer's.
 
+## Dead Cards
+To begin, the dealer deals one card to each player, face-down. Each player looks at their card, without showing it to anyone else, then sets it aside.
 
+These cards are 'dead' and take no further part in the play. Their purpose is to give each player a little bit of insight into the cards remaining in the deck, and what the chances are of drawing each one.
+
+> Sources differ as to whether the dealer gives themselves a dead card in this manner as well. Be sure to agree on this before playing!
+{.is-info}
 
 
 
