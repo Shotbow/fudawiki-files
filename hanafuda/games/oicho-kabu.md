@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:06:15.185Z
+date: 2021-08-16T17:08:27.136Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -88,6 +88,8 @@ There are two rules that affect this decision:
 
 ## Dealer's Second Card
 The dealer now adds a second face-down card to their hand. Once again, they may choose to draw this card from the top of the deck, the bottom of the deck, or to take the card 4th from the top of the deck.
+
+The dealer then looks at their hand and decides if they would like a third card. If so, they draw one.
 
 
 
