@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:47:13.138Z
+date: 2021-08-16T17:48:34.647Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -32,6 +32,8 @@ Before play begins, the group should agree on the following:
 
 ## Choosing the Dealer and Seating
 To begin, each player draws a card from the deck. The player with the lowest number becomes the dealer, and the remaining players seat themselves in order anti-clockwise around the table- the second-lowest number sits to the right of the dealer, third-lowest to the right of them, and so on. Since play begins with the dealer and progresses anti-clockwise, there is a distinct advantage to sitting close to the dealer's right.
+
+If the dealer represents an establishment- say, when playing at a casino or gambling parlour- then their role will obviously be fixed, though the other players may still use this process to determine their seating order.
 
 In the event of a tie, the players in question should draw a second card and compare again.
 
