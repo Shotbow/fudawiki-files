@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:28:35.448Z
+date: 2021-08-16T17:30:06.995Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -105,7 +105,7 @@ Three special rules are in effect here:
 - **Dealer 4 and 1:** If the dealer's first card is a 4 and their second is a 1, then they automatically win against *all* the hands on the table.
 - **Dealer 9 and 1:** If the dealer's first card is a 9 and their second is a 1, then they likewise automatically win against all hands.
 
-Note that *dealer 4 and 1* or *dealer 9 and 1* take precedence over *three of a kind*, should they both occur together. 
+Note that *dealer 4 and 1* or *dealer 9 and 1* take precedence over *three of a kind*, should they both occur together. The latter rules are also order-sensitive- the *first* card must be a 9 or 4, and the *second* card must be a 1. They do not apply if the *opposite* is the case!
 
 
 
