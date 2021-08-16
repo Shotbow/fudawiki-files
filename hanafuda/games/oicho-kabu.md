@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:37:15.944Z
+date: 2021-08-16T16:39:55.989Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -56,7 +56,7 @@ Now, 4 cards are dealt face-up to the table in a row. This is known as the *firs
 
 Then, starting from the right of the dealer and working anti-clockwise, the players take turns to bet on these potential hands. Each player may bet on as many of the four cards as they choose, and may bet different amounts on each. They signal their bets by placing the appropriate number of chips on top of each card.
 
-It is entirely possible for multiple players to bet on the same card- players are free to bet on cards that already have bets on them.
+It is entirely possible for multiple players to bet on the same card- players are free to bet on cards that already have bets on them. (Different bets on the same card should be kept separate, however- different colours of chips will be useful here.)
 
 Note that the total amounts of points bet by all players **cannot exceed the agreed-upon maximum total bet**. Players cannot make bets that would push the total over this limit, and if it is reached, no further bets may be made.
 
