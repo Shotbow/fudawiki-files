@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:20:04.810Z
+date: 2021-08-16T16:30:11.289Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -50,6 +50,17 @@ These cards are 'dead' and take no further part in the play. Their purpose is to
 
 > Sources differ as to whether the dealer gives themselves a dead card in this manner as well. Be sure to agree on this before playing!
 {.is-info}
+
+## The First Field and Betting
+Now, 4 cards are dealt face-up to the table in a row. This is known as the *first field*- each of these four cards will form the basis of a hand.
+
+Then, starting from the right of the dealer and working anti-clockwise, the players take turns to bet on the field cards. Each player may bet on as many of the four cards as they choose, and may bet different amounts on each. They signal their bets by placing the appropriate number of chips on top of each card.
+
+Note that the total amounts of points bet by all players **cannot exceed the agreed-upon maximum total bet**. Players cannot make bets that would push the total over this limit, and if it is reached, no further bets may be made.
+
+> Note that there are *always* 4 cards, regardless of the number of players!
+{.is-info}
+
 
 
 
