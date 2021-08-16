@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T18:14:27.380Z
+date: 2021-08-16T18:22:22.565Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -119,7 +119,7 @@ No particular setup is given for playing additional rounds. When playing at a ca
 
 In casual games, the dealer may either remain fixed, or lose their role whenever their hand loses against every hand on the table. In this case, the player to their right becomes the next dealer.
 
-# Terminology
+# Terminology and Trivia
 Games played with kabufuda traditionally use special names for the numbers 1 through 10. While hardly essential, their use can add a little bit of extra flavour to the game. They are:
 
 - One: *pin* [ぴん]
@@ -133,7 +133,8 @@ Games played with kabufuda traditionally use special names for the numbers 1 thr
 - Nine: *kabu* [かぶ]
 - Ten: *buta* [ぶた]
 
-
+> The worst possible hand in Oicho-Kabu is considered to be 8, 9, and 3. This hands sums to 20, which is equivalent to 0 given the wrapping around of scores. With the appropriate choice of readings for the kanji 八九三, the sequence 8-9-3 can be rendered as 'ya-ku-sa', or *yakuza* [ヤクザ]. This hand, as a symbol of bad luck, is what leant its name to the Japanese organised crime groups.
+{.is-info}
 
 # Bibliography
 *(todo: pretty this up)*
