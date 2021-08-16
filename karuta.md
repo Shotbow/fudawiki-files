@@ -2,7 +2,7 @@
 title: Karuta
 description: A general term for Japanese playing cards.
 published: true
-date: 2021-05-18T04:17:11.393Z
+date: 2021-08-16T18:46:42.236Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-28T05:17:52.795Z
