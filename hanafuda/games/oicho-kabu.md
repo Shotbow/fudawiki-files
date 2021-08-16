@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:59:02.596Z
+date: 2021-08-16T17:04:01.038Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -81,6 +81,10 @@ At this point, each player should know the total value of the hands they've plac
 Moving anti-clockwise, the dealer asks each player in turn if they would like a third card for any of their hands. If they say yes, then the dealer places a third card face-up below the hand in question, forming a *third field* of sorts. 
 
 If a player has bet on multiple hands, they may make this decision for each of them independently. If multiple players have bet on the same hand, then whichever of them is earliest in the turn order will get to make the decision.
+
+There are two rules that affect this decision:
+- If a hand's total value is 3 or lower, then a third card *must* be taken.
+- If a hand's total value is 7 or higher, then a third card *cannot* be taken.
 
 
 
