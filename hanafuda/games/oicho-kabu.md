@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:18:10.167Z
+date: 2021-08-16T17:27:31.639Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -99,6 +99,11 @@ Finally, all cards are revealed. The second field cards are turned face-up, and 
 - If the dealer's hand and a table hand are **equal** in value, then this is a draw, and whichever rule the players agreed upon beforehand is applied. Either the dealer wins, or all bets on that hand are annulled and returned to the players.
 
 This comparison is performed independently for each of the four hands- it is entirely possible for the dealer to win against some hands while losing against others.
+
+Three special rules are in effect here:
+- **Three of a Kind:** If the cards in the first, second, and third field are all equal in value, then this hand automatically wins against the dealer. Any players who bet on this hand receive double their bet in addition to having the original bet returned, for a payout of 3:1.
+- **Dealer 4 and 1:** If the dealer's first card is a 4 and their second is a 1, then they automatically win against *all* the hands on the table.
+- **Dealer 9 and 1:** If the dealer's first card is a 9 and their second is a 1, then they likewise automatically win against all hands.
 
 
 
