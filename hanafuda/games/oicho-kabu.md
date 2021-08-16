@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T16:44:36.277Z
+date: 2021-08-16T16:51:29.227Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -68,7 +68,12 @@ This means that, for example, if the total bet was 50, then the first player cou
 ## Dealer's First Card
 At this point, the dealer draws a card from the deck and places it face-down in front of them, without looking at it. This card will be the first in the dealer's hand.
 
-Uniquely, the dealer may choose to draw this card from the top of the deck, the bottom of the deck, or to take the card 4th from the top.
+Uniquely, the dealer may choose to draw this card from the top of the deck, the bottom of the deck, or to take the card 4th from the top of the deck.
+
+## The Second Field
+The dealer now deals 4 cards face-down to the table, one below each of the cards in the first field. This row is the *second field*, and each card forms a hand with the one above it; that is to say, each column of cards on the table is a hand.
+
+Each player then looks at the face-down card for each of the hands that they have bet on, again without showing it to anyone else. Players *cannot* look at cards for hands they have *not* bet on.
 
 
 
