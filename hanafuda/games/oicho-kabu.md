@@ -2,7 +2,7 @@
 title: Oicho-Kabu
 description: A classic banking game, similar to Baccarat
 published: false
-date: 2021-08-16T17:09:03.892Z
+date: 2021-08-16T17:16:55.102Z
 tags: banking games, hanafuda games, kabufuda games
 editor: markdown
 dateCreated: 2021-08-16T14:20:41.660Z
@@ -90,6 +90,15 @@ There are two rules that affect this decision:
 The dealer now adds a second face-down card to their hand. Once again, they may choose to draw this card from the top of the deck, the bottom of the deck, or to take the card 4th from the top of the deck.
 
 The dealer then looks at their hand and decides if they would like a third card. If so, they draw one, again keeping it hidden from the players.
+
+## The Showdown
+Finally, all cards are revealed. The second field cards are turned face-up, and the dealer lays out their hand for all to see. The dealer's hand is then compared with each of the four hands on the table.
+
+- If the dealer's hand totals **greater** than a table hand, then the dealer wins; they take for themselves any bets placed on that hand by the players.
+- If the dealer's hand totals **less** the a table hand, then the players win. Any player who bet on that hand wins an amount equal to their bet, in addition to having their bet returned to them, for a total payout of 2:1.
+- If the dealer's hand and a table hand are **equal** in value, then this is a draw, and whichever rule the players agreed upon beforehand is applied. Either the dealer wins, or all bets on that hand are annulled and returned to the players.
+
+
 
 
 
