@@ -2,7 +2,7 @@
 title: Go-Stop
 description: The popular Korean hanafuda game, also known as Godori
 published: true
-date: 2021-04-22T23:40:42.636Z
+date: 2021-09-13T00:30:42.238Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2020-09-17T05:08:19.748Z
@@ -153,7 +153,7 @@ The opponents may choose which Chaff card to give. If they possess no regular Ch
 
 ### Stealing Points
 1. If the player creates a triplet (stack of 3) on their very first turn, they steal 3 points from each opponent.
-2. If any player, of the course of the round, creates three triplets, then they *immediately* win the round and steal 5 points from each opponent.
+2. If any player, over the course of the round, creates three triplets, then they *immediately* win the round and steal 5 points from each opponent.
 
 # End of Round and Scoring
 The round ends when either a player calls *stop*, or when all players run out of cards in their hands.
