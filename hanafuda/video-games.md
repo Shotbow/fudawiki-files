@@ -2,13 +2,13 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-14T20:37:18.294Z
+date: 2021-09-14T20:42:24.824Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
 ---
 
-<p><a href="/en/hanafuda/video-games/nintendo-switch/51-worldwide-games">51 Worldwide Games</a></p>
+The following is a list of known hanafuda video games, arranged by the platform on which they are played. Use the sidebar for easier navigation to the desired console.
 
 ## 3DSWare
 * [Maido Hanafuda (<span lang='ja'>毎度 花札</span>)](/en/hanafuda/video-games/3dsware/maido-hanafuda)
