@@ -2,13 +2,12 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-13T22:58:43.877Z
+date: 2021-09-14T20:37:18.294Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
 ---
 
-<p><a href="/en/hanafuda/video-games/nintendo-ds/1500DS-spirits-vol-5-hanafuda">1500DS Spirits Vol. 5: Hanafuda</a></p>
 <p><a href="/en/hanafuda/video-games/nintendo-switch/51-worldwide-games">51 Worldwide Games</a></p>
 
 ## 3DSWare
