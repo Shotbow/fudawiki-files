@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-16T15:06:18.496Z
+date: 2021-09-16T15:23:59.727Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -57,6 +57,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Super Hana Paradise (<span lang='ja'>スーパー華パラダイス</span>)](/en/hanafuda/video-games/arcade/super-hana-paradise)
 * [Yumefuda [BET] (<span lang='ja'>夢札</span>)](/en/hanafuda/video-games/arcade/yumefuda-bet)
 ## DC
+* [Bakumatsu Rouman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/ng/the-last-blade-2)
 * [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda)
 * [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen)
 * [Sakura Taisen Online (<span lang='ja'>サクラ大戦オンライン</span>)](/en/hanafuda/video-games/dc/sakura-taisen-online)
@@ -148,8 +149,6 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda Game Koi-Koi (<span lang='ja'>花札・げーむ・こいこい</span>)](/en/hanafuda/video-games/mz-80/hanafuda-game-koi-koi)
 ## N64
 * [64 Hanafuda: Tenshi no Yakusoku (<span lang='ja'>64花札 天使の約束</span>)](/en/hanafuda/video-games/n64/64-hanafuda-tenshi-no-yakusoku)
-## NG
-* [The Last Blade 2 (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ～月に咲く華、散りゆく花～</span>)](/en/hanafuda/video-games/ng/the-last-blade-2)
 ## NGPC
 * [Koi-Koi Mahjong (<span lang='ja'>コイコイ麻雀</span>)](/en/hanafuda/video-games/ngpc/koi-koi-mahjong)
 * [Soreyuke!! Hanafuda Doujou (<span lang='ja'>それいけ！！花札道場</span>)](/en/hanafuda/video-games/ngpc/soreyuke-hanafuda-doujou)
