@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-14T20:42:24.824Z
+date: 2021-09-16T14:11:42.468Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -30,11 +30,11 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Gionbana (<span lang='ja'>祇园花</span>)](/en/hanafuda/video-games/arcade/gionbana)
 * [Hana Awase (<span lang='ja'>花合わせ</span>)](/en/hanafuda/video-games/arcade/hana-awase)
 * [Hana Jinji (<span lang='ja'></span>)](/en/hanafuda/video-games/arcade/hana-jinji)
-* [Hana Kagerou [BET] (<span lang='ja'></span>)](/en/hanafuda/video-games/arcade/hana-kagerou-bet)
+* [Hana Kagerou [BET] (<span lang='ja'>花札: 華陽炎</span>)](/en/hanafuda/video-games/arcade/hana-kagerou-bet)
 * [Hana Kanzashi (<span lang='ja'>花かんざし</span>)](/en/hanafuda/video-games/arcade/hana-kanzashi)
 * [Hana no Mai (<span lang='ja'>華の舞</span>)](/en/hanafuda/video-games/arcade/hana-no-mai)
 * [Hana Oriduru (<span lang='ja'>華折鶴</span>)](/en/hanafuda/video-games/arcade/hana-oriduru)
-* [Hana to Ojisan [BET] (<span lang='ja'></span>)](/en/hanafuda/video-games/arcade/hana-to-ojisan-bet)
+* [Hana to Ojisan [BET] (<span lang='ja'>花とおじさん</span>)](/en/hanafuda/video-games/arcade/hana-to-ojisan-bet)
 * [Hana wo Yaraneba (<span lang='ja'>華をやらねば</span>)](/en/hanafuda/video-games/arcade/hana-wo-yaraneba)
 * [Hana Yayoi (<span lang='ja'>華弥生</span>)](/en/hanafuda/video-games/arcade/hana-yayoi)
 * [Hanafuda Hana Ginga [BET] (<span lang='ja'>華銀河</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-ginga-bet)
@@ -250,14 +250,14 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Sakura Taisen (<span lang='ja'>サクラ大戦</span>)](/en/hanafuda/video-games/sat/sakura-taisen)
 * [Sakura Taisen Teigeki Graph (<span lang='ja'>サクラ大戦 帝撃グラフ</span>)](/en/hanafuda/video-games/sat/sakura-taisen-teigeki-graph)
 ## SNES
-* [Gionbana (<span lang='ja'></span>)](/en/hanafuda/video-games/snes/gionbana)
+* [Gionbana (<span lang='ja'>祇園花</span>)](/en/hanafuda/video-games/snes/gionbana)
 * [Hanafuda Ou (<span lang='ja'>花札王</span>)](/en/hanafuda/video-games/snes/hanafuda-ou)
 * [Honke Hanafuda (<span lang='ja'>本家花札</span>)](/en/hanafuda/video-games/snes/honke-hanafuda)
 * [Super Hanafuda (<span lang='ja'>SUPER花札</span>)](/en/hanafuda/video-games/snes/super-hanafuda)
 * [Super Hanafuda 2 (<span lang='ja'>SUPER 花札 弐</span>)](/en/hanafuda/video-games/snes/super-hanafuda-2)
 * [Table Game Dai-Shuugo!! Shogi Mahjong Hanafuda (<span lang='ja'>テーブルゲーム大集合！！ 将棋・麻雀・花札・トゥーサイド</span>)](/en/hanafuda/video-games/snes/table-game-dai-shuugo-shogi-mahjong-hanafuda)
 ## STEAM
-* [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'></span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi)
+* [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi)
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan)
 ## SWITCH
 * [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games)
