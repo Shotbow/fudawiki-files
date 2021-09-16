@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-16T14:11:42.468Z
+date: 2021-09-16T14:30:24.065Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -29,8 +29,8 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Danchi de Hanafuda: Okusan Yoneya Desu yo! (<span lang='ja'>団地で花札〜奥さん米屋ですよ 〜</span>)](/en/hanafuda/video-games/arcade/danchi-de-hanafuda-okusan-yoneya-desu-yo)
 * [Gionbana (<span lang='ja'>祇园花</span>)](/en/hanafuda/video-games/arcade/gionbana)
 * [Hana Awase (<span lang='ja'>花合わせ</span>)](/en/hanafuda/video-games/arcade/hana-awase)
-* [Hana Jinji (<span lang='ja'></span>)](/en/hanafuda/video-games/arcade/hana-jinji)
-* [Hana Kagerou [BET] (<span lang='ja'>花札: 華陽炎</span>)](/en/hanafuda/video-games/arcade/hana-kagerou-bet)
+* [Hana Gingi (<span lang='ja'>花札:華仁義</span>)](/en/hanafuda/video-games/arcade/hana-gingi)
+* [Hana Kagerou [BET] (<span lang='ja'>花札:華陽炎</span>)](/en/hanafuda/video-games/arcade/hana-kagerou-bet)
 * [Hana Kanzashi (<span lang='ja'>花かんざし</span>)](/en/hanafuda/video-games/arcade/hana-kanzashi)
 * [Hana no Mai (<span lang='ja'>華の舞</span>)](/en/hanafuda/video-games/arcade/hana-no-mai)
 * [Hana Oriduru (<span lang='ja'>華折鶴</span>)](/en/hanafuda/video-games/arcade/hana-oriduru)
