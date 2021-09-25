@@ -2,7 +2,7 @@
 title: Maido Hanafuda
 description: 
 published: true
-date: 2021-09-25T10:50:55.969Z
+date: 2021-09-25T10:54:25.211Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:44:27.375Z
@@ -15,15 +15,22 @@ It was developed by Arc System Works.
 - Koi-Koi
 - Hana-Awase
 
-## Notes
+## Features
 
-It has variable difficulty and adjustable card animation speed.
+- Variable difficulty
+- Adjustable card animation speed
+
+## Notes
+- Field is obscured at Koi-Koi/Shobu decision
 
 ## Screenshots
 
 ![](https://www.arcsystemworks.jp/arcstyle/hanafuda3d/images/summary01.jpg)
 
 ![](https://www.arcsystemworks.jp/arcstyle/hanafuda3d/images/summary33.jpg)
+
+## Video
+- https://www.youtube.com/watch?v=T729jUO-4EI
 
 ## External Links
 - http://www.arcsystemworks.jp/arcstyle/hanafuda3d/index.html
