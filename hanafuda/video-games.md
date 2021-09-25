@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-25T09:19:17.544Z
+date: 2021-09-25T09:45:50.895Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -183,7 +183,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda (High Resolution) (<span lang='ja'>花札ゲーム（高分解）</span>)](/en/hanafuda/video-games/pc-88/hanafuda-high-resolution)
 * [Hanafuda Dragon (<span lang='ja'>花札お竜</span>)](/en/hanafuda/video-games/pc-88/hanafuda-dragon)
 * [Hanafuda-kyou (<span lang='ja'>花札狂</span>)](/en/hanafuda/video-games/pc-88/hanafuda-kyou)
-* [Koi Koi (<span lang='ja'>こいこい</span>)](/en/hanafuda/video-games/pc-88/koi-koi)
+* [Koi Koi (<span lang='ja'>コイコイ</span>)](/en/hanafuda/video-games/pc-88/koi-koi)
 * [Koikoi (<span lang='ja'>こいこい</span>)](/en/hanafuda/video-games/pc-88/koikoi)
 * [Realtime Hanafuda Simulation (<span lang='ja'>リアルタイム花札シミュレーション コイコイ花札</span>)](/en/hanafuda/video-games/pc-88/realtime-hanafuda-simulation)
 * [Super Hanafuda Koi-Koi (<span lang='ja'>スーパー花札コイコイ</span>)](/en/hanafuda/video-games/pc-88/super-hanafuda-koi-koi)
