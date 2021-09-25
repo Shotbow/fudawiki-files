@@ -2,7 +2,7 @@
 title: Shokaku 68020 (AMIGA 30th Anniversary edition)
 description: 
 published: true
-date: 2021-09-25T11:00:26.739Z
+date: 2021-09-25T11:00:32.186Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:44:30.376Z
@@ -21,4 +21,4 @@ It was developed by Renya Iizuka.
 - https://www.youtube.com/watch?v=M6vmtIuAGow
 
 ## External Links
-- https://exceed.hatenablog.com/entry/20151225/p1#
+- https://exceed.hatenablog.com/entry/20151225/p1
