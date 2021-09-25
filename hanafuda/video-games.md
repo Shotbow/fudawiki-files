@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-25T11:04:46.754Z
+date: 2021-09-25T11:18:03.971Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -82,10 +82,10 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## DSiWare
 * [at Enta! Taisen Hanafuda: Koi Koi Kassen (<span lang='ja'>at エンタ！対戦花札 こいこい合戦</span>)](/en/hanafuda/video-games/dsiware/at-enta-taisen-hanafuda-koi-koi-kassen)
 * [Chotto Asobi Taizen: Onajimi Table (<span lang='ja'>ちょっとアソビ大全 おなじみテーブル</span>)](/en/hanafuda/video-games/dsiware/chotto-asobi-taizen-onajimi-table)
-## FC
+## Famicom
 * [AV Hanafuda Club (<span lang='ja'>AV花札倶楽部</span>)](/en/hanafuda/video-games/fc/av-hanafuda-club)
 * [Hanafuda Yuukyou Den: Nagarebana Oryuu (<span lang='ja'>花札遊侠伝 流れ花 お竜</span>)](/en/hanafuda/video-games/fc/hanafuda-yuukyou-den-nagarebana-oryuu)
-## FCDS
+## Famicom Disk System
 * [Bishoujo Hanafuda Club Vol. 1: Oicho-Kabu-hen (<span lang='ja'>美少女花札倶楽部 VOL.1 おいちょかぶ編</span>)](/en/hanafuda/video-games/fcds/bishoujo-hanafuda-club-vol-1-oicho-kabu-hen)
 * [Bishoujo Hanafuda Club Vol. 2: Koikoi Bakappana-hen (<span lang='ja'>美少女花札倶楽部 VOL.2 こいこいばかっ花編</span>)](/en/hanafuda/video-games/fcds/bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen)
 ## FM-7
@@ -115,15 +115,15 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## JAVA
 * [Gyakuten Hanafuda (<span lang='ja'>逆転花札</span>)](/en/hanafuda/video-games/java/gyakuten-hanafuda)
 * [Hanatori Fuzuki (<span lang='ja'>花鳥風月</span>)](/en/hanafuda/video-games/java/hanatori-fuzuki)
-## MAC
-* [Virtual Hanafuda (<span lang='ja'>仮想花札荘</span>)](/en/hanafuda/video-games/mac/virtual-hanafuda)
-* [War of Flowers (<span lang='ja'>War of Flowers</span>)](/en/hanafuda/video-games/mac/war-of-flowers)
-## MAC OS X
+## Mac OS X
 * [Koi-Koi Komachi Pure International (<span lang='ja'>恋々小町Pure</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-pure-international)
 * [Koi-Koi Komachi X International (<span lang='ja'>恋々小町Ｘ</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-x-international)
 * [Koi-Koi Komachi XI (<span lang='ja'>恋々小町ＸＩ</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-xi)
 * [Koikoi (<span lang='ja'>こいこい</span>)](/en/hanafuda/video-games/mac-os-x/koikoi)
-## MOBILE
+## Macintosh
+* [Virtual Hanafuda (<span lang='ja'>仮想花札荘</span>)](/en/hanafuda/video-games/mac/virtual-hanafuda)
+* [War of Flowers (<span lang='ja'>War of Flowers</span>)](/en/hanafuda/video-games/mac/war-of-flowers)
+## Mobile (Japanese Feature Phones)
 * [DX Hanafuda (<span lang='ja'>DX花札</span>)](/en/hanafuda/video-games/mobile/dx-hanafuda)
 * [Easy ♪ Hanafuda (<span lang='ja'>らくらく♪花札</span>)](/en/hanafuda/video-games/mobile/easy-hanafuda)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札-こいこい-</span>)](/en/hanafuda/video-games/mobile/hanafuda-koi-koi)
@@ -155,12 +155,12 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## NGPC
 * [Koi-Koi Mahjong (<span lang='ja'>コイコイ麻雀</span>)](/en/hanafuda/video-games/ngpc/koi-koi-mahjong)
 * [Soreyuke!! Hanafuda Doujou (<span lang='ja'>それいけ！！花札道場</span>)](/en/hanafuda/video-games/ngpc/soreyuke-hanafuda-doujou)
-## NMV
+## Nichibutsu MyVision
 * [Hanafuda (<span lang='ja'>ハナフダ</span>)](/en/hanafuda/video-games/nmv/hanafuda)
 ## P7
 * [Graphic Hanafuda Koi-Koi (<span lang='ja'>ぐらふぃっく花札こいこい</span>)](/en/hanafuda/video-games/p7/graphic-hanafuda-koi-koi)
 * [Real Hanafuda Koi-Koi (<span lang='ja'>実戦・花札（コイコイ）</span>)](/en/hanafuda/video-games/p7/real-hanafuda-koi-koi)
-## PALM
+## Palm
 * [Catch-A-Bird (<span lang='ja'>Catch-A-Bird</span>)](/en/hanafuda/video-games/palm/catch-a-bird)
 * [Koi-Koi (<span lang='ja'>こいこい</span>)](/en/hanafuda/video-games/palm/koi-koi)
 * [palm Hanafuda (<span lang='ja'>palm花札</span>)](/en/hanafuda/video-games/palm/palm-hanafuda)
@@ -207,7 +207,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Super Koi-Koi 98 (<span lang='ja'>Ｓｕｐｅｒ－ｋｏｉｋｏｉ９８</span>)](/en/hanafuda/video-games/pc-98/super-koi-koi-98)
 * [Taisen Hanafuda (<span lang='ja'>対戦花札</span>)](/en/hanafuda/video-games/pc-98/taisen-hanafuda)
 * [Usajong Gaiden ~ I am the Trump Card ~ (<span lang='ja'>うさ雀外伝～俺が切り札～</span>)](/en/hanafuda/video-games/pc-98/usajong-gaiden-i-am-the-trump-card-)
-## PC-G
+## PC-G850
 * [Hanafuda 850 (<span lang='ja'>花札850</span>)](/en/hanafuda/video-games/pc-g/hanafuda-850)
 ## PICO-8
 * [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/pico-8/hanafuda-koi-koi)
@@ -251,9 +251,9 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan (<span lang='ja'>東京鬼祓師 鴉乃杜學園奇譚</span>)](/en/hanafuda/video-games/psp/tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan)
 ## PSPs
 * [Itsumono Hanafuda (<span lang='ja'>いつもの花札</span>)](/en/hanafuda/video-games/psps/itsumono-hanafuda)
-## RISC
+## RISC (Archimedes)
 * [Koi-Koi (<span lang='ja'>Koi-Koi</span>)](/en/hanafuda/video-games/risc/koi-koi)
-## SAT
+## Saturn
 * [Bishoujo Hanafuda Kikou: Michinoku Hitou Koimonogatari Special (<span lang='ja'>美少女花札紀行 みちのく秘湯恋物語 Special</span>)](/en/hanafuda/video-games/sat/bishoujo-hanafuda-kikou-michinoku-hitou-koimonogatari-special)
 * [Cross Romance: Koi to Mahjong to Hanafuda to (<span lang='ja'>Cross Romance 恋と麻雀と花札と</span>)](/en/hanafuda/video-games/sat/cross-romance-koi-to-mahjong-to-hanafuda-to)
 * [Elf o Karu Monotachi: Hanafuda-Hen (<span lang='ja'>エルフを狩るモノたち -花札編-</span>)](/en/hanafuda/video-games/sat/elf-o-karu-monotachi-hanafuda-hen)
@@ -268,17 +268,17 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Super Hanafuda (<span lang='ja'>SUPER花札</span>)](/en/hanafuda/video-games/snes/super-hanafuda)
 * [Super Hanafuda 2 (<span lang='ja'>SUPER 花札 弐</span>)](/en/hanafuda/video-games/snes/super-hanafuda-2)
 * [Table Game Dai-Shuugo!! Shogi Mahjong Hanafuda (<span lang='ja'>テーブルゲーム大集合！！ 将棋・麻雀・花札・トゥーサイド</span>)](/en/hanafuda/video-games/snes/table-game-dai-shuugo-shogi-mahjong-hanafuda)
-## STEAM
+## Steam
 * [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi)
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan)
-## SWITCH
+## Switch
 * [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games)
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda)
 ## TCD
 * [CD Hanafuda Bishoujo Fan Club (<span lang='ja'>CD花札 美少女ファンクラブ</span>)](/en/hanafuda/video-games/tcd/cd-hanafuda-bishoujo-fan-club)
 ## TG16
 * [Idol Hanafuda Fan Club (<span lang='ja'>アイドル花札ファンクラブ</span>)](/en/hanafuda/video-games/tg16/idol-hanafuda-fan-club)
-## WEB
+## Web Browser
 * [Coded Dragon (<span lang='ja'>n/a</span>)](/en/hanafuda/video-games/web/coded-dragon)
 * [Hanafuda Koi-Koi! (<span lang='ja'>花札 こいこい！</span>)](/en/hanafuda/video-games/web/hanafuda-koi-koi)
 * [Koi-Koi (<span lang='ja'>こいこい ~koikoi~</span>)](/en/hanafuda/video-games/web/koi-koi)
@@ -289,7 +289,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Sakura Wars: So Long, My Love (<span lang='ja'>サクラ大戦V 〜さらば愛しき人よ〜</span>)](/en/hanafuda/video-games/wii/sakura-wars-so-long-my-love)
 * [Simple 2000 Series Wii Vol. 1: The Table Game (<span lang='ja'>SIMPLE2000シリーズ Vol.1 THE テーブルゲーム</span>)](/en/hanafuda/video-games/wii/simple-2000-series-wii-vol-1-the-table-game)
 * [Wi-Fi Taiou: Gensen Table Game Wii (<span lang='ja'>Wi-Fi対応 厳選テーブルゲームWii</span>)](/en/hanafuda/video-games/wii/wi-fi-taiou-gensen-table-game-wii)
-## WIN
+## Windows
 * [100-Bannin no Tameno Otoku Set: Othello - Hanafuda - Daifugou (<span lang='ja'>100万人のためのお得セット オセロ・花札・大富豪</span>)](/en/hanafuda/video-games/win/100-bannin-no-tameno-otoku-set-othello-hanafuda-daifugou)
 * [Animal Koi Koi -Hanafuda- 1.1 Edition (<span lang='ja'>アニマルこいこい ～花札～ 1.1版</span>)](/en/hanafuda/video-games/win/animal-koi-koi-hanafuda-11-edition)
 * [Bakappana (Stupid Flowers) (<span lang='ja'>馬鹿っ花</span>)](/en/hanafuda/video-games/win/bakappana-stupid-flowers)
@@ -352,10 +352,10 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Value Playing Cards 3 + Hanafuda (<span lang='ja'>バリュートランプ３＋花札</span>)](/en/hanafuda/video-games/win/value-playing-cards-3-hanafuda)
 * [WinHanafuda (<span lang='ja'>WinHanafuda</span>)](/en/hanafuda/video-games/win/winhanafuda)
 * [Youkai Hana Asobi (<span lang='ja'>妖怪花あそび</span>)](/en/hanafuda/video-games/win/youkai-hana-asobi)
-## WIN/MAC
+## Windows/Macintosh (Hybrid)
 * [Shock Price 500 Hanafuda (<span lang='ja'>Shock Price 500 花札</span>)](/en/hanafuda/video-games/win-mac/shock-price-500-hanafuda)
 * [Shock Price 500 Hanafuda Ⅱ (<span lang='ja'>Shock Price 500 花札Ⅱ</span>)](/en/hanafuda/video-games/win-mac/shock-price-500-hanafuda-ii)
-## WS
+## WonderSwan
 * [Hanafuda Shiyouyo (<span lang='ja'>花札しようよ</span>)](/en/hanafuda/video-games/ws/hanafuda-shiyouyo)
 ## X1
 * [Hanafuda Koi Koi (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/x1/hanafuda-koi-koi)
@@ -363,7 +363,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Practice Hanafuda Koi-Koi (<span lang='ja'>実践 花札(コイコイ)</span>)](/en/hanafuda/video-games/x1/practice-hanafuda-koi-koi)
 * [The Hanafuda (<span lang='ja'>ザ・花札</span>)](/en/hanafuda/video-games/x1/the-hanafuda)
 * [The Hanafuda Game (<span lang='ja'>花札ゲーム</span>)](/en/hanafuda/video-games/x1/the-hanafuda-game)
-## X68
+## X68000
 * [Hana Yori Dango (<span lang='ja'>花よりダンゴ</span>)](/en/hanafuda/video-games/x68/hana-yori-dango)
 * [Hana Yori Dango 2 (<span lang='ja'>花よりダンゴ2</span>)](/en/hanafuda/video-games/x68/hana-yori-dango-2)
 * [Hanafuda Hourouki (<span lang='ja'>花札放浪記</span>)](/en/hanafuda/video-games/x68/hanafuda-hourouki)
