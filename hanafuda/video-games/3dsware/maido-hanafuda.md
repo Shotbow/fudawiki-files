@@ -2,7 +2,7 @@
 title: Maido Hanafuda
 description: 
 published: true
-date: 2021-09-25T10:50:24.193Z
+date: 2021-09-25T10:50:55.969Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:44:27.375Z
@@ -13,7 +13,7 @@ It was developed by Arc System Works.
 
 ## Rulesets
 - Koi-Koi
-- Hana Awase
+- Hana-Awase
 
 ## Notes
 
