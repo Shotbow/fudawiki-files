@@ -2,7 +2,7 @@
 title: Value Hanafuda 2
 description: 
 published: true
-date: 2021-09-25T10:28:09.922Z
+date: 2021-09-25T10:29:47.839Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:55:31.388Z
@@ -20,6 +20,7 @@ It was developed by OFFICE KOUKAN.
 ## Rulesets
 - Hiyoko
 - Sudaoshi
+- Oicho-Kabu
 - Koi-Koi
 - Hana Awase
 - Hachi Hachi 
