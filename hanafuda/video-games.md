@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-25T11:02:20.222Z
+date: 2021-09-25T11:04:46.754Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -210,7 +210,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## PC-G
 * [Hanafuda 850 (<span lang='ja'>花札850</span>)](/en/hanafuda/video-games/pc-g/hanafuda-850)
 ## PICO-8
-* [Koi-Koi (<span lang='ja'>こいこい</span>)](/en/hanafuda/video-games/pico-8/koi-koi)
+* [Hanafuda Koi-Koi (<span lang='ja'>花札 こいこい</span>)](/en/hanafuda/video-games/pico-8/hanafuda-koi-koi)
 ## PS
 * [Cross Romance: Koi to Mahjong to Hanafuda to (<span lang='ja'>Cross Romance 恋と麻雀と花札と</span>)](/en/hanafuda/video-games/ps/cross-romance-koi-to-mahjong-to-hanafuda-to)
 * [Elf o Karu Monotachi: Hanafuda Hen (<span lang='ja'>エルフを狩るモノたち 花札編</span>)](/en/hanafuda/video-games/ps/elf-o-karu-monotachi-hanafuda-hen)
