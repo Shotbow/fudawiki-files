@@ -2,7 +2,7 @@
 title: Value Hanafuda 2
 description: 
 published: true
-date: 2021-09-25T10:30:49.494Z
+date: 2021-09-25T10:34:17.052Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:55:31.388Z
@@ -27,4 +27,4 @@ It was developed by OFFICE KOUKAN.
 
 ## External Links
 - https://valu-hanahuda.jp.download.it (virus checked download)
-- https://archive.org/details/windows-98-se-japanese-vmware (Japanese Win98 SE Virtual Machine)
+- https://archive.org/details/windows-98-se-japanese-vmware (Virtual Machine of Japanese Windows 98 SE)
