@@ -2,7 +2,7 @@
 title: PC-Hanafuda
 description: 
 published: true
-date: 2021-09-25T09:30:05.873Z
+date: 2021-09-25T09:36:13.686Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:49:29.527Z
@@ -20,4 +20,4 @@ It was developed by RAM.
 ![http://upd780c1.g1.xrea.com/n80/list2/fujionkyo/hanafuda2.gif](http://upd780c1.g1.xrea.com/n80/list2/fujionkyo/hanafuda2.gif)
 
 ## External Links
-- https://upd780c1.g1.xrea.com/n80/list2/fujionkyo/index.html
+- http://upd780c1.g1.xrea.com/n80/list2/fujionkyo/index.html
