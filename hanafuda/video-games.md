@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-16T15:23:59.727Z
+date: 2021-09-25T09:19:17.544Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -173,6 +173,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [The Hanafuda (<span lang='ja'>ザ・花札</span>)](/en/hanafuda/video-games/pc-60/the-hanafuda)
 ## PC-80
 * [Bakappana (Stupid Flowers) (<span lang='ja'>馬鹿っ花</span>)](/en/hanafuda/video-games/pc-80/bakappana-stupid-flowers)
+* [Koi-Koi (<span lang='ja'>コイコイ </span>)](/en/hanafuda/video-games/pc-80/koi-koi)
 * [PC-Hanafuda (<span lang='ja'>PC花札</span>)](/en/hanafuda/video-games/pc-80/pc-hanafuda)
 ## PC-88
 * [3 Player Hanafuda: Hachi-Hachi (<span lang='ja'>三人花札 (八八)</span>)](/en/hanafuda/video-games/pc-88/3-player-hanafuda-hachi-hachi)
