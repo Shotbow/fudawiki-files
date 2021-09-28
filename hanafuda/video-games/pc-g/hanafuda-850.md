@@ -2,7 +2,7 @@
 title: Hanafuda 850
 description: 
 published: true
-date: 2021-09-25T11:08:57.466Z
+date: 2021-09-28T22:55:50.995Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:50:46.827Z
@@ -18,6 +18,9 @@ It was developed by Maruhiro.
 ![Game](http://ver0.sakura.ne.jp/g800/hana_20091204_game.jpg)
 
 ![Emulator](http://ver0.sakura.ne.jp/g800/hana_20091204_game2.png)
+
+## Video
+- https://www.youtube.com/watch?v=i2po8NdMUTE
 
 ## External Links
 - http://ver0.sakura.ne.jp/g800/index.html#hana
