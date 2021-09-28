@@ -2,7 +2,7 @@
 title: Hanafuda Aikoi
 description: 
 published: true
-date: 2021-09-28T22:34:34.388Z
+date: 2021-09-28T22:35:00.543Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-28T22:28:42.551Z
@@ -12,7 +12,7 @@ _Hanafuda Aikoi_ (<span lang='ja'>花札あいこい</span>) is an i-mode mobile
 It was developed by H.Sasayama of B.B.
 
 ## Rulsets
-- Koi-Koi
+- Koi-Koi, with original rules
 
 ## Features
 - Screen size: 120x120 pixels
