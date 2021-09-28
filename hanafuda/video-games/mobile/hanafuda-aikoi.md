@@ -2,7 +2,7 @@
 title: Hanafuda Aikoi
 description: 
 published: true
-date: 2021-09-28T22:33:13.666Z
+date: 2021-09-28T22:34:34.388Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-28T22:28:42.551Z
@@ -10,6 +10,9 @@ dateCreated: 2021-09-28T22:28:42.551Z
 
 _Hanafuda Aikoi_ (<span lang='ja'>花札あいこい</span>) is an i-mode mobile phone game published in 2001.
 It was developed by H.Sasayama of B.B.
+
+## Rulsets
+- Koi-Koi
 
 ## Features
 - Screen size: 120x120 pixels
