@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-28T22:19:34.351Z
+date: 2021-09-28T22:26:30.353Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -126,6 +126,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## Mobile (Japanese Feature Phones)
 * [DX Hanafuda (<span lang='ja'>DX花札</span>)](/en/hanafuda/video-games/mobile/dx-hanafuda)
 * [Easy ♪ Hanafuda (<span lang='ja'>らくらく♪花札</span>)](/en/hanafuda/video-games/mobile/easy-hanafuda)
+* [Hanafuda Aikoi (<span lang='ja'>花札あいこい</span>)](/en/hanafuda/video-games/mobile/hanafuda-aikoi)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札-こいこい-</span>)](/en/hanafuda/video-games/mobile/hanafuda-koi-koi)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/mobile/hanafuda-koi-koi)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/mobile/hanafuda-koi-koi)
