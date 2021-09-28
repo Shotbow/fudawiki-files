@@ -2,7 +2,7 @@
 title: Hanafuda Aikoi
 description: 
 published: true
-date: 2021-09-28T22:38:44.903Z
+date: 2021-09-28T22:41:04.980Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-28T22:28:42.551Z
@@ -17,6 +17,9 @@ It was developed by H.Sasayama of B.B.
 ## Features
 - Screen size: 120x120 pixels
 - Card size: 12x18 pixels
+
+## Card Images
+- https://web.archive.org/web/20031127204020/http://www009.upp.so-net.ne.jp/bsbb/ia/ikoi/egara.htm
 
 ## Screenshots
 
