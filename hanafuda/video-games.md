@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-09-25T11:18:03.971Z
+date: 2021-09-28T13:29:30.880Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -271,6 +271,15 @@ The following is a list of known hanafuda video games, arranged by the platform 
 ## Steam
 * [Bishoujo Battle Hanafuda Koi-Koi (<span lang='ja'>りっく☆じあ～す 花札こいこい</span>)](/en/hanafuda/video-games/steam/bishoujo-battle-hanafuda-koi-koi)
 * [Koi-Koi Japan (<span lang='ja'>こいこい花札</span>)](/en/hanafuda/video-games/steam/koi-koi-japan)
+* [Yakuza: Like a Dragon (<span lang='ja'>龍が如く7 光と闇の行方 インターナショナル</span>)](/en/hanafuda/video-games/steam/yakuza-like-a-dragon)
+* [Yakuza 0 (<span lang='ja'>龍が如く0 誓いの場所</span>)](/en/hanafuda/video-games/steam/yakuza-0)
+* [Yakuza 3 Remastered (<span lang='ja'>龍が如く3 リマスター版</span>)](/en/hanafuda/video-games/steam/yakuza-3-remastered)
+* [Yakuza 4 Remastered (<span lang='ja'>龍が如く4 リマスター版</span>)](/en/hanafuda/video-games/steam/yakuza-4-remastered)
+* [Yakuza 5 Remastered (<span lang='ja'>龍が如く5 リマスター版</span>)](/en/hanafuda/video-games/steam/yakuza-5-remastered)
+* [Yakuza 6: The Song of Life (<span lang='ja'>龍が如く6 命の詩</span>)](/en/hanafuda/video-games/steam/yakuza-6-the-song-of-life)
+* [Yakuza Kiwami (<span lang='ja'>龍が如く 極</span>)](/en/hanafuda/video-games/steam/yakuza-kiwami)
+* [Yakuza Kiwami 2 (<span lang='ja'>龍が如く 極2</span>)](/en/hanafuda/video-games/steam/yakuza-kiwami-2)
+
 ## Switch
 * [51 Worldwide Games (<span lang='ja'>世界のアソビ大全51</span>)](/en/hanafuda/video-games/switch/51-worldwide-games)
 * [Minna no Hanafuda (<span lang='ja'>みんなの花札</span>)](/en/hanafuda/video-games/switch/minna-no-hanafuda)
