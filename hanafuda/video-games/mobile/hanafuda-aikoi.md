@@ -2,7 +2,7 @@
 title: Hanafuda Aikoi
 description: 
 published: true
-date: 2021-09-28T22:44:01.935Z
+date: 2021-09-28T22:46:11.298Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-28T22:28:42.551Z
@@ -32,3 +32,6 @@ It was developed by Hiroyuki Sasayama of B.B.
 ## Links
 - https://web.archive.org/web/20031015141002/http://www009.upp.so-net.ne.jp/bsbb/ia/ikoi/index.htm
 - https://twitter.com/chame/status/678672965718769664
+
+## Emulators
+- http://www.a.math.ryukoku.ac.jp/~hig/mobilejava/iapem.html
