@@ -2,10 +2,16 @@
 title: The Hanafuda
 description: 
 published: true
-date: 2021-09-13T21:20:27.3828220Z 
+date: 2021-09-29T17:00:58.326Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T21:20:27.3828220Z
+dateCreated: 2021-09-13T22:56:04.364Z
 ---
-_The Hanafuda_ (<span lang='ja'>ザ・花札</span>) is an X1 game published in 198?.
+
+_The Hanafuda_ (<span lang='ja'>ザ・花札</span>) is an X1 game published in 1983.
 It was developed by DB-Soft.
+
+## Box Art
+![39891358-440d-466f-b92d-219e74056ef4.jpeg](/39891358-440d-466f-b92d-219e74056ef4.jpeg)
+
+![2c68ed66-8f17-424c-be2b-0bc16dd3a401.jpeg](/2c68ed66-8f17-424c-be2b-0bc16dd3a401.jpeg)
