@@ -2,13 +2,13 @@
 title: Hanafuda 850
 description: 
 published: true
-date: 2021-09-28T22:55:50.995Z
+date: 2021-10-07T09:19:18.675Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:50:46.827Z
 ---
 
-_Hanafuda 850_ (<span lang='ja'>花札850</span>) is a Sharp Pocket Computer PC-G850 game published in 2009 by Version 0 (ver0).
+_Hanafuda 850_ (<span lang='ja'>花札850</span>) is a Sharp PC-G850 game published in 2009 by Version 0 (ver0).
 It was developed by Maruhiro.
 
 ## Screenshots
