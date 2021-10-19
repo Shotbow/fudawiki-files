@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T12:57:01.003Z
+date: 2021-10-19T13:02:50.071Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -359,6 +359,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Rabbit’s Hanafuda (<span lang='ja'>うさぎさんの花札</span>)](/en/hanafuda/video-games/win/rabbits-hanafuda)
 * [Shinji and Good Friends: Second Hanafuda Impact (<span lang='ja'>シンジと愉快な仲間たち セカンド・花札いんぱくと</span>)](/en/hanafuda/video-games/win/shinji-and-good-friends-second-hanafuda-impact)
 * [Shinobi Hanafuda 2 Hyakka Soumei - Kouhen (<span lang='ja'>忍花札2 百華争鳴</span>)](/en/hanafuda/video-games/win/shinobi-hanafuda-2-hyakka-soumei-kouhen)
+* [Shock Price Advance Series Hanafuda hanahuda (<span>Shock Price Advance Series 花札 hanahuda</span>)](/en/hanafuda/video-games/win/shock-price-advance-series-hanafuda-hanahuda)
 * [Standard 2-in-1 Vol.1 Mahjong & Hanafuda (<span lang='ja'>Standard 2-in-1 Vol.1 麻雀＆花札</span>)](/en/hanafuda/video-games/win/standard-2-in-1-vol1-mahjong-hanafuda)
 * [Super Hanafuda (<span lang='ja'>スーパー花札</span>)](/en/hanafuda/video-games/win/super-hanafuda)
 * [Super Koi-Koi Daisakusen -The Beginning Chapter- (<span lang='ja'>Superこいこい大作戦～はじまりの章～</span>)](/en/hanafuda/video-games/win/super-koi-koi-daisakusen-the-beginning-chapter-)
