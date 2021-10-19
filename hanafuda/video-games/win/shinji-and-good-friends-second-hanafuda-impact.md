@@ -2,10 +2,15 @@
 title: Shinji and Good Friends: Second Hanafuda Impact
 description: 
 published: true
-date: 2021-09-13T21:20:27.3605537Z 
+date: 2021-10-19T13:00:48.493Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-13T21:20:27.3605537Z
+dateCreated: 2021-10-19T13:00:48.493Z
 ---
-_Shinji and Good Friends: Second Hanafuda Impact_ (<span lang='ja'>シンジと愉快な仲間たち セカンド・花札いんぱくと</span>) is a WIN game published in 2000 by ProjectEva.
+
+_Shinji and Good Friends: Second Hanafuda Impact_ (<span lang='ja'>シンジと愉快な仲間たち セカンド・花札いんぱくと</span>) is a Windows game published in 2000 by ProjectEva.
 It was developed by Gainax.
+
+## External Links
+- https://tcrf.net/Shinji_and_Good_Friends:_Second_Hanafuda_Impact
+- https://archive.org/details/shinji-and-good-friends-second-hanafuda-impact
