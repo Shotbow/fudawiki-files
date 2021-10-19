@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T12:36:00.332Z
+date: 2021-10-19T12:36:24.636Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -63,7 +63,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Koi Koi Shimasho 2: Super Real Hanafuda (<span lang='ja'>スーパーリアル花札 恋こいしましょ 2</span>)](/en/hanafuda/video-games/arcade/koi-koi-shimasho-2-super-real-hanafuda)
 * [Kyougoku Hana no Mai (<span lang='ja'>京極華の舞</span>)](/en/hanafuda/video-games/arcade/kyougoku-hana-no-mai)
 * [Kyougoku Hana no Mai DELUXE (<span lang='ja'>京極 華の舞 DELUXE</span>)](/en/hanafuda/video-games/arcade/kyougoku-hana-no-mai-deluxe)
-* [Kyougoku Hana no Mai DELUXE (<span lang='ja'>京極 NEW 華の舞 DELUXE</span>)](/en/hanafuda/video-games/arcade/kyougoku-new-hana-no-mai-deluxe)
+* [Kyougoku NEW Hana no Mai DELUXE (<span lang='ja'>京極 NEW 華の舞 DELUXE</span>)](/en/hanafuda/video-games/arcade/kyougoku-new-hana-no-mai-deluxe)
 * [Maikobana (<span lang='ja'>舞妓花</span>)](/en/hanafuda/video-games/arcade/maikobana)
 * [Musoubana (<span lang='ja'>夢想花</span>)](/en/hanafuda/video-games/arcade/musoubana)
 * [Super Hana Paradise (<span lang='ja'>スーパー華パラダイス</span>)](/en/hanafuda/video-games/arcade/super-hana-paradise)
