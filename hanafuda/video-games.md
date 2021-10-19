@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T12:36:24.636Z
+date: 2021-10-19T12:48:01.354Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -69,7 +69,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Super Hana Paradise (<span lang='ja'>スーパー華パラダイス</span>)](/en/hanafuda/video-games/arcade/super-hana-paradise)
 * [Yumefuda [BET] (<span lang='ja'>夢札</span>)](/en/hanafuda/video-games/arcade/yumefuda-bet)
 ## DC
-* [Bakumatsu Rouman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/ng/the-last-blade-2)
+* [Bakumatsu Rouman Dai Ni Maku: Gekka no Kenshi Final Edition (<span lang='ja'>幕末浪漫第二幕 月華の剣士 ファイナルエディション</span>)](/en/hanafuda/video-games/dc/the-last-blade-2)
 * [Net Versus Hanafuda (<span lang='ja'>ネットバーサス・花札</span>)](/en/hanafuda/video-games/dc/net-versus-hanafuda)
 * [Online Games: Dai Guruguru Onsen (<span lang='ja'>オンラインゲームズ 大ぐるぐる温泉</span>)](/en/hanafuda/video-games/dc/online-games-dai-guruguru-onsen)
 * [Sakura Taisen Online (<span lang='ja'>サクラ大戦オンライン</span>)](/en/hanafuda/video-games/dc/sakura-taisen-online)
