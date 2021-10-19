@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-07T09:07:02.578Z
+date: 2021-10-19T11:13:01.067Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -42,7 +42,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda Hana Botan (<span lang='ja'>花札 華牡丹</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-botan)
 * [Hanafuda Hana Ginga [BET] (<span lang='ja'>花札 華銀河</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-ginga-bet)
 * [Hanafuda Hana Gokou (<span lang='ja'>花札 華五光</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-gokou)
-* [Hanafuda Hana Gokou Bangaihen (<span lang='ja'>花札 華五光 番外編</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-gokou-bangaihen)
+* [Hanafuda Hana Gokou Bangaihen [BET] (<span lang='ja'>花札 華五光 番外編</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-gokou-bangaihen)
 * [Hanafuda Hana Tengoku (<span lang='ja'>花札 華天国</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tengoku)
 * [Hanafuda Hana Tsubaki (<span lang='ja'>花札 華椿</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tsubaki)
 * [Hanafuda New Hana Kagerou (<span lang='ja'>花札 NEW 華陽炎</span>)](/en/hanafuda/video-games/arcade/hanafuda-new-hana-kagerou)
