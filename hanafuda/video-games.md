@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T11:56:05.656Z
+date: 2021-10-19T12:25:07.437Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -53,7 +53,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda Hana Tengoku (<span lang='ja'>花札 華天国</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tengoku)
 * [Hanafuda Hana Tsubaki (<span lang='ja'>花札 華椿</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tsubaki)
 * [Hanafuda Hana Tsubaki Gaiden (<span lang='ja'>花札 華椿外伝</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tsubaki-gaiden)
-* [Hanafuda New Hana Kagerou (<span lang='ja'>花札 NEW 華陽炎</span>)](/en/hanafuda/video-games/arcade/hanafuda-new-hana-kagerou)
+* [Hanafuda NEW Hana Kagerou (<span lang='ja'>花札 NEW 華陽炎</span>)](/en/hanafuda/video-games/arcade/hanafuda-new-hana-kagerou)
 * [Hanafuda Night Rose (<span lang='ja'>花札 ナイトローズ</span>)](/en/hanafuda/video-games/arcade/hanafuda-night-rose)
 * [Hanafuda Tosei (<span lang='ja'>花札渡世</span>)](/en/hanafuda/video-games/arcade/hanafuda-tosei)
 * [Hanaroku (<span lang='ja'>花六</span>)](/en/hanafuda/video-games/arcade/hanaroku)
