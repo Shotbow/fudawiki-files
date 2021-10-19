@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T11:13:01.067Z
+date: 2021-10-19T11:21:58.268Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -30,6 +30,8 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [AV Hanafuda Hana no Christmas Eve (<span lang='ja'>AV花札-圣诞眼</span>)](/en/hanafuda/video-games/arcade/av-hanafuda-hana-no-christmas-eve)
 * [Danchi de Hanafuda: Okusan Komeya Desu yo! (<span lang='ja'>団地で花札〜奥さん米屋ですよ 〜</span>)](/en/hanafuda/video-games/arcade/danchi-de-hanafuda-okusan-yoneya-desu-yo)
 * [Gionbana (<span lang='ja'>祇园花</span>)](/en/hanafuda/video-games/arcade/gionbana)
+* [Hana Arashi (<span lang='ja'>花嵐</span>)](/en/hanafuda/video-games/arcade/hana-arashi)
+* [Hana Arashi Part II (<span lang='ja'>花嵐 PART II</span>)](/en/hanafuda/video-games/arcade/hana-arashi-part-ii)
 * [Hana Awase (<span lang='ja'>花合わせ</span>)](/en/hanafuda/video-games/arcade/hana-awase)
 * [Hana Gingi (<span lang='ja'>華仁義</span>)](/en/hanafuda/video-games/arcade/hana-gingi)
 * [Hana Kagerou [BET] (<span lang='ja'>華陽炎</span>)](/en/hanafuda/video-games/arcade/hana-kagerou-bet)
