@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T11:51:53.792Z
+date: 2021-10-19T11:56:05.656Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -41,7 +41,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hana Orizuru (<span lang='ja'>華折鶴</span>)](/en/hanafuda/video-games/arcade/hana-orizuru)
 * [Hana Ren-Chan (<span lang='ja'>花れんちゃん</span>)](/en/hanafuda/video-games/arcade/hana-ren-chan)
 * [Hana Ren-Chan II (<span lang='ja'>花れんちゃん II</span>)](/en/hanafuda/video-games/arcade/hana-ren-chan-ii)
-* [Hana Shobu (<span lang='ja'>花鉄砲</span>)](/en/hanafuda/video-games/arcade/hana-shobu)
+* [Hana Shobu (<span lang='ja'>華菖蒲</span>)](/en/hanafuda/video-games/arcade/hana-shobu)
 * [Hana Teppou (<span lang='ja'>花鉄砲</span>)](/en/hanafuda/video-games/arcade/hana-teppou)
 * [Hana to Ojisan [BET] (<span lang='ja'>花とおじさん</span>)](/en/hanafuda/video-games/arcade/hana-to-ojisan-bet)
 * [Hana wo Yaraneba (<span lang='ja'>華をやらねば</span>)](/en/hanafuda/video-games/arcade/hana-wo-yaraneba)
