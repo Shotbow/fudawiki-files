@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T12:48:01.354Z
+date: 2021-10-19T12:57:01.003Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -319,7 +319,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Bargain 5-Pack: Go, Shogi, Mahjong, Hanafuda, Playing Cards (<span lang='ja'>お買得５本パック　囲碁・将棋・麻雀・花札・トランプ</span>)](/en/hanafuda/video-games/win/bargain-5-pack-go-shogi-mahjong-hanafuda-playing-cards)
 * [Bargain 5-Pack: Go, Shogi, Mahjong, Hanafuda, Playing Cards NEW (<span lang='ja'>お買得5本パック 囲碁・将棋・麻雀・花札・トランプ New</span>)](/en/hanafuda/video-games/win/bargain-5-pack-go-shogi-mahjong-hanafuda-playing-cards-new)
 * [Battle Hanafuda (Happy Net 1000 Game Series) (<span lang='ja'>バトル花札</span>)](/en/hanafuda/video-games/win/battle-hanafuda-happy-net-1000-game-series)
-* [Battle Hanafuda ~Onihime~ (<span lang='ja'>Battle花札～鬼姫～（体験版有り）</span>)](/en/hanafuda/video-games/win/battle-hanafuda-onihime)
+* [Battle Hanafuda \~Onihime\~ (<span lang='ja'>Battle花札～鬼姫～（体験版有り）</span>)](/en/hanafuda/video-games/win/battle-hanafuda-onihime)
 * [Challenge Price 398 Series: Hanafuda (<span lang='ja'>花札 Challenge Price 398 Series</span>)](/en/hanafuda/video-games/win/challenge-price-398-series-hanafuda)
 * [Challenge Price 498: Hanafuda (<span lang='ja'>花札 Challenge Price 498</span>)](/en/hanafuda/video-games/win/challenge-price-498-hanafuda)
 * [Desktop Hanafuda (<span lang='ja'>デスクトップ花札</span>)](/en/hanafuda/video-games/win/desktop-hanafuda)
