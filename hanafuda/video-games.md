@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T11:21:58.268Z
+date: 2021-10-19T11:40:22.354Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -33,11 +33,16 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hana Arashi (<span lang='ja'>花嵐</span>)](/en/hanafuda/video-games/arcade/hana-arashi)
 * [Hana Arashi Part II (<span lang='ja'>花嵐 PART II</span>)](/en/hanafuda/video-games/arcade/hana-arashi-part-ii)
 * [Hana Awase (<span lang='ja'>花合わせ</span>)](/en/hanafuda/video-games/arcade/hana-awase)
+* [Hana Deppou (<span lang='ja'>花鉄砲</span>)](/en/hanafuda/video-games/arcade/hana-deppou)
+* [Hana Dojyo (<span lang='ja'>花道場</span>)](/en/hanafuda/video-games/arcade/hana-dojyo)
 * [Hana Gingi (<span lang='ja'>華仁義</span>)](/en/hanafuda/video-games/arcade/hana-gingi)
 * [Hana Kagerou [BET] (<span lang='ja'>華陽炎</span>)](/en/hanafuda/video-games/arcade/hana-kagerou-bet)
 * [Hana Kanzashi (<span lang='ja'>花かんざし</span>)](/en/hanafuda/video-games/arcade/hana-kanzashi)
 * [Hana no Mai (<span lang='ja'>華の舞</span>)](/en/hanafuda/video-games/arcade/hana-no-mai)
 * [Hana Orizuru (<span lang='ja'>華折鶴</span>)](/en/hanafuda/video-games/arcade/hana-orizuru)
+* [Hana Ren-Chan (<span lang='ja'>花れんちゃん</span>)](/en/hanafuda/video-games/arcade/hana-ren-chan)
+* [Hana Ren-Chan II (<span lang='ja'>花れんちゃん II</span>)](/en/hanafuda/video-games/arcade/hana-ren-chan-ii)
+* [Hana Shobu (<span lang='ja'>花鉄砲</span>)](/en/hanafuda/video-games/arcade/hana-shobu)
 * [Hana to Ojisan [BET] (<span lang='ja'>花とおじさん</span>)](/en/hanafuda/video-games/arcade/hana-to-ojisan-bet)
 * [Hana wo Yaraneba (<span lang='ja'>華をやらねば</span>)](/en/hanafuda/video-games/arcade/hana-wo-yaraneba)
 * [Hana Yayoi (<span lang='ja'>華弥生</span>)](/en/hanafuda/video-games/arcade/hana-yayoi)
@@ -47,6 +52,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda Hana Gokou Bangaihen [BET] (<span lang='ja'>花札 華五光 番外編</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-gokou-bangaihen)
 * [Hanafuda Hana Tengoku (<span lang='ja'>花札 華天国</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tengoku)
 * [Hanafuda Hana Tsubaki (<span lang='ja'>花札 華椿</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tsubaki)
+* [Hanafuda Hana Tsubaki Gaiden (<span lang='ja'>花札 華椿外伝</span>)](/en/hanafuda/video-games/arcade/hanafuda-hana-tsubaki-gaiden)
 * [Hanafuda New Hana Kagerou (<span lang='ja'>花札 NEW 華陽炎</span>)](/en/hanafuda/video-games/arcade/hanafuda-new-hana-kagerou)
 * [Hanafuda Night Rose (<span lang='ja'>花札 ナイトローズ</span>)](/en/hanafuda/video-games/arcade/hanafuda-night-rose)
 * [Hanafuda Tosei (<span lang='ja'>花札渡世</span>)](/en/hanafuda/video-games/arcade/hanafuda-tosei)
