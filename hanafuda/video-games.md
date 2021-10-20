@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-19T15:30:14.452Z
+date: 2021-10-20T12:49:15.423Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -10,7 +10,7 @@ dateCreated: 2021-09-13T21:31:51.436Z
 
 The following is a list of known hanafuda video games, arranged by the platform on which they are played. Use the sidebar for easier navigation to the desired console.
 
-> This list forked from the [Hanafuda Video Games Spreadsheet](https://docs.google.com/spreadsheets/d/19UTxX3G0kO0_wbfBom0sDAaebcZr5VgvV0VZMdwExdY/edit?usp=sharing) which may still contain more information than this list, and may also lag behind on new entries.
+> This list forked from the [Hanafuda Video Games Spreadsheet](https://docs.google.com/spreadsheets/d/19UTxX3G0kO0_wbfBom0sDAaebcZr5VgvV0VZMdwExdY/edit?usp=sharing) which may still contain more information than this list, but may also lag behind on new entries.
 
 ## 3DSWare
 * [Maido Hanafuda (<span lang='ja'>毎度 花札</span>)](/en/hanafuda/video-games/3dsware/maido-hanafuda)
