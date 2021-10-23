@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-08-16T18:38:05.151Z
+date: 2021-10-23T03:39:30.539Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -107,7 +107,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 ## K.K. Corner and R. Whitbeck
 |Game|Players|Family|
 |:---|:---:|---:|
-|Kwa-Dō|2-6|Fishing|
+|Kwa-Dō|2-6|Fishing|
 ## Robert Goodwin
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -148,6 +148,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |:---|:---:|---:|
 |[Comet and Constellations](/comet__constellations_v4.0.pdf)|4|Draw and Discard|
 |[Triple Threat](/newgames/triple_threat_2-1.pdf)|3-4|Climbing|
+|[Korobeiniki](https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
@@ -184,6 +185,6 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 # Bibliography
 - Aihondo. “Game List.” *Aihondo Hanafuda*, https://sites.google.com/site/hanafudasupport/gamelist.
 - Johnson, Jason, and Antonietta Fazio-Johnson. *Hanafuda Games,* Hanami ed., IndianWolf Studios, 2017. 
-- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
-- *Tobaku Ni Kansuru chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696.
+- Shiono, Suehiko. *Teikei Aru Hanzai No Chōsa.* Shihōshō Chōsaka, 1921, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1878761.
+- *Tobaku Ni Kansuru chōsa.* vol. 121, Shihōshō Chōsaka, 1927, *National Diet Library,* dl.ndl.go.jp/info:ndljp/pid/1269696.
 - "Bakabana", https://web.archive.org/web/20040810024856/http://homepage3.nifty.com/noguta/karuta/usuki.html
