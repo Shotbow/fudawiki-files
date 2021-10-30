@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2021-10-20T13:44:41.899Z
+date: 2021-10-30T23:45:16.608Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -130,6 +130,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Koi-Koi Komachi XI (<span lang='ja'>恋々小町ＸＩ</span>)](/en/hanafuda/video-games/mac-os-x/koi-koi-komachi-xi)
 * [Koikoi (<span lang='ja'>こいこい</span>)](/en/hanafuda/video-games/mac-os-x/koikoi)
 ## Macintosh
+* [Hanafuda Stack (<span lang='ja'>花札スタック</span>)](/en/hanafuda/video-games/mac/hanafuda-stack)
 * [Virtual Hanafuda (<span lang='ja'>仮想花札荘</span>)](/en/hanafuda/video-games/mac/virtual-hanafuda)
 * [War of Flowers (<span lang='ja'>War of Flowers</span>)](/en/hanafuda/video-games/mac/war-of-flowers)
 ## Mobile (Japanese Feature Phones)
