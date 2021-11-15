@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-15T21:47:35.414Z
+date: 2021-11-15T21:50:50.274Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -13,4 +13,4 @@ It was developed by Keisuke Mitani.
 
 ## Notes
 - only works on certain Palm devices (monochrome screen?)
-- allows chosing card from hand or table
+- allows chosing initia match card from either hand or table
