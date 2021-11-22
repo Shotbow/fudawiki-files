@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-22T17:11:33.363Z
+date: 2021-11-22T17:12:27.155Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -19,7 +19,7 @@ It was developed by Keisuke Mitani.
 
 ## Playing
 - only works on certain Palm devices (monochrome screen?)
-- playable on Sony Clié PEG-SL10
+- playable on Sony Clié PEG-SL10 running PalmOS 4.1
 - playable on Android using StyleTap
 
 ## Links
