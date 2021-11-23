@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:23:07.135Z
+date: 2021-11-23T22:33:25.155Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -36,7 +36,7 @@ It was developed by Keisuke Mitani.
   This is a game in which you hold 30 sentences each at the beginning, and when the game is over, you take a sentence from the loser. Goal is to reduce the opponent to 0 sentences. However, if the game is not won within 10 rounds, it is a draw. Try to beat your opponent as quickly as possible.
 
 - **Role-limited game**
-  The winner is the first player to five rounds, with the only restriction being that the play must collect the specified yaku. Try to get a high score by playing high yaku.
+  The winner is the first player to five rounds, with the only restriction being that the player must collect the specified yaku. Try to get a high score by playing high yaku.
 
 ## Options
 - Tsukimi-zake & Hanami-zake
