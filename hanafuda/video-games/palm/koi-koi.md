@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:36:00.370Z
+date: 2021-11-23T22:38:00.849Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -32,7 +32,7 @@ It was developed by Keisuke Mitani.
   
   It's going to get harder and harder, but keep at it!
 
-- **First-draw game**
+- **Tug-of-war game**
   This is a game in which you hold 30 sentences each at the beginning, and when the game is over, you take sentences from the loser. Goal is to reduce the opponent to 0 sentences. However, if the game is not won within 10 rounds, it is a draw. Try to beat your opponent as quickly as possible.
 
 - **Role-limited game**
