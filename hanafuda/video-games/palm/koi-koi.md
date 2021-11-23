@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T17:04:22.165Z
+date: 2021-11-23T20:25:02.045Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -14,10 +14,18 @@ It was developed by Keisuke Mitani.
 ## Screenshots
 ![koikoi.gif](/koikoi.gif)
 
+## Rules
+- Koi-Koi
+
+Additional toggles:
+- Tsukimi-sake & Hanami-sake
+- Ame-nagare (ame cards cancel the above)
+- Sake cup as junk card
+
 ## Gameplay
 - allows chosing initial match card from either your hand or the field and following matches from the opposite, which is unique as most (all?) other games have you pick the first match only from the field
 
-## Playing
+## Compatibility
 - only works on certain Palm devices (monochrome screen?)
 - playable on Sony Clié PEG-SL10 running PalmOS 4.1
 - playable on Android using StyleTap
