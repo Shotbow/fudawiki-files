@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:38:00.849Z
+date: 2021-11-23T22:41:22.287Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -19,7 +19,7 @@ It was developed by Keisuke Mitani.
 
 ## Game types:
 - **5 round game**
-  Highest score after five rounds wins.
+  The player with the highest total score after 5 rounds wins. Let's try to get a high score!
 
 - **200 sentence game**
   The first player to reach the 200-point mark wins. The higher the score, the higher the minimum sentence value. 
