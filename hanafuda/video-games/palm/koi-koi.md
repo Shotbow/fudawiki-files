@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:22:41.209Z
+date: 2021-11-23T22:23:07.135Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -29,6 +29,7 @@ It was developed by Keisuke Mitani.
   - 90-119 sentences = 4 sentences or more
   - 120-149 sentences = 5 sentences or more
   - 150-200 sentences = 10 sentences or more
+  
   It's going to get harder and harder, but keep at it!
 
 - **First-draw game**
