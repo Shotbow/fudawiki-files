@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:42:59.130Z
+date: 2021-11-23T22:43:42.155Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -44,7 +44,7 @@ It was developed by Keisuke Mitani.
 - Sake cup as junk card
 
 ## Gameplay
-- The initial match card can be chosen from either your hand or the field, and following matches from the opposite. This is unique as most (all?) other games have you pick the first match only from the field.
+- The initial match card can be chosen from either your hand or the field, and following matches from the opposite. This is unique as most (all?) other games have you pick the first match only from your hand.
 
 ## Compatibility
 - Only works on certain Palm devices (monochrome screen?)
