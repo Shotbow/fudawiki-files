@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T17:03:24.182Z
+date: 2021-11-23T17:04:22.165Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -15,7 +15,7 @@ It was developed by Keisuke Mitani.
 ![koikoi.gif](/koikoi.gif)
 
 ## Gameplay
-- allows chosing initial match card from either your hand or the table and following matches from the opposite
+- allows chosing initial match card from either your hand or the field and following matches from the opposite, which is unique as most (all?) other games have you pick the first match only from the field
 
 ## Playing
 - only works on certain Palm devices (monochrome screen?)
