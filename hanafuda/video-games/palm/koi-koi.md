@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:41:22.287Z
+date: 2021-11-23T22:42:59.130Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -44,13 +44,13 @@ It was developed by Keisuke Mitani.
 - Sake cup as junk card
 
 ## Gameplay
-- allows chosing initial match card from either your hand or the field and following matches from the opposite, which is unique as most (all?) other games have you pick the first match only from the field
+- The initial match card can be chosen from either your hand or the field, and following matches from the opposite. This is unique as most (all?) other games have you pick the first match only from the field.
 
 ## Compatibility
-- only works on certain Palm devices (monochrome screen?)
-- playable on Sony Clié PEG-SL10 running PalmOS 4.1
-- playable on Android using StyleTap
-- use CJKOS or J-OS PalmOS apps to have the Japanese text in the user interface display correctly
+- Only works on certain Palm devices (monochrome screen?)
+- Playable on Sony Clié PEG-SL10 running PalmOS 4.1
+- Playable on Android using StyleTap
+- Use CJKOS or J-OS PalmOS apps to have the Japanese text in the user interface display correctly
 
 ## Links
 - [http://www.boarderz.com/palm/](https://web.archive.org/web/20070607220502/http://www.boarderz.com:80/palm/) (archived on 2007-06-07)
