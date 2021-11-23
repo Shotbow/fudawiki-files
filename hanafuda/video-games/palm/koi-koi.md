@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T20:25:02.045Z
+date: 2021-11-23T20:26:31.631Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -19,7 +19,7 @@ It was developed by Keisuke Mitani.
 
 Additional toggles:
 - Tsukimi-sake & Hanami-sake
-- Ame-nagare (ame cards cancel the above)
+- Ame-nagare (ame cards cancel above yakus)
 - Sake cup as junk card
 
 ## Gameplay
