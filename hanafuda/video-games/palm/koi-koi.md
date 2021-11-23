@@ -2,13 +2,13 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:33:25.155Z
+date: 2021-11-23T22:33:50.145Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
 ---
 
-_Koi-Koi_ (<span lang='ja'>こいこい</span>) is a PALM game published in 1999 by Palm Boarderz.
+_Koi-Koi_ (<span lang='ja'>こいこい</span>) is a PalmOS game published in 1999 by _Palm Boarderz_.
 It was developed by Keisuke Mitani.
 
 ## Screenshots
