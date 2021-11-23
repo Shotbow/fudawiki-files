@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T20:43:20.684Z
+date: 2021-11-23T22:22:41.209Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -16,9 +16,28 @@ It was developed by Keisuke Mitani.
 
 ## Rules
 - Koi-Koi
-- 5 rounds
 
-Additional toggles:
+## Game types:
+- **5 round game**
+  Highest score after five rounds wins.
+
+- **200 sentence game**
+  The first player to reach the 200-point mark wins. The higher the score, the higher the minimum sentence value. 
+  - 0-29 sentences = 1 sentence or more required
+  - 30-59 sentences = 2 sentences or more
+  - 60-89 sentences = 3 sentences or more
+  - 90-119 sentences = 4 sentences or more
+  - 120-149 sentences = 5 sentences or more
+  - 150-200 sentences = 10 sentences or more
+  It's going to get harder and harder, but keep at it!
+
+- **First-draw game**
+  This is a game in which you hold 30 sentences each at the beginning, and when the game is over, you take a sentence from the loser. Goal is to reduce the opponent to 0 sentences. However, if the game is not won within 10 rounds, it is a draw. Try to beat your opponent as quickly as possible.
+
+- **Role-limited game**
+  The winner is the first player to five rounds, with the only restriction being that the play must collect the specified yaku. Try to get a high score by playing high yaku.
+
+## Options
 - Tsukimi-zake & Hanami-zake
 - Ame-nagare (ame cards cancel above yakus)
 - Sake cup as junk card
