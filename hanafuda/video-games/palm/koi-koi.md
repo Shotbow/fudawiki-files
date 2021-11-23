@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-23T22:43:42.155Z
+date: 2021-11-23T22:44:33.078Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -50,7 +50,7 @@ It was developed by Keisuke Mitani.
 - Only works on certain Palm devices (monochrome screen?)
 - Playable on Sony Clié PEG-SL10 running PalmOS 4.1
 - Playable on Android using StyleTap
-- Use CJKOS or J-OS PalmOS apps to have the Japanese text in the user interface display correctly
+- Use CJKOS or J-OS (PalmOS apps) to have the Japanese text in the user interface display correctly
 
 ## Links
 - [http://www.boarderz.com/palm/](https://web.archive.org/web/20070607220502/http://www.boarderz.com:80/palm/) (archived on 2007-06-07)
