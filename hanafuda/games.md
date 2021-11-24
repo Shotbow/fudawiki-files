@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2021-10-23T03:39:30.539Z
+date: 2021-11-24T18:07:09.253Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -149,6 +149,7 @@ This is a list of contemporary creations to be played with a hanafuda deck. It i
 |[Comet and Constellations](/comet__constellations_v4.0.pdf)|4|Draw and Discard|
 |[Triple Threat](/newgames/triple_threat_2-1.pdf)|3-4|Climbing|
 |[Korobeiniki](https://cdn.discordapp.com/attachments/550677413193842688/880653430505492560/Korobeiniki.pdf)|3-4|Push Your Luck|
+|[Rubicon](https://cdn.discordapp.com/attachments/550677413193842688/913101251300958248/RUBICON.pdf)|2|Showdown|
 ## Ryan Sartor
 |Game|Players|Family|
 |:---|:---:|---:|
