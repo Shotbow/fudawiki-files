@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: 
 published: true
-date: 2021-11-26T16:03:29.510Z
+date: 2021-11-26T16:04:58.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T22:48:53.943Z
@@ -22,7 +22,7 @@ It was developed by Keisuke Mitani.
   The player with the highest total score after 5 rounds wins. Let's try to get a high score!
 
 - **200 sentence game**
-  The first player to reach the 200-point mark wins. The higher the score, the higher the minimum sentence value. 
+  The first player to reach the 200-point mark wins. The higher the score, the higher the minimum sentence value required to win. 
   - 0-29 sentences = 1 sentence or more required
   - 30-59 sentences = 2 sentences or more
   - 60-89 sentences = 3 sentences or more
