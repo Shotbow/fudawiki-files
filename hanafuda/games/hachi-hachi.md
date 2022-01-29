@@ -2,7 +2,7 @@
 title: Hachi-Hachi
 description: A popular hanafuda game, usually for 3-6 players. Also known as “88”
 published: true
-date: 2021-08-14T03:19:21.137Z
+date: 2022-01-29T06:05:45.278Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T05:05:03.416Z
@@ -98,9 +98,9 @@ However, the basic teyaku fall into two categories, with all the others being si
 |8|**Two Standing Triplets**<br/>二立三本 [ふたたてさんぼん, *futatatesanbon*]|A Standing Triplet, and another Standing Triplet.|
 |4|**Three Pairs**<br/>喰付 [くっつき, *kuttsuki*] (lit. *sticky?*)|Three pairs of cards- a pair being two cards from the same month.|
 |6|**Four of a Kind**<br/>手四 [てし, *teshi*]|Four cards from the same month.|
-|7|**Triplet and Two Pairs**<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet and two pairs.|
+|7|**Triplet and Two Pairs**<br/>跳剣 [はねけん, *haneken*] (lit. *jumping sword?*)|A Triplet (or Standing Triplet) and two pairs.|
 |8|**One-Two-Four**<br/>一二四 [いちにし, *ichinishi*]|Four of a kind, a pair, and a singleton. **Note**: When revealing this hand to claim points, all seven cards must be shown. |
-|20|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a triplet.|
+|20|**Four-Three**<br/>四三 [しそう, *shisou*]|Four of a kind and a Triplet (or Standing Triplet).|
 
 |<h2 align="left">Group B: Chaff Teyaku</h2><br>**Note**: For the purposes of these teyaku, *all* [![Icon for month 11](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards are considered Chaff, as opposed to their usual value. In particular, the Willow Ribbon is not considered a Ribbon.|||
 |2|**Red**<br/>赤 [あか, *aka*]|Two or more of any Ribbon card, with Chaff in the remainder of the hand. **Note**: Despite the name, all Ribbon cards count, including the blue ones.|
