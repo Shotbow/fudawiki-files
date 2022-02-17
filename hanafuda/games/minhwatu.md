@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-3 players
 published: true
-date: 2022-02-17T13:06:01.347Z
+date: 2022-02-17T13:15:45.402Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -14,7 +14,7 @@ dateCreated: 2021-03-09T06:14:35.593Z
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how many rounds the game will last - common options are 6 or 12 rounds, or until a certain point threshold has been met by any player. Any other house rules such as which yaku to use should also be established at this point in order to keep gameplay smooth and fair.
 
 ## Choosing the Dealer
-There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Unsually in Korea, the player who drew a suit for the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called *'밤일낮장 (bam-il naj-jang)* and is used in other games, such as [Go-Stop](/en/hanafuda/games/go-stop). In cases where there is a tie, this process can be repeated.
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Unsually in Korea, the player who drew a suit for the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called *'밤일낮장 (bam-il naj-jang)'* and is used in other games, such as [Go-Stop](/en/hanafuda/games/go-stop). In cases where there is a tie, this process can be repeated.
 
 ## Distributing the Initial Cards
 Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. 
@@ -65,7 +65,7 @@ Once you have played a card both from your hand and the deck, collect any cards 
 
 The total number of points distributed each round will always total 240.
 
-*Note: In real-like 5-player games the score total is usually 250 due to a 10-point joker or bonus 10 points. This may not apply in digital games.*
+*Note: In real-life 5-player games the score total is usually 250 due to a 10-point joker or bonus 10 points. This may not apply in digital games.*
 
 The player who scored the most points in a given round becomes the dealer for the subsequent round. At the end of the game, the winner is the player who amassed the most points.
 
