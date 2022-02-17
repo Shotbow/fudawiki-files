@@ -2,13 +2,13 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-02-17T19:13:59.214Z
+date: 2022-02-17T19:37:22.294Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
 ---
 
-**Min-Hwatu** (alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-6 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.
+**Min-Hwatu** ("민화투", alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-6 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.
 
 # Setup
 Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how many rounds the game will last - common options are 6 or 12 rounds, or until a certain point threshold has been met by any player. Any other house rules such as which yaku to use should also be established at this point in order to keep gameplay smooth and fair.
@@ -73,13 +73,13 @@ The player who scored the most points in a given round becomes the dealer for th
 The values of each card are identical to those used in [Hachi-Hachi](/en/hanafuda/games/hachi-hachi), with the exception of Chaff cards, which earn no points.
 |Card Type|Value|Number in Deck|
 |:---:|:---:|:---:|
-|Bright|20|5|
-|Animal|10|9|
-|Ribbon|5|10|
-|Chaff|0|24|
+|Bright *(kwang, 광)*|20|5|
+|Animal *(yeol-kkeut, 열끗)*|10|9|
+|Ribbon *(tti, 띠)*|5|10|
+|Chaff *(pi, 피)*|0|24|
 
 # Yaku
-There are 6 *yaku* that are always used this game, but some versions include additional *yaku*, which will be listed in a separate table.
+There are 6 *yaku* (*'약'* in Korean) that are always used this game, but some versions include additional *yaku*, which will be listed in a separate table.
 
 ## Core Yaku
 |Point Value|Name of Yaku|Composition|
@@ -104,4 +104,4 @@ The following *yaku* are not always used, and should be agreed upon prior to the
 - “Minhwatu.” *Hana Kirisame,* web.archive.org/web/20050204084516/hana.kirisame.org/minhwatu.html. 
 - Pearson, Randy L. “Minhato Game.” *BamaFolks,* www.bamafolks.com/randy/minhato/game.html.
 - 미래컨텐츠창작연구소, *화투의 기술,* 21세기북스, 2015, pp. 116-129. 
-- 왕이로소이다 (copied from defunct Hangame Min-Hwatu rules page). *화투-민화투 치는 법*, 2 May. 2012, cafe.daum.net/cheldoarirang/5wkm/234.
+- 왕이로소이다 (copied from defunct Hangame Min-Hwatu rules page). *화투-민화투 치는 법,* 2 May. 2012, cafe.daum.net/cheldoarirang/5wkm/234.
