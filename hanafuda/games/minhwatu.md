@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-02-17T19:37:22.294Z
+date: 2022-02-17T22:33:08.841Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -96,6 +96,8 @@ The following *yaku* are not always used, and should be agreed upon prior to the
 |Point Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
 |50|**Five Birds** *(godori, 고도리)*|[![Plum Blossom with Bush Warbler](/sheldonchen-cards/20.svg#hanafuda-card =50x)](/en/hanafuda/suits/plum-blossom#bush-warbler)[![Wisteria with Cuckoo](/sheldonchen-cards/40.svg#hanafuda-card =50x)](/en/hanafuda/suits/wisteria#cuckoo-with-crescent-moon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)
+|50|**Five Brights** *(oh-kwang, 오광)*|[![Pine With Crane](/sheldonchen-cards/10.svg#hanafuda-card =50x)](/en/hanafuda/suits/pine#crane-with-sun)[![Cherry Blossom with Curtain](/sheldonchen-cards/30.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#flower-viewing-curtain)[![Susuki Grass with Moon](/sheldonchen-cards/80.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#full-moon)[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Willow with Rain Man](/sheldonchen-cards/110.svg#hanafuda-card =50x)](/en/hanafuda/suits/willow#rain-man)|
+|20|**Four Paulownias** *(ttongyak, 똥약)*|[![Paulownia with Phoenix](/sheldonchen-cards/120.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#phoenix)[![Paulownia with Yellow-Bottom Chaff](/sheldonchen-cards/121.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#yellow-bottom-chaff)[![Paulownia Chaff 1](/sheldonchen-cards/122.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)[![Paulownia with Chaff 2](/sheldonchen-cards/123.svg#hanafuda-card =50x)](/en/hanafuda/suits/paulownia#other-chaff)|
 
 
 # Bibliography
