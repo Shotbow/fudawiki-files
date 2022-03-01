@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-03-01T00:24:20.644Z
+date: 2022-03-01T11:34:22.965Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -120,3 +120,4 @@ The following *yaku* are not always used, and should be agreed upon prior to the
 - Pearson, Randy L. “Minhato Game.” *BamaFolks,* www.bamafolks.com/randy/minhato/game.html.
 - 미래컨텐츠창작연구소, *화투의 기술,* 21세기북스, 2015, pp. 116-129. 
 - 왕이로소이다 (copied from defunct Hangame Min-Hwatu rules page). *화투-민화투 치는 법,* 2 May. 2012, cafe.daum.net/cheldoarirang/5wkm/234.
+- "A Korean Wha Tu (Flower Card) Game", Korean Air, https://www.dropbox.com/sh/x4snur4algi1dhb/AABpj1zMjQm5P1iWr83pzLb5a/Rules/Hwatu%20-%20Korean%20Air%201.jpg?dl=0, https://www.dropbox.com/sh/x4snur4algi1dhb/AAD5obKvxaJQZmQpbjyE0V78a/Rules/Hwatu%20-%20Korean%20Air%202.jpg?dl=0
