@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-02-28T15:05:24.368Z
+date: 2022-03-01T00:14:09.585Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -83,6 +83,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Sendai-Hana|3|Fishing|Sendai, Japan|
 |[Sen-Roku-Jū](/en/hanafuda/games/senrokuju) ("One Thousand Sixty"), a.k.a. Maebashi-Hana|3|Fishing|Maebashi, Japan|
 |[Seotda](/en/hanafuda/games/seotda)|2-10|Showdown|Korea|
+|[Shippin](/en/hanafuda/games/shippin) ("Four-Ace")|2+|Showdown|Japan|
 |[Sudaoshi](/en/hanafuda/games/sudaoshi), a.k.a. Taoshi or Moto Taoshi|3 per round, max 7 per game|Fishing|Japan|
 |[Suhara-Bana](/en/hanafuda/games/suhara-bana)|-|-|-|
 |[Sutda](/en/hanafuda/games/sutda)|2-10|Showdown|-|
@@ -95,7 +96,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |Yaku-Bana|-|-|-|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
-|[Shippin](/en/hanafuda/games/shippin) ("Four-Ace")|2+|Showdown|Japan|
+|[Yukbaek](/en/hanafuda/games/yukbaek)|2-4|Fishing|Korea|
 
 
 # Modern Games
