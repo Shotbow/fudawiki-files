@@ -2,7 +2,7 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-02-17T22:45:00.189Z
+date: 2022-03-01T00:24:20.644Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
@@ -11,10 +11,10 @@ dateCreated: 2021-03-09T06:14:35.593Z
 **Min-Hwatu** ("민화투", alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-6 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.
 
 # Setup
-Game setup involves choosing a dealer [親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how many rounds the game will last - common options are 6 or 12 rounds, or until a certain point threshold has been met by any player. Any other house rules such as which yaku to use should also be established at this point in order to keep gameplay smooth and fair.
+Game setup involves choosing a dealer [선 - *seon* (first player) or 親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how many rounds the game will last - common options are 6 or 12 rounds, or until a certain point threshold has been met by any player. Any other house rules such as which yaku to use should also be established at this point in order to keep gameplay smooth and fair.
 
 ## Choosing the Dealer
-There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Often in Korea, the player who drew a suit for the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called *'밤일낮장 (bam-il naj-jang)'* and is used in other games, such as [Go-Stop](/en/hanafuda/games/go-stop). In cases where there is a tie, this process can be repeated.
+There is no required method for selecting who is the first dealer, though a typical method in hanafuda games is to shuffle the deck and have both players draw one card each. Often in Korea, the player who drew a suit for the earliest month becomes the dealer in the night, and if both players drew from the same suit, the player drawing the lower point card becomes the dealer in the night. Vice versa in the day. This practition is called [밤일낮장 - *bam-il naj-jang*] and is used in other games, such as [Go-Stop](/en/hanafuda/games/go-stop). In cases where there is a tie, this process can be repeated.
 
 ## Distributing the Initial Cards
 Once the dealer has been selected, he or she shuffles the deck and sets up the table according to the number of players. 
@@ -36,7 +36,7 @@ Then, we look at the cards dealt:
 * There is no dominant rule when a complete suit of 4 cards was dealt to the field. This might vary, but usually the dealer simply deals again.
 * If 3 cards of a suit were dealt to the field, they are stacked together to signify that they will all be captured whenever the fourth is played.
 
-There are no "lucky hands" [手役, てやく *teyaku*] that would result in points earned at the initial deal in Min-hwatu.
+When a player is dealt 4 cards of the same month in hand, there are no "lucky hands" [총통 - *chongtong* (president) or 手役 - てやく, *teyaku*] that would result in points earned at the initial deal in Min-hwatu and the play starts normally.
 
 > If you're not familiar with the concept of suits, you can visit the [suits page](/en/hanafuda/suits)
 {.is-info}
