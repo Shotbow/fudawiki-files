@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-03-01T00:14:09.585Z
+date: 2022-03-01T01:57:21.641Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -96,7 +96,6 @@ These games, while not as widespread today as those listed above, are variously 
 |[Yatchaba](/en/hanafuda/games/yatchaba)|4-6|-|-|
 |Yaku-Bana|-|-|-|
 |Yamagata-Bana|-|Fishing|Yamagata, Japan|
-|[Yukbaek](/en/hanafuda/games/yukbaek)|2-4|Fishing|Korea|
 
 
 # Modern Games
