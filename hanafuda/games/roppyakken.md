@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-03-02T13:04:11.034Z
+date: 2022-03-02T13:18:44.260Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -146,8 +146,9 @@ Korean variants use different scoring rules after the end of a round, and Dandru
 
 - In both variants, Four Bright yaku also requires [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and to complete Seven Ribbons there must be [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon). Both yakus may be considered as an automatic win regardless of the score (the game ends when someone completes any of these two yakus), or 600 ~ 1000 points / 700 points + 100 points per additional ribbon.
 - In Yukbaek variant, the highest scoring player in a round subtracts the round score of the second highest scoring player in that round, then adds it to total game score. For example, when player A/B/C/D scores 600/350/120/0 points in a round, player A adds 250 points (600 - 350) in game score and other players get nothing.
-- In Sambong variant, the game uses original Japanese scoring rule but scores are rounded up to 100. For the example above, player A/B/C/D gets 600/400/200/0 points. Also, Sambong variant uses Lucky Hand yakus (Yukbaek variant does not) and counts Quads in hand as a 300-points yaku too, but does not count All Chaffs as a yaku instead.
-- In both variants players may deal 10 cards instead of  8 cards for each player in 2 player games, and may play a longer game by setting the score limit to 800.
+- In Sambong variant, the game uses original Japanese scoring rule but scores are rounded up to 100. For the example above, player A/B/C/D gets 600/400/200/0 points. Also, Sambong variant uses Lucky Hand yakus (Yukbaek variant does not) and counts Hand Fours as a 300-points yaku too, but does not count All Chaffs as a yaku instead.
+- In both variants players may deal 10 cards instead of  8 cards for each player in 2 player games. No cards will be left in the deck if ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man is not used as a wild, and there may be Triple Hand Threes.
+- In both variants player may play a longer game by setting the score limit to 800 or playing by rounds.
 
 # Korean Additional Yakus
 
@@ -164,9 +165,29 @@ In some regions additional Ribbon yakus are used.
 
 In some regions, yaku scores are significantly higher than original rules (especially in Sambong variant).
 
-|Value|Name of Yaku|Original Score|Variant Score|
-|:---:|:---:|:---|:---|
-
+Name of Yaku|Original Value|Variant Value|
+|:---:|:---|:---|
+|<h2 align="center">Typical Yaku</h2>|||
+Pine, Paulownia, Baldy|150|200
+Big Three|150|200
+Little Three|100|200
+Blue Ribbons|100|200
+Grass Ribbons|100|200
+Boar, Deer, Butterfly|300|400
+Gun|300|400
+Flower Viewing|100|200
+Moon Viewing|100|200
+Four Rains|200|300
+Four Maples|50|200
+|<h2 align="center">Lucky Hand</h2>|||
+Hand Three|200|300
+Hand Three Irises|200|400
+|<h2 align="center">Additional Yaku</h2>|||
+Boar, Deer, Butterfly Ribbons|300|400
+Ribbon Gun|300|400
+Ribbon Viewing|100|200
+Hand Four|300|500
+Hand Four Irises|300|600
 
 # Bibliography
 - *Hanafuda Geemu Dai Shōgō.* iOS version, MocoGame, 2019.
@@ -174,3 +195,4 @@ In some regions, yaku scores are significantly higher than original rules (espec
 - Shiragiku. “Roppyakken.” *Marguerite*, www.marguerite.jp/k/Games/Hanafuda/Rules-600ken.html.
 - 임철순. "[임철순의 즐거운 세상] 고스톱과 육백.", *Hankook Ilbo*, 2014, https://www.hankookilbo.com/News/Read/201402060043410289
 - 미래컨텐츠창작연구소, 화투의 기술, 21세기북스, 2015, pp. 100-115.
+- 왕이로소이다. 화투-삼봉화투 치는 법, 2 May. 2012, cafe.daum.net/cheldoarirang/5wkm/235.
