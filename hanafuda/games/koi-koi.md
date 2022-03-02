@@ -2,7 +2,7 @@
 title: Koi-Koi
 description: A popular hanafuda game for 2 players
 published: true
-date: 2021-04-26T04:49:12.751Z
+date: 2022-03-02T08:31:34.327Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T23:11:39.428Z
@@ -14,7 +14,8 @@ Its name comes from its gameplay element that allows players to decide whether t
 
 Koi-Koi is among the best-known [hanafuda games](/en/hanafuda/games) outside of Japan, courtesy of its representation in numerous anime and video games.
 
-This game may have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic.
+This game may have developed as a simplification of the Korean game of [Go-Stop](/en/hanafuda/games/go-stop), which features similar scoring and the same risk-taking gameplay mechanic. ([Link](https://japanplayingcardmuseum.com/005-2-hanacarta-hwatu-spread/))
+However, Korean scholars usually consider Go-stop as a derivative of Koi-Koi. ([Link 1](https://www.joongang.co.kr/article/2893044), [Link 2](http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12))
 
 A word of caution: As one of the most popular hanafuda games, Koi-Koi exists in a truly *huge* range of variations, above and beyond most of the other games on this site. Indeed, it may be no exaggeration to say that there are as many house rules as there are houses!
 
@@ -235,3 +236,6 @@ Anyone who's played Koi-Koi for any length of time will quickly pick up on how o
 - https://en.wikipedia.org/wiki/Koi-Koi
 - Nintendo's Koi-Koi rules leaflets (both the current one and the blue 1960's one)
 - Innumerable threads on the [Hanafuda Reddit](https://www.reddit.com/r/Hanafuda/) where people have discussed their own house rules!
+- https://japanplayingcardmuseum.com/005-hanacarta-korea-hwatu/
+- https://www.joongang.co.kr/article/2893044
+- http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12
