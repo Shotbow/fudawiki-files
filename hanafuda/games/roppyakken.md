@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-03-02T13:18:44.260Z
+date: 2022-03-02T13:26:37.346Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -148,7 +148,7 @@ Korean variants use different scoring rules after the end of a round, and Dandru
 - In Yukbaek variant, the highest scoring player in a round subtracts the round score of the second highest scoring player in that round, then adds it to total game score. For example, when player A/B/C/D scores 600/350/120/0 points in a round, player A adds 250 points (600 - 350) in game score and other players get nothing.
 - In Sambong variant, the game uses original Japanese scoring rule but scores are rounded up to 100. For the example above, player A/B/C/D gets 600/400/200/0 points. Also, Sambong variant uses Lucky Hand yakus (Yukbaek variant does not) and counts Hand Fours as a 300-points yaku too, but does not count All Chaffs as a yaku instead.
 - In both variants players may deal 10 cards instead of  8 cards for each player in 2 player games. No cards will be left in the deck if ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man is not used as a wild, and there may be Triple Hand Threes.
-- In both variants player may play a longer game by setting the score limit to 800 or playing by rounds.
+- Player may play a longer game by setting the score limit to 800 in Yukbaek variant, or playing by rounds in Sambong variant.
 
 # Korean Additional Yakus
 
