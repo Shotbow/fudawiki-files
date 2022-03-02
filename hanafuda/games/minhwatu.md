@@ -2,13 +2,15 @@
 title: Min-Hwatu
 description: A Korean hwatu fishing game for 2-6 players
 published: true
-date: 2022-03-01T11:34:22.965Z
+date: 2022-03-02T09:31:20.288Z
 tags: fishing games, hanafuda games, hwatu
 editor: markdown
 dateCreated: 2021-03-09T06:14:35.593Z
 ---
 
 **Min-Hwatu** ("민화투", alternatively anglicised, e.g. "Minhwatu" or "Minhato") is a 2-6 player (usually played with 2-4 players) game of Korean origin played using [hwatu](/en/hanafuda/hwatu) or [hanafuda](/en/hanafuda). Unlike its popular sibling game [Go-Stop](/en/hanafuda/games/go-stop), this game is usually played without jokers and does not include a game-stopping mechanic. It also uses a different scoring mechanism and somewhat different *yaku*.
+
+Min-hwatu's name was 'Hwatu' before emergence of other games, like [Seotda](/en/hanafuda/games/seotda) or Go-Stop. ([Link](https://www.dropbox.com/sh/x4snur4algi1dhb/AABpj1zMjQm5P1iWr83pzLb5a/Rules/Hwatu%20-%20Korean%20Air%201.jpg?dl=0)) But when these games took over, Koreans added 'Min' (which is a shortened form of 'bland' in Korean) to change the game name as Minhwatu, to indicate it being quite bland compared to other complex games. ([Link 1](https://www.joongang.co.kr/article/2893044), [Link 2](http://tbs.seoul.kr/news/newsView.do?seq_800=10242335&typ_800=12))
 
 # Setup
 Game setup involves choosing a dealer [선 - *seon* (first player) or 親 - おや, *oya*], shuffling the deck, and distributing the initial cards. A decision must also be made as to how many rounds the game will last - common options are 6 or 12 rounds, or until a certain point threshold has been met by any player. Any other house rules such as which yaku to use should also be established at this point in order to keep gameplay smooth and fair.
