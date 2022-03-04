@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-03-03T01:33:54.814Z
+date: 2022-03-04T09:11:21.721Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -157,7 +157,7 @@ In some regions additional Ribbon yakus are used.
 
 |Value|Name of Yaku|Composition|
 |:---:|:---:|:---|
-|300|**Boar, Deer, Butterfly Ribbons**<br>띠 이노시카 [*tti inoshika*]|The Ribbons matching Boar, Deer, Butterfly:<br> [![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
+|300|**Ribbon Boar, Deer, Butterfly**<br>띠 이노시카 [*tti inoshika*]|The Ribbons matching Boar, Deer, Butterfly:<br> [![Bush Clover with Ribbon](/sheldonchen-cards/71.svg#hanafuda-card =50x)](/en/hanafuda/suits/bush-clover#plain-ribbon)[![Maple with Blue Ribbon](/sheldonchen-cards/101.svg#hanafuda-card =50x)](/en/hanafuda/suits/maple#blue-ribbon)[![Peony with Blue Ribbon](/sheldonchen-cards/61.svg#hanafuda-card =50x)](/en/hanafuda/suits/peony#blue-ribbon)|
 |300|**Ribbon Gun**<br>띠 대포 [*tti daepo*]| The Ribbons and the Animal matching the respective Viewing Yaku:<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
 |100|**Ribbon Flower Viewing**<br>띠 빠이 [*tti ppai*]| The Ribbons matching the respective Viewing Yaku:<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Cherry Blossom with Poetry Ribbon](/sheldonchen-cards/31.svg#hanafuda-card =50x)](/en/hanafuda/suits/cherry-blossom#poetry-ribbon)|
 |100|**Ribbon Moon Viewing**<br>띠 빠이 [*tti ppai*]| The Ribbon and the Animal matching the respective Viewing Yaku:<br>[![Chrysanthemum with Blue Ribbon](/sheldonchen-cards/91.svg#hanafuda-card =50x)](/en/hanafuda/suits/chrysanthemum#blue-ribbon)[![Susuki Grass with Geese](/sheldonchen-cards/81.svg#hanafuda-card =50x)](/en/hanafuda/suits/susuki-grass#geese)|
@@ -184,7 +184,7 @@ Four Maples|50|200
 Hand Three|200|300
 Hand Three Irises|200|400
 |<h2 align="center">Additional Yaku</h2>|||
-Boar, Deer, Butterfly Ribbons|300|400
+Ribbon Boar, Deer, Butterfly|300|400
 Ribbon Gun|300|400
 Ribbon Flower Viewing|100|200
 Ribbon Moon Viewing|100|200
