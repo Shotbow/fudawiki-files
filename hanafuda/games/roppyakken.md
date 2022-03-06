@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-03-06T11:27:18.399Z
+date: 2022-03-06T11:27:28.471Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -60,7 +60,7 @@ After both cards have been played- one from the player's hand, and one from the 
 ## Wild Card
 The ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man card functions as a (limited) wild card in Six Hundred. This means that it can be used to match any card **other** than 0-point cards or other [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow](/en/hanafuda/suits/willow) cards. The exception is when the other three ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow cards are all on the field; then it will capture all of them. In addition, the ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Rain Man **cannot** be used to capture sets of 3 of any other suit.
 
-If the wild card is on the field, it may be captured using another ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, **or** using any non-0-point card (this wild capture might not be allowed in some variants).
+If the wild card is on the field it may be captured using another ![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow card, **or** using any non-0-point card (this wild capture might not be allowed in some variants).
 
 ## End of Round
 The current round ends when all players have used up their cards. If there are any cards left on the field at this point, they simply stay there and do not play any role in scoring.
