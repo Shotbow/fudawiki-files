@@ -2,7 +2,7 @@
 title: Roppyakken
 description: "Six Hundred" - a quick hanafuda game for 2 or 3 players
 published: true
-date: 2022-03-06T11:27:28.471Z
+date: 2022-03-07T09:27:47.074Z
 tags: fishing games, hanafuda games
 editor: markdown
 dateCreated: 2020-09-17T04:56:40.603Z
@@ -146,8 +146,8 @@ The *Viewing Yaku* are mutually exclusive, but outside of that, all yaku **stack
 Korean variants use different scoring rules after the end of a round, and Dandruff does not exist. Also, some yaku-related rules are different.
 
 - In Yukbaek variant, Four Bright yaku also requires [![monthicon_2.png](/hanafuda/icons/monthicon_2.png =20x)Bush Warbler](/en/hanafuda/suits/plum-blossom#bush-warbler), and to complete Seven Ribbons there must be [![monthicon_11.png](/hanafuda/icons/monthicon_11.png =20x)Willow Ribbon](/en/hanafuda/suits/willow#plain-ribbon). Both yakus are considered as an automatic win regardless of the score (the game ends when someone completes any of these two yakus).
-- In Yukbaek variant, the highest scoring player in a round subtracts the round score of the second highest scoring player in that round, then adds it to total game score. For example, when player A/B/C/D scores 600/350/120/0 points in a round, player A adds 250 points (600 - 350) in game score and other players get nothing.
-- In Sambong variant, the game uses original Japanese scoring rule but scores are rounded up to 100. For the example above, player A/B/C/D gets 600/400/200/0 points. Also, Four Brights / Seven Ribbons do not end the game, instead they score 600 points / 700 points + 100 points per additional ribbon.
+- In Yukbaek variant, the highest scoring player in a round subtracts the round score of the second highest scoring player in that round, then adds it to total game score. For example, when player A/B/C scores 600/320/0 points in a round, player A adds 280 points (600 - 320) in game score and other players get nothing.
+- In Sambong variant, the game uses original Japanese scoring rule but scores are rounded up to 100. For the example above, player A/B/C gets 600/400/0 points. Also, Four Brights / Seven Ribbons do not end the game, instead they score 600 ~ 1000 points / 700 points + 100 points per additional ribbon.
 - Sambong variant uses Lucky Hand yakus (Yukbaek variant does not) and counts Hand Fours as a 300-points yaku too, but does not count All Chaffs as a yaku instead.
 - Player may play a longer game by setting the score limit to 800 in Yukbaek variant, or playing by rounds in Sambong variant.
 
