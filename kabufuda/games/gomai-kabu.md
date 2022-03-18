@@ -2,7 +2,7 @@
 title: Gomai-Kabu
 description: A simple, luck-based Kabufuda game for 2-8 players
 published: true
-date: 2022-03-18T01:40:37.684Z
+date: 2022-03-18T01:41:04.509Z
 tags: kabufuda games, showdown games
 editor: markdown
 dateCreated: 2022-03-18T01:39:49.010Z
@@ -27,5 +27,5 @@ The remaining players' two-card hands are then counted using normal [*Oicho-Kabu
 
 The player with the best hand wins and collects the pot.
 
-## References
+# References
 [*Kachi Kachi Kabufuda Hanafuda Card Game + bonus kabu game*](https://www.youtube.com/watch?v=eAsWqKSQdqo) - (YouTube)
