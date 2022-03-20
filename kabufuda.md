@@ -2,7 +2,7 @@
 title: Kabufuda
 description: Japanese single-suited cards
 published: true
-date: 2021-04-16T02:17:10.448Z
+date: 2022-03-20T22:44:56.429Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T20:13:33.382Z
@@ -10,6 +10,7 @@ dateCreated: 2020-09-18T20:13:33.382Z
 
 Kabufuda are the most common design of single-suited Japanese playing cards. This deck consists of 4 identical sets of cards valued from 1 to 10, with the exception of one Ace whose design differs entirely from the other three, and one “4” which features silver and/or gold overprinting. It ultimately derives from the suit of clubs used in Portuguese playing cards.
 
+For a list of games played using these cards, see [Kabufuda Games](/en/kabufuda/games).
 # Deck Overview
 **There is only 1 suit in the Kabufuda deck** - clubs - which in practice is the same as having no suits. **There are 10 ranks of cards, from 1 to 10, with 4 copies of each rank.** Though **one of the Aces and one of the 4s differ in design from the others of their rank**, most games do not treat them any differently.
 |Rank|Cards|
