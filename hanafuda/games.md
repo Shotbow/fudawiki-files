@@ -2,7 +2,7 @@
 title: List of Hanafuda Games
 description: A list of known hanafuda games, both traditional and modern.
 published: true
-date: 2022-03-01T01:57:21.641Z
+date: 2022-03-20T22:58:04.943Z
 tags: hanafuda games, lists
 editor: markdown
 dateCreated: 2020-09-17T04:23:39.577Z
@@ -44,7 +44,7 @@ These games, while not as widespread today as those listed above, are variously 
 |Echigo-Bana|-|Fishing|Echigo Province, Japan|
 |[Echobo](/en/hanafuda/games/echobo)|2+|Banking|Japan|
 |Enshu-Bana|2-3|Fishing|Tōtōmi Province, Japan|
-|[Gomai Kabu](/en/hanafuda/games/gomai-kabu)|8|Showdown|Japan|
+|[Gomai Kabu](/en/kabufuda/games/gomai-kabu)|8|Showdown|Japan|
 |[Hachi (Eight)](/en/hanafuda/games/hachi)|2|Fishing|Japan|
 |[Hachi-Jū-Hana](/en/hanafuda/games/hachi-juu-hana)|2-3|Fishing|Japan|
 |[Hiki-Kabu](/en/hanafuda/games/hiki-kabu)|2-10|Showdown|Japan|
@@ -56,7 +56,7 @@ These games, while not as widespread today as those listed above, are variously 
 |[Isuri](/en/hanafuda/games/isuri)|2-3|Sequence|Japan|
 |[Issoku Yuki](/en/hanafuda/games/issokuyuki)|2|Fishing|Japan|
 |[Jū-Mai](/en/hanafuda/games/jumai) ("Ten Cards")|2|Fishing|Japan|
-|[Kachi-Kachi](/en/hanafuda/games/kachi-kachi)|-|-|-|
+|[Kachi-Kachi](/en/kabufuda/games/kachi-kachi)|-|-|-|
 |[Kaga](/en/hanafuda/games/kaga)|2|Fishing|Kaga Province, Japan|
 |[Kekoro](/en/hanafuda/games/kekoro)|Fishing|2|-|
 |[Kingo](/en/hanafuda/games/kingo)|2-10|Showdown|-|
