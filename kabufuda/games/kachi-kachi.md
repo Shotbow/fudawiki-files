@@ -2,7 +2,7 @@
 title: Kachi-Kachi
 description: A Kabufuda game with multiple betting rounds and a showdown similar to Poker
 published: true
-date: 2022-03-18T02:28:11.683Z
+date: 2022-03-20T02:17:41.344Z
 tags: kabufuda games, showdown games, stripped deck
 editor: markdown
 dateCreated: 2022-03-18T02:28:11.683Z
@@ -11,9 +11,9 @@ dateCreated: 2022-03-18T02:28:11.683Z
 **Kachi-Kachi** is a Kabufuda game for 2-8 players in which players bet on the value of their dealt cards across multiple rounds, similar to most poker games. Optional rules add multiple special hands and unique cards for an increased element of luck. 
 
 # Equipment
-**Kachi-Kachi** is played using a *half deck* of *Kabufuda* cards, consisting of only two sets of the cards 1-10.
+**Kachi-Kachi** is played using a *half deck* of *Kabufuda* cards, consisting of only two sets of the cards 1-10, including the red One and the marked Four.
 
->If playing with the *special cards* variant rule, add the red One and the marked Four to the deck.
+>If desired, add an extra One and an extra Ten to the deck for a greater chance at forming special hands. 
 {.is-info}
 
 Additionally, it is recommended to use chips or other small counters to keep track of bets and players' scores.
@@ -48,10 +48,24 @@ Starting with the dealer (or closest player in order), each player reveals their
 6. One and Six
 7. One and Five
 
-Finally, score remaining combinations according to their total in Oicho-Kabu, with 
+Finally, score remaining combinations according to their total in Oicho-Kabu, with higher totals beating lower totals. 
 # Special Rules
-## Tips
+
 
 ## Zero Hand
+At any point, if the value of the cards in your hand equals zero (during any betting round or during showdown), you may reveal your hand and draw the top card of the deck, then combine it with one of your revealed cards to form a new two-card hand. If the drawn card is a Ten, you can draw another card and combine it with one of the three cards to form a new two-card hand. 
 
+>You cannot claim a Zero Hand if your hand consists of a One and Nine, a pair of Tens, or a pair of Fives, as these are higher-ranking Kachi-Kachi hands and as such not scored as Oicho-Kabu hands. 
+{.is-info}
+
+## Tips
+After *showdown*, you can reveal certain combinations of cards to collect bonus payments from all other players at the table, called *tips*. These hands and their accompanying payments are as follows.
+
+1. Pair of Tens: Collect 10 points from each player. If playing with three Tens in the deck, you can reveal the top card of the deck and collect an additional 10 points from each player if that card is a Ten. 
+2. The red One and the marked Four: Collect 5 points from each player.
+3. A pair of Ones including the red One: Collect 5 points from each player. If you reveal this hand, you can reveal the top card of the deck and collect an additional 10 points from each player if that card is a One. 
+
+>If you form a tip-earning hand with the card(s) drawn from claiming a Zero Hand, reveal those cards collect payment from them now as well.
+{.is-info}
 # References
+[*Kachi Kachi Kabufuda Hanafuda Card Game + bonus kabu game*](https://www.youtube.com/watch?v=eAsWqKSQdqo) - (YouTube)
