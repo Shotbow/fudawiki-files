@@ -2,7 +2,7 @@
 title: List of Video Games
 description: 
 published: true
-date: 2022-02-07T12:48:59.447Z
+date: 2022-03-24T14:07:11.079Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T21:31:51.436Z
@@ -152,6 +152,7 @@ The following is a list of known hanafuda video games, arranged by the platform 
 * [Hanafuda (<span lang='ja'>花札</span>)](/en/hanafuda/video-games/msx/hanafuda)
 * [Hanafuda Koi-Koi (<span lang='ja'>花札こいこい</span>)](/en/hanafuda/video-games/msx/hanafuda-koi-koi)
 * [Hanafuda Koikoi (<span lang='ja'>花札コイコイ</span>)](/en/hanafuda/video-games/msx/hanafuda-koikoi)
+* [The Koi-Koi and Hana-Awase (<span lang='ja'>Theこいこいand花合わせ</span>)](/en/hanafuda/video-games/msx/the-koi-koi-and-hana-awase)
 ## MZ-15
 * [Hanafuda (88), Hanafuda (Flower Matching) (<span lang='ja'>花札（オイチョカブ）花札（花合わせ）</span>)](/en/hanafuda/video-games/mz-15/hanafuda-88-hanafuda-flower-matching)
 ## MZ-20
