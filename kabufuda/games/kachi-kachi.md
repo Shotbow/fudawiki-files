@@ -2,7 +2,7 @@
 title: Kachi-Kachi
 description: A Kabufuda game with multiple betting rounds and a showdown similar to Poker
 published: true
-date: 2022-03-20T02:17:41.344Z
+date: 2022-03-27T13:12:46.825Z
 tags: kabufuda games, showdown games, stripped deck
 editor: markdown
 dateCreated: 2022-03-18T02:28:11.683Z
@@ -34,6 +34,8 @@ The dealer (or closest remaining player in order) then begins a second betting r
 
 A third and final betting round follows, in the same way as the previous two. After this rounds, all remaining players proceed to *showdown*.
 
+>Across all three betting rounds, the total amount bet by a player cannot exceed the agreed-upon *maximum bet size.* If this total is reached, finish the current betting round and proceed imeediately to *showdown*.
+{.is-warning}
 ## Showdown
 Starting with the dealer (or closest player in order), each player reveals their cards. Hands are evaluated according to the *Hand Rankings* chart below. The winner of the hand collects the pot and becomes the dealer for the next hand. The winner of the hand also does not place an *ante* for the following hand. 
 
